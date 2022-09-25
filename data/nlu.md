@@ -1,0 +1,8951 @@
+## intent:greet
+- hey
+- hello
+- Hello
+- hi
+- HI
+- good morning
+- Good Morning
+- good, evening
+- hey there
+- Hey, There
+- hiii
+- hi there
+- Hola
+- hola
+- good afternoon
+- Morning!
+- Hi, Morning!
+- gm
+- Gm
+- GE
+- gd mrng
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+- see ya
+- byeee
+- catch u
+- catch you
+
+## intent:affirm
+- yes
+- Yes
+- Ya
+- ya
+- yeah
+- Yeah
+- Sure
+- sure
+- yep
+- Yep
+- Yup
+- yup
+- yes, please
+- yes please
+- Yes, Please
+- Yes Please
+- Yes, surely
+- yes, surely
+- ok
+- Ok
+- kk
+- Okay
+- K
+- okay
+- indeed
+- well, thats good
+- fine
+- Fine
+- please
+- plz
+- Plz
+- pls
+- of course
+- that sounds good
+- correct
+- ys
+- ys pls
+- Ys Please
+- pls send me
+- Send me
+- e-mail it pls
+- mail it
+- mail me
+
+## intent:deny
+- no
+- No
+- Don't want e-mail
+- don't send e-mail
+- no thanks
+- No Thanks
+- no, Thanks
+- no, thanks
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+- Nope
+- nope
+- na
+- Never mind
+- never mind
+- don't bother
+- don bother
+- Don bother
+- Dont bother
+
+## intent:send_mail
+- my email id is [sree.nath@gmail.co.in](emailid)
+- My email is [abc_125@yahoo.com](emailid)
+- Not my email, [chirag_sashidhar@upgrad.edu](emailid)
+- [a456caghhjkjtt@y.co.in](emailid)
+- [a456.b213@yahoo.cm](emailid)
+- Here it is [abc456_cde@rediffmail.com](emailid)
+- Please note [cvb6789@ab.cm.mu](emailid)
+- [iTsme@abc.co.uk](emailid)
+- [SREENATHS@yahoo.co.in](emailid)
+- Email Id - [check1234@iiitb.com](emailid)
+- Id is [pqrsr4566@yahoo.co.in](emailid)
+- Send it to my id [a4cdfg@abc.co.uk](emailid)
+- Drop an email to [myid_1988@sag.co.uk](emailid)
+- [jddk.2jmd@kdl.co.in](emailid)
+- yes. Please send it to [xyz@sth.edu](emailid)
+- ok send it to [ert5678@yahoo.com](emailid)
+- [nainu123@abc.com](emailid)
+
+## intent:restaurant_search
+- I'm searching for some food
+- Please find me a cafe
+- find me restro
+- Suggest me a restaurant please
+- I'm hungry
+- i want to eat out, let me know some good options
+- lets get a takeaway
+- can you find an eating spot?
+- search for a restaurant
+- lets go for dinner
+- i wanna have lunch
+- Find me a restaurant
+- breakfast time
+- Am looking for a quiter place to have food
+- Will u pls get me some top-class restraurants in town
+- Would like to get a list of recommended hotels for lunch
+- Is there any good place to eat out?
+- Wish if you could help me with hotel suggestions
+- i'm looking for a place to eat
+- Searching for a dining spot
+- please help me to find restaurants
+- i am looking for a [chinese](cuisine) hotel called MTR
+- suggest me [chinese](cuisine) restaurants
+- we must have some [chinese](cuisine) cuisine today
+- I would like to enjoy some [chinese](cuisine) food for lunch
+- Find me [chinese](cuisine) food centers
+- [chinese](cuisine) bistro
+- [chinese](cuisine) cafe
+- [chinese](cuisine) restaurant
+- lets find a [chinese](cuisine) place
+- [chinese](cuisine) cuisine
+- Am looking for [chinese](cuisine) hotels
+- Searching for [chinese](cuisine) dining spot
+- like to get a list of [chinese](cuisine) hotels for lunch
+- Want to have [chinese](cuisine)
+- [chinese](cuisine)
+- i am looking for a [Chinese]{"entity": "cuisine", "value": "chinese"} hotel called MTR
+- suggest me [Chinese]{"entity": "cuisine", "value": "chinese"} restaurants
+- we must have some [Chinese]{"entity": "cuisine", "value": "chinese"} cuisine today
+- I would like to enjoy some [Chinese]{"entity": "cuisine", "value": "chinese"} food for lunch
+- Find me [Chinese]{"entity": "cuisine", "value": "chinese"} food centers
+- [Chinese]{"entity": "cuisine", "value": "chinese"} bistro
+- [Chinese]{"entity": "cuisine", "value": "chinese"} cafe
+- [Chinese]{"entity": "cuisine", "value": "chinese"} restaurant
+- lets find a [Chinese]{"entity": "cuisine", "value": "chinese"} place
+- [Chinese]{"entity": "cuisine", "value": "chinese"} cuisine
+- [Chinese]{"entity": "cuisine", "value": "chinese"} delicacies
+- I prefer [Chinese]{"entity": "cuisine", "value": "chinese"} food
+- Like to have [Chinese]{"entity": "cuisine", "value": "chinese"}
+- Search me [Chinese]{"entity": "cuisine", "value": "chinese"} restro
+- Am looking for [Chinese]{"entity": "cuisine", "value": "chinese"} hotels
+- Searching for [Chinese]{"entity": "cuisine", "value": "chinese"} dining spot
+- like to get a list of [Chinese]{"entity": "cuisine", "value": "chinese"} hotels for lunch
+- Want to have [Chinese]{"entity": "cuisine", "value": "chinese"}
+- [Chinese]{"entity": "cuisine", "value": "chinese"}
+- i am looking for a [chinise]{"entity": "cuisine", "value": "chinese"} hotel called MTR
+- suggest me [chinise]{"entity": "cuisine", "value": "chinese"} restaurants
+- we must have some [chinise]{"entity": "cuisine", "value": "chinese"} cuisine today
+- [chinise]{"entity": "cuisine", "value": "chinese"} restaurant
+- lets find a [chinise]{"entity": "cuisine", "value": "chinese"} place
+- [chinise]{"entity": "cuisine", "value": "chinese"} cuisine
+- [chinise]{"entity": "cuisine", "value": "chinese"} delicacies
+- I prefer [chinise]{"entity": "cuisine", "value": "chinese"} food
+- Like to have [chinise]{"entity": "cuisine", "value": "chinese"}
+- Search me [chinise]{"entity": "cuisine", "value": "chinese"} restro
+- Am looking for [chinise]{"entity": "cuisine", "value": "chinese"} hotels
+- Searching for [chinise]{"entity": "cuisine", "value": "chinese"} dining spot
+- like to get a list of [chinise]{"entity": "cuisine", "value": "chinese"} hotels for lunch
+- Want to have [chinise]{"entity": "cuisine", "value": "chinese"}
+- [chinise]{"entity": "cuisine", "value": "chinese"}
+- [Chines]{"entity": "cuisine", "value": "chinese"} cafe
+- [Chines]{"entity": "cuisine", "value": "chinese"} restaurant
+- lets find a [Chines]{"entity": "cuisine", "value": "chinese"} place
+- [Chines]{"entity": "cuisine", "value": "chinese"} cuisine
+- [Chines]{"entity": "cuisine", "value": "chinese"} delicacies
+- I prefer [Chines]{"entity": "cuisine", "value": "chinese"} food
+- Like to have [Chines]{"entity": "cuisine", "value": "chinese"}
+- Search me [Chines]{"entity": "cuisine", "value": "chinese"} restro
+- Am looking for [Chines]{"entity": "cuisine", "value": "chinese"} hotels
+- Searching for [Chines]{"entity": "cuisine", "value": "chinese"} dining spot
+- like to get a list of [Chines]{"entity": "cuisine", "value": "chinese"} hotels for lunch
+- Want to have [Chines]{"entity": "cuisine", "value": "chinese"}
+- [Chines]{"entity": "cuisine", "value": "chinese"}
+- i am looking for a [chinis]{"entity": "cuisine", "value": "chinese"} hotel called MTR
+- suggest me [chinis]{"entity": "cuisine", "value": "chinese"} restaurants
+- we must have some [chinis]{"entity": "cuisine", "value": "chinese"} cuisine today
+- I would like to enjoy some [chinis]{"entity": "cuisine", "value": "chinese"} food for lunch
+- Find me [chinis]{"entity": "cuisine", "value": "chinese"} food centers
+- [chinis]{"entity": "cuisine", "value": "chinese"} bistro
+- [chinis]{"entity": "cuisine", "value": "chinese"} cafe
+- [chinis]{"entity": "cuisine", "value": "chinese"} restaurant
+- lets find a [chinis]{"entity": "cuisine", "value": "chinese"} place
+- [chinis]{"entity": "cuisine", "value": "chinese"} cuisine
+- [chinis]{"entity": "cuisine", "value": "chinese"} delicacies
+- I prefer [chinis]{"entity": "cuisine", "value": "chinese"} food
+- Like to have [chinis]{"entity": "cuisine", "value": "chinese"}
+- Search me [chinis]{"entity": "cuisine", "value": "chinese"} restro
+- Am looking for [chinis]{"entity": "cuisine", "value": "chinese"} hotels
+- Searching for [chinis]{"entity": "cuisine", "value": "chinese"} dining spot
+- like to get a list of [chinis]{"entity": "cuisine", "value": "chinese"} hotels for lunch
+- Want to have [chinis]{"entity": "cuisine", "value": "chinese"}
+- we must have some [china]{"entity": "cuisine", "value": "chinese"} cuisine today
+- I would like to enjoy some [china]{"entity": "cuisine", "value": "chinese"} food for lunch
+- Find me [china]{"entity": "cuisine", "value": "chinese"} food centers
+- [china]{"entity": "cuisine", "value": "chinese"} bistro
+- [china]{"entity": "cuisine", "value": "chinese"} cafe
+- [china]{"entity": "cuisine", "value": "chinese"} restaurant
+- lets find a [china]{"entity": "cuisine", "value": "chinese"} place
+- Search me [china]{"entity": "cuisine", "value": "chinese"} restro
+- Am looking for [china]{"entity": "cuisine", "value": "chinese"} hotels
+- Searching for [china]{"entity": "cuisine", "value": "chinese"} dining spot
+- like to get a list of [china]{"entity": "cuisine", "value": "chinese"} hotels for lunch
+- Want to have [china]{"entity": "cuisine", "value": "chinese"}
+- suggest me [mexican](cuisine) restaurants
+- we must have some [mexican](cuisine) cuisine today
+- I would like to enjoy some [mexican](cuisine) food for lunch
+- Find me [mexican](cuisine) food centers
+- [mexican](cuisine) bistro
+- [mexican](cuisine) cafe
+- [mexican](cuisine) restaurant
+- lets find a [mexican](cuisine) place
+- [mexican](cuisine) cuisine
+- [mexican](cuisine) delicacies
+- I prefer [mexican](cuisine) food
+- Like to have [mexican](cuisine)
+- Search me [mexican](cuisine) restro
+- i am looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} hotel called MTR
+- suggest me [Mexican]{"entity": "cuisine", "value": "mexican"} restaurants
+- we must have some [Mexican]{"entity": "cuisine", "value": "mexican"} cuisine today
+- I would like to enjoy some [Mexican]{"entity": "cuisine", "value": "mexican"} food for lunch
+- Find me [Mexican]{"entity": "cuisine", "value": "mexican"} food centers
+- [Mexican]{"entity": "cuisine", "value": "mexican"} bistro
+- [Mexican]{"entity": "cuisine", "value": "mexican"} cafe
+- [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant
+- Like to have [Mexican]{"entity": "cuisine", "value": "mexican"}
+- Search me [Mexican]{"entity": "cuisine", "value": "mexican"} restro
+- Am looking for [Mexican]{"entity": "cuisine", "value": "mexican"} hotels
+- Searching for [Mexican]{"entity": "cuisine", "value": "mexican"} dining spot
+- we must have some [meccican]{"entity": "cuisine", "value": "mexican"} cuisine today
+- I would like to enjoy some [meccican]{"entity": "cuisine", "value": "mexican"} food for lunch
+- Find me [meccican]{"entity": "cuisine", "value": "mexican"} food centers
+- [meccican]{"entity": "cuisine", "value": "mexican"} bistro
+- [meccican]{"entity": "cuisine", "value": "mexican"} cafe
+- [meccican]{"entity": "cuisine", "value": "mexican"} restaurant
+- lets find a [meccican]{"entity": "cuisine", "value": "mexican"} place
+- [meccican]{"entity": "cuisine", "value": "mexican"} cuisine
+- Searching for [meccican]{"entity": "cuisine", "value": "mexican"} dining spot
+- like to get a list of [meccican]{"entity": "cuisine", "value": "mexican"} hotels for lunch
+- Want to have [meccican]{"entity": "cuisine", "value": "mexican"}
+- [meccican]{"entity": "cuisine", "value": "mexican"}
+- i am looking for a [Mexicn]{"entity": "cuisine", "value": "mexican"} hotel called MTR
+- suggest me [Mexicn]{"entity": "cuisine", "value": "mexican"} restaurants
+- we must have some [Mexicn]{"entity": "cuisine", "value": "mexican"} cuisine today
+- I would like to enjoy some [Mexicn]{"entity": "cuisine", "value": "mexican"} food for lunch
+- Find me [Mexicn]{"entity": "cuisine", "value": "mexican"} food centers
+- [Mexicn]{"entity": "cuisine", "value": "mexican"} bistro
+- [Mexicn]{"entity": "cuisine", "value": "mexican"} cafe
+- [Mexicn]{"entity": "cuisine", "value": "mexican"} restaurant
+- lets find a [Mexicn]{"entity": "cuisine", "value": "mexican"} place
+- Search me [Mexicn]{"entity": "cuisine", "value": "mexican"} restro
+- Am looking for [Mexicn]{"entity": "cuisine", "value": "mexican"} hotels
+- Searching for [Mexicn]{"entity": "cuisine", "value": "mexican"} dining spot
+- like to get a list of [Mexicn]{"entity": "cuisine", "value": "mexican"} hotels for lunch
+- Want to have [Mexicn]{"entity": "cuisine", "value": "mexican"}
+- [Mexicn]{"entity": "cuisine", "value": "mexican"}
+- i am looking for a [mexica]{"entity": "cuisine", "value": "mexican"} hotel called MTR
+- suggest me [mexica]{"entity": "cuisine", "value": "mexican"} restaurants
+- we must have some [mexica]{"entity": "cuisine", "value": "mexican"} cuisine today
+- I would like to enjoy some [mexica]{"entity": "cuisine", "value": "mexican"} food for lunch
+- Find me [mexica]{"entity": "cuisine", "value": "mexican"} food centers
+- [mexica]{"entity": "cuisine", "value": "mexican"} bistro
+- [mexica]{"entity": "cuisine", "value": "mexican"} cafe
+- [mexica]{"entity": "cuisine", "value": "mexican"} restaurant
+- lets find a [mexica]{"entity": "cuisine", "value": "mexican"} place
+- Search me [mexica]{"entity": "cuisine", "value": "mexican"} restro
+- Am looking for [mexica]{"entity": "cuisine", "value": "mexican"} hotels
+- i am looking for a [Mehico]{"entity": "cuisine", "value": "mexican"} hotel called MTR
+- suggest me [Mehico]{"entity": "cuisine", "value": "mexican"} restaurants
+- we must have some [Mehico]{"entity": "cuisine", "value": "mexican"} cuisine today
+- I would like to enjoy some [Mehico]{"entity": "cuisine", "value": "mexican"} food for lunch
+- Find me [Mehico]{"entity": "cuisine", "value": "mexican"} food centers
+- [Mehico]{"entity": "cuisine", "value": "mexican"} bistro
+- [Mehico]{"entity": "cuisine", "value": "mexican"} cafe
+- [Mehico]{"entity": "cuisine", "value": "mexican"} restaurant
+- lets find a [Mehico]{"entity": "cuisine", "value": "mexican"} place
+- [Mehico]{"entity": "cuisine", "value": "mexican"} cuisine
+- [Mehico]{"entity": "cuisine", "value": "mexican"} delicacies
+- I prefer [Mehico]{"entity": "cuisine", "value": "mexican"} food
+- Like to have [Mehico]{"entity": "cuisine", "value": "mexican"}
+- Search me [Mehico]{"entity": "cuisine", "value": "mexican"} restro
+- Am looking for [Mehico]{"entity": "cuisine", "value": "mexican"} hotels
+- i am looking for a [italian](cuisine) hotel called MTR
+- suggest me [italian](cuisine) restaurants
+- we must have some [italian](cuisine) cuisine today
+- I would like to enjoy some [italian](cuisine) food for lunch
+- [italian](cuisine) cuisine
+- [italian](cuisine) delicacies
+- I prefer [italian](cuisine) food
+- Like to have [italian](cuisine)
+- suggest me [Italian]{"entity": "cuisine", "value": "italian"} restaurants
+- we must have some [Italian]{"entity": "cuisine", "value": "italian"} cuisine today
+- I would like to enjoy some [Italian]{"entity": "cuisine", "value": "italian"} food for lunch
+- Find me [Italian]{"entity": "cuisine", "value": "italian"} food centers
+- [Italian]{"entity": "cuisine", "value": "italian"} bistro
+- [Italian]{"entity": "cuisine", "value": "italian"} cafe
+- [Italian]{"entity": "cuisine", "value": "italian"} restaurant
+- lets find a [Italian]{"entity": "cuisine", "value": "italian"} place
+- [Italian]{"entity": "cuisine", "value": "italian"} cuisine
+- [Italian]{"entity": "cuisine", "value": "italian"} delicacies
+- I prefer [Italian]{"entity": "cuisine", "value": "italian"} food
+- Like to have [Italian]{"entity": "cuisine", "value": "italian"}
+- Search me [Italian]{"entity": "cuisine", "value": "italian"} restro
+- i am looking for a [italia]{"entity": "cuisine", "value": "italian"} hotel called MTR
+- suggest me [italia]{"entity": "cuisine", "value": "italian"} restaurants
+- we must have some [italia]{"entity": "cuisine", "value": "italian"} cuisine today
+- I would like to enjoy some [italia]{"entity": "cuisine", "value": "italian"} food for lunch
+- Find me [italia]{"entity": "cuisine", "value": "italian"} food centers
+- i am looking for a [Arabian]{"entity": "cuisine", "value": "Arabian"} hotel called MTR
+- suggest me [srilankan]{"entity": "cuisine", "value": "srilankan"} restaurants
+- we must have some [thai]{"entity": "cuisine", "value": "thai"} cuisine today
+- I would like to enjoy some [lithuanian]{"entity": "cuisine", "value": "lithuanian"} food for lunch
+- Find me [Spanish]{"entity": "cuisine", "value": "Spanish"} food centers
+- [italia]{"entity": "cuisine", "value": "italian"} bistro
+- [italia]{"entity": "cuisine", "value": "italian"} cafe
+- [italia]{"entity": "cuisine", "value": "italian"} restaurant
+- Search me [italia]{"entity": "cuisine", "value": "italian"} restro
+- Am looking for [Latin]{"entity": "cuisine", "value": "Latin"} hotels
+- Searching for [latin]{"entity": "cuisine", "value": "Latin"} dining spot
+- like to get a list of [italia]{"entity": "cuisine", "value": "italian"} hotels for lunch
+- Want to have [italia]{"entity": "cuisine", "value": "italian"}
+- [Spanish]{"entity": "cuisine", "value": "Spanish"} bistro
+- [spanish]{"entity": "cuisine", "value": "Spanish"} cafe
+- [Arab]{"entity": "cuisine", "value": "Arabian"} restaurant
+- lets find a [Italy]{"entity": "cuisine", "value": "italian"} place
+- Search me [Mughlai]{"entity": "cuisine", "value": "Mughlai"} restro
+- Am looking for [Italy]{"entity": "cuisine", "value": "italian"} hotels
+- Searching for [Italy]{"entity": "cuisine", "value": "italian"} dining spot
+- like to get a list of [Mughlai]{"entity": "cuisine", "value": "Mughlai"} hotels for lunch
+- Want to have [Italy]{"entity": "cuisine", "value": "italian"}
+- [Italy]{"entity": "cuisine", "value": "italian"}
+- i am looking for a [itlian]{"entity": "cuisine", "value": "italian"} hotel called MTR
+- suggest me [itlian]{"entity": "cuisine", "value": "italian"} restaurants
+- we must have some [itlian]{"entity": "cuisine", "value": "italian"} cuisine today
+- [itlian]{"entity": "cuisine", "value": "italian"} restaurant
+- lets find a [itlian]{"entity": "cuisine", "value": "italian"} place
+- [itlian]{"entity": "cuisine", "value": "italian"} cuisine
+- [itlian]{"entity": "cuisine", "value": "italian"} delicacies
+- I prefer [itlian]{"entity": "cuisine", "value": "italian"} food
+- suggest me [Mediterranian]{"entity": "cuisine", "value": "Mediterranian"} restaurants
+- we must have some [Thai]{"entity": "cuisine", "value": "Thai"} cuisine today
+- [Mughlai]{"entity": "cuisine", "value": "Mughlai"} restaurant
+- lets find a [itlian]{"entity": "cuisine", "value": "italian"} place
+- [itlian]{"entity": "cuisine", "value": "italian"} cuisine
+- [itlian]{"entity": "cuisine", "value": "italian"} delicacies
+- I prefer [itlian]{"entity": "cuisine", "value": "italian"} food
+- like to get a list of [itlian]{"entity": "cuisine", "value": "italian"} hotels for lunch
+- Want to have [itlian]{"entity": "cuisine", "value": "italian"}
+- [itlian]{"entity": "cuisine", "value": "italian"}
+- i am looking for a [american](cuisine) hotel called MTR
+- suggest me [american](cuisine) restaurants
+- we must have some [american](cuisine) cuisine today
+- I would like to enjoy some [american](cuisine) food for lunch
+- Find me [american](cuisine) food centers
+- [american](cuisine) bistro
+- [american](cuisine) cafe
+- [american](cuisine) restaurant
+- lets find a [american](cuisine) place
+- [american](cuisine) cuisine
+- [american](cuisine) delicacies
+- I prefer [american](cuisine) food
+- Like to have [american](cuisine)
+- Want to have [american](cuisine)
+- [american](cuisine)
+- I would like to enjoy some [udupi](cuisine) food for lunch
+- we must have some [albanian](cuisine) cuisine today
+- Searching for [goan](cuisine) dining spot
+- we must have some [arab](cuisine) cuisine today
+- let us have some [belarusian](cuisine) cuisine tonight
+- I want to find some [cajun](cuisine) restaurants
+- we must have some [argentine](cuisine) cuisine today
+- give me [cantonese](cuisine) restaurants
+- I want some [caribbean](cuisine) restaurants
+- suggest me [chechen](cuisine) restaurants
+- suggest me [circassian](cuisine) restaurants
+- I would like to enjoy some [cypriot](cuisine) food for lunch
+- Find me [danish](cuisine) food centers
+- [estonian](cuisine) bistro
+- [english](cuisine) cafe
+- lets find a [filipino](cuisine) place
+- Am looking for [german](cuisine) hotels
+- like to get a list of [greek](cuisine) hotels for lunch
+- Want to have [gujarati](cuisine)
+- like to get a list of [gujarati](cuisine) hotels for lunch
+- I would like to enjoy some [indonesian](cuisine) food for lunch
+- suggest me [japanese](cuisine) restaurants
+- we must have some [japanese](cuisine) cuisine today
+- I would like to enjoy some [cypriot](cuisine) food for lunch
+- we must have some [buddhist](cuisine) cuisine today
+- Find me [danish](cuisine) food centers
+- [jewish](cuisine) bistro
+- [english](cuisine) cafe
+- I would like to enjoy some [irish](cuisine) food for lunch
+- [jewish](cuisine) restaurant
+- lets find a [jewish](cuisine) place
+- we must have some [armenian](cuisine) cuisine today
+- [french](cuisine) cuisine
+- Am looking for [jewish](cuisine) hotels
+- we must have some [assyrian](cuisine) cuisine today
+- Searching for [goan](cuisine) dining spot
+- like to get a list of [karnataka](cuisine) hotels for lunch
+- Want to have [gujarati](cuisine)
+- [kazakh](cuisine)
+- we must have some [bengali](cuisine) cuisine today
+- we must have some [berber](cuisine) cuisine today
+- I would like to enjoy some [kurdish](cuisine) food for lunch
+- I would like to have some [laotian](cuisine) food for dinner
+- we must have some [bangladeshi](cuisine) cuisine today
+- like to get a list of [keralite](cuisine) hotels for lunch
+- Want to have [korean](cuisine)
+- I would like to enjoy some [lebanese](cuisine) food for lunch
+- suggest me [latvian](cuisine) restaurants
+- we must have some [lithuanian](cuisine) cuisine today
+- I would like to enjoy some [marathi](cuisine) food for lunch
+- [malay](cuisine) bistro
+- [malaysian](cuisine) cafe
+- [mediterranean](cuisine) restaurant
+- lets find a [mexican](cuisine) place
+- [mordovian](cuisine) cuisine
+- Am looking for [mughal](cuisine) hotels
+- we must have some [balochi](cuisine) cuisine today
+- let's have some [brazilian](cuisine) cuisine today
+- Searching for [odia](cuisine) dining spot
+- like to get a list of [parsi](cuisine) hotels for lunch
+- i am looking for a [pashtun](cuisine) hotel
+- we must have some [Bulgarian](cuisine) cuisine today
+- suggest me [polish](cuisine) restaurants
+- we must have some [pakistani](cuisine) cuisine today
+- I would like to enjoy some [peranakan](cuisine) food for lunch
+- Find me [persian](cuisine) food centers
+- we must have some [buddhist](cuisine) cuisine today
+- [pakistani](cuisine) bistro
+- [portuguese](cuisine) cafe
+- [punjabi](cuisine) restaurant
+- lets find a [punjabi](cuisine) place
+- [rajasthani](cuisine) cuisine
+- Am looking for [rajasthani](cuisine) hotels
+- Searching for [russian](cuisine) dining spot
+- like to get a list of [romanian](cuisine) hotels for lunch
+- Want to have [romanian](cuisine)
+- [rajasthani](cuisine)
+- like to get a list of [taiwanese](cuisine) hotels for lunch
+- Want to have [tamil](cuisine)
+- I would like to have some [ukrainian](cuisine) food for lunch
+- I would like to enjoy some [slovenian](cuisine) food for dinner
+- we must have some [brazilian](cuisine) cuisine today
+- Am looking for [taiwanese](cuisine) hotels
+- Am looking for [andhra](cuisine) cuisine
+- we must have some [azerbaijani](cuisine) cuisine today
+- Searching for [zanzibari](cuisine) dining spot
+- like to get a list of [yamal](cuisine) hotels for lunch
+- i am looking for a [tatar](cuisine) hotel
+- suggest me [thai](cuisine) restaurants
+- Would like to have [andhra](cuisine) cuisine
+- we must have some [zambian](cuisine) cuisine today
+- i am looking for a [American]{"entity": "cuisine", "value": "american"} hotel called MTR
+- suggest me [American]{"entity": "cuisine", "value": "american"} restaurants
+- we must have some [American]{"entity": "cuisine", "value": "american"} cuisine today
+- I would like to enjoy some [American]{"entity": "cuisine", "value": "american"} food for lunch
+- Find me [American]{"entity": "cuisine", "value": "american"} food centers
+- [American]{"entity": "cuisine", "value": "american"} bistro
+- [American]{"entity": "cuisine", "value": "american"} cafe
+- [American]{"entity": "cuisine", "value": "american"} delicacies
+- I prefer [American]{"entity": "cuisine", "value": "american"} food
+- Like to have [American]{"entity": "cuisine", "value": "american"}
+- Search me [American]{"entity": "cuisine", "value": "american"} restro
+- Am looking for [American]{"entity": "cuisine", "value": "american"} hotels
+- Searching for [American]{"entity": "cuisine", "value": "american"} dining spot
+- [American]{"entity": "cuisine", "value": "american"}
+- i am looking for a [america]{"entity": "cuisine", "value": "american"} hotel called MTR
+- suggest me [america]{"entity": "cuisine", "value": "american"} restaurants
+- we must have some [america]{"entity": "cuisine", "value": "american"} cuisine today
+- I would like to enjoy some [america]{"entity": "cuisine", "value": "american"} food for lunch
+- Find me [america]{"entity": "cuisine", "value": "american"} food centers
+- [america]{"entity": "cuisine", "value": "american"} bistro
+- [america]{"entity": "cuisine", "value": "american"} cuisine
+- [america]{"entity": "cuisine", "value": "american"} delicacies
+- I prefer [america]{"entity": "cuisine", "value": "american"} food
+- Like to have [america]{"entity": "cuisine", "value": "american"}
+- Search me [america]{"entity": "cuisine", "value": "american"} restro
+- Am looking for [america]{"entity": "cuisine", "value": "american"} hotels
+- [america]{"entity": "cuisine", "value": "american"}
+- i am looking for a [Amercan]{"entity": "cuisine", "value": "american"} hotel called MTR
+- suggest me [Amercan]{"entity": "cuisine", "value": "american"} restaurants
+- we must have some [Amercan]{"entity": "cuisine", "value": "american"} cuisine today
+- I would like to enjoy some [Amercan]{"entity": "cuisine", "value": "american"} food for lunch
+- Find me [Amercan]{"entity": "cuisine", "value": "american"} food centers
+- [Amercan]{"entity": "cuisine", "value": "american"} bistro
+- [Amercan]{"entity": "cuisine", "value": "american"} cafe
+- [Amercan]{"entity": "cuisine", "value": "american"} restaurant
+- lets find a [Amercan]{"entity": "cuisine", "value": "american"} place
+- [Amercan]{"entity": "cuisine", "value": "american"} cuisine
+- [Amercan]{"entity": "cuisine", "value": "american"} delicacies
+- I prefer [Amercan]{"entity": "cuisine", "value": "american"} food
+- Like to have [Amercan]{"entity": "cuisine", "value": "american"}
+- like to get a list of [Amercan]{"entity": "cuisine", "value": "american"} hotels for lunch
+- Want to have [Amercan]{"entity": "cuisine", "value": "american"}
+- [Amercan]{"entity": "cuisine", "value": "american"}
+- i am looking for a [US]{"entity": "cuisine", "value": "american"} hotel called MTR
+- suggest me [US]{"entity": "cuisine", "value": "american"} restaurants
+- we must have some [US]{"entity": "cuisine", "value": "american"} cuisine today
+- I would like to enjoy some [US]{"entity": "cuisine", "value": "american"} food for lunch
+- Find me [US]{"entity": "cuisine", "value": "american"} food centers
+- [US]{"entity": "cuisine", "value": "american"} bistro
+- [US]{"entity": "cuisine", "value": "american"} cuisine
+- [US]{"entity": "cuisine", "value": "american"} delicacies
+- I prefer [US]{"entity": "cuisine", "value": "american"} food
+- Like to have [US]{"entity": "cuisine", "value": "american"}
+- Search me [US]{"entity": "cuisine", "value": "american"} restro
+- Am looking for [US]{"entity": "cuisine", "value": "american"} hotels
+- Searching for [US]{"entity": "cuisine", "value": "american"} dining spot
+- like to get a list of [US]{"entity": "cuisine", "value": "american"} hotels for lunch
+- Want to have [US]{"entity": "cuisine", "value": "american"}
+- [US]{"entity": "cuisine", "value": "american"}
+- i am looking for a [south indian](cuisine) hotel called MTR
+- suggest me [south indian](cuisine) restaurants
+- we must have some [south indian](cuisine) cuisine today
+- I would like to enjoy some [south indian](cuisine) food for lunch
+- Find me [south indian](cuisine) food centers
+- [south indian](cuisine) restaurant
+- lets find a [south indian](cuisine) place
+- [south indian](cuisine) cuisine
+- [south indian](cuisine) delicacies
+- I prefer [south indian](cuisine) food
+- Searching for [south indian](cuisine) dining spot
+- like to get a list of [south indian](cuisine) hotels for lunch
+- Want to have [south indian](cuisine)
+- [south indian](cuisine)
+- i am looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} hotel called MTR
+- suggest me [South Indian]{"entity": "cuisine", "value": "south indian"} restaurants
+- we must have some [South Indian]{"entity": "cuisine", "value": "south indian"} cuisine today
+- I would like to enjoy some [South Indian]{"entity": "cuisine", "value": "south indian"} food for lunch
+- Find me [South Indian]{"entity": "cuisine", "value": "south indian"} food centers
+- [South Indian]{"entity": "cuisine", "value": "south indian"} bistro
+- [South Indian]{"entity": "cuisine", "value": "south indian"} delicacies
+- I prefer [South Indian]{"entity": "cuisine", "value": "south indian"} food
+- Like to have [South Indian]{"entity": "cuisine", "value": "south indian"}
+- Search me [South Indian]{"entity": "cuisine", "value": "south indian"} restro
+- Am looking for [South Indian]{"entity": "cuisine", "value": "south indian"} hotels
+- Searching for [South Indian]{"entity": "cuisine", "value": "south indian"} dining spot
+- like to get a list of [South Indian]{"entity": "cuisine", "value": "south indian"} hotels for lunch
+- Want to have [South Indian]{"entity": "cuisine", "value": "south indian"}
+- [South Indian]{"entity": "cuisine", "value": "south indian"}
+- i am looking for a [SouthIndian]{"entity": "cuisine", "value": "south indian"} hotel called MTR
+- suggest me [SouthIndian]{"entity": "cuisine", "value": "south indian"} restaurants
+- we must have some [SouthIndian]{"entity": "cuisine", "value": "south indian"} cuisine today
+- lets find a [SouthIndian]{"entity": "cuisine", "value": "south indian"} place
+- [SouthIndian]{"entity": "cuisine", "value": "south indian"} cuisine
+- [SouthIndian]{"entity": "cuisine", "value": "south indian"} delicacies
+- I prefer [SouthIndian]{"entity": "cuisine", "value": "south indian"} foodpot
+- like to get a list of [SouthIndian]{"entity": "cuisine", "value": "south indian"} hotels for lunch
+- Want to have [SouthIndian]{"entity": "cuisine", "value": "south indian"}
+- [SouthIndian]{"entity": "cuisine", "value": "south indian"}
+- i am looking for a [South indian]{"entity": "cuisine", "value": "south indian"} hotel called MTR
+- suggest me [South indian]{"entity": "cuisine", "value": "south indian"} restaurants
+- [South indian]{"entity": "cuisine", "value": "south indian"} bistro
+- [South indian]{"entity": "cuisine", "value": "south indian"} cafe
+- [South indian]{"entity": "cuisine", "value": "south indian"} restaurant
+- lets find a [South indian]{"entity": "cuisine", "value": "south indian"} place
+- [South indian]{"entity": "cuisine", "value": "south indian"} cuisine
+- [South indian]{"entity": "cuisine", "value": "south indian"} delicacies
+- I prefer [South indian]{"entity": "cuisine", "value": "south indian"} food
+- Like to have [South indian]{"entity": "cuisine", "value": "south indian"}
+- Search me [South indian]{"entity": "cuisine", "value": "south indian"} restro
+- Want to have [South indian]{"entity": "cuisine", "value": "south indian"}
+- [South indian]{"entity": "cuisine", "value": "south indian"}
+- i am looking for a [Southindian]{"entity": "cuisine", "value": "south indian"} hotel called MTR
+- suggest me [Southindian]{"entity": "cuisine", "value": "south indian"} restaurants
+- we must have some [Southindian]{"entity": "cuisine", "value": "south indian"} cuisine today
+- I would like to enjoy some [Southindian]{"entity": "cuisine", "value": "south indian"} food for lunch
+- Find me [Southindian]{"entity": "cuisine", "value": "south indian"} food centers
+- [Southindian]{"entity": "cuisine", "value": "south indian"} bistro
+- [Southindian]{"entity": "cuisine", "value": "south indian"} cafe
+- [Southindian]{"entity": "cuisine", "value": "south indian"} restaurant
+- lets find a [Southindian]{"entity": "cuisine", "value": "south indian"} place
+- [Southindian]{"entity": "cuisine", "value": "south indian"} cuisine
+- [Southindian]{"entity": "cuisine", "value": "south indian"} delicacies
+- I prefer [Southindian]{"entity": "cuisine", "value": "south indian"} food
+- Like to have [Southindian]{"entity": "cuisine", "value": "south indian"}
+- Search me [Southindian]{"entity": "cuisine", "value": "south indian"} restro
+- Want to have [Southindian]{"entity": "cuisine", "value": "south indian"}
+- [Southindian]{"entity": "cuisine", "value": "south indian"}
+- i am looking for a [south-indian]{"entity": "cuisine", "value": "south indian"} hotel called MTR
+- suggest me [south-indian]{"entity": "cuisine", "value": "south indian"} restaurants
+- we must have some [south-indian]{"entity": "cuisine", "value": "south indian"} cuisine today
+- I would like to enjoy some [south-indian]{"entity": "cuisine", "value": "south indian"} food for lunch
+- Find me [south-indian]{"entity": "cuisine", "value": "south indian"} food centers
+- [south-indian]{"entity": "cuisine", "value": "south indian"} bistro
+- lets find a [south-indian]{"entity": "cuisine", "value": "south indian"} place
+- [south-indian]{"entity": "cuisine", "value": "south indian"} cuisine
+- Am looking for [south-indian]{"entity": "cuisine", "value": "south indian"} hotels
+- Searching for [south-indian]{"entity": "cuisine", "value": "south indian"} dining spot
+- like to get a list of [south-indian]{"entity": "cuisine", "value": "south indian"} hotels for lunch
+- Want to have [south-indian]{"entity": "cuisine", "value": "south indian"}
+- [south-indian]{"entity": "cuisine", "value": "south indian"}
+- i am looking for a [south]{"entity": "cuisine", "value": "south indian"} hotel called MTR
+- suggest me [south]{"entity": "cuisine", "value": "south indian"} restaurants
+- we must have some [south]{"entity": "cuisine", "value": "south indian"} cuisine today
+- I would like to enjoy some [south]{"entity": "cuisine", "value": "south indian"} food for lunch
+- Find me [south]{"entity": "cuisine", "value": "south indian"} food centers
+- [south]{"entity": "cuisine", "value": "south indian"} bistro
+- [south]{"entity": "cuisine", "value": "south indian"} cafe
+- [south]{"entity": "cuisine", "value": "south indian"} restaurant
+- lets find a [south]{"entity": "cuisine", "value": "south indian"} place
+- [south]{"entity": "cuisine", "value": "south indian"} cuisine
+- Search me [south]{"entity": "cuisine", "value": "south indian"} restro
+- Am looking for [south]{"entity": "cuisine", "value": "south indian"} hotels
+- Searching for [south]{"entity": "cuisine", "value": "south indian"} dining spot
+- like to get a list of [south]{"entity": "cuisine", "value": "south indian"} hotels for lunch
+- Want to have [south]{"entity": "cuisine", "value": "south indian"}
+- [south]{"entity": "cuisine", "value": "south indian"}
+- i am looking for a [north indian](cuisine) hotel called MTR
+- suggest me [north indian](cuisine) restaurants
+- we must have some [north indian](cuisine) cuisine today
+- I would like to enjoy some [north indian](cuisine) food for lunch
+- Find me [north indian](cuisine) food centers
+- [north indian](cuisine) bistro
+- [north indian](cuisine) cafe
+- [north indian](cuisine) restaurant
+- lets find a [north indian](cuisine) place
+- Search me [north indian](cuisine) restro
+- Am looking for [north indian](cuisine) hotels
+- [north indian](cuisine)
+- i am looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} hotel called MTR
+- suggest me [North Indian]{"entity": "cuisine", "value": "north indian"} restaurants
+- we must have some [North Indian]{"entity": "cuisine", "value": "north indian"} cuisine today
+- I would like to enjoy some [North Indian]{"entity": "cuisine", "value": "north indian"} food for lunch
+- Find me [North Indian]{"entity": "cuisine", "value": "north indian"} food centers
+- [North Indian]{"entity": "cuisine", "value": "north indian"} bistro
+- [North Indian]{"entity": "cuisine", "value": "north indian"} delicacies
+- I prefer [North Indian]{"entity": "cuisine", "value": "north indian"} food
+- Like to have [North Indian]{"entity": "cuisine", "value": "north indian"}
+- Search me [North Indian]{"entity": "cuisine", "value": "north indian"} restro
+- Am looking for [North Indian]{"entity": "cuisine", "value": "north indian"} hotels
+- Searching for [North Indian]{"entity": "cuisine", "value": "north indian"} dining spot
+- like to get a list of [North Indian]{"entity": "cuisine", "value": "north indian"} hotels for lunch
+- Want to have [North Indian]{"entity": "cuisine", "value": "north indian"}
+- [North Indian]{"entity": "cuisine", "value": "north indian"}
+- i am looking for a [NorthIndian]{"entity": "cuisine", "value": "north indian"} hotel called MTR
+- suggest me [NorthIndian]{"entity": "cuisine", "value": "north indian"} restaurants
+- we must have some [NorthIndian]{"entity": "cuisine", "value": "north indian"} cuisine today
+- I would like to enjoy some [NorthIndian]{"entity": "cuisine", "value": "north indian"} food for lunch
+- Find me [NorthIndian]{"entity": "cuisine", "value": "north indian"} food centers
+- [NorthIndian]{"entity": "cuisine", "value": "north indian"} bistro
+- [NorthIndian]{"entity": "cuisine", "value": "north indian"} cafe
+- [NorthIndian]{"entity": "cuisine", "value": "north indian"} restaurant
+- lets find a [NorthIndian]{"entity": "cuisine", "value": "north indian"} place
+- [NorthIndian]{"entity": "cuisine", "value": "north indian"} cuisine
+- [NorthIndian]{"entity": "cuisine", "value": "north indian"} delicacies
+- I prefer [NorthIndian]{"entity": "cuisine", "value": "north indian"} food
+- Like to have [NorthIndian]{"entity": "cuisine", "value": "north indian"}
+- Search me [NorthIndian]{"entity": "cuisine", "value": "north indian"} restro
+- Am looking for [NorthIndian]{"entity": "cuisine", "value": "north indian"} hotels
+- Searching for [NorthIndian]{"entity": "cuisine", "value": "north indian"} dining spot
+- like to get a list of [NorthIndian]{"entity": "cuisine", "value": "north indian"} hotels for lunch
+- Want to have [NorthIndian]{"entity": "cuisine", "value": "north indian"}
+- [NorthIndian]{"entity": "cuisine", "value": "north indian"}
+- i am looking for a [North indian]{"entity": "cuisine", "value": "north indian"} hotel called MTR
+- suggest me [North indian]{"entity": "cuisine", "value": "north indian"} restaurants
+- we must have some [North indian]{"entity": "cuisine", "value": "north indian"} cuisine today
+- I would like to enjoy some [North indian]{"entity": "cuisine", "value": "north indian"} food for lunch
+- Find me [North indian]{"entity": "cuisine", "value": "north indian"} food centers
+- [North indian]{"entity": "cuisine", "value": "north indian"} bistro
+- [North indian]{"entity": "cuisine", "value": "north indian"} cafe
+- [North indian]{"entity": "cuisine", "value": "north indian"} restaurant
+- lets find a [North indian]{"entity": "cuisine", "value": "north indian"} place
+- [North indian]{"entity": "cuisine", "value": "north indian"} cuisine
+- [North indian]{"entity": "cuisine", "value": "north indian"} delicacies
+- I prefer [North indian]{"entity": "cuisine", "value": "north indian"} food
+- Like to have [North indian]{"entity": "cuisine", "value": "north indian"}
+- Search me [North indian]{"entity": "cuisine", "value": "north indian"} restro
+- Am looking for [North indian]{"entity": "cuisine", "value": "north indian"} hotels
+- Searching for [North indian]{"entity": "cuisine", "value": "north indian"} dining spot
+- like to get a list of [North indian]{"entity": "cuisine", "value": "north indian"} hotels for lunch
+- Want to have [North indian]{"entity": "cuisine", "value": "north indian"}
+- [North indian]{"entity": "cuisine", "value": "north indian"}
+- i am looking for a [Northindian]{"entity": "cuisine", "value": "north indian"} hotel called MTR
+- suggest me [Northindian]{"entity": "cuisine", "value": "north indian"} restaurants
+- we must have some [Northindian]{"entity": "cuisine", "value": "north indian"} cuisine today
+- I would like to enjoy some [Northindian]{"entity": "cuisine", "value": "north indian"} food for lunch
+- Find me [Northindian]{"entity": "cuisine", "value": "north indian"} food centers
+- [Northindian]{"entity": "cuisine", "value": "north indian"} bistro
+- [Northindian]{"entity": "cuisine", "value": "north indian"} cafe
+- [Northindian]{"entity": "cuisine", "value": "north indian"} restaurant
+- lets find a [Northindian]{"entity": "cuisine", "value": "north indian"} place
+- [Northindian]{"entity": "cuisine", "value": "north indian"} cuisine
+- [Northindian]{"entity": "cuisine", "value": "north indian"} delicacies
+- I prefer [Northindian]{"entity": "cuisine", "value": "north indian"} food
+- Like to have [Northindian]{"entity": "cuisine", "value": "north indian"}
+- Search me [Northindian]{"entity": "cuisine", "value": "north indian"} restro
+- Am looking for [Northindian]{"entity": "cuisine", "value": "north indian"} hotels
+- Searching for [Northindian]{"entity": "cuisine", "value": "north indian"} dining spot
+- like to get a list of [Northindian]{"entity": "cuisine", "value": "north indian"} hotels for lunch
+- Want to have [Northindian]{"entity": "cuisine", "value": "north indian"}
+- [Northindian]{"entity": "cuisine", "value": "north indian"}
+- i am looking for a [north-indian]{"entity": "cuisine", "value": "north indian"} hotel called MTR
+- suggest me [north-indian]{"entity": "cuisine", "value": "north indian"} restaurants
+- we must have some [north-indian]{"entity": "cuisine", "value": "north indian"} cuisine today
+- I would like to enjoy some [north-indian]{"entity": "cuisine", "value": "north indian"} food for lunch
+- Find me [north-indian]{"entity": "cuisine", "value": "north indian"} food centers
+- [north-indian]{"entity": "cuisine", "value": "north indian"} bistro
+- [north-indian]{"entity": "cuisine", "value": "north indian"} cafe
+- [north-indian]{"entity": "cuisine", "value": "north indian"} restaurant
+- lets find a [north-indian]{"entity": "cuisine", "value": "north indian"} place
+- [north-indian]{"entity": "cuisine", "value": "north indian"} cuisine
+- [north-indian]{"entity": "cuisine", "value": "north indian"} delicacies
+- I prefer [north-indian]{"entity": "cuisine", "value": "north indian"} food
+- Like to have [north-indian]{"entity": "cuisine", "value": "north indian"}
+- Search me [north-indian]{"entity": "cuisine", "value": "north indian"} restro
+- Am looking for [north-indian]{"entity": "cuisine", "value": "north indian"} hotels
+- Searching for [north-indian]{"entity": "cuisine", "value": "north indian"} dining spot
+- like to get a list of [north-indian]{"entity": "cuisine", "value": "north indian"} hotels for lunch
+- Want to have [north-indian]{"entity": "cuisine", "value": "north indian"}
+- [north-indian]{"entity": "cuisine", "value": "north indian"}
+- i am looking for a [North]{"entity": "cuisine", "value": "north indian"} hotel called MTR
+- suggest me [North]{"entity": "cuisine", "value": "north indian"} restaurants
+- we must have some [North]{"entity": "cuisine", "value": "north indian"} cuisine today
+- I would like to enjoy some [North]{"entity": "cuisine", "value": "north indian"} food for lunch
+- Find me [North]{"entity": "cuisine", "value": "north indian"} food centers
+- [North]{"entity": "cuisine", "value": "north indian"} bistro
+- [North]{"entity": "cuisine", "value": "north indian"} cafe
+- [North]{"entity": "cuisine", "value": "north indian"} restaurant
+- lets find a [North]{"entity": "cuisine", "value": "north indian"} place
+- [North]{"entity": "cuisine", "value": "north indian"} cuisine
+- [North]{"entity": "cuisine", "value": "north indian"} delicacies
+- I prefer [North]{"entity": "cuisine", "value": "north indian"} food
+- Like to have [North]{"entity": "cuisine", "value": "north indian"}
+- Search me [North]{"entity": "cuisine", "value": "north indian"} restro
+- Am looking for [North]{"entity": "cuisine", "value": "north indian"} hotels
+- Searching for [North]{"entity": "cuisine", "value": "north indian"} dining spot
+- like to get a list of [North]{"entity": "cuisine", "value": "north indian"} hotels for lunch
+- Want to have [North]{"entity": "cuisine", "value": "north indian"}
+- [North]{"entity": "cuisine", "value": "north indian"}
+- looking for cafes below [500](maxprice)
+- search for hotels above [350](minprice)
+- look for restaurants priced in between RS [300](minprice) and rs [700](maxprice)
+- < [620](maxprice) and > [250](minprice)
+- below Rs [1000](maxprice)
+- more than rS [700](maxprice) /-
+- lessor than [800](maxprice) rs and greater than [438](minprice) RS
+- more than [200](minprice) but not more than [560](maxprice)
+- <= [820](maxprice) RS
+- >= [280](minprice)
+- < [500](maxprice)
+- In the range of [300](minprice) to [700](maxprice)
+- [150](minprice) to [500](maxprice)
+- [350](minprice) - [750](maxprice)
+- between rs [300](minprice) - [500](maxprice)
+- between [200](minprice) to [600](maxprice)
+- At the max [600](maxprice) RS
+- Minimum rs [475](minprice)
+- Minimum [230](minprice) to Maximum [560](maxprice)
+- Min [300](minprice) to Max [850](maxprice)
+- Anything below [1500](maxprice) rs
+- not more than [900](maxprice) RS,
+- price range of [350](minprice) - [750](maxprice)
+- < [300](maxprice)
+- > [700](minprice) Rs
+- more than [700](minprice)
+- Rs. [300](minprice) to [700](maxprice)
+- RS [150](minprice) - [700](maxprice) range
+- Suggest me restaurant in the budget Rs. [300](minprice) to [700](maxprice)
+- i am looking for dinner options between [200](minprice) - [600](maxprice)
+- Find me a restaurant below [400](maxprice)
+- Get me dining options in the range Rs [400](minprice) and [900](maxprice)
+- looking for cafes below [950](maxprice)
+- search for hotels above [200](minprice)
+- look for restaurants priced in between RS [200](minprice) and rs [500](maxprice)
+- < [800](maxprice) and > [455](minprice) rs
+- lessor than [680](maxprice) rs and greater than [438](minprice) RS
+- <= [670](maxprice)
+- >= [325](minprice)
+- In the range of [280](minprice) to [525](maxprice)
+- [325](minprice) to [450](maxprice)
+- [400](minprice) - [960](maxprice)
+- =< [450](maxprice)
+- between rs [340](minprice) - [870](maxprice)
+- between [abc](minprice) to [480](maxprice)
+- At the max [537](maxprice)
+- Minimum rs [pqr](minprice)
+- Minimum [123](minprice) to Maximum [12345](maxprice)
+- Min [&85](minprice) to Max [%908](maxprice)
+- Anything below [%60](maxprice) rs
+- not more than [800](maxprice) RS\n",
+- price range of [235](minprice) - [570](maxprice)
+- < [750](maxprice)
+- > [350](minprice)
+- =< [300](maxprice)
+- more than [650](minprice)
+- Rs. [200](minprice) to [457](maxprice)
+- [560](minprice) - [780](maxprice) range
+- Rs. [300](minprice) to [800](maxprice)
+- Rs. [200](minprice) to [300](maxprice)
+- Rs. [400](minprice) to [500](maxprice)
+- INR. [400](minprice) to [800](maxprice) RS
+- [250](minprice) to [350](maxprice) Rs
+- [300](minprice) to [550](maxprice)
+- RS [289](minprice) to [457](maxprice)
+- Rs [400](minprice) - [900](maxprice)
+- [400](minprice) to [800](maxprice) INR
+- INR [250](minprice) to [350](maxprice)
+- [300](minprice) to [550](maxprice)
+- rs [289](minprice) to [457](maxprice)
+- [400](minprice) - [900](maxprice) rs
+- Suggest me restaurant in the budget Rs. [247](minprice) to [&bc](maxprice)
+- i am looking for dinner options between [380](minprice) - [500](maxprice)
+- Find me a restaurant below [550](maxprice)
+- Get me dining options in the range Rs [240](minprice) and [870](maxprice)
+- Find me a restaurant in [Alleppey]{"entity": "place", "value": " alleppey"}
+- I'm searching for some food in [hosur](place)
+- Please find me a cafe in [ooty](place)
+- chilling in  [Guntur]{"entity": "place", "value": "guntur"}
+- ny eating suggestion in  [Rishikesh]{"entity": "place", "value": "rishikesh"}
+- I'm hungry in [ahmedabad](place)
+- I'm searching for some food in [ahmedabad](place)
+- Please find me a cafe in [ahmedabad](place)
+- find me a restaurant in [ahmedabad](place)
+- Im in [ahmedabad](place)
+- [ahmedabad](place)
+- going to be in [ahmedabad](place)
+- let's say, [ahmedabad](place)
+- the city of [ahmedabad](place)
+- Suggest me a restaurant in [ahmedabad](place) please
+- i want to eat out, let me know some good options in the city of [ahmedabad](place)
+- in [ahmedabad](place) is there any takeaway options
+- Am looking for a quite place in [ahmedabad](place) to have food
+- Will u pls get me some top-class restraurants in [ahmedabad](place)
+- Am from [ahmedabad](place), Would like to get a list of recommended hotels for lunch
+- From [ahmedabad](place) Is there any good place to eat out?
+- Am in [ahmedabad](place), wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [ahmedabad](place)
+- Searching for a dining spot in [ahmedabad](place)
+- I'm searching for some food in [Ahmedabad]{"entity": "place", "value": "ahmedabad"}
+- Please find me a cafe in [Ahmedabad]{"entity": "place", "value": "ahmedabad"}
+- find me a restaurant in [Ahmedabad]{"entity": "place", "value": "ahmedabad"}
+- Im in [Ahmedabad]{"entity": "place", "value": "ahmedabad"}
+- [Ahmedabad]{"entity": "place", "value": "ahmedabad"}
+- going to be in [Ahmedabad]{"entity": "place", "value": "ahmedabad"}
+- let's say, [Ahmedabad]{"entity": "place", "value": "ahmedabad"}
+- the city of [Ahmedabad]{"entity": "place", "value": "ahmedabad"}
+- chilling in [Ahmedabad]{"entity": "place", "value": "ahmedabad"}
+- Seraching for restaurants in [Ahmedabad]{"entity": "place", "value": "ahmedabad"}
+- Any eating suggestion in [Ahmedabad]{"entity": "place", "value": "ahmedabad"}
+- Suggest me a restaurant in [Ahmedabad]{"entity": "place", "value": "ahmedabad"} please
+- Searching for a dining spot in [Ahmedabad]{"entity": "place", "value": "ahmedabad"}
+- please help me to find restaurants in [Ahmedabad]{"entity": "place", "value": "ahmedabad"}
+- From [Ahmedabad]{"entity": "place", "value": "ahmedabad"}
+- Will u pls get me some top-class restraurants in [Ahmedbad]{"entity": "place", "value": "ahmedabad"}
+- Am from [Ahmedbad]{"entity": "place", "value": "ahmedabad"}, Would like to get a list of recommended hotels for lunch
+- From [Ahmedbad]{"entity": "place", "value": "ahmedabad"} Is there any good place to eat out?
+- Am in [Ahmedbad]{"entity": "place", "value": "ahmedabad"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [Ahmedbad]{"entity": "place", "value": "ahmedabad"}
+- Please find me a cafe in [Amdabad]{"entity": "place", "value": "ahmedabad"}
+- find me a restaurant in [Amdabad]{"entity": "place", "value": "ahmedabad"}
+- Im in [Amdabad]{"entity": "place", "value": "ahmedabad"}
+- [Amdabad]{"entity": "place", "value": "ahmedabad"}
+- chilling in [Amdabad]{"entity": "place", "value": "ahmedabad"}
+- Seraching for restaurants in [Amdabad]{"entity": "place", "value": "ahmedabad"}
+- Any eating suggestion in [Amdabad]{"entity": "place", "value": "ahmedabad"}
+- Suggest me a restaurant in [Amdabad]{"entity": "place", "value": "ahmedabad"} please
+- i want to eat out, let me know some good options in the city of [Amdabad]{"entity": "place", "value": "ahmedabad"}
+- in [Amdabad]{"entity": "place", "value": "ahmedabad"} is there any takeaway options
+- Am looking for a quite place in [Amdabad]{"entity": "place", "value": "ahmedabad"} to have food
+- i'm looking for a place to eat in [Amdabad]{"entity": "place", "value": "ahmedabad"}
+- Searching for a dining spot in [Amdabad]{"entity": "place", "value": "ahmedabad"}
+- please help me to find restaurants in [Amdabad]{"entity": "place", "value": "ahmedabad"}
+- From [Amdabad]{"entity": "place", "value": "ahmedabad"}
+- oh sorry, [Amdabad]{"entity": "place", "value": "ahmedabad"}
+- my place is [Amdabad]{"entity": "place", "value": "ahmedabad"}
+- [ahamedabad]{"entity": "place", "value": "ahmedabad"}
+- going to be in [ahamedabad]{"entity": "place", "value": "ahmedabad"}
+- let's say, [ahamedabad]{"entity": "place", "value": "ahmedabad"}
+- the city of [ahamedabad]{"entity": "place", "value": "ahmedabad"}
+- i want to eat out, let me know some good options in the city of [ahamedabad]{"entity": "place", "value": "ahmedabad"}
+- in [ahamedabad]{"entity": "place", "value": "ahmedabad"} is there any takeaway options
+- Am looking for a quite place in [ahamedabad]{"entity": "place", "value": "ahmedabad"} to have food
+- Will u pls get me some top-class restraurants in [ahamedabad]{"entity": "place", "value": "ahmedabad"}
+- Am from [ahamedabad]{"entity": "place", "value": "ahmedabad"}, Would like to get a list of recommended hotels for lunch
+- From [ahamedabad]{"entity": "place", "value": "ahmedabad"} Is there any good place to eat out?
+- Am in [ahamedabad]{"entity": "place", "value": "ahmedabad"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [ahamedabad]{"entity": "place", "value": "ahmedabad"}
+- Searching for a dining spot in [ahamedabad]{"entity": "place", "value": "ahmedabad"}
+- please help me to find restaurants in [ahamedabad]{"entity": "place", "value": "ahmedabad"}
+- From [ahamedabad]{"entity": "place", "value": "ahmedabad"}
+- let's say, [ahmmedabad]{"entity": "place", "value": "ahmedabad"}
+- the city of [ahmmedabad]{"entity": "place", "value": "ahmedabad"}
+- chilling in [ahmmedabad]{"entity": "place", "value": "ahmedabad"}
+- Seraching for restaurants in [ahmmedabad]{"entity": "place", "value": "ahmedabad"}
+- Any eating suggestion in [ahmmedabad]{"entity": "place", "value": "ahmedabad"}
+- Suggest me a restaurant in [ahmmedabad]{"entity": "place", "value": "ahmedabad"} please
+- i want to eat out, let me know some good options in the city of [ahmmedabad]{"entity": "place", "value": "ahmedabad"}
+- in [ahmmedabad]{"entity": "place", "value": "ahmedabad"} is there any takeaway options
+- Am looking for a quite place in [ahmmedabad]{"entity": "place", "value": "ahmedabad"} to have food
+- Will u pls get me some top-class restraurants in [ahmmedabad]{"entity": "place", "value": "ahmedabad"}
+- Am from [ahmmedabad]{"entity": "place", "value": "ahmedabad"}, Would like to get a list of recommended hotels for lunch
+- From [ahmmedabad]{"entity": "place", "value": "ahmedabad"} Is there any good place to eat out?
+- Am in [ahmmedabad]{"entity": "place", "value": "ahmedabad"}, wish if you could help me with hotel suggestions
+- Im in [ahmedabd]{"entity": "place", "value": "ahmedabad"}
+- [ahmedabd]{"entity": "place", "value": "ahmedabad"}
+- going to be in [ahmedabd]{"entity": "place", "value": "ahmedabad"}
+- let's say, [ahmedabd]{"entity": "place", "value": "ahmedabad"}
+- the city of [ahmedabd]{"entity": "place", "value": "ahmedabad"}
+- chilling in [ahmedabd]{"entity": "place", "value": "ahmedabad"}
+- Seraching for restaurants in [ahmedabd]{"entity": "place", "value": "ahmedabad"}
+- Any eating suggestion in [ahmedabd]{"entity": "place", "value": "ahmedabad"}
+- Suggest me a restaurant in [ahmedabd]{"entity": "place", "value": "ahmedabad"} please
+- Am from [ahmedabd]{"entity": "place", "value": "ahmedabad"}, Would like to get a list of recommended hotels for lunch
+- From [ahmedabd]{"entity": "place", "value": "ahmedabad"} Is there any good place to eat out?
+- Am in [ahmedabd]{"entity": "place", "value": "ahmedabad"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [ahmedabd]{"entity": "place", "value": "ahmedabad"}
+- Searching for a dining spot in [ahmedabd]{"entity": "place", "value": "ahmedabad"}
+- please help me to find restaurants in [ahmedabd]{"entity": "place", "value": "ahmedabad"}
+- From [ahmedabd]{"entity": "place", "value": "ahmedabad"}
+- oh sorry, [ahmedabd]{"entity": "place", "value": "ahmedabad"}
+- my place is [ahmedabd]{"entity": "place", "value": "ahmedabad"}
+- I'm hungry in [ahmdabad]{"entity": "place", "value": "ahmedabad"}
+- I'm searching for some food in [ahmdabad]{"entity": "place", "value": "ahmedabad"}
+- Please find me a cafe in [ahmdabad]{"entity": "place", "value": "ahmedabad"}
+- find me a restaurant in [ahmdabad]{"entity": "place", "value": "ahmedabad"}
+- Im in [ahmdabad]{"entity": "place", "value": "ahmedabad"}
+- [ahmdabad]{"entity": "place", "value": "ahmedabad"}
+- Any eating suggestion in [ahmdabad]{"entity": "place", "value": "ahmedabad"}
+- From [ahmdabad]{"entity": "place", "value": "ahmedabad"} Is there any good place to eat out?
+- Am in [ahmdabad]{"entity": "place", "value": "ahmedabad"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [ahmdabad]{"entity": "place", "value": "ahmedabad"}
+- Searching for a dining spot in [ahmdabad]{"entity": "place", "value": "ahmedabad"}
+- please help me to find restaurants in [ahmdabad]{"entity": "place", "value": "ahmedabad"}
+- From [ahmdabad]{"entity": "place", "value": "ahmedabad"}
+- oh sorry, [ahmdabad]{"entity": "place", "value": "ahmedabad"}
+- my place is [ahmdabad]{"entity": "place", "value": "ahmedabad"}
+- I'm hungry in [bangalore](place)
+- I'm searching for some food in [bangalore](place)
+- Please find me a cafe in [bangalore](place)
+- find me a restaurant in [bangalore](place)
+- Im in [bangalore](place)
+- [bangalore](place)
+- going to be in [bangalore](place)
+- Suggest me a restaurant in [bangalore](place) please
+- i want to eat out, let me know some good options in the city of [bangalore](place)
+- in [bangalore](place) is there any takeaway options
+- Am looking for a quite place in [bangalore](place) to have food
+- Will u pls get me some top-class restraurants in [bangalore](place)
+- Am from [bangalore](place), Would like to get a list of recommended hotels for lunch
+- From [bangalore](place) Is there any good place to eat out?
+- my place is [bangalore](place)
+- I'm hungry in [Bangalore]{"entity": "place", "value": "bangalore"}
+- [Bangalore]{"entity": "place", "value": "bangalore"}
+- going to be in [Bangalore]{"entity": "place", "value": "bangalore"}
+- let's say, [Bangalore]{"entity": "place", "value": "bangalore"}
+- the city of [Bangalore]{"entity": "place", "value": "bangalore"}
+- chilling in [Bangalore]{"entity": "place", "value": "bangalore"}
+- Seraching for restaurants in [Bangalore]{"entity": "place", "value": "bangalore"}
+- Any eating suggestion in [Bangalore]{"entity": "place", "value": "bangalore"}
+- Suggest me a restaurant in [Bangalore]{"entity": "place", "value": "bangalore"} please
+- From [Bangalore]{"entity": "place", "value": "bangalore"} Is there any good place to eat out?
+- Am in [Bangalore]{"entity": "place", "value": "bangalore"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [Bangalore]{"entity": "place", "value": "bangalore"}
+- Searching for a dining spot in [Bangalore]{"entity": "place", "value": "bangalore"}
+- please help me to find restaurants in [Bangalore]{"entity": "place", "value": "bangalore"}
+- From [Bangalore]{"entity": "place", "value": "bangalore"}
+- oh sorry, [Bangalore]{"entity": "place", "value": "bangalore"}
+- the city of [Banglore]{"entity": "place", "value": "bangalore"}
+- chilling in [Banglore]{"entity": "place", "value": "bangalore"}
+- Seraching for restaurants in [Banglore]{"entity": "place", "value": "bangalore"}
+- Any eating suggestion in [Banglore]{"entity": "place", "value": "bangalore"}
+- Suggest me a restaurant in [Banglore]{"entity": "place", "value": "bangalore"} please
+- i want to eat out, let me know some good options in the city of [Banglore]{"entity": "place", "value": "bangalore"}
+- in [Banglore]{"entity": "place", "value": "bangalore"} is there any takeaway options
+- Am in [Banglore]{"entity": "place", "value": "bangalore"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [Banglore]{"entity": "place", "value": "bangalore"}
+- Searching for a dining spot in [Banglore]{"entity": "place", "value": "bangalore"}
+- please help me to find restaurants in [Banglore]{"entity": "place", "value": "bangalore"}
+- From [Banglore]{"entity": "place", "value": "bangalore"}
+- oh sorry, [Banglore]{"entity": "place", "value": "bangalore"}
+- my place is [Banglore]{"entity": "place", "value": "bangalore"}
+- I'm hungry in [banglor]{"entity": "place", "value": "bangalore"}
+- I'm searching for some food in [banglor]{"entity": "place", "value": "bangalore"}
+- Please find me a cafe in [banglor]{"entity": "place", "value": "bangalore"}
+- the city of [banglor]{"entity": "place", "value": "bangalore"}
+- chilling in [banglor]{"entity": "place", "value": "bangalore"}
+- Seraching for restaurants in [banglor]{"entity": "place", "value": "bangalore"}
+- Any eating suggestion in [banglor]{"entity": "place", "value": "bangalore"}
+- Suggest me a restaurant in [banglor]{"entity": "place", "value": "bangalore"} please
+- i want to eat out, let me know some good options in the city of [banglor]{"entity": "place", "value": "bangalore"}
+- in [banglor]{"entity": "place", "value": "bangalore"} is there any takeaway options
+- Am looking for a quite place in [banglor]{"entity": "place", "value": "bangalore"} to have food
+- Will u pls get me some top-class restraurants in [banglor]{"entity": "place", "value": "bangalore"}
+- Am from [banglor]{"entity": "place", "value": "bangalore"}, Would like to get a list of recommended hotels for lunch
+- From [banglor]{"entity": "place", "value": "bangalore"} Is there any good place to eat out?
+- From [banglor]{"entity": "place", "value": "bangalore"}
+- oh sorry, [banglor]{"entity": "place", "value": "bangalore"}
+- my place is [banglor]{"entity": "place", "value": "bangalore"}
+- I'm hungry in [Bengaluru]{"entity": "place", "value": "bangalore"}
+- I'm searching for some food in [Bengaluru]{"entity": "place", "value": "bangalore"}
+- Please find me a cafe in [Bengaluru]{"entity": "place", "value": "bangalore"}
+- find me a restaurant in [Bengaluru]{"entity": "place", "value": "bangalore"}
+- chilling in [bengaluru]{"entity": "place", "value": "bangalore"}
+- Seraching for restaurants in [Bengaluru]{"entity": "place", "value": "bangalore"}
+- Any eating suggestion in [bengaluru]{"entity": "place", "value": "bangalore"}
+- Suggest me a restaurant in [bengaluru]{"entity": "place", "value": "bangalore"} please
+- i want to eat out, let me know some good options in the city of [Bengaluru]{"entity": "place", "value": "bangalore"}
+- in [Bengaluru]{"entity": "place", "value": "bangalore"} is there any takeaway options
+- Am looking for a quite place in [Bengaluru]{"entity": "place", "value": "bangalore"} to have food
+- Will u pls get me some top-class restraurants in [Bengaluru]{"entity": "place", "value": "bangalore"}
+- Am from [bengaluru]{"entity": "place", "value": "bangalore"}, Would like to get a list of recommended hotels for lunch
+- From [bengaluru]{"entity": "place", "value": "bangalore"} Is there any good place to eat out?
+- Am in [Bengaluru]{"entity": "place", "value": "bangalore"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [Bengaluru]{"entity": "place", "value": "bangalore"}
+- Searching for a dining spot in [bengaluru]{"entity": "place", "value": "bangalore"}
+- please help me to find restaurants in [Bengaluru]{"entity": "place", "value": "bangalore"}
+- From [Bengaluru]{"entity": "place", "value": "bangalore"}
+- oh sorry, [Bengaluru]{"entity": "place", "value": "bangalore"}
+- my place is [Bengaluru]{"entity": "place", "value": "bangalore"}
+- I'm hungry in [bengalur]{"entity": "place", "value": "bangalore"}
+- I'm searching for some food in [bengalur]{"entity": "place", "value": "bangalore"}
+- Please find me a cafe in [bengalur]{"entity": "place", "value": "bangalore"}
+- find me a restaurant in [bengalur]{"entity": "place", "value": "bangalore"}
+- Im in [bengalur]{"entity": "place", "value": "bangalore"}
+- [bengalur]{"entity": "place", "value": "bangalore"}
+- going to be in [bengalur]{"entity": "place", "value": "bangalore"}
+- let's say, [bengalur]{"entity": "place", "value": "bangalore"}
+- the city of [bengalur]{"entity": "place", "value": "bangalore"}
+- chilling in [bengalur]{"entity": "place", "value": "bangalore"}
+- Seraching for restaurants in [bengalur]{"entity": "place", "value": "bangalore"}
+- Any eating suggestion in [bengalur]{"entity": "place", "value": "bangalore"}
+- Suggest me a restaurant in [bengalur]{"entity": "place", "value": "bangalore"} please
+- From [bengalur]{"entity": "place", "value": "bangalore"} Is there any good place to eat out?
+- Am in [bengalur]{"entity": "place", "value": "bangalore"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [bengalur]{"entity": "place", "value": "bangalore"}
+- Searching for a dining spot in [bengalur]{"entity": "place", "value": "bangalore"}
+- please help me to find restaurants in [bengalur]{"entity": "place", "value": "bangalore"}
+- From [bengalur]{"entity": "place", "value": "bangalore"}
+- oh sorry, [bengalur]{"entity": "place", "value": "bangalore"}
+- [bangaluru]{"entity": "place", "value": "bangalore"}
+- going to be in [bangaluru]{"entity": "place", "value": "bangalore"}
+- let's say, [bangaluru]{"entity": "place", "value": "bangalore"}
+- the city of [bangaluru]{"entity": "place", "value": "bangalore"}
+- chilling in [bangaluru]{"entity": "place", "value": "bangalore"}
+- Seraching for restaurants in [bangaluru]{"entity": "place", "value": "bangalore"}
+- Any eating suggestion in [bangaluru]{"entity": "place", "value": "bangalore"}
+- Suggest me a restaurant in [bangaluru]{"entity": "place", "value": "bangalore"} please
+- i want to eat out, let me know some good options in the city of [bangaluru]{"entity": "place", "value": "bangalore"}
+- in [bangaluru]{"entity": "place", "value": "bangalore"} is there any takeaway options
+- Am looking for a quite place in [bangaluru]{"entity": "place", "value": "bangalore"} to have food
+- Will u pls get me some top-class restraurants in [bangaluru]{"entity": "place", "value": "bangalore"}
+- please help me to find restaurants in [bangaluru]{"entity": "place", "value": "bangalore"}
+- From [bangaluru]{"entity": "place", "value": "bangalore"}
+- oh sorry, [bangaluru]{"entity": "place", "value": "bangalore"}
+- my place is [bangaluru]{"entity": "place", "value": "bangalore"}
+- I'm hungry in [Bengluru]{"entity": "place", "value": "bangalore"}
+- Im in [Bengluru]{"entity": "place", "value": "bangalore"}
+- [bengluru]{"entity": "place", "value": "bangalore"}
+- going to be in [Bengluru]{"entity": "place", "value": "bangalore"}
+- let's say, [bengluru]{"entity": "place", "value": "bangalore"}
+- the city of [Bengluru]{"entity": "place", "value": "bangalore"}
+- chilling in [bengluru]{"entity": "place", "value": "bangalore"}
+- Seraching for restaurants in [Bengluru]{"entity": "place", "value": "bangalore"}
+- Any eating suggestion in [Bengluru]{"entity": "place", "value": "bangalore"}
+- Suggest me a restaurant in [Bengluru]{"entity": "place", "value": "bangalore"} please
+- i want to eat out, let me know some good options in the city of [Bengluru]{"entity": "place", "value": "bangalore"}
+- in [bengluru]{"entity": "place", "value": "bangalore"} is there any takeaway options
+- Am looking for a quite place in [bengluru]{"entity": "place", "value": "bangalore"} to have food
+- Will u pls get me some top-class restraurants in [Bengluru]{"entity": "place", "value": "bangalore"}
+- From [Bengluru]{"entity": "place", "value": "bangalore"}
+- oh sorry, [Bengluru]{"entity": "place", "value": "bangalore"}
+- my place is [Bengluru]{"entity": "place", "value": "bangalore"}
+- I'm hungry in [bangluru]{"entity": "place", "value": "bangalore"}
+- I'm searching for some food in [bangluru]{"entity": "place", "value": "bangalore"}
+- Please find me a cafe in [bangluru]{"entity": "place", "value": "bangalore"}
+- find me a restaurant in [bangluru]{"entity": "place", "value": "bangalore"}
+- Im in [bangluru]{"entity": "place", "value": "bangalore"}
+- [bangluru]{"entity": "place", "value": "bangalore"}
+- going to be in [bangluru]{"entity": "place", "value": "bangalore"}
+- i want to eat out, let me know some good options in the city of [bangluru]{"entity": "place", "value": "bangalore"}
+- in [bangluru]{"entity": "place", "value": "bangalore"} is there any takeaway options
+- Am looking for a quite place in [bangluru]{"entity": "place", "value": "bangalore"} to have food
+- Will u pls get me some top-class restraurants in [bangluru]{"entity": "place", "value": "bangalore"}
+- Am from [bangluru]{"entity": "place", "value": "bangalore"}, Would like to get a list of recommended hotels for lunch
+- From [bangluru]{"entity": "place", "value": "bangalore"} Is there any good place to eat out?
+- my place is [bangluru]{"entity": "place", "value": "bangalore"}
+- I'm hungry in [chennai](place)
+- I'm searching for some food in [chennai](place)
+- Im in [chennai](place)
+- [chennai](place)
+- going to be in [chennai](place)
+- let's say, [chennai](place)
+- the city of [chennai](place)
+- Suggest me a restaurant in [chennai](place) please
+- i want to eat out, let me know some good options in the city of [chennai](place)
+- in [chennai](place) is there any takeaway options
+- Am looking for a quite place in [chennai](place) to have food
+- Will u pls get me some top-class restraurants in [chennai](place)
+- Searching for a dining spot in [chennai](place)
+- please help me to find restaurants in [chennai](place)
+- From [chennai](place)
+- oh sorry, [chennai](place)
+- my place is [chennai](place)
+- let's say, [Chennai]{"entity": "place", "value": "chennai"}
+- the city of [Chennai]{"entity": "place", "value": "chennai"}
+- chilling in [Chennai]{"entity": "place", "value": "chennai"}
+- Seraching for restaurants in [Chennai]{"entity": "place", "value": "chennai"}
+- Am from [Chennai]{"entity": "place", "value": "chennai"}, Would like to get a list of recommended hotels for lunch
+- From [Chennai]{"entity": "place", "value": "chennai"} Is there any good place to eat out?
+- Am in [Chennai]{"entity": "place", "value": "chennai"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [Chennai]{"entity": "place", "value": "chennai"}
+- Im in [Chenai]{"entity": "place", "value": "chennai"}
+- [Chenai]{"entity": "place", "value": "chennai"}
+- going to be in [Chenai]{"entity": "place", "value": "chennai"}
+- let's say, [Chenai]{"entity": "place", "value": "chennai"}
+- the city of [Chenai]{"entity": "place", "value": "chennai"}
+- chilling in [Chenai]{"entity": "place", "value": "chennai"}
+- Seraching for restaurants in [Chenai]{"entity": "place", "value": "chennai"}
+- Am from [Chenai]{"entity": "place", "value": "chennai"}, Would like to get a list of recommended hotels for lunch
+- From [Chenai]{"entity": "place", "value": "chennai"} Is there any good place to eat out?
+- Am in [Chenai]{"entity": "place", "value": "chennai"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [Chenai]{"entity": "place", "value": "chennai"}
+- Searching for a dining spot in [Chenai]{"entity": "place", "value": "chennai"}
+- please help me to find restaurants in [Chenai]{"entity": "place", "value": "chennai"}
+- From [Chenai]{"entity": "place", "value": "chennai"}
+- oh sorry, [Chenai]{"entity": "place", "value": "chennai"}
+- my place is [Chenai]{"entity": "place", "value": "chennai"}
+- the city of [Madras]{"entity": "place", "value": "chennai"}
+- chilling in [Madras]{"entity": "place", "value": "chennai"}
+- Seraching for restaurants in [Madras]{"entity": "place", "value": "chennai"}
+- Any eating suggestion in [Madras]{"entity": "place", "value": "chennai"}
+- Suggest me a restaurant in [Madras]{"entity": "place", "value": "chennai"} please
+- i want to eat out, let me know some good options in the city of [Madras]{"entity": "place", "value": "chennai"}
+- in [Madras]{"entity": "place", "value": "chennai"} is there any takeaway options
+- Am looking for a quite place in [Madras]{"entity": "place", "value": "chennai"} to have food
+- Will u pls get me some top-class restraurants in [Madras]{"entity": "place", "value": "chennai"}
+- Am from [Madras]{"entity": "place", "value": "chennai"}, Would like to get a list of recommended hotels for lunch
+- I'm searching for some food in [delhi](place)
+- Please find me a cafe in [delhi](place)
+- find me a restaurant in [delhi](place)
+- Im in [delhi](place)
+- [delhi](place)
+- Seraching for restaurants in [delhi](place)
+- Any eating suggestion in [delhi](place)
+- Suggest me a restaurant in [delhi](place) please
+- i want to eat out, let me know some good options in the city of [delhi](place)
+- in [delhi](place) is there any takeaway options
+- From [delhi](place) Is there any good place to eat out?
+- I'm hungry in [Delhi]{"entity": "place", "value": "delhi"}
+- I'm searching for some food in [Delhi]{"entity": "place", "value": "delhi"}
+- Please find me a cafe in [Delhi]{"entity": "place", "value": "delhi"}
+- find me a restaurant in [Delhi]{"entity": "place", "value": "delhi"}
+- Im in [Delhi]{"entity": "place", "value": "delhi"}
+- [Delhi]{"entity": "place", "value": "delhi"}
+- going to be in [Delhi]{"entity": "place", "value": "delhi"}
+- let's say, [Delhi]{"entity": "place", "value": "delhi"}
+- i'm looking for a place to eat in [Delhi]{"entity": "place", "value": "delhi"}
+- Searching for a dining spot in [Delhi]{"entity": "place", "value": "delhi"}
+- please help me to find restaurants in [Delhi]{"entity": "place", "value": "delhi"}
+- From [Delhi]{"entity": "place", "value": "delhi"}
+- oh sorry, [Delhi]{"entity": "place", "value": "delhi"}
+- my place is [Delhi]{"entity": "place", "value": "delhi"}
+- I'm hungry in [Delli]{"entity": "place", "value": "delhi"}
+- I'm searching for some food in [Delli]{"entity": "place", "value": "delhi"}
+- Please find me a cafe in [Delli]{"entity": "place", "value": "delhi"}
+- find me a restaurant in [Delli]{"entity": "place", "value": "delhi"}
+- Im in [Delli]{"entity": "place", "value": "delhi"}
+- [Delli]{"entity": "place", "value": "delhi"}
+- going to be in [Delli]{"entity": "place", "value": "delhi"}
+- let's say, [Delli]{"entity": "place", "value": "delhi"}
+- the city of [Delli]{"entity": "place", "value": "delhi"}
+- i'm looking for a place to eat in [Delli]{"entity": "place", "value": "delhi"}
+- Searching for a dining spot in [Delli]{"entity": "place", "value": "delhi"}
+- please help me to find restaurants in [Delli]{"entity": "place", "value": "delhi"}
+- From [Delli]{"entity": "place", "value": "delhi"}
+- oh sorry, [Delli]{"entity": "place", "value": "delhi"}
+- my place is [Delli]{"entity": "place", "value": "delhi"}
+- I'm hungry in [dilli]{"entity": "place", "value": "delhi"}
+- I'm searching for some food in [dilli]{"entity": "place", "value": "delhi"}
+- Please find me a cafe in [dilli]{"entity": "place", "value": "delhi"}
+- i want to eat out, let me know some good options in the city of [dilli]{"entity": "place", "value": "delhi"}
+- in [dilli]{"entity": "place", "value": "delhi"} is there any takeaway options
+- Am looking for a quite place in [dilli]{"entity": "place", "value": "delhi"} to have food
+- Will u pls get me some top-class restraurants in [dilli]{"entity": "place", "value": "delhi"}
+- Am from [dilli]{"entity": "place", "value": "delhi"}, Would like to get a list of recommended hotels for lunch
+- oh sorry, [dilli]{"entity": "place", "value": "delhi"}
+- my place is [dilli]{"entity": "place", "value": "delhi"}
+- I'm hungry in [New Delhi]{"entity": "place", "value": "delhi"}
+- I'm searching for some food in [New Delhi]{"entity": "place", "value": "delhi"}
+- Please find me a cafe in [New Delhi]{"entity": "place", "value": "delhi"}
+- find me a restaurant in [New Delhi]{"entity": "place", "value": "delhi"}
+- the city of [New Delhi]{"entity": "place", "value": "delhi"}
+- chilling in [New Delhi]{"entity": "place", "value": "delhi"}
+- Seraching for restaurants in [New Delhi]{"entity": "place", "value": "delhi"}
+- Any eating suggestion in [New Delhi]{"entity": "place", "value": "delhi"}
+- Suggest me a restaurant in [New Delhi]{"entity": "place", "value": "delhi"} please
+- From [New Delhi]{"entity": "place", "value": "delhi"}
+- oh sorry, [New Delhi]{"entity": "place", "value": "delhi"}
+- my place is [New Delhi]{"entity": "place", "value": "delhi"}
+- I'm hungry in [New Dilli]{"entity": "place", "value": "delhi"}
+- find me a restaurant in [New Dilli]{"entity": "place", "value": "delhi"}
+- Im in [New Dilli]{"entity": "place", "value": "delhi"}
+- [New Dilli]{"entity": "place", "value": "delhi"}
+- going to be in [New Dilli]{"entity": "place", "value": "delhi"}
+- let's say, [New Dilli]{"entity": "place", "value": "delhi"}
+- the city of [New Dilli]{"entity": "place", "value": "delhi"}
+- chilling in [New Dilli]{"entity": "place", "value": "delhi"}
+- Seraching for restaurants in [New Dilli]{"entity": "place", "value": "delhi"}
+- Any eating suggestion in [New Dilli]{"entity": "place", "value": "delhi"}
+- Suggest me a restaurant in [New Dilli]{"entity": "place", "value": "delhi"} please
+- i want to eat out, let me know some good options in the city of [New Dilli]{"entity": "place", "value": "delhi"}
+- find me a restaurant in [new dilli]{"entity": "place", "value": "delhi"}
+- Im in [new dilli]{"entity": "place", "value": "delhi"}
+- [new dilli]{"entity": "place", "value": "delhi"}
+- in [new dilli]{"entity": "place", "value": "delhi"} is there any takeaway options
+- Am looking for a quite place in [new dilli]{"entity": "place", "value": "delhi"} to have food
+- Will u pls get me some top-class restraurants in [new dilli]{"entity": "place", "value": "delhi"}
+- Am from [new dilli]{"entity": "place", "value": "delhi"}, Would like to get a list of recommended hotels for lunch
+- From [new dilli]{"entity": "place", "value": "delhi"} Is there any good place to eat out?
+- Am in [new dilli]{"entity": "place", "value": "delhi"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [new dilli]{"entity": "place", "value": "delhi"}
+- Searching for a dining spot in [new dilli]{"entity": "place", "value": "delhi"}
+- please help me to find restaurants in [new dilli]{"entity": "place", "value": "delhi"}
+- From [new dilli]{"entity": "place", "value": "delhi"}
+- oh sorry, [new dilli]{"entity": "place", "value": "delhi"}
+- my place is [new dilli]{"entity": "place", "value": "delhi"}
+- I'm hungry in [new-delhi]{"entity": "place", "value": "delhi"}
+- I'm searching for some food in [new-delhi]{"entity": "place", "value": "delhi"}
+- Please find me a cafe in [new-delhi]{"entity": "place", "value": "delhi"}
+- find me a restaurant in [new-delhi]{"entity": "place", "value": "delhi"}
+- Im in [new-delhi]{"entity": "place", "value": "delhi"}
+- [new-delhi]{"entity": "place", "value": "delhi"}
+- going to be in [new-delhi]{"entity": "place", "value": "delhi"}
+- let's say, [new-delhi]{"entity": "place", "value": "delhi"}
+- From [new-delhi]{"entity": "place", "value": "delhi"}
+- oh sorry, [new-delhi]{"entity": "place", "value": "delhi"}
+- my place is [new-delhi]{"entity": "place", "value": "delhi"}
+- I'm hungry in [deli]{"entity": "place", "value": "delhi"}
+- I'm searching for some food in [deli]{"entity": "place", "value": "delhi"}
+- Please find me a cafe in [deli]{"entity": "place", "value": "delhi"}
+- find me a restaurant in [deli]{"entity": "place", "value": "delhi"}
+- Any eating suggestion in [deli]{"entity": "place", "value": "delhi"}
+- Suggest me a restaurant in [deli]{"entity": "place", "value": "delhi"} please
+- i want to eat out, let me know some good options in the city of [deli]{"entity": "place", "value": "delhi"}
+- in [deli]{"entity": "place", "value": "delhi"} is there any takeaway options
+- Am looking for a quite place in [deli]{"entity": "place", "value": "delhi"} to have food
+- Will u pls get me some top-class restraurants in [deli]{"entity": "place", "value": "delhi"}
+- Am from [deli]{"entity": "place", "value": "delhi"}, Would like to get a list of recommended hotels for lunch
+- From [deli]{"entity": "place", "value": "delhi"} Is there any good place to eat out?
+- find me a restaurant in [Dili]{"entity": "place", "value": "delhi"}
+- Im in [Dili]{"entity": "place", "value": "delhi"}
+- [Dili]{"entity": "place", "value": "delhi"}
+- Am from [Dili]{"entity": "place", "value": "delhi"}, Would like to get a list of recommended hotels for lunch
+- From [Dili]{"entity": "place", "value": "delhi"} Is there any good place to eat out?
+- Am in [Dili]{"entity": "place", "value": "delhi"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [Dili]{"entity": "place", "value": "delhi"}
+- Searching for a dining spot in [Dili]{"entity": "place", "value": "delhi"}
+- Im in [hyderabad](place)
+- [hyderabad](place)
+- going to be in [hyderabad](place)
+- i want to eat out, let me know some good options in the city of [hyderabad](place)
+- in [hyderabad](place) is there any takeaway options
+- Am looking for a quite place in [hyderabad](place) to have food
+- Will u pls get me some top-class restraurants in [hyderabad](place)
+- Am from [hyderabad](place), Would like to get a list of recommended hotels for lunch
+- From [hyderabad](place) Is there any good place to eat out?
+- Am in [hyderabad](place), wish if you could help me with hotel suggestions
+- my place is [hyderabad](place)
+- I'm hungry in [Hyderabad]{"entity": "place", "value": "hyderabad"}
+- I'm searching for some food in [Hyderabad]{"entity": "place", "value": "hyderabad"}
+- Please find me a cafe in [Hyderabad]{"entity": "place", "value": "hyderabad"}
+- find me a restaurant in [Hyderabad]{"entity": "place", "value": "hyderabad"}
+- Im in [Hyderabad]{"entity": "place", "value": "hyderabad"}
+- [Hyderabad]{"entity": "place", "value": "hyderabad"}
+- going to be in [Hyderabad]{"entity": "place", "value": "hyderabad"}
+- let's say, [Hyderabad]{"entity": "place", "value": "hyderabad"}
+- the city of [Hyderabad]{"entity": "place", "value": "hyderabad"}
+- Am looking for a quite place in [Hyderabad]{"entity": "place", "value": "hyderabad"} to have food
+- Will u pls get me some top-class restraurants in [Hyderabad]{"entity": "place", "value": "hyderabad"}
+- Am from [Hyderabad]{"entity": "place", "value": "hyderabad"}, Would like to get a list of recommended hotels for lunch
+- please help me to find restaurants in [Hyderabad]{"entity": "place", "value": "hyderabad"}
+- From [Hyderabad]{"entity": "place", "value": "hyderabad"}
+- oh sorry, [Hyderabad]{"entity": "place", "value": "hyderabad"}
+- my place is [Hyderabad]{"entity": "place", "value": "hyderabad"}
+- Im in [hyderbad]{"entity": "place", "value": "hyderabad"}
+- [hyderbad]{"entity": "place", "value": "hyderabad"}
+- going to be in [hyderbad]{"entity": "place", "value": "hyderabad"}
+- let's say, [hyderbad]{"entity": "place", "value": "hyderabad"}
+- the city of [hyderbad]{"entity": "place", "value": "hyderabad"}
+- chilling in [hyderbad]{"entity": "place", "value": "hyderabad"}
+- Seraching for restaurants in [hyderbad]{"entity": "place", "value": "hyderabad"}
+- Will u pls get me some top-class restraurants in [hyderbad]{"entity": "place", "value": "hyderabad"}
+- Am from [hyderbad]{"entity": "place", "value": "hyderabad"}, Would like to get a list of recommended hotels for lunch
+- From [hyderbad]{"entity": "place", "value": "hyderabad"} Is there any good place to eat out?
+- I'm searching for some food in [hydrabad]{"entity": "place", "value": "hyderabad"}
+- Please find me a cafe in [hydrabad]{"entity": "place", "value": "hyderabad"}
+- find me a restaurant in [hydrabad]{"entity": "place", "value": "hyderabad"}
+- the city of [hydrabad]{"entity": "place", "value": "hyderabad"}
+- chilling in [hydrabad]{"entity": "place", "value": "hyderabad"}
+- Seraching for restaurants in [hydrabad]{"entity": "place", "value": "hyderabad"}
+- Any eating suggestion in [hydrabad]{"entity": "place", "value": "hyderabad"}
+- Suggest me a restaurant in [hydrabad]{"entity": "place", "value": "hyderabad"} please
+- Am from [hydrabad]{"entity": "place", "value": "hyderabad"}, Would like to get a list of recommended hotels for lunch
+- From [hydrabad]{"entity": "place", "value": "hyderabad"} Is there any good place to eat out?
+- Am in [hydrabad]{"entity": "place", "value": "hyderabad"}, wish if you could help me with hotel suggestions
+- I'm hungry in [Hydrabed]{"entity": "place", "value": "hyderabad"}
+- I'm searching for some food in [Hydrabed]{"entity": "place", "value": "hyderabad"}
+- Please find me a cafe in [Hydrabed]{"entity": "place", "value": "hyderabad"}
+- find me a restaurant in [Hydrabed]{"entity": "place", "value": "hyderabad"}
+- Im in [Hydrabed]{"entity": "place", "value": "hyderabad"}
+- [Hydrabed]{"entity": "place", "value": "hyderabad"}
+- going to be in [Hydrabed]{"entity": "place", "value": "hyderabad"}
+- let's say, [Hydrabed]{"entity": "place", "value": "hyderabad"}
+- the city of [Hydrabed]{"entity": "place", "value": "hyderabad"}
+- Will u pls get me some top-class restraurants in [Hydrabed]{"entity": "place", "value": "hyderabad"}
+- Am from [Hydrabed]{"entity": "place", "value": "hyderabad"}, Would like to get a list of recommended hotels for lunch
+- From [Hydrabed]{"entity": "place", "value": "hyderabad"} Is there any good place to eat out?
+- Am in [Hydrabed]{"entity": "place", "value": "hyderabad"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [Hydrabed]{"entity": "place", "value": "hyderabad"}
+- Searching for a dining spot in [Hydrabed]{"entity": "place", "value": "hyderabad"}
+- please help me to find restaurants in [Hydrabed]{"entity": "place", "value": "hyderabad"}
+- From [Hydrabed]{"entity": "place", "value": "hyderabad"}
+- oh sorry, [Hydrabed]{"entity": "place", "value": "hyderabad"}
+- find me a restaurant in [Kolkata]{"entity": "place", "value": "kolkata"}
+- Im in [Kolkata]{"entity": "place", "value": "kolkata"}
+- [Kolkata]{"entity": "place", "value": "kolkata"}
+- going to be in [Kolkata]{"entity": "place", "value": "kolkata"}
+- let's say, [Kolkata]{"entity": "place", "value": "kolkata"}
+- the city of [Kolkata]{"entity": "place", "value": "kolkata"}
+- chilling in [Kolkata]{"entity": "place", "value": "kolkata"}
+- Am looking for a quite place in [Kolkata]{"entity": "place", "value": "kolkata"} to have food
+- Will u pls get me some top-class restraurants in [Kolkata]{"entity": "place", "value": "kolkata"}
+- Am from [Kolkata]{"entity": "place", "value": "kolkata"}, Would like to get a list of recommended hotels for lunch
+- From [Kolkata]{"entity": "place", "value": "kolkata"} Is there any good place to eat out?
+- Am in [Kolkata]{"entity": "place", "value": "kolkata"}, wish if you could help me with hotel suggestions
+- my place is [Kolkata]{"entity": "place", "value": "kolkata"}
+- I'm hungry in [kolkata](place)
+- I'm searching for some food in [kolkata](place)
+- Please find me a cafe in [kolkata](place)
+- find me a restaurant in [kolkata](place)
+- Im in [kolkata](place)
+- [kolkata](place)
+- Any eating suggestion in [kolkata](place)
+- Suggest me a restaurant in [kolkata](place) please
+- i want to eat out, let me know some good options in the city of [kolkata](place)
+- From [kolkata](place) Is there any good place to eat out?
+- Am in [kolkata](place), wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [kolkata](place)
+- Searching for a dining spot in [kolkata](place)
+- please help me to find restaurants in [kolkata](place)
+- From [kolkata](place)
+- oh sorry, [kolkata](place)
+- let's say, [Kolkatha]{"entity": "place", "value": "kolkata"}
+- the city of [Kolkatha]{"entity": "place", "value": "kolkata"}
+- chilling in [Kolkatha]{"entity": "place", "value": "kolkata"}
+- Seraching for restaurants in [Kolkatha]{"entity": "place", "value": "kolkata"}
+- Any eating suggestion in [Kolkatha]{"entity": "place", "value": "kolkata"}
+- Suggest me a restaurant in [Kolkatha]{"entity": "place", "value": "kolkata"} please
+- i want to eat out, let me know some good options in the city of [Kolkatha]{"entity": "place", "value": "kolkata"}
+- From [Kolkatha]{"entity": "place", "value": "kolkata"}
+- oh sorry, [Kolkatha]{"entity": "place", "value": "kolkata"}
+- my place is [Kolkatha]{"entity": "place", "value": "kolkata"}
+- I'm hungry in [kalkatta]{"entity": "place", "value": "kolkata"}
+- I'm searching for some food in [kalkatta]{"entity": "place", "value": "kolkata"}
+- Please find me a cafe in [kalkatta]{"entity": "place", "value": "kolkata"}
+- find me a restaurant in [kalkatta]{"entity": "place", "value": "kolkata"}
+- the city of [kalkatta]{"entity": "place", "value": "kolkata"}
+- chilling in [kalkatta]{"entity": "place", "value": "kolkata"}
+- Seraching for restaurants in [kalkatta]{"entity": "place", "value": "kolkata"}
+- Any eating suggestion in [kalkatta]{"entity": "place", "value": "kolkata"}
+- Suggest me a restaurant in [kalkatta]{"entity": "place", "value": "kolkata"} please
+- Searching for a dining spot in [kalkatta]{"entity": "place", "value": "kolkata"}
+- please help me to find restaurants in [kalkatta]{"entity": "place", "value": "kolkata"}
+- From [kalkatta]{"entity": "place", "value": "kolkata"}
+- oh sorry, [kalkatta]{"entity": "place", "value": "kolkata"}
+- my place is [kalkatta]{"entity": "place", "value": "kolkata"}
+- the city of [kalkatha]{"entity": "place", "value": "kolkata"}
+- chilling in [kalkatha]{"entity": "place", "value": "kolkata"}
+- Seraching for restaurants in [kalkatha]{"entity": "place", "value": "kolkata"}
+- Any eating suggestion in [kalkatha]{"entity": "place", "value": "kolkata"}
+- Suggest me a restaurant in [kalkatha]{"entity": "place", "value": "kolkata"} please
+- i want to eat out, let me know some good options in the city of [kalkatha]{"entity": "place", "value": "kolkata"}
+- in [kalkatha]{"entity": "place", "value": "kolkata"} is there any takeaway options
+- Am looking for a quite place in [kalkatha]{"entity": "place", "value": "kolkata"} to have food
+- oh sorry, [kalkatha]{"entity": "place", "value": "kolkata"}
+- my place is [kalkatha]{"entity": "place", "value": "kolkata"}
+- I'm hungry in [Calcutta]{"entity": "place", "value": "kolkata"}
+- I'm searching for some food in [Calcutta]{"entity": "place", "value": "kolkata"}
+- Please find me a cafe in [Calcutta]{"entity": "place", "value": "kolkata"}
+- find me a restaurant in [Calcutta]{"entity": "place", "value": "kolkata"}
+- Im in [Calcutta]{"entity": "place", "value": "kolkata"}
+- [Calcutta]{"entity": "place", "value": "kolkata"}
+- going to be in [Calcutta]{"entity": "place", "value": "kolkata"}
+- Will u pls get me some top-class restraurants in [Calcutta]{"entity": "place", "value": "kolkata"}
+- Am from [Calcutta]{"entity": "place", "value": "kolkata"}, Would like to get a list of recommended hotels for lunch
+- From [Calcutta]{"entity": "place", "value": "kolkata"} Is there any good place to eat out?
+- Am in [Calcutta]{"entity": "place", "value": "kolkata"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [Calcutta]{"entity": "place", "value": "kolkata"}
+- Searching for a dining spot in [Calcutta]{"entity": "place", "value": "kolkata"}
+- please help me to find restaurants in [Calcutta]{"entity": "place", "value": "kolkata"}
+- I'm searching for some food in [culcutta]{"entity": "place", "value": "kolkata"}
+- Please find me a cafe in [culcutta]{"entity": "place", "value": "kolkata"}
+- find me a restaurant in [culcutta]{"entity": "place", "value": "kolkata"}
+- Im in [culcutta]{"entity": "place", "value": "kolkata"}
+- [culcutta]{"entity": "place", "value": "kolkata"}
+- going to be in [culcutta]{"entity": "place", "value": "kolkata"}
+- let's say, [culcutta]{"entity": "place", "value": "kolkata"}
+- the city of [culcutta]{"entity": "place", "value": "kolkata"}
+- chilling in [culcutta]{"entity": "place", "value": "kolkata"}
+- Seraching for restaurants in [culcutta]{"entity": "place", "value": "kolkata"}
+- Any eating suggestion in [culcutta]{"entity": "place", "value": "kolkata"}
+- Suggest me a restaurant in [culcutta]{"entity": "place", "value": "kolkata"} please
+- i want to eat out, let me know some good options in the city of [culcutta]{"entity": "place", "value": "kolkata"}
+- in [culcutta]{"entity": "place", "value": "kolkata"} is there any takeaway options
+- Am looking for a quite place in [culcutta]{"entity": "place", "value": "kolkata"} to have food
+- Will u pls get me some top-class restraurants in [culcutta]{"entity": "place", "value": "kolkata"}
+- Am from [culcutta]{"entity": "place", "value": "kolkata"}, Would like to get a list of recommended hotels for lunch
+- please help me to find restaurants in [culcutta]{"entity": "place", "value": "kolkata"}
+- From [culcutta]{"entity": "place", "value": "kolkata"}
+- oh sorry, [culcutta]{"entity": "place", "value": "kolkata"}
+- my place is [culcutta]{"entity": "place", "value": "kolkata"}
+- Please find me a cafe in [mumbai](place)
+- find me a restaurant in [mumbai](place)
+- Im in [mumbai](place)
+- [mumbai](place)
+- going to be in [mumbai](place)
+- Any eating suggestion in [mumbai](place)
+- Suggest me a restaurant in [mumbai](place) please
+- Am from [mumbai](place), Would like to get a list of recommended hotels for lunch
+- From [mumbai](place) Is there any good place to eat out?
+- Am in [mumbai](place), wish if you could help me with hotel suggestions
+- From [mumbai](place)
+- oh sorry, [mumbai](place)
+- my place is [mumbai](place)
+- I'm hungry in [Mumbai]{"entity": "place", "value": "mumbai"}
+- I'm searching for some food in [Mumbai]{"entity": "place", "value": "mumbai"}
+- Please find me a cafe in [Mumbai]{"entity": "place", "value": "mumbai"}
+- find me a restaurant in [Mumbai]{"entity": "place", "value": "mumbai"}
+- Im in [Mumbai]{"entity": "place", "value": "mumbai"}
+- [Mumbai]{"entity": "place", "value": "mumbai"}
+- going to be in [Mumbai]{"entity": "place", "value": "mumbai"}
+- i want to eat out, let me know some good options in the city of [Mumbai]{"entity": "place", "value": "mumbai"}
+- in [Mumbai]{"entity": "place", "value": "mumbai"} is there any takeaway options
+- Am looking for a quite place in [Mumbai]{"entity": "place", "value": "mumbai"} to have food
+- Will u pls get me some top-class restraurants in [Mumbai]{"entity": "place", "value": "mumbai"}
+- Searching for a dining spot in [Mumbai]{"entity": "place", "value": "mumbai"}
+- please help me to find restaurants in [Mumbai]{"entity": "place", "value": "mumbai"}
+- From [Mumbai]{"entity": "place", "value": "mumbai"}
+- oh sorry, [Mumbai]{"entity": "place", "value": "mumbai"}
+- my place is [Mumbai]{"entity": "place", "value": "mumbai"}
+- the city of [mumbay]{"entity": "place", "value": "mumbai"}
+- chilling in [mumbay]{"entity": "place", "value": "mumbai"}
+- Seraching for restaurants in [mumbay]{"entity": "place", "value": "mumbai"}
+- Any eating suggestion in [mumbay]{"entity": "place", "value": "mumbai"}
+- Suggest me a restaurant in [mumbay]{"entity": "place", "value": "mumbai"} please
+- i want to eat out, let me know some good options in the city of [mumbay]{"entity": "place", "value": "mumbai"}
+- in [mumbay]{"entity": "place", "value": "mumbai"} is there any takeaway options
+- Am looking for a quite place in [mumbay]{"entity": "place", "value": "mumbai"} to have food
+- Will u pls get me some top-class restraurants in [mumbay]{"entity": "place", "value": "mumbai"}
+- Am from [mumbay]{"entity": "place", "value": "mumbai"}, Would like to get a list of recommended hotels for lunch
+- From [mumbay]{"entity": "place", "value": "mumbai"} Is there any good place to eat out?
+- Am in [mumbay]{"entity": "place", "value": "mumbai"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [mumbay]{"entity": "place", "value": "mumbai"}
+- Searching for a dining spot in [mumbay]{"entity": "place", "value": "mumbai"}
+- please help me to find restaurants in [mumbay]{"entity": "place", "value": "mumbai"}
+- From [mumbay]{"entity": "place", "value": "mumbai"}
+- oh sorry, [mumbay]{"entity": "place", "value": "mumbai"}
+- my place is [mumbay]{"entity": "place", "value": "mumbai"}
+- I'm hungry in [Bombay]{"entity": "place", "value": "mumbai"}
+- I'm searching for some food in [Bombay]{"entity": "place", "value": "mumbai"}
+- Please find me a cafe in [Bombay]{"entity": "place", "value": "mumbai"}
+- find me a restaurant in [Bombay]{"entity": "place", "value": "mumbai"}
+- Im in [Bombay]{"entity": "place", "value": "mumbai"}
+- [Bombay]{"entity": "place", "value": "mumbai"}
+- going to be in [Bombay]{"entity": "place", "value": "mumbai"}
+- let's say, [Bombay]{"entity": "place", "value": "mumbai"}
+- the city of [Bombay]{"entity": "place", "value": "mumbai"}
+- chilling in [Bombay]{"entity": "place", "value": "mumbai"}
+- Seraching for restaurants in [Bombay]{"entity": "place", "value": "mumbai"}
+- Any eating suggestion in [Bombay]{"entity": "place", "value": "mumbai"}
+- Suggest me a restaurant in [Bombay]{"entity": "place", "value": "mumbai"} please
+- i want to eat out, let me know some good options in the city of [Bombay]{"entity": "place", "value": "mumbai"}
+- in [Bombay]{"entity": "place", "value": "mumbai"} is there any takeaway options
+- Am looking for a quite place in [Bombay]{"entity": "place", "value": "mumbai"} to have food
+- Will u pls get me some top-class restraurants in [Bombay]{"entity": "place", "value": "mumbai"}
+- Am from [Bombay]{"entity": "place", "value": "mumbai"}, Would like to get a list of recommended hotels for lunch
+- From [Bombay]{"entity": "place", "value": "mumbai"} Is there any good place to eat out?
+- Please find me a cafe in [bombai]{"entity": "place", "value": "mumbai"}
+- find me a restaurant in [bombai]{"entity": "place", "value": "mumbai"}
+- Im in [bombai]{"entity": "place", "value": "mumbai"}
+- [bombai]{"entity": "place", "value": "mumbai"}
+- going to be in [bombai]{"entity": "place", "value": "mumbai"}
+- let's say, [bombai]{"entity": "place", "value": "mumbai"}
+- the city of [bombai]{"entity": "place", "value": "mumbai"}
+- Will u pls get me some top-class restraurants in [bombai]{"entity": "place", "value": "mumbai"}
+- Am from [bombai]{"entity": "place", "value": "mumbai"}, Would like to get a list of recommended hotels for lunch
+- From [bombai]{"entity": "place", "value": "mumbai"} Is there any good place to eat out?
+- Am in [bombai]{"entity": "place", "value": "mumbai"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [bombai]{"entity": "place", "value": "mumbai"}
+- [pune](place)
+- going to be in [pune](place)
+- let's say, [pune](place)
+- the city of [pune](place)
+- chilling in [pune](place)
+- Seraching for restaurants in [pune](place)
+- Any eating suggestion in [pune](place)
+- Suggest me a restaurant in [pune](place) please
+- i want to eat out, let me know some good options in the city of [pune](place)
+- i'm looking for a place to eat in [pune](place)
+- Searching for a dining spot in [pune](place)
+- please help me to find restaurants in [pune](place)
+- From [pune](place)
+- oh sorry, [pune](place)
+- Suggest me a restaurant in [Pune]{"entity": "place", "value": "pune"} please
+- i want to eat out, let me know some good options in the city of [Pune]{"entity": "place", "value": "pune"}
+- in [Pune]{"entity": "place", "value": "pune"} is there any takeaway options
+- Am looking for a quite place in [Pune]{"entity": "place", "value": "pune"} to have food
+- Will u pls get me some top-class restraurants in [Pune]{"entity": "place", "value": "pune"}
+- Am from [Pune]{"entity": "place", "value": "pune"}, Would like to get a list of recommended hotels for lunch
+- From [Pune]{"entity": "place", "value": "pune"} Is there any good place to eat out?
+- Am in [Pune]{"entity": "place", "value": "pune"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [Pune]{"entity": "place", "value": "pune"}
+- Searching for a dining spot in [Pune]{"entity": "place", "value": "pune"}
+- please help me to find restaurants in [Pune]{"entity": "place", "value": "pune"}
+- From [Pune]{"entity": "place", "value": "pune"}
+- the city of [Puna]{"entity": "place", "value": "pune"}
+- chilling in [Puna]{"entity": "place", "value": "pune"}
+- Seraching for restaurants in [Puna]{"entity": "place", "value": "pune"}
+- Any eating suggestion in [Puna]{"entity": "place", "value": "pune"}
+- Suggest me a restaurant in [Puna]{"entity": "place", "value": "pune"} please
+- please help me to find restaurants in [Puna]{"entity": "place", "value": "pune"}
+- From [Puna]{"entity": "place", "value": "pune"}
+- oh sorry, [Puna]{"entity": "place", "value": "pune"}
+- my place is [Puna]{"entity": "place", "value": "pune"}
+- I'm hungry in [poone]{"entity": "place", "value": "pune"}
+- I'm searching for some food in [poone]{"entity": "place", "value": "pune"}
+- Please find me a cafe in [poone]{"entity": "place", "value": "pune"}
+- find me a restaurant in [poone]{"entity": "place", "value": "pune"}
+- Im in [poone]{"entity": "place", "value": "pune"}
+- Suggest me a restaurant in [poone]{"entity": "place", "value": "pune"} please
+- i want to eat out, let me know some good options in the city of [poone]{"entity": "place", "value": "pune"}
+- in [poone]{"entity": "place", "value": "pune"} is there any takeaway options
+- Am looking for a quite place in [poone]{"entity": "place", "value": "pune"} to have food
+- Will u pls get me some top-class restraurants in [poone]{"entity": "place", "value": "pune"}
+- Am from [poone]{"entity": "place", "value": "pune"}, Would like to get a list of recommended hotels for lunch
+- From [poone]{"entity": "place", "value": "pune"} Is there any good place to eat out?
+- Am in [poone]{"entity": "place", "value": "pune"}, wish if you could help me with hotel suggestions
+- Im in [poona]{"entity": "place", "value": "pune"}
+- [poona]{"entity": "place", "value": "pune"}
+- going to be in [poona]{"entity": "place", "value": "pune"}
+- let's say, [poona]{"entity": "place", "value": "pune"}
+- the city of [poona]{"entity": "place", "value": "pune"}
+- chilling in [poona]{"entity": "place", "value": "pune"}
+- Seraching for restaurants in [poona]{"entity": "place", "value": "pune"}
+- Any eating suggestion in [poona]{"entity": "place", "value": "pune"}
+- Suggest me a restaurant in [poona]{"entity": "place", "value": "pune"} please
+- i want to eat out, let me know some good options in the city of [poona]{"entity": "place", "value": "pune"}
+- my place is [poona]{"entity": "place", "value": "pune"}
+- I'm searching for some food in [Kochi]{"entity": "place", "value": "kochi"}
+- From [Raanchi]{"entity": "place", "value": "ranchi"}
+- oh sorry, [faridabad](place)
+- [Cannanore]{"entity": "place", "value": "kannur"}
+- Will u pls get me some top-class restraurants in [Avantikapuri]{"entity": "place", "value": "ujjain"}
+- From [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"} Is there any good place to eat out?
+- my place is [Firozbad]{"entity": "place", "value": "firozabad"}
+- my place is [Bhiwandi]{"entity": "place", "value": "bhiwandi"}
+- oh sorry, [cochin]{"entity": "place", "value": "kochi"}
+- Will u pls get me some top-class restraurants in [nanded](place)
+- going to be in [pondicherry](place)
+- From [Noida]{"entity": "place", "value": "noida"}
+- Am from [Avantikapuri]{"entity": "place", "value": "ujjain"}, Would like to get a list of recommended hotels for lunch
+- Will u pls get me some top-class restraurants in [Mysore]{"entity": "place", "value": "mysore"}
+- Am looking for a quite place in [Avantikapuri]{"entity": "place", "value": "ujjain"} to have food
+- my place is [ajmir]{"entity": "place", "value": "ajmer"}
+- in [Deradun]{"entity": "place", "value": "dehradun"} is there any takeaway options
+- please help me to find restaurants in [pondicherry](place)
+- Any eating suggestion in [Vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- Am in [indore](place), wish if you could help me with hotel suggestions
+- Am from [deharadun]{"entity": "place", "value": "dehradun"}, Would like to get a list of recommended hotels for lunch
+- Please find me a cafe in [Kolapur]{"entity": "place", "value": "kolhapur"}
+- going to be in [tirupur]{"entity": "place", "value": "tiruppur"}
+- Any eating suggestion in [Madurai]{"entity": "place", "value": "madurai"}
+- Searching for a dining spot in [kannoor]{"entity": "place", "value": "kannur"}
+- Am from [kolam]{"entity": "place", "value": "kollam"}, Would like to get a list of recommended hotels for lunch
+- I'm searching for some food in [Mathura]{"entity": "place", "value": "mathura"}
+- I'm searching for some food in [purulia](place)
+- Will u pls get me some top-class restraurants in [belgaum](place)
+- Searching for a dining spot in [Indore]{"entity": "place", "value": "indore"}
+- [Nasikh]{"entity": "place", "value": "nashik"}
+- oh sorry, [vadhodhara]{"entity": "place", "value": "vadodara"}
+- my place is [Jaipur]{"entity": "place", "value": "jaipur"}
+- i want to eat out, let me know some good options in the city of [Baroda]{"entity": "place", "value": "vadodara"}
+- let's say, [kolhapur](place)
+- Am from [selum]{"entity": "place", "value": "salem"}, Would like to get a list of recommended hotels for lunch
+- i'm looking for a place to eat in [jammu](place)
+- going to be in [Cannanore]{"entity": "place", "value": "kannur"}
+- I'm hungry in [kochi](place)
+- Will u pls get me some top-class restraurants in [Malappuram]{"entity": "place", "value": "malappuram"}
+- Im in [indor]{"entity": "place", "value": "indore"}
+- Any eating suggestion in [Kozhikode]{"entity": "place", "value": "kozhikode"}
+- I'm hungry in [trissur]{"entity": "place", "value": "thrissur"}
+- let's say, [rajkot](place)
+- find me a restaurant in [Gwalior]{"entity": "place", "value": "gwalior"}
+- Im in [Bilaspur]{"entity": "place", "value": "bilaspur"}
+- I'm searching for some food in [Kolapur]{"entity": "place", "value": "kolhapur"}
+- [Soorath]{"entity": "place", "value": "surat"}
+- Suggest me a restaurant in [Nellor]{"entity": "place", "value": "nellore"} please
+- From [Dharwad]{"entity": "place", "value": "hubli-dharwad"}
+- [Nashikh]{"entity": "place", "value": "nashik"}
+- I'm hungry in [Jamshedpur]{"entity": "place", "value": "jamshedpur"}
+- Please find me a cafe in [Moradabad]{"entity": "place", "value": "moradabad"}
+- Any eating suggestion in [Sangli]{"entity": "place", "value": "sangli"}
+- i want to eat out, let me know some good options in the city of [Kochi]{"entity": "place", "value": "kochi"}
+- the city of [Salem]{"entity": "place", "value": "salem"}
+- Any eating suggestion in [ajmir]{"entity": "place", "value": "ajmer"}
+- Am in [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"}, wish if you could help me with hotel suggestions
+- oh sorry, [rajkot](place)
+- in [bhopal](place) is there any takeaway options
+- in [Ludhiana]{"entity": "place", "value": "ludhiana"} is there any takeaway options
+- i want to eat out, let me know some good options in the city of [Jalandhar]{"entity": "place", "value": "jalandhar"}
+- going to be in [Pudhuchery]{"entity": "place", "value": "pondicherry"}
+- Searching for a dining spot in [tiruppur](place)
+- Please find me a cafe in [ghaziabad](place)
+- [Noida]{"entity": "place", "value": "noida"}
+- oh sorry, [ujjain](place)
+- Any eating suggestion in [bareili]{"entity": "place", "value": "bareilly"}
+- Please find me a cafe in [bhubneswar]{"entity": "place", "value": "bhubaneswar"}
+- I'm hungry in [Rajahmundry]{"entity": "place", "value": "rajahmundry"}
+- From [jansi]{"entity": "place", "value": "jhansi"} Is there any good place to eat out?
+- find me a restaurant in [Mysor]{"entity": "place", "value": "mysore"}
+- From [chandigad]{"entity": "place", "value": "chandigarh"}
+- my place is [bhavnagar](place)
+- Am from [Madurai]{"entity": "place", "value": "madurai"}, Would like to get a list of recommended hotels for lunch
+- i'm looking for a place to eat in [kanpur](place)
+- Am from [bhilai](place), Would like to get a list of recommended hotels for lunch
+- I'm searching for some food in [Cuttack]{"entity": "place", "value": "cuttack"}
+- Searching for a dining spot in [aligad]{"entity": "place", "value": "aligarh"}
+- in [Malappuram]{"entity": "place", "value": "malappuram"} is there any takeaway options
+- Will u pls get me some top-class restraurants in [agra](place)
+- Please find me a cafe in [bijapur](place)
+- Seraching for restaurants in [kakinada](place)
+- From [nashik](place)
+- Please find me a cafe in [gulbarga](place)
+- From [bilaspur](place) Is there any good place to eat out?
+- Will u pls get me some top-class restraurants in [kolhapur](place)
+- Seraching for restaurants in [rajkot](place)
+- I'm searching for some food in [Aligarh]{"entity": "place", "value": "aligarh"}
+- I'm searching for some food in [Jamshadpur]{"entity": "place", "value": "jamshedpur"}
+- find me a restaurant in [Simla]{"entity": "place", "value": "shimla"}
+- going to be in [coimbatur]{"entity": "place", "value": "coimbatore"}
+- Am in [Salem]{"entity": "place", "value": "salem"}, wish if you could help me with hotel suggestions
+- Am looking for a quite place in [kannur](place) to have food
+- [Bokaro]{"entity": "place", "value": "bokaro steel city"}
+- in [Bhanarash]{"entity": "place", "value": "varanasi"} is there any takeaway options
+- From [nanded](place)
+- Am from [bokaro]{"entity": "place", "value": "bokaro steel city"}, Would like to get a list of recommended hotels for lunch
+- Any eating suggestion in [Shimlah]{"entity": "place", "value": "shimla"}
+- in [dhanbad](place) is there any takeaway options
+- I'm searching for some food in [thiruvananthapuram](place)
+- in [jammu](place) is there any takeaway options
+- find me a restaurant in [Ujain]{"entity": "place", "value": "ujjain"}
+- Any eating suggestion in [Nashik]{"entity": "place", "value": "nashik"}
+- Seraching for restaurants in [kattack]{"entity": "place", "value": "cuttack"}
+- Am looking for a quite place in [Jaipur]{"entity": "place", "value": "jaipur"} to have food
+- Am in [erode](place), wish if you could help me with hotel suggestions
+- please help me to find restaurants in [Sangli]{"entity": "place", "value": "sangli"}
+- Im in [solapur](place)
+- Will u pls get me some top-class restraurants in [Bhiwandi]{"entity": "place", "value": "bhiwandi"}
+- in [hubli-dharwad](place) is there any takeaway options
+- Im in [hamirpur](place)
+- Seraching for restaurants in [purulia](place)
+- Will u pls get me some top-class restraurants in [Coimbatore]{"entity": "place", "value": "coimbatore"}
+- i'm looking for a place to eat in [Salem]{"entity": "place", "value": "salem"}
+- Seraching for restaurants in [jammu](place)
+- I'm searching for some food in [Kakkinada]{"entity": "place", "value": "kakinada"}
+- Any eating suggestion in [hubbali]{"entity": "place", "value": "hubli-dharwad"}
+- please help me to find restaurants in [Vellur]{"entity": "place", "value": "vellore"}
+- chilling in [Bhanarash]{"entity": "place", "value": "varanasi"}
+- i want to eat out, let me know some good options in the city of [Nanded]{"entity": "place", "value": "nanded"}
+- Searching for a dining spot in [nashik](place)
+- Will u pls get me some top-class restraurants in [Mangalore]{"entity": "place", "value": "mangalore"}
+- chilling in [chandigarh](place)
+- Im in [jamnagar](place)
+- I'm hungry in [Gulbarga]{"entity": "place", "value": "gulbarga"}
+- From [Asansol]{"entity": "place", "value": "asansol"} Is there any good place to eat out?
+- From [Rajkot]{"entity": "place", "value": "rajkot"}
+- Am looking for a quite place in [Dhanbad]{"entity": "place", "value": "dhanbad"} to have food
+- going to be in [Varanasi]{"entity": "place", "value": "varanasi"}
+- Please find me a cafe in [Ludhiana]{"entity": "place", "value": "ludhiana"}
+- Please find me a cafe in [Chandigar]{"entity": "place", "value": "chandigarh"}
+- please help me to find restaurants in [vadodara](place)
+- i want to eat out, let me know some good options in the city of [Rajahmundry]{"entity": "place", "value": "rajahmundry"}
+- [Mysore]{"entity": "place", "value": "mysore"}
+- Seraching for restaurants in [Indore]{"entity": "place", "value": "indore"}
+- oh sorry, [amaravati]{"entity": "place", "value": "amravati"}
+- Am in [Ludhiana]{"entity": "place", "value": "ludhiana"}, wish if you could help me with hotel suggestions
+- i want to eat out, let me know some good options in the city of [thrissur](place)
+- my place is [Nagpur]{"entity": "place", "value": "nagpur"}
+- I'm hungry in [Mathura]{"entity": "place", "value": "mathura"}
+- i want to eat out, let me know some good options in the city of [Soorath]{"entity": "place", "value": "surat"}
+- my place is [guntur](place)
+- i'm looking for a place to eat in [ranchi](place)
+- my place is [Kurnool]{"entity": "place", "value": "kurnool"}
+- Suggest me a restaurant in [Jammu]{"entity": "place", "value": "jammu"} please
+- Searching for a dining spot in [Mysore]{"entity": "place", "value": "mysore"}
+- going to be in [Nasikh]{"entity": "place", "value": "nashik"}
+- i want to eat out, let me know some good options in the city of [madurai](place)
+- Am looking for a quite place in [Nanded]{"entity": "place", "value": "nanded"} to have food
+- I'm searching for some food in [Pudhuchery]{"entity": "place", "value": "pondicherry"}
+- Am looking for a quite place in [bhavnagar](place) to have food
+- find me a restaurant in [selum]{"entity": "place", "value": "salem"}
+- i want to eat out, let me know some good options in the city of [Nashik]{"entity": "place", "value": "nashik"}
+- let's say, [hubli-dharwad](place)
+- Seraching for restaurants in [Thrichur]{"entity": "place", "value": "thrissur"}
+- Am in [Barelly]{"entity": "place", "value": "bareilly"}, wish if you could help me with hotel suggestions
+- Am in [noidaa]{"entity": "place", "value": "noida"}, wish if you could help me with hotel suggestions
+- I'm hungry in [Patana]{"entity": "place", "value": "patna"}
+- Any eating suggestion in [raipur](place)
+- find me a restaurant in [Asansol]{"entity": "place", "value": "asansol"}
+- Searching for a dining spot in [purulia](place)
+- in [mysur]{"entity": "place", "value": "mysore"} is there any takeaway options
+- Am looking for a quite place in [Ranchi]{"entity": "place", "value": "ranchi"} to have food
+- find me a restaurant in [dhanbad](place)
+- in [Matura]{"entity": "place", "value": "mathura"} is there any takeaway options
+- in [mysore](place) is there any takeaway options
+- i'm looking for a place to eat in [Kolapur]{"entity": "place", "value": "kolhapur"}
+- let's say, [coimbatur]{"entity": "place", "value": "coimbatore"}
+- my place is [aligarh](place)
+- From [Warangal]{"entity": "place", "value": "warangal"}
+- let's say, [bopal]{"entity": "place", "value": "bhopal"}
+- oh sorry, [coimbatore](place)
+- From [Nellor]{"entity": "place", "value": "nellore"} Is there any good place to eat out?
+- Im in [Tiruppur]{"entity": "place", "value": "tiruppur"}
+- in [Cochi]{"entity": "place", "value": "kochi"} is there any takeaway options
+- Am from [Guwahati]{"entity": "place", "value": "guwahati"}, Would like to get a list of recommended hotels for lunch
+- I'm hungry in [virar]{"entity": "place", "value": "Vasai-Virar City"}
+- Im in [Dhanbad]{"entity": "place", "value": "dhanbad"}
+- Im in [coimbatore](place)
+- Am from [Virar]{"entity": "place", "value": "Vasai-Virar City"}, Would like to get a list of recommended hotels for lunch
+- I'm hungry in [jammu](place)
+- Will u pls get me some top-class restraurants in [Bhuvaneswar]{"entity": "place", "value": "bhubaneswar"}
+- going to be in [mysore](place)
+- From [Madurai]{"entity": "place", "value": "madurai"} Is there any good place to eat out?
+- Searching for a dining spot in [belgaum](place)
+- Searching for a dining spot in [Vadodhara]{"entity": "place", "value": "vadodara"}
+- Any eating suggestion in [Bhuvneswar]{"entity": "place", "value": "bhubaneswar"}
+- Will u pls get me some top-class restraurants in [coimbatore](place)
+- going to be in [rajamundri]{"entity": "place", "value": "rajahmundry"}
+- my place is [ajmer](place)
+- [sanghli]{"entity": "place", "value": "sangli"}
+- [Rajahmandry]{"entity": "place", "value": "rajahmundry"}
+- chilling in [erod]{"entity": "place", "value": "erode"}
+- I'm searching for some food in [Hubballi]{"entity": "place", "value": "hubli-dharwad"}
+- oh sorry, [Jhansi]{"entity": "place", "value": "jhansi"}
+- oh sorry, [Chandigarh]{"entity": "place", "value": "chandigarh"}
+- Am in [guntur](place), wish if you could help me with hotel suggestions
+- I'm hungry in [shiliguri]{"entity": "place", "value": "siliguri"}
+- Searching for a dining spot in [Belgaum]{"entity": "place", "value": "belgaum"}
+- going to be in [Eerode]{"entity": "place", "value": "erode"}
+- going to be in [bokaro]{"entity": "place", "value": "bokaro steel city"}
+- oh sorry, [bhilai](place)
+- From [Deradun]{"entity": "place", "value": "dehradun"} Is there any good place to eat out?
+- Suggest me a restaurant in [firozabad](place) please
+- Suggest me a restaurant in [Vashai]{"entity": "place", "value": "Vasai-Virar City"} please
+- my place is [Pondi]{"entity": "place", "value": "pondicherry"}
+- From [agra](place)
+- oh sorry, [Nagpur]{"entity": "place", "value": "nagpur"}
+- Searching for a dining spot in [Amrutsar]{"entity": "place", "value": "amritsar"}
+- I'm hungry in [Amritsar]{"entity": "place", "value": "amritsar"}
+- the city of [vijayawada](place)
+- I'm searching for some food in [Firozbad]{"entity": "place", "value": "firozabad"}
+- Am from [Gaziabad]{"entity": "place", "value": "ghaziabad"}, Would like to get a list of recommended hotels for lunch
+- I'm hungry in [Chandigar]{"entity": "place", "value": "chandigarh"}
+- From [Salem]{"entity": "place", "value": "salem"} Is there any good place to eat out?
+- let's say, [Tiruppur]{"entity": "place", "value": "tiruppur"}
+- I'm hungry in [Cuttack]{"entity": "place", "value": "cuttack"}
+- I'm searching for some food in [Varanashi]{"entity": "place", "value": "varanasi"}
+- in [sholapur]{"entity": "place", "value": "solapur"} is there any takeaway options
+- i want to eat out, let me know some good options in the city of [banaras]{"entity": "place", "value": "varanasi"}
+- Any eating suggestion in [Jabalpur]{"entity": "place", "value": "jabalpur"}
+- oh sorry, [bhanarash]{"entity": "place", "value": "varanasi"}
+- From [Cannanore]{"entity": "place", "value": "kannur"} Is there any good place to eat out?
+- Will u pls get me some top-class restraurants in [kannoor]{"entity": "place", "value": "kannur"}
+- Please find me a cafe in [Virar]{"entity": "place", "value": "Vasai-Virar City"}
+- going to be in [Gulbarga]{"entity": "place", "value": "gulbarga"}
+- let's say, [Bikaner]{"entity": "place", "value": "bikaner"}
+- Will u pls get me some top-class restraurants in [moradabad](place)
+- Am in [virar]{"entity": "place", "value": "Vasai-Virar City"}, wish if you could help me with hotel suggestions
+- going to be in [Nashikh]{"entity": "place", "value": "nashik"}
+- Am looking for a quite place in [kollam](place) to have food
+- Searching for a dining spot in [jamshedpur](place)
+- Please find me a cafe in [Gurugram]{"entity": "place", "value": "gurgaon"}
+- Please find me a cafe in [Jamu]{"entity": "place", "value": "jammu"}
+- the city of [Amravati]{"entity": "place", "value": "amravati"}
+- the city of [aligarh](place)
+- I'm searching for some food in [surat](place)
+- Please find me a cafe in [Deradun]{"entity": "place", "value": "dehradun"}
+- Am looking for a quite place in [bhiwandi](place) to have food
+- the city of [purulia](place)
+- Please find me a cafe in [Pudhuchery]{"entity": "place", "value": "pondicherry"}
+- going to be in [bikner]{"entity": "place", "value": "bikaner"}
+- Any eating suggestion in [Prayag]{"entity": "place", "value": "prayagraj"}
+- please help me to find restaurants in [firozbad]{"entity": "place", "value": "firozabad"}
+- the city of [Kannur]{"entity": "place", "value": "kannur"}
+- From [Malappuram]{"entity": "place", "value": "malappuram"} Is there any good place to eat out?
+- Any eating suggestion in [Kalburgi]{"entity": "place", "value": "gulbarga"}
+- I'm hungry in [Amravati]{"entity": "place", "value": "amravati"}
+- I'm searching for some food in [Gwalior]{"entity": "place", "value": "gwalior"}
+- i want to eat out, let me know some good options in the city of [jammu](place)
+- Am from [kanpur](place), Would like to get a list of recommended hotels for lunch
+- Im in [Vijayawada]{"entity": "place", "value": "vijayawada"}
+- From [thrissur](place)
+- my place is [vijayawada](place)
+- oh sorry, [Pondi]{"entity": "place", "value": "pondicherry"}
+- From [Hamirpur]{"entity": "place", "value": "hamirpur"}
+- Suggest me a restaurant in [mysur]{"entity": "place", "value": "mysore"} please
+- Will u pls get me some top-class restraurants in [Asnsol]{"entity": "place", "value": "asansol"}
+- oh sorry, [jamnagar](place)
+- going to be in [Nagpur]{"entity": "place", "value": "nagpur"}
+- Am in [Dharwad]{"entity": "place", "value": "hubli-dharwad"}, wish if you could help me with hotel suggestions
+- I'm hungry in [Rourkela]{"entity": "place", "value": "rourkela"}
+- chilling in [bhavnagar](place)
+- [Kalburgi]{"entity": "place", "value": "gulbarga"}
+- going to be in [Hamirpur]{"entity": "place", "value": "hamirpur"}
+- i want to eat out, let me know some good options in the city of [surath]{"entity": "place", "value": "surat"}
+- Am from [kolhapur](place), Would like to get a list of recommended hotels for lunch
+- i'm looking for a place to eat in [chandigad]{"entity": "place", "value": "chandigarh"}
+- From [faridbad]{"entity": "place", "value": "faridabad"} Is there any good place to eat out?
+- going to be in [Hubballi]{"entity": "place", "value": "hubli-dharwad"}
+- Am looking for a quite place in [vadodara](place) to have food
+- Any eating suggestion in [Coimbatore]{"entity": "place", "value": "coimbatore"}
+- Seraching for restaurants in [cochin]{"entity": "place", "value": "kochi"}
+- Am in [Mangaluru]{"entity": "place", "value": "mangalore"}, wish if you could help me with hotel suggestions
+- Am in [rourkela](place), wish if you could help me with hotel suggestions
+- please help me to find restaurants in [Bhanaras]{"entity": "place", "value": "varanasi"}
+- From [bareilly](place) Is there any good place to eat out?
+- Please find me a cafe in [Bikaner]{"entity": "place", "value": "bikaner"}
+- I'm hungry in [Vellur]{"entity": "place", "value": "vellore"}
+- From [mangalore](place) Is there any good place to eat out?
+- find me a restaurant in [Kollam]{"entity": "place", "value": "kollam"}
+- Am looking for a quite place in [Trichy]{"entity": "place", "value": "tiruchirappalli"} to have food
+- let's say, [bhilai](place)
+- Am in [Selam]{"entity": "place", "value": "salem"}, wish if you could help me with hotel suggestions
+- Any eating suggestion in [Varangal]{"entity": "place", "value": "warangal"}
+- Please find me a cafe in [Vellur]{"entity": "place", "value": "vellore"}
+- Am from [Bhivandi]{"entity": "place", "value": "bhiwandi"}, Would like to get a list of recommended hotels for lunch
+- I'm searching for some food in [Gulbarga]{"entity": "place", "value": "gulbarga"}
+- Am from [Surat]{"entity": "place", "value": "surat"}, Would like to get a list of recommended hotels for lunch
+- I'm hungry in [kolam]{"entity": "place", "value": "kollam"}
+- I'm hungry in [bhavnagar](place)
+- chilling in [vellore](place)
+- in [Nashik]{"entity": "place", "value": "nashik"} is there any takeaway options
+- my place is [Varanasi]{"entity": "place", "value": "varanasi"}
+- Am in [bokaro]{"entity": "place", "value": "bokaro steel city"}, wish if you could help me with hotel suggestions
+- i want to eat out, let me know some good options in the city of [ranchi](place)
+- Suggest me a restaurant in [nasikh]{"entity": "place", "value": "nashik"} please
+- find me a restaurant in [gulbarga](place)
+- Any eating suggestion in [Matura]{"entity": "place", "value": "mathura"}
+- chilling in [jaipur](place)
+- i want to eat out, let me know some good options in the city of [nagpur](place)
+- find me a restaurant in [jammu](place)
+- [bareili]{"entity": "place", "value": "bareilly"}
+- oh sorry, [trichi]{"entity": "place", "value": "tiruchirappalli"}
+- Seraching for restaurants in [Gova]{"entity": "place", "value": "goa"}
+- i'm looking for a place to eat in [kurnool](place)
+- Will u pls get me some top-class restraurants in [Kolhapur]{"entity": "place", "value": "kolhapur"}
+- going to be in [Kozhikode]{"entity": "place", "value": "kozhikode"}
+- let's say, [Kannur]{"entity": "place", "value": "kannur"}
+- chilling in [Asnsol]{"entity": "place", "value": "asansol"}
+- oh sorry, [Gwalior]{"entity": "place", "value": "gwalior"}
+- please help me to find restaurants in [tiruchirappalli](place)
+- i want to eat out, let me know some good options in the city of [Coimbatore]{"entity": "place", "value": "coimbatore"}
+- oh sorry, [Moradabad]{"entity": "place", "value": "moradabad"}
+- Im in [Jalandhar]{"entity": "place", "value": "jalandhar"}
+- Suggest me a restaurant in [Asnsol]{"entity": "place", "value": "asansol"} please
+- i'm looking for a place to eat in [Nashikh]{"entity": "place", "value": "nashik"}
+- find me a restaurant in [trichi]{"entity": "place", "value": "tiruchirappalli"}
+- the city of [Rourkela]{"entity": "place", "value": "rourkela"}
+- my place is [kurnool](place)
+- Will u pls get me some top-class restraurants in [mysur]{"entity": "place", "value": "mysore"}
+- chilling in [Gurugram]{"entity": "place", "value": "gurgaon"}
+- please help me to find restaurants in [Varanasi]{"entity": "place", "value": "varanasi"}
+- Im in [surat](place)
+- From [pondicherry](place) Is there any good place to eat out?
+- my place is [aurangabad](place)
+- Am looking for a quite place in [Ajmer]{"entity": "place", "value": "ajmer"} to have food
+- Searching for a dining spot in [pudducherry]{"entity": "place", "value": "pondicherry"}
+- the city of [ajmer](place)
+- Suggest me a restaurant in [Gauhati]{"entity": "place", "value": "guwahati"} please
+- Please find me a cafe in [varanasi](place)
+- Please find me a cafe in [Patana]{"entity": "place", "value": "patna"}
+- find me a restaurant in [nellore](place)
+- Im in [Cochi]{"entity": "place", "value": "kochi"}
+- oh sorry, [Nanded]{"entity": "place", "value": "nanded"}
+- chilling in [Bijapur]{"entity": "place", "value": "bijapur"}
+- Am from [warangal](place), Would like to get a list of recommended hotels for lunch
+- oh sorry, [pondicherry](place)
+- Am in [Bilaspur]{"entity": "place", "value": "bilaspur"}, wish if you could help me with hotel suggestions
+- I'm hungry in [indor]{"entity": "place", "value": "indore"}
+- Seraching for restaurants in [Deradun]{"entity": "place", "value": "dehradun"}
+- oh sorry, [jaipur](place)
+- Im in [bhopal](place)
+- I'm hungry in [Raanchi]{"entity": "place", "value": "ranchi"}
+- Suggest me a restaurant in [Rourkela]{"entity": "place", "value": "rourkela"} please
+- in [Ludiana]{"entity": "place", "value": "ludhiana"} is there any takeaway options
+- the city of [moradabad](place)
+- please help me to find restaurants in [shrinagar]{"entity": "place", "value": "srinagar"}
+- Will u pls get me some top-class restraurants in [Goa]{"entity": "place", "value": "goa"}
+- Am from [Cuttack]{"entity": "place", "value": "cuttack"}, Would like to get a list of recommended hotels for lunch
+- i'm looking for a place to eat in [Kolhapur]{"entity": "place", "value": "kolhapur"}
+- Am in [Bhavnagar]{"entity": "place", "value": "bhavnagar"}, wish if you could help me with hotel suggestions
+- Im in [Kakinada]{"entity": "place", "value": "kakinada"}
+- Will u pls get me some top-class restraurants in [Firozabad]{"entity": "place", "value": "firozabad"}
+- find me a restaurant in [vadodara](place)
+- [Jaipur]{"entity": "place", "value": "jaipur"}
+- let's say, [Malappuram]{"entity": "place", "value": "malappuram"}
+- I'm searching for some food in [rajkot](place)
+- chilling in [nanded](place)
+- From [coimbator]{"entity": "place", "value": "coimbatore"} Is there any good place to eat out?
+- I'm searching for some food in [patna](place)
+- please help me to find restaurants in [Raanchi]{"entity": "place", "value": "ranchi"}
+- i want to eat out, let me know some good options in the city of [kakinada](place)
+- From [jhansi](place) Is there any good place to eat out?
+- in [goa](place) is there any takeaway options
+- going to be in [nagpur](place)
+- Will u pls get me some top-class restraurants in [dhanbad](place)
+- Am in [ernakulam]{"entity": "place", "value": "kochi"}, wish if you could help me with hotel suggestions
+- From [hubli]{"entity": "place", "value": "hubli-dharwad"}
+- oh sorry, [sholapur]{"entity": "place", "value": "solapur"}
+- Searching for a dining spot in [Jalandhar]{"entity": "place", "value": "jalandhar"}
+- From [dehradun](place) Is there any good place to eat out?
+- I'm hungry in [Thirupur]{"entity": "place", "value": "tiruppur"}
+- Im in [Aurangabad]{"entity": "place", "value": "aurangabad"}
+- find me a restaurant in [surath]{"entity": "place", "value": "surat"}
+- [Varanashi]{"entity": "place", "value": "varanasi"}
+- chilling in [kolhapur](place)
+- Please find me a cafe in [Bijapur]{"entity": "place", "value": "bijapur"}
+- Am looking for a quite place in [bilaspur](place) to have food
+- let's say, [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- please help me to find restaurants in [Jabalpur]{"entity": "place", "value": "jabalpur"}
+- Seraching for restaurants in [kattak]{"entity": "place", "value": "cuttack"}
+- I'm hungry in [vadhodhara]{"entity": "place", "value": "vadodara"}
+- chilling in [Barelly]{"entity": "place", "value": "bareilly"}
+- Any eating suggestion in [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- Seraching for restaurants in [Patna]{"entity": "place", "value": "patna"}
+- in [Patana]{"entity": "place", "value": "patna"} is there any takeaway options
+- Any eating suggestion in [kattack]{"entity": "place", "value": "cuttack"}
+- Any eating suggestion in [varanasi](place)
+- going to be in [erod]{"entity": "place", "value": "erode"}
+- Am from [Nandigrama]{"entity": "place", "value": "nanded"}, Would like to get a list of recommended hotels for lunch
+- From [guwahati](place)
+- Am from [Rajahmundry]{"entity": "place", "value": "rajahmundry"}, Would like to get a list of recommended hotels for lunch
+- the city of [Hamirpur]{"entity": "place", "value": "hamirpur"}
+- i want to eat out, let me know some good options in the city of [amravati](place)
+- i want to eat out, let me know some good options in the city of [Jablpur]{"entity": "place", "value": "jabalpur"}
+- Im in [kolhapur](place)
+- From [Calicut]{"entity": "place", "value": "kozhikode"}
+- Am from [Mysore]{"entity": "place", "value": "mysore"}, Would like to get a list of recommended hotels for lunch
+- I'm searching for some food in [kanpur](place)
+- please help me to find restaurants in [Bilaspur]{"entity": "place", "value": "bilaspur"}
+- I'm hungry in [Kozhikode]{"entity": "place", "value": "kozhikode"}
+- I'm hungry in [Mangalore]{"entity": "place", "value": "mangalore"}
+- I'm hungry in [Gorakhpur]{"entity": "place", "value": "gorakhpur"}
+- in [Hubli]{"entity": "place", "value": "hubli-dharwad"} is there any takeaway options
+- oh sorry, [nellore](place)
+- Am in [Kozhikode]{"entity": "place", "value": "kozhikode"}, wish if you could help me with hotel suggestions
+- Will u pls get me some top-class restraurants in [banaras]{"entity": "place", "value": "varanasi"}
+- From [hubbali]{"entity": "place", "value": "hubli-dharwad"} Is there any good place to eat out?
+- in [Hamirpur]{"entity": "place", "value": "hamirpur"} is there any takeaway options
+- Am looking for a quite place in [aligad]{"entity": "place", "value": "aligarh"} to have food
+- the city of [Pondicherry]{"entity": "place", "value": "pondicherry"}
+- Am in [pondicherry](place), wish if you could help me with hotel suggestions
+- Am in [Covai]{"entity": "place", "value": "coimbatore"}, wish if you could help me with hotel suggestions
+- find me a restaurant in [Prayag]{"entity": "place", "value": "prayagraj"}
+- From [salem](place)
+- Please find me a cafe in [Gorakpur]{"entity": "place", "value": "gorakhpur"}
+- Searching for a dining spot in [tirupur]{"entity": "place", "value": "tiruppur"}
+- i'm looking for a place to eat in [Jamshadpur]{"entity": "place", "value": "jamshedpur"}
+- From [cochin]{"entity": "place", "value": "kochi"}
+- From [Kochi]{"entity": "place", "value": "kochi"}
+- Am from [Vadodhara]{"entity": "place", "value": "vadodara"}, Would like to get a list of recommended hotels for lunch
+- please help me to find restaurants in [Solapur]{"entity": "place", "value": "solapur"}
+- I'm searching for some food in [Kozhikode]{"entity": "place", "value": "kozhikode"}
+- i'm looking for a place to eat in [surat](place)
+- Am in [Luknow]{"entity": "place", "value": "lucknow"}, wish if you could help me with hotel suggestions
+- I'm hungry in [nashik](place)
+- let's say, [gulbarga](place)
+- I'm searching for some food in [Bhopal]{"entity": "place", "value": "bhopal"}
+- going to be in [Dehradun]{"entity": "place", "value": "dehradun"}
+- let's say, [Vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- Searching for a dining spot in [moradabad](place)
+- Seraching for restaurants in [Puruli]{"entity": "place", "value": "purulia"}
+- Will u pls get me some top-class restraurants in [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- I'm hungry in [Belgaum]{"entity": "place", "value": "belgaum"}
+- the city of [Mangalore]{"entity": "place", "value": "mangalore"}
+- Will u pls get me some top-class restraurants in [gurgaon](place)
+- Am looking for a quite place in [tirupur]{"entity": "place", "value": "tiruppur"} to have food
+- i want to eat out, let me know some good options in the city of [Indore]{"entity": "place", "value": "indore"}
+- find me a restaurant in [Bhilai]{"entity": "place", "value": "bhilai"}
+- i'm looking for a place to eat in [Jalandhar]{"entity": "place", "value": "jalandhar"}
+- Searching for a dining spot in [Mysuru]{"entity": "place", "value": "mysore"}
+- From [Pondicherry]{"entity": "place", "value": "pondicherry"} Is there any good place to eat out?
+- let's say, [Jodpur]{"entity": "place", "value": "jodhpur"}
+- the city of [Jaipur]{"entity": "place", "value": "jaipur"}
+- my place is [Ujain]{"entity": "place", "value": "ujjain"}
+- going to be in [Jalandhar]{"entity": "place", "value": "jalandhar"}
+- going to be in [cochin]{"entity": "place", "value": "kochi"}
+- From [trissur]{"entity": "place", "value": "thrissur"}
+- I'm hungry in [kurnul]{"entity": "place", "value": "kurnool"}
+- oh sorry, [Thiruchirapalli]{"entity": "place", "value": "tiruchirappalli"}
+- Am in [kurnool](place), wish if you could help me with hotel suggestions
+- From [bokaro]{"entity": "place", "value": "bokaro steel city"}
+- Am looking for a quite place in [Chandigar]{"entity": "place", "value": "chandigarh"} to have food
+- From [rajkot](place)
+- Will u pls get me some top-class restraurants in [bhiwandi](place)
+- Searching for a dining spot in [deharadun]{"entity": "place", "value": "dehradun"}
+- Seraching for restaurants in [Bikaner]{"entity": "place", "value": "bikaner"}
+- please help me to find restaurants in [bhilai](place)
+- Suggest me a restaurant in [Malappuram]{"entity": "place", "value": "malappuram"} please
+- Seraching for restaurants in [shimla](place)
+- i want to eat out, let me know some good options in the city of [aligarh](place)
+- I'm hungry in [Gwalior]{"entity": "place", "value": "gwalior"}
+- find me a restaurant in [trissur]{"entity": "place", "value": "thrissur"}
+- I'm hungry in [coimbatore](place)
+- my place is [Ujjain]{"entity": "place", "value": "ujjain"}
+- From [mysore](place)
+- Am looking for a quite place in [Cuttack]{"entity": "place", "value": "cuttack"} to have food
+- Will u pls get me some top-class restraurants in [Simla]{"entity": "place", "value": "shimla"}
+- please help me to find restaurants in [Meerat]{"entity": "place", "value": "meerut"}
+- i'm looking for a place to eat in [Nasikh]{"entity": "place", "value": "nashik"}
+- the city of [kattack]{"entity": "place", "value": "cuttack"}
+- Im in [Solapur]{"entity": "place", "value": "solapur"}
+- i'm looking for a place to eat in [Bilaspur]{"entity": "place", "value": "bilaspur"}
+- Am in [Nasik]{"entity": "place", "value": "nashik"}, wish if you could help me with hotel suggestions
+- let's say, [jalandhar](place)
+- in [Aurangabad]{"entity": "place", "value": "aurangabad"} is there any takeaway options
+- Please find me a cafe in [Ranchi]{"entity": "place", "value": "ranchi"}
+- Searching for a dining spot in [Meerut]{"entity": "place", "value": "meerut"}
+- chilling in [vadodara](place)
+- Suggest me a restaurant in [kannur](place) please
+- Any eating suggestion in [cochin]{"entity": "place", "value": "kochi"}
+- Seraching for restaurants in [gurgaon](place)
+- let's say, [nashik](place)
+- Please find me a cafe in [Indore]{"entity": "place", "value": "indore"}
+- in [Nagpoor]{"entity": "place", "value": "nagpur"} is there any takeaway options
+- oh sorry, [Gurugram]{"entity": "place", "value": "gurgaon"}
+- Will u pls get me some top-class restraurants in [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"}
+- Am from [bareilly](place), Would like to get a list of recommended hotels for lunch
+- Any eating suggestion in [Cannanore]{"entity": "place", "value": "kannur"}
+- Searching for a dining spot in [kurnul]{"entity": "place", "value": "kurnool"}
+- Seraching for restaurants in [Gurugram]{"entity": "place", "value": "gurgaon"}
+- find me a restaurant in [Virar]{"entity": "place", "value": "Vasai-Virar City"}
+- I'm searching for some food in [Pondi]{"entity": "place", "value": "pondicherry"}
+- Seraching for restaurants in [jamshedpur](place)
+- i'm looking for a place to eat in [Rajahmundry]{"entity": "place", "value": "rajahmundry"}
+- Seraching for restaurants in [hubli-dharwad](place)
+- Im in [bhubneswar]{"entity": "place", "value": "bhubaneswar"}
+- chilling in [noida](place)
+- [bhubneswar]{"entity": "place", "value": "bhubaneswar"}
+- let's say, [Ranchi]{"entity": "place", "value": "ranchi"}
+- the city of [Nandigrama]{"entity": "place", "value": "nanded"}
+- Any eating suggestion in [Gurugram]{"entity": "place", "value": "gurgaon"}
+- Please find me a cafe in [hamirpur](place)
+- Will u pls get me some top-class restraurants in [Roorkala]{"entity": "place", "value": "rourkela"}
+- going to be in [surat](place)
+- I'm hungry in [Goa]{"entity": "place", "value": "goa"}
+- my place is [belgaum](place)
+- in [ranchi](place) is there any takeaway options
+- Will u pls get me some top-class restraurants in [coimbator]{"entity": "place", "value": "coimbatore"}
+- going to be in [Patana]{"entity": "place", "value": "patna"}
+- Searching for a dining spot in [Covai]{"entity": "place", "value": "coimbatore"}
+- i want to eat out, let me know some good options in the city of [faridabad](place)
+- From [mangalore](place)
+- Any eating suggestion in [Jalandhar]{"entity": "place", "value": "jalandhar"}
+- Will u pls get me some top-class restraurants in [jammu](place)
+- Will u pls get me some top-class restraurants in [Jamnagar]{"entity": "place", "value": "jamnagar"}
+- Am in [Firozbad]{"entity": "place", "value": "firozabad"}, wish if you could help me with hotel suggestions
+- Suggest me a restaurant in [Bhiwandi]{"entity": "place", "value": "bhiwandi"} please
+- Please find me a cafe in [amravati](place)
+- [ajmir]{"entity": "place", "value": "ajmer"}
+- going to be in [faridbad]{"entity": "place", "value": "faridabad"}
+- my place is [Rajahmandry]{"entity": "place", "value": "rajahmundry"}
+- Searching for a dining spot in [chandigarh](place)
+- [bhanarash]{"entity": "place", "value": "varanasi"}
+- Suggest me a restaurant in [noida](place) please
+- From [Kozhikode]{"entity": "place", "value": "kozhikode"}
+- i'm looking for a place to eat in [vadhodhara]{"entity": "place", "value": "vadodara"}
+- Searching for a dining spot in [bokaro steel city](place)
+- Any eating suggestion in [rajamundri]{"entity": "place", "value": "rajahmundry"}
+- Am looking for a quite place in [Covai]{"entity": "place", "value": "coimbatore"} to have food
+- Searching for a dining spot in [Prayag]{"entity": "place", "value": "prayagraj"}
+- let's say, [Soorath]{"entity": "place", "value": "surat"}
+- please help me to find restaurants in [faridabad](place)
+- Please find me a cafe in [coimbator]{"entity": "place", "value": "coimbatore"}
+- please help me to find restaurants in [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- i want to eat out, let me know some good options in the city of [warangal](place)
+- please help me to find restaurants in [Belgaum]{"entity": "place", "value": "belgaum"}
+- Seraching for restaurants in [kurnul]{"entity": "place", "value": "kurnool"}
+- Any eating suggestion in [lucknow](place)
+- Am from [Vijayawada]{"entity": "place", "value": "vijayawada"}, Would like to get a list of recommended hotels for lunch
+- Seraching for restaurants in [Ludhiana]{"entity": "place", "value": "ludhiana"}
+- Please find me a cafe in [tiruppur](place)
+- Please find me a cafe in [aligarh](place)
+- Seraching for restaurants in [Mangaluru]{"entity": "place", "value": "mangalore"}
+- I'm hungry in [Covai]{"entity": "place", "value": "coimbatore"}
+- I'm hungry in [Vadodhara]{"entity": "place", "value": "vadodara"}
+- Am from [Soorat]{"entity": "place", "value": "surat"}, Would like to get a list of recommended hotels for lunch
+- going to be in [Goa]{"entity": "place", "value": "goa"}
+- please help me to find restaurants in [Mysore]{"entity": "place", "value": "mysore"}
+- From [shimla](place)
+- From [Aagra]{"entity": "place", "value": "agra"}
+- Am in [bhiwandi](place), wish if you could help me with hotel suggestions
+- Searching for a dining spot in [Gauhati]{"entity": "place", "value": "guwahati"}
+- the city of [Bhavnagar]{"entity": "place", "value": "bhavnagar"}
+- I'm searching for some food in [Raipur]{"entity": "place", "value": "raipur"}
+- chilling in [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- Suggest me a restaurant in [Asansol]{"entity": "place", "value": "asansol"} please
+- chilling in [Kalburgi]{"entity": "place", "value": "gulbarga"}
+- Searching for a dining spot in [Kollam]{"entity": "place", "value": "kollam"}
+- From [indor]{"entity": "place", "value": "indore"}
+- find me a restaurant in [Hubli]{"entity": "place", "value": "hubli-dharwad"}
+- From [surat](place) Is there any good place to eat out?
+- please help me to find restaurants in [visakhapatnam](place)
+- Am from [erode](place), Would like to get a list of recommended hotels for lunch
+- Am from [bhubaneswar](place), Would like to get a list of recommended hotels for lunch
+- Searching for a dining spot in [Bhivandi]{"entity": "place", "value": "bhiwandi"}
+- chilling in [thiruvananthapuram](place)
+- the city of [asansol](place)
+- [Cattack]{"entity": "place", "value": "cuttack"}
+- Am looking for a quite place in [Jablpur]{"entity": "place", "value": "jabalpur"} to have food
+- the city of [gwalior](place)
+- please help me to find restaurants in [ajmer](place)
+- From [nasikh]{"entity": "place", "value": "nashik"}
+- Am from [trichi]{"entity": "place", "value": "tiruchirappalli"}, Would like to get a list of recommended hotels for lunch
+- i'm looking for a place to eat in [pondicherry](place)
+- i'm looking for a place to eat in [varanasi](place)
+- Searching for a dining spot in [Gulbarga]{"entity": "place", "value": "gulbarga"}
+- Please find me a cafe in [Vellore]{"entity": "place", "value": "vellore"}
+- let's say, [kurnool](place)
+- my place is [nelluru]{"entity": "place", "value": "nellore"}
+- please help me to find restaurants in [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- Seraching for restaurants in [Coimbatore]{"entity": "place", "value": "coimbatore"}
+- Am from [kattak]{"entity": "place", "value": "cuttack"}, Would like to get a list of recommended hotels for lunch
+- please help me to find restaurants in [Guntur]{"entity": "place", "value": "guntur"}
+- Suggest me a restaurant in [coimbatur]{"entity": "place", "value": "coimbatore"} please
+- my place is [Jodpur]{"entity": "place", "value": "jodhpur"}
+- Seraching for restaurants in [dehradoon]{"entity": "place", "value": "dehradun"}
+- oh sorry, [Hubballi]{"entity": "place", "value": "hubli-dharwad"}
+- find me a restaurant in [thiruvananthapuram](place)
+- oh sorry, [gwalior](place)
+- Will u pls get me some top-class restraurants in [Varangal]{"entity": "place", "value": "warangal"}
+- [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}
+- i want to eat out, let me know some good options in the city of [Gwalior]{"entity": "place", "value": "gwalior"}
+- i want to eat out, let me know some good options in the city of [Nagpoor]{"entity": "place", "value": "nagpur"}
+- in [Nagpur]{"entity": "place", "value": "nagpur"} is there any takeaway options
+- oh sorry, [Cannanore]{"entity": "place", "value": "kannur"}
+- Im in [Mathura]{"entity": "place", "value": "mathura"}
+- Seraching for restaurants in [aligad]{"entity": "place", "value": "aligarh"}
+- Am from [Quilon]{"entity": "place", "value": "kollam"}, Would like to get a list of recommended hotels for lunch
+- Will u pls get me some top-class restraurants in [amravati](place)
+- I'm searching for some food in [Cattack]{"entity": "place", "value": "cuttack"}
+- going to be in [firozbad]{"entity": "place", "value": "firozabad"}
+- Any eating suggestion in [hubli-dharwad](place)
+- Please find me a cafe in [Luknow]{"entity": "place", "value": "lucknow"}
+- my place is [bilaspur](place)
+- let's say, [Vadodara]{"entity": "place", "value": "vadodara"}
+- Am from [Mysor]{"entity": "place", "value": "mysore"}, Would like to get a list of recommended hotels for lunch
+- please help me to find restaurants in [guntur](place)
+- [kollam](place)
+- From [ghasiabad]{"entity": "place", "value": "ghaziabad"} Is there any good place to eat out?
+- the city of [Pondi]{"entity": "place", "value": "pondicherry"}
+- oh sorry, [bijapur](place)
+- Am looking for a quite place in [nasikh]{"entity": "place", "value": "nashik"} to have food
+- Any eating suggestion in [coimbator]{"entity": "place", "value": "coimbatore"}
+- [Calicut]{"entity": "place", "value": "kozhikode"}
+- Will u pls get me some top-class restraurants in [hamirpur](place)
+- Im in [patna](place)
+- going to be in [Puruli]{"entity": "place", "value": "purulia"}
+- From [aurangabad](place)
+- let's say, [Meerat]{"entity": "place", "value": "meerut"}
+- Will u pls get me some top-class restraurants in [Thrissur]{"entity": "place", "value": "thrissur"}
+- I'm searching for some food in [Malappuram]{"entity": "place", "value": "malappuram"}
+- I'm hungry in [varanasi](place)
+- Seraching for restaurants in [dehradun](place)
+- i'm looking for a place to eat in [erod]{"entity": "place", "value": "erode"}
+- chilling in [Avantikapuri]{"entity": "place", "value": "ujjain"}
+- I'm hungry in [pudducherry]{"entity": "place", "value": "pondicherry"}
+- please help me to find restaurants in [Cuttack]{"entity": "place", "value": "cuttack"}
+- going to be in [rajahmundry](place)
+- Please find me a cafe in [mysur]{"entity": "place", "value": "mysore"}
+- i'm looking for a place to eat in [Jablpur]{"entity": "place", "value": "jabalpur"}
+- [Bokkaro]{"entity": "place", "value": "bokaro steel city"}
+- my place is [kozhikode](place)
+- my place is [mysur]{"entity": "place", "value": "mysore"}
+- find me a restaurant in [Mangalore]{"entity": "place", "value": "mangalore"}
+- i'm looking for a place to eat in [meerut](place)
+- Any eating suggestion in [vadhodhara]{"entity": "place", "value": "vadodara"}
+- let's say, [malapuram]{"entity": "place", "value": "malappuram"}
+- Am from [Mangalore]{"entity": "place", "value": "mangalore"}, Would like to get a list of recommended hotels for lunch
+- let's say, [bhavnagar](place)
+- Am in [prayagraj](place), wish if you could help me with hotel suggestions
+- oh sorry, [Nandigrama]{"entity": "place", "value": "nanded"}
+- let's say, [bhanarash]{"entity": "place", "value": "varanasi"}
+- Am looking for a quite place in [raipur](place) to have food
+- I'm hungry in [bopal]{"entity": "place", "value": "bhopal"}
+- oh sorry, [shiliguri]{"entity": "place", "value": "siliguri"}
+- [Nanded]{"entity": "place", "value": "nanded"}
+- find me a restaurant in [solapur](place)
+- Please find me a cafe in [trissur]{"entity": "place", "value": "thrissur"}
+- From [Gulbarga]{"entity": "place", "value": "gulbarga"} Is there any good place to eat out?
+- i'm looking for a place to eat in [Cochi]{"entity": "place", "value": "kochi"}
+- I'm searching for some food in [malapuram]{"entity": "place", "value": "malappuram"}
+- chilling in [jabalpur](place)
+- [Quilon]{"entity": "place", "value": "kollam"}
+- in [Jamshedpur]{"entity": "place", "value": "jamshedpur"} is there any takeaway options
+- in [deharadun]{"entity": "place", "value": "dehradun"} is there any takeaway options
+- Am looking for a quite place in [Cochi]{"entity": "place", "value": "kochi"} to have food
+- Searching for a dining spot in [bilaspur](place)
+- in [Varangal]{"entity": "place", "value": "warangal"} is there any takeaway options
+- I'm hungry in [dehradun](place)
+- my place is [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- i want to eat out, let me know some good options in the city of [thiruvananthapuram](place)
+- Am in [Bhanaras]{"entity": "place", "value": "varanasi"}, wish if you could help me with hotel suggestions
+- Will u pls get me some top-class restraurants in [bhanarash]{"entity": "place", "value": "varanasi"}
+- I'm hungry in [kanpur](place)
+- please help me to find restaurants in [Firozabad]{"entity": "place", "value": "firozabad"}
+- i'm looking for a place to eat in [visakhapatnam](place)
+- Am in [thrissur](place), wish if you could help me with hotel suggestions
+- [Mathura]{"entity": "place", "value": "mathura"}
+- in [Bhanaras]{"entity": "place", "value": "varanasi"} is there any takeaway options
+- Am in [jamshedpur](place), wish if you could help me with hotel suggestions
+- chilling in [Virar]{"entity": "place", "value": "Vasai-Virar City"}
+- I'm hungry in [Bhanarash]{"entity": "place", "value": "varanasi"}
+- Please find me a cafe in [bilai]{"entity": "place", "value": "bhilai"}
+- I'm hungry in [kattak]{"entity": "place", "value": "cuttack"}
+- Am in [Belagavi]{"entity": "place", "value": "belgaum"}, wish if you could help me with hotel suggestions
+- going to be in [hubbali]{"entity": "place", "value": "hubli-dharwad"}
+- please help me to find restaurants in [vellore](place)
+- chilling in [Amrutsar]{"entity": "place", "value": "amritsar"}
+- Please find me a cafe in [Firozabad]{"entity": "place", "value": "firozabad"}
+- the city of [bokaro]{"entity": "place", "value": "bokaro steel city"}
+- Suggest me a restaurant in [bijapur](place) please
+- find me a restaurant in [bhanarash]{"entity": "place", "value": "varanasi"}
+- Searching for a dining spot in [Avantika]{"entity": "place", "value": "ujjain"}
+- in [Nandigrama]{"entity": "place", "value": "nanded"} is there any takeaway options
+- I'm hungry in [Jabalpur]{"entity": "place", "value": "jabalpur"}
+- Seraching for restaurants in [ajmer](place)
+- find me a restaurant in [thrissur](place)
+- in [Prayag]{"entity": "place", "value": "prayagraj"} is there any takeaway options
+- Am looking for a quite place in [bikner]{"entity": "place", "value": "bikaner"} to have food
+- I'm searching for some food in [mathura](place)
+- i'm looking for a place to eat in [Chandigar]{"entity": "place", "value": "chandigarh"}
+- Im in [kurnul]{"entity": "place", "value": "kurnool"}
+- Searching for a dining spot in [bhavnagar](place)
+- Am in [belgam]{"entity": "place", "value": "belgaum"}, wish if you could help me with hotel suggestions
+- From [Nasik]{"entity": "place", "value": "nashik"} Is there any good place to eat out?
+- in [Vasai-Virar City](place) is there any takeaway options
+- Searching for a dining spot in [Cannanore]{"entity": "place", "value": "kannur"}
+- chilling in [Covai]{"entity": "place", "value": "coimbatore"}
+- i'm looking for a place to eat in [Thrissur]{"entity": "place", "value": "thrissur"}
+- I'm searching for some food in [vellore](place)
+- From [kochi](place) Is there any good place to eat out?
+- going to be in [coimbatore](place)
+- Seraching for restaurants in [Nasik]{"entity": "place", "value": "nashik"}
+- going to be in [Avantika]{"entity": "place", "value": "ujjain"}
+- From [durgapur](place)
+- in [Bhiwandi]{"entity": "place", "value": "bhiwandi"} is there any takeaway options
+- From [belgaum](place) Is there any good place to eat out?
+- Please find me a cafe in [amaravati]{"entity": "place", "value": "amravati"}
+- chilling in [tiruchirappalli](place)
+- Seraching for restaurants in [Belgaum]{"entity": "place", "value": "belgaum"}
+- chilling in [Thrissur]{"entity": "place", "value": "thrissur"}
+- I'm searching for some food in [surath]{"entity": "place", "value": "surat"}
+- Any eating suggestion in [Mangalore]{"entity": "place", "value": "mangalore"}
+- let's say, [Amrutsar]{"entity": "place", "value": "amritsar"}
+- From [tiruppur](place) Is there any good place to eat out?
+- i'm looking for a place to eat in [thiruchirapali]{"entity": "place", "value": "tiruchirappalli"}
+- the city of [durgapur](place)
+- Any eating suggestion in [deharadun]{"entity": "place", "value": "dehradun"}
+- oh sorry, [Vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- Seraching for restaurants in [noida](place)
+- going to be in [durgapur](place)
+- From [visakhapatnam](place) Is there any good place to eat out?
+- Please find me a cafe in [gorakhpur](place)
+- oh sorry, [kolam]{"entity": "place", "value": "kollam"}
+- Seraching for restaurants in [erode](place)
+- the city of [Ujjain]{"entity": "place", "value": "ujjain"}
+- Please find me a cafe in [bareili]{"entity": "place", "value": "bareilly"}
+- Am in [Thirupur]{"entity": "place", "value": "tiruppur"}, wish if you could help me with hotel suggestions
+- Am looking for a quite place in [bopal]{"entity": "place", "value": "bhopal"} to have food
+- oh sorry, [jamshedpur](place)
+- my place is [Faridabad]{"entity": "place", "value": "faridabad"}
+- going to be in [mysur]{"entity": "place", "value": "mysore"}
+- I'm hungry in [aurangabad](place)
+- my place is [jaipur](place)
+- From [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- let's say, [Jaipur]{"entity": "place", "value": "jaipur"}
+- my place is [Gurgaon]{"entity": "place", "value": "gurgaon"}
+- Searching for a dining spot in [pondicherry](place)
+- I'm hungry in [Aagra]{"entity": "place", "value": "agra"}
+- Seraching for restaurants in [Bhilai]{"entity": "place", "value": "bhilai"}
+- please help me to find restaurants in [Surat]{"entity": "place", "value": "surat"}
+- [Bhavnagar]{"entity": "place", "value": "bhavnagar"}
+- Please find me a cafe in [Belagavi]{"entity": "place", "value": "belgaum"}
+- Please find me a cafe in [sanghli]{"entity": "place", "value": "sangli"}
+- in [bareili]{"entity": "place", "value": "bareilly"} is there any takeaway options
+- Seraching for restaurants in [hubli]{"entity": "place", "value": "hubli-dharwad"}
+- Please find me a cafe in [faridabd]{"entity": "place", "value": "faridabad"}
+- oh sorry, [indor]{"entity": "place", "value": "indore"}
+- in [Bokaro]{"entity": "place", "value": "bokaro steel city"} is there any takeaway options
+- Please find me a cafe in [kattak]{"entity": "place", "value": "cuttack"}
+- oh sorry, [Indore]{"entity": "place", "value": "indore"}
+- Any eating suggestion in [kakinada](place)
+- the city of [deharadun]{"entity": "place", "value": "dehradun"}
+- I'm searching for some food in [Tiruchirappalli]{"entity": "place", "value": "tiruchirappalli"}
+- [Bhuvneswar]{"entity": "place", "value": "bhubaneswar"}
+- Please find me a cafe in [vadhodhara]{"entity": "place", "value": "vadodara"}
+- I'm searching for some food in [Agra]{"entity": "place", "value": "agra"}
+- i want to eat out, let me know some good options in the city of [coimbatur]{"entity": "place", "value": "coimbatore"}
+- let's say, [vellore](place)
+- chilling in [kollam](place)
+- Any eating suggestion in [hamirpur](place)
+- i want to eat out, let me know some good options in the city of [Dehradun]{"entity": "place", "value": "dehradun"}
+- Am in [Amravati]{"entity": "place", "value": "amravati"}, wish if you could help me with hotel suggestions
+- please help me to find restaurants in [bokaro]{"entity": "place", "value": "bokaro steel city"}
+- Am in [Virar]{"entity": "place", "value": "Vasai-Virar City"}, wish if you could help me with hotel suggestions
+- Searching for a dining spot in [bopal]{"entity": "place", "value": "bhopal"}
+- my place is [meerut](place)
+- i want to eat out, let me know some good options in the city of [kanpur](place)
+- I'm searching for some food in [banaras]{"entity": "place", "value": "varanasi"}
+- please help me to find restaurants in [Eerode]{"entity": "place", "value": "erode"}
+- Am in [mangalore](place), wish if you could help me with hotel suggestions
+- i want to eat out, let me know some good options in the city of [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- From [amritsar](place) Is there any good place to eat out?
+- Searching for a dining spot in [Kannur]{"entity": "place", "value": "kannur"}
+- my place is [Malappuram]{"entity": "place", "value": "malappuram"}
+- chilling in [Jamshadpur]{"entity": "place", "value": "jamshedpur"}
+- [Jamnagar]{"entity": "place", "value": "jamnagar"}
+- chilling in [Vadodara]{"entity": "place", "value": "vadodara"}
+- Will u pls get me some top-class restraurants in [bhavanagar]{"entity": "place", "value": "bhavnagar"}
+- chilling in [Vadodhara]{"entity": "place", "value": "vadodara"}
+- [noidaa]{"entity": "place", "value": "noida"}
+- oh sorry, [vadodara](place)
+- Am in [srinagar](place), wish if you could help me with hotel suggestions
+- From [Jodpur]{"entity": "place", "value": "jodhpur"} Is there any good place to eat out?
+- please help me to find restaurants in [bhavnagar](place)
+- Am looking for a quite place in [rourkela](place) to have food
+- Im in [Bhanaras]{"entity": "place", "value": "varanasi"}
+- Am looking for a quite place in [Rajahmundry]{"entity": "place", "value": "rajahmundry"} to have food
+- i'm looking for a place to eat in [Ludiana]{"entity": "place", "value": "ludhiana"}
+- going to be in [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- oh sorry, [Bhiwandi]{"entity": "place", "value": "bhiwandi"}
+- i want to eat out, let me know some good options in the city of [Lucknow]{"entity": "place", "value": "lucknow"}
+- chilling in [amravati](place)
+- going to be in [thrissur](place)
+- Im in [Thiruchirapalli]{"entity": "place", "value": "tiruchirappalli"}
+- From [Amritsar]{"entity": "place", "value": "amritsar"} Is there any good place to eat out?
+- let's say, [surat](place)
+- I'm searching for some food in [mysur]{"entity": "place", "value": "mysore"}
+- Suggest me a restaurant in [Raipur]{"entity": "place", "value": "raipur"} please
+- i want to eat out, let me know some good options in the city of [nellore](place)
+- i'm looking for a place to eat in [Nasik]{"entity": "place", "value": "nashik"}
+- Will u pls get me some top-class restraurants in [Nanded]{"entity": "place", "value": "nanded"}
+- From [Gorakpur]{"entity": "place", "value": "gorakhpur"}
+- [Nagpur]{"entity": "place", "value": "nagpur"}
+- Am looking for a quite place in [ajmir]{"entity": "place", "value": "ajmer"} to have food
+- oh sorry, [Warangal]{"entity": "place", "value": "warangal"}
+- going to be in [Cochi]{"entity": "place", "value": "kochi"}
+- [bhavanagar]{"entity": "place", "value": "bhavnagar"}
+- in [moradbad]{"entity": "place", "value": "moradabad"} is there any takeaway options
+- chilling in [Ajmer]{"entity": "place", "value": "ajmer"}
+- i'm looking for a place to eat in [Gurugram]{"entity": "place", "value": "gurgaon"}
+- find me a restaurant in [Vellur]{"entity": "place", "value": "vellore"}
+- the city of [kanpur](place)
+- i'm looking for a place to eat in [Hubballi]{"entity": "place", "value": "hubli-dharwad"}
+- Im in [Bokaro]{"entity": "place", "value": "bokaro steel city"}
+- From [Chandigarh]{"entity": "place", "value": "chandigarh"}
+- Am looking for a quite place in [vellore](place) to have food
+- Any eating suggestion in [Malappuram]{"entity": "place", "value": "malappuram"}
+- Am in [jabalpur](place), wish if you could help me with hotel suggestions
+- please help me to find restaurants in [malapuram]{"entity": "place", "value": "malappuram"}
+- oh sorry, [Amritsar]{"entity": "place", "value": "amritsar"}
+- Seraching for restaurants in [virar]{"entity": "place", "value": "Vasai-Virar City"}
+- Any eating suggestion in [kurnool](place)
+- the city of [coimbator]{"entity": "place", "value": "coimbatore"}
+- Am looking for a quite place in [Nellor]{"entity": "place", "value": "nellore"} to have food
+- Suggest me a restaurant in [Amravati]{"entity": "place", "value": "amravati"} please
+- let's say, [bhubneswar]{"entity": "place", "value": "bhubaneswar"}
+- I'm hungry in [Meerut]{"entity": "place", "value": "meerut"}
+- let's say, [Rajahmandry]{"entity": "place", "value": "rajahmundry"}
+- let's say, [Quilon]{"entity": "place", "value": "kollam"}
+- i'm looking for a place to eat in [Gaziabad]{"entity": "place", "value": "ghaziabad"}
+- Seraching for restaurants in [moradabad](place)
+- From [Calicut]{"entity": "place", "value": "kozhikode"} Is there any good place to eat out?
+- the city of [Cochi]{"entity": "place", "value": "kochi"}
+- in [amravati](place) is there any takeaway options
+- Seraching for restaurants in [Nasikh]{"entity": "place", "value": "nashik"}
+- please help me to find restaurants in [Ujain]{"entity": "place", "value": "ujjain"}
+- Seraching for restaurants in [deharadun]{"entity": "place", "value": "dehradun"}
+- chilling in [Nashikh]{"entity": "place", "value": "nashik"}
+- I'm hungry in [Nagpoor]{"entity": "place", "value": "nagpur"}
+- the city of [Nashik]{"entity": "place", "value": "nashik"}
+- From [Nagpur]{"entity": "place", "value": "nagpur"} Is there any good place to eat out?
+- let's say, [chandigad]{"entity": "place", "value": "chandigarh"}
+- please help me to find restaurants in [Nashikh]{"entity": "place", "value": "nashik"}
+- Suggest me a restaurant in [pondicherry](place) please
+- From [faridabad](place) Is there any good place to eat out?
+- my place is [kakinada](place)
+- From [amritsar](place)
+- Am from [Jamu]{"entity": "place", "value": "jammu"}, Would like to get a list of recommended hotels for lunch
+- Im in [rajahmundry](place)
+- going to be in [Kakkinada]{"entity": "place", "value": "kakinada"}
+- Please find me a cafe in [rajamundri]{"entity": "place", "value": "rajahmundry"}
+- Please find me a cafe in [Kalburgi]{"entity": "place", "value": "gulbarga"}
+- Will u pls get me some top-class restraurants in [Bhanaras]{"entity": "place", "value": "varanasi"}
+- going to be in [Cuttack]{"entity": "place", "value": "cuttack"}
+- Searching for a dining spot in [coimbatur]{"entity": "place", "value": "coimbatore"}
+- Am looking for a quite place in [Bhanarash]{"entity": "place", "value": "varanasi"} to have food
+- please help me to find restaurants in [bikaner](place)
+- Searching for a dining spot in [Tiruchirappalli]{"entity": "place", "value": "tiruchirappalli"}
+- going to be in [ajmer](place)
+- let's say, [Salem]{"entity": "place", "value": "salem"}
+- I'm searching for some food in [Meerut]{"entity": "place", "value": "meerut"}
+- I'm hungry in [malappuram](place)
+- Am looking for a quite place in [Nandigrama]{"entity": "place", "value": "nanded"} to have food
+- i want to eat out, let me know some good options in the city of [chandigad]{"entity": "place", "value": "chandigarh"}
+- I'm searching for some food in [meerut](place)
+- [visakhapatnam](place)
+- i want to eat out, let me know some good options in the city of [deharadun]{"entity": "place", "value": "dehradun"}
+- I'm hungry in [Varanasi]{"entity": "place", "value": "varanasi"}
+- Seraching for restaurants in [Jamshedpur]{"entity": "place", "value": "jamshedpur"}
+- my place is [Vellur]{"entity": "place", "value": "vellore"}
+- From [nellore](place) Is there any good place to eat out?
+- Searching for a dining spot in [aligarh](place)
+- the city of [kochi](place)
+- my place is [lucknow](place)
+- Please find me a cafe in [warangal](place)
+- Any eating suggestion in [bhubneswar]{"entity": "place", "value": "bhubaneswar"}
+- in [Gurugram]{"entity": "place", "value": "gurgaon"} is there any takeaway options
+- Will u pls get me some top-class restraurants in [Gurugram]{"entity": "place", "value": "gurgaon"}
+- let's say, [Erode]{"entity": "place", "value": "erode"}
+- Am from [Matura]{"entity": "place", "value": "mathura"}, Would like to get a list of recommended hotels for lunch
+- I'm searching for some food in [Bhiwandi]{"entity": "place", "value": "bhiwandi"}
+- please help me to find restaurants in [Coimbatore]{"entity": "place", "value": "coimbatore"}
+- Am from [vadhodhara]{"entity": "place", "value": "vadodara"}, Would like to get a list of recommended hotels for lunch
+- oh sorry, [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- Am looking for a quite place in [jammu](place) to have food
+- find me a restaurant in [Barelly]{"entity": "place", "value": "bareilly"}
+- I'm searching for some food in [ludhiana](place)
+- Suggest me a restaurant in [Kanpur]{"entity": "place", "value": "kanpur"} please
+- oh sorry, [Varangal]{"entity": "place", "value": "warangal"}
+- [surat](place)
+- Im in [Mysore]{"entity": "place", "value": "mysore"}
+- [cochin]{"entity": "place", "value": "kochi"}
+- Seraching for restaurants in [vellore](place)
+- my place is [Durgapur]{"entity": "place", "value": "durgapur"}
+- in [Vasai]{"entity": "place", "value": "Vasai-Virar City"} is there any takeaway options
+- the city of [Durgapur]{"entity": "place", "value": "durgapur"}
+- chilling in [guntur](place)
+- i'm looking for a place to eat in [Firozbad]{"entity": "place", "value": "firozabad"}
+- Am in [amaravati]{"entity": "place", "value": "amravati"}, wish if you could help me with hotel suggestions
+- Seraching for restaurants in [Amravati]{"entity": "place", "value": "amravati"}
+- Am looking for a quite place in [Gaziabad]{"entity": "place", "value": "ghaziabad"} to have food
+- the city of [Raanchi]{"entity": "place", "value": "ranchi"}
+- i want to eat out, let me know some good options in the city of [ghaziabad](place)
+- Am from [Ujjain]{"entity": "place", "value": "ujjain"}, Would like to get a list of recommended hotels for lunch
+- From [Goa]{"entity": "place", "value": "goa"} Is there any good place to eat out?
+- chilling in [Vasai-Virar City](place)
+- chilling in [bhiwandi](place)
+- From [Covai]{"entity": "place", "value": "coimbatore"}
+- [kolhapur](place)
+- [Puruli]{"entity": "place", "value": "purulia"}
+- Will u pls get me some top-class restraurants in [bilaspur](place)
+- Am in [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [aurangabad](place)
+- Am in [Cattack]{"entity": "place", "value": "cuttack"}, wish if you could help me with hotel suggestions
+- i want to eat out, let me know some good options in the city of [Bareilly]{"entity": "place", "value": "bareilly"}
+- Any eating suggestion in [surat](place)
+- I'm hungry in [faridabad](place)
+- find me a restaurant in [gwalior](place)
+- my place is [Aligarh]{"entity": "place", "value": "aligarh"}
+- Am looking for a quite place in [Guwahati]{"entity": "place", "value": "guwahati"} to have food
+- Any eating suggestion in [Amravati]{"entity": "place", "value": "amravati"}
+- I'm searching for some food in [moradabad](place)
+- From [Nandigrama]{"entity": "place", "value": "nanded"} Is there any good place to eat out?
+- my place is [Nellor]{"entity": "place", "value": "nellore"}
+- please help me to find restaurants in [bopal]{"entity": "place", "value": "bhopal"}
+- Searching for a dining spot in [Nasikh]{"entity": "place", "value": "nashik"}
+- i want to eat out, let me know some good options in the city of [kolhapur](place)
+- Searching for a dining spot in [Rourkela]{"entity": "place", "value": "rourkela"}
+- Searching for a dining spot in [Kakinada]{"entity": "place", "value": "kakinada"}
+- Searching for a dining spot in [aurangabad](place)
+- Will u pls get me some top-class restraurants in [Ludiana]{"entity": "place", "value": "ludhiana"}
+- Am looking for a quite place in [siliguri](place) to have food
+- Seraching for restaurants in [mangalore](place)
+- Am in [Ghaziabad]{"entity": "place", "value": "ghaziabad"}, wish if you could help me with hotel suggestions
+- Am looking for a quite place in [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"} to have food
+- i'm looking for a place to eat in [bhubaneswar](place)
+- I'm hungry in [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- Any eating suggestion in [bijapur](place)
+- Am in [Bhuvaneswar]{"entity": "place", "value": "bhubaneswar"}, wish if you could help me with hotel suggestions
+- my place is [Nagpoor]{"entity": "place", "value": "nagpur"}
+- chilling in [faridabd]{"entity": "place", "value": "faridabad"}
+- Seraching for restaurants in [Bareilly]{"entity": "place", "value": "bareilly"}
+- going to be in [Meerut]{"entity": "place", "value": "meerut"}
+- the city of [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"}
+- Seraching for restaurants in [Meerat]{"entity": "place", "value": "meerut"}
+- From [Ghaziabad]{"entity": "place", "value": "ghaziabad"} Is there any good place to eat out?
+- going to be in [Salem]{"entity": "place", "value": "salem"}
+- From [srinagar](place) Is there any good place to eat out?
+- Searching for a dining spot in [Madurai]{"entity": "place", "value": "madurai"}
+- I'm hungry in [Mysore]{"entity": "place", "value": "mysore"}
+- my place is [cuttak]{"entity": "place", "value": "cuttack"}
+- in [erode](place) is there any takeaway options
+- i want to eat out, let me know some good options in the city of [Aligar]{"entity": "place", "value": "aligarh"}
+- Seraching for restaurants in [aurangbad]{"entity": "place", "value": "aurangabad"}
+- i'm looking for a place to eat in [Thirupur]{"entity": "place", "value": "tiruppur"}
+- Am in [Cuttack]{"entity": "place", "value": "cuttack"}, wish if you could help me with hotel suggestions
+- I'm searching for some food in [tirupur]{"entity": "place", "value": "tiruppur"}
+- find me a restaurant in [Amritsar]{"entity": "place", "value": "amritsar"}
+- chilling in [Cattack]{"entity": "place", "value": "cuttack"}
+- chilling in [jamshedpur](place)
+- Am in [Ujjain]{"entity": "place", "value": "ujjain"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [erode](place)
+- going to be in [rourkela](place)
+- From [Vadodhara]{"entity": "place", "value": "vadodara"} Is there any good place to eat out?
+- Im in [bhiwandi](place)
+- Am in [Bikanir]{"entity": "place", "value": "bikaner"}, wish if you could help me with hotel suggestions
+- the city of [firozabad](place)
+- i'm looking for a place to eat in [gulbarga](place)
+- find me a restaurant in [vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- From [Bhopl]{"entity": "place", "value": "bhopal"}
+- my place is [Bhuvaneswar]{"entity": "place", "value": "bhubaneswar"}
+- the city of [dehradun](place)
+- chilling in [firozabad](place)
+- please help me to find restaurants in [cuttak]{"entity": "place", "value": "cuttack"}
+- i'm looking for a place to eat in [agra](place)
+- let's say, [Tiruchirappalli]{"entity": "place", "value": "tiruchirappalli"}
+- let's say, [Aligar]{"entity": "place", "value": "aligarh"}
+- Any eating suggestion in [vizag]{"entity": "place", "value": "visakhapatnam"}
+- Suggest me a restaurant in [Durgapur]{"entity": "place", "value": "durgapur"} please
+- i want to eat out, let me know some good options in the city of [kurnul]{"entity": "place", "value": "kurnool"}
+- please help me to find restaurants in [Warangal]{"entity": "place", "value": "warangal"}
+- I'm searching for some food in [Thiruchirapalli]{"entity": "place", "value": "tiruchirappalli"}
+- going to be in [mangalore](place)
+- let's say, [tirupur]{"entity": "place", "value": "tiruppur"}
+- Suggest me a restaurant in [Kozhikode]{"entity": "place", "value": "kozhikode"} please
+- Searching for a dining spot in [ghaziabad](place)
+- From [Simla]{"entity": "place", "value": "shimla"}
+- Im in [malappuram](place)
+- Im in [gvalior]{"entity": "place", "value": "gwalior"}
+- Seraching for restaurants in [asansol](place)
+- From [steel city]{"entity": "place", "value": "bokaro steel city"} Is there any good place to eat out?
+- Any eating suggestion in [Kochi]{"entity": "place", "value": "kochi"}
+- Will u pls get me some top-class restraurants in [jamnagar](place)
+- From [Agra]{"entity": "place", "value": "agra"}
+- Am from [Bhopal]{"entity": "place", "value": "bhopal"}, Would like to get a list of recommended hotels for lunch
+- my place is [Meerat]{"entity": "place", "value": "meerut"}
+- Im in [bilai]{"entity": "place", "value": "bhilai"}
+- Any eating suggestion in [Ajmer]{"entity": "place", "value": "ajmer"}
+- going to be in [bhubneswar]{"entity": "place", "value": "bhubaneswar"}
+- Searching for a dining spot in [Meerat]{"entity": "place", "value": "meerut"}
+- Am in [faridbad]{"entity": "place", "value": "faridabad"}, wish if you could help me with hotel suggestions
+- Am looking for a quite place in [jamnagar](place) to have food
+- Searching for a dining spot in [Vellur]{"entity": "place", "value": "vellore"}
+- From [Vadodara]{"entity": "place", "value": "vadodara"} Is there any good place to eat out?
+- find me a restaurant in [kolhapur](place)
+- i'm looking for a place to eat in [tirupur]{"entity": "place", "value": "tiruppur"}
+- chilling in [Bokkaro]{"entity": "place", "value": "bokaro steel city"}
+- From [Meerut]{"entity": "place", "value": "meerut"} Is there any good place to eat out?
+- oh sorry, [jodhpur](place)
+- the city of [Solapur]{"entity": "place", "value": "solapur"}
+- i want to eat out, let me know some good options in the city of [dehradoon]{"entity": "place", "value": "dehradun"}
+- Im in [Thirupur]{"entity": "place", "value": "tiruppur"}
+- Any eating suggestion in [Bhanarash]{"entity": "place", "value": "varanasi"}
+- Any eating suggestion in [Madura]{"entity": "place", "value": "madurai"}
+- Am in [ghaziabad](place), wish if you could help me with hotel suggestions
+- From [rajamundri]{"entity": "place", "value": "rajahmundry"}
+- Im in [Madurai]{"entity": "place", "value": "madurai"}
+- i'm looking for a place to eat in [guntur](place)
+- Please find me a cafe in [Bokkaro]{"entity": "place", "value": "bokaro steel city"}
+- From [Vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- Suggest me a restaurant in [coimbator]{"entity": "place", "value": "coimbatore"} please
+- Please find me a cafe in [Varangal]{"entity": "place", "value": "warangal"}
+- Am looking for a quite place in [Soorath]{"entity": "place", "value": "surat"} to have food
+- Am in [hubli]{"entity": "place", "value": "hubli-dharwad"}, wish if you could help me with hotel suggestions
+- I'm searching for some food in [Nellore]{"entity": "place", "value": "nellore"}
+- Am in [Rajahmandry]{"entity": "place", "value": "rajahmundry"}, wish if you could help me with hotel suggestions
+- chilling in [Bilaspur]{"entity": "place", "value": "bilaspur"}
+- my place is [tiruppur](place)
+- I'm searching for some food in [durgapur](place)
+- my place is [malappuram](place)
+- chilling in [Ludhiana]{"entity": "place", "value": "ludhiana"}
+- my place is [dhanbad](place)
+- I'm searching for some food in [mysore](place)
+- oh sorry, [surath]{"entity": "place", "value": "surat"}
+- Please find me a cafe in [Baroda]{"entity": "place", "value": "vadodara"}
+- Suggest me a restaurant in [vijayawada](place) please
+- in [agra](place) is there any takeaway options
+- Seraching for restaurants in [bareili]{"entity": "place", "value": "bareilly"}
+- Am in [Bhiwandi]{"entity": "place", "value": "bhiwandi"}, wish if you could help me with hotel suggestions
+- Any eating suggestion in [Mathura]{"entity": "place", "value": "mathura"}
+- Will u pls get me some top-class restraurants in [rajamundri]{"entity": "place", "value": "rajahmundry"}
+- Am in [Chandigar]{"entity": "place", "value": "chandigarh"}, wish if you could help me with hotel suggestions
+- the city of [Gorakhpur]{"entity": "place", "value": "gorakhpur"}
+- please help me to find restaurants in [hubli]{"entity": "place", "value": "hubli-dharwad"}
+- Am in [Gorakpur]{"entity": "place", "value": "gorakhpur"}, wish if you could help me with hotel suggestions
+- chilling in [steel city]{"entity": "place", "value": "bokaro steel city"}
+- Am looking for a quite place in [Thiruchirapalli]{"entity": "place", "value": "tiruchirappalli"} to have food
+- I'm hungry in [Vizag]{"entity": "place", "value": "visakhapatnam"}
+- Will u pls get me some top-class restraurants in [Ujain]{"entity": "place", "value": "ujjain"}
+- Am from [bilai]{"entity": "place", "value": "bhilai"}, Would like to get a list of recommended hotels for lunch
+- Any eating suggestion in [Kakinada]{"entity": "place", "value": "kakinada"}
+- Im in [agra](place)
+- please help me to find restaurants in [kurnul]{"entity": "place", "value": "kurnool"}
+- Please find me a cafe in [Mathura]{"entity": "place", "value": "mathura"}
+- i want to eat out, let me know some good options in the city of [bhavanagar]{"entity": "place", "value": "bhavnagar"}
+- i'm looking for a place to eat in [Meerat]{"entity": "place", "value": "meerut"}
+- let's say, [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- in [Amravati]{"entity": "place", "value": "amravati"} is there any takeaway options
+- in [Surat]{"entity": "place", "value": "surat"} is there any takeaway options
+- the city of [Mysor]{"entity": "place", "value": "mysore"}
+- I'm searching for some food in [jalandhar](place)
+- Am from [rourkela](place), Would like to get a list of recommended hotels for lunch
+- my place is [srinagar](place)
+- Please find me a cafe in [Kolhapur]{"entity": "place", "value": "kolhapur"}
+- in [bokaro]{"entity": "place", "value": "bokaro steel city"} is there any takeaway options
+- I'm hungry in [Asnsol]{"entity": "place", "value": "asansol"}
+- oh sorry, [ghasiabad]{"entity": "place", "value": "ghaziabad"}
+- i want to eat out, let me know some good options in the city of [ghasiabad]{"entity": "place", "value": "ghaziabad"}
+- Im in [Gauhati]{"entity": "place", "value": "guwahati"}
+- Am in [amritsar](place), wish if you could help me with hotel suggestions
+- the city of [Bhuvneswar]{"entity": "place", "value": "bhubaneswar"}
+- Am in [Calicut]{"entity": "place", "value": "kozhikode"}, wish if you could help me with hotel suggestions
+- From [cuttack](place)
+- I'm hungry in [Bhuvaneswar]{"entity": "place", "value": "bhubaneswar"}
+- Seraching for restaurants in [tiruppur](place)
+- Searching for a dining spot in [Aligarh]{"entity": "place", "value": "aligarh"}
+- I'm searching for some food in [agra](place)
+- [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- find me a restaurant in [malapuram]{"entity": "place", "value": "malappuram"}
+- Am in [Mysuru]{"entity": "place", "value": "mysore"}, wish if you could help me with hotel suggestions
+- please help me to find restaurants in [srinagar](place)
+- [bhubaneswar](place)
+- Will u pls get me some top-class restraurants in [Rajahmundry]{"entity": "place", "value": "rajahmundry"}
+- From [firozbad]{"entity": "place", "value": "firozabad"} Is there any good place to eat out?
+- find me a restaurant in [hubbali]{"entity": "place", "value": "hubli-dharwad"}
+- going to be in [Erode]{"entity": "place", "value": "erode"}
+- Suggest me a restaurant in [Nashik]{"entity": "place", "value": "nashik"} please
+- i'm looking for a place to eat in [salem](place)
+- Suggest me a restaurant in [vashai]{"entity": "place", "value": "Vasai-Virar City"} please
+- my place is [Jhansi]{"entity": "place", "value": "jhansi"}
+- in [Varanasi]{"entity": "place", "value": "varanasi"} is there any takeaway options
+- Searching for a dining spot in [Mangalore]{"entity": "place", "value": "mangalore"}
+- Am from [Gorakpur]{"entity": "place", "value": "gorakhpur"}, Would like to get a list of recommended hotels for lunch
+- I'm hungry in [Thrichur]{"entity": "place", "value": "thrissur"}
+- I'm hungry in [nasikh]{"entity": "place", "value": "nashik"}
+- find me a restaurant in [ghasiabad]{"entity": "place", "value": "ghaziabad"}
+- i want to eat out, let me know some good options in the city of [Asansol]{"entity": "place", "value": "asansol"}
+- let's say, [Sangli]{"entity": "place", "value": "sangli"}
+- i want to eat out, let me know some good options in the city of [Matura]{"entity": "place", "value": "mathura"}
+- please help me to find restaurants in [Bikaner]{"entity": "place", "value": "bikaner"}
+- my place is [Nanded]{"entity": "place", "value": "nanded"}
+- in [Jaipur]{"entity": "place", "value": "jaipur"} is there any takeaway options
+- Am in [bhilai](place), wish if you could help me with hotel suggestions
+- the city of [cochin]{"entity": "place", "value": "kochi"}
+- the city of [Gauhati]{"entity": "place", "value": "guwahati"}
+- in [aurangabad](place) is there any takeaway options
+- [Shimlah]{"entity": "place", "value": "shimla"}
+- Seraching for restaurants in [tiruchirappalli](place)
+- [amaravati]{"entity": "place", "value": "amravati"}
+- i want to eat out, let me know some good options in the city of [Aagra]{"entity": "place", "value": "agra"}
+- i want to eat out, let me know some good options in the city of [Vellur]{"entity": "place", "value": "vellore"}
+- Seraching for restaurants in [Jodhpur]{"entity": "place", "value": "jodhpur"}
+- chilling in [Jammu]{"entity": "place", "value": "jammu"}
+- oh sorry, [Jamshedpur]{"entity": "place", "value": "jamshedpur"}
+- let's say, [asansol](place)
+- Am looking for a quite place in [Virar]{"entity": "place", "value": "Vasai-Virar City"} to have food
+- [sangli](place)
+- Seraching for restaurants in [dhanbad](place)
+- Am in [Erode]{"entity": "place", "value": "erode"}, wish if you could help me with hotel suggestions
+- From [gurgaon](place)
+- [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- Am in [hubli-dharwad](place), wish if you could help me with hotel suggestions
+- oh sorry, [solapur](place)
+- my place is [amritsar](place)
+- Am in [ujjain](place), wish if you could help me with hotel suggestions
+- I'm hungry in [Rajkot]{"entity": "place", "value": "rajkot"}
+- Suggest me a restaurant in [Kolapur]{"entity": "place", "value": "kolhapur"} please
+- i want to eat out, let me know some good options in the city of [Bhuvaneswar]{"entity": "place", "value": "bhubaneswar"}
+- let's say, [mangalore](place)
+- Seraching for restaurants in [hubbali]{"entity": "place", "value": "hubli-dharwad"}
+- Searching for a dining spot in [Rajahmundry]{"entity": "place", "value": "rajahmundry"}
+- Seraching for restaurants in [Kannur]{"entity": "place", "value": "kannur"}
+- Seraching for restaurants in [Pudhuchery]{"entity": "place", "value": "pondicherry"}
+- Suggest me a restaurant in [Bhuvneswar]{"entity": "place", "value": "bhubaneswar"} please
+- please help me to find restaurants in [Aurangabad]{"entity": "place", "value": "aurangabad"}
+- in [Jamu]{"entity": "place", "value": "jammu"} is there any takeaway options
+- the city of [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}
+- i'm looking for a place to eat in [Baroda]{"entity": "place", "value": "vadodara"}
+- the city of [Nanded]{"entity": "place", "value": "nanded"}
+- Seraching for restaurants in [patna](place)
+- Im in [cuttak]{"entity": "place", "value": "cuttack"}
+- the city of [kolam]{"entity": "place", "value": "kollam"}
+- my place is [kolhapur](place)
+- please help me to find restaurants in [Bijapur]{"entity": "place", "value": "bijapur"}
+- i'm looking for a place to eat in [sanghli]{"entity": "place", "value": "sangli"}
+- i'm looking for a place to eat in [coimbatur]{"entity": "place", "value": "coimbatore"}
+- [ujjain](place)
+- Am from [Firozabad]{"entity": "place", "value": "firozabad"}, Would like to get a list of recommended hotels for lunch
+- Will u pls get me some top-class restraurants in [vijayawada](place)
+- Am looking for a quite place in [Shimlah]{"entity": "place", "value": "shimla"} to have food
+- Am looking for a quite place in [Mysuru]{"entity": "place", "value": "mysore"} to have food
+- Will u pls get me some top-class restraurants in [bilai]{"entity": "place", "value": "bhilai"}
+- Searching for a dining spot in [Bijapur]{"entity": "place", "value": "bijapur"}
+- the city of [Bhivandi]{"entity": "place", "value": "bhiwandi"}
+- Im in [Gorakpur]{"entity": "place", "value": "gorakhpur"}
+- Am from [Warangal]{"entity": "place", "value": "warangal"}, Would like to get a list of recommended hotels for lunch
+- Am from [Shimlah]{"entity": "place", "value": "shimla"}, Would like to get a list of recommended hotels for lunch
+- i want to eat out, let me know some good options in the city of [bareilly](place)
+- i want to eat out, let me know some good options in the city of [Surat]{"entity": "place", "value": "surat"}
+- in [jalandhar](place) is there any takeaway options
+- oh sorry, [Deradun]{"entity": "place", "value": "dehradun"}
+- chilling in [Noida]{"entity": "place", "value": "noida"}
+- please help me to find restaurants in [vijayawada](place)
+- Please find me a cafe in [Asnsol]{"entity": "place", "value": "asansol"}
+- the city of [bikaner](place)
+- my place is [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"}
+- please help me to find restaurants in [Gurugram]{"entity": "place", "value": "gurgaon"}
+- find me a restaurant in [Kannur]{"entity": "place", "value": "kannur"}
+- Seraching for restaurants in [Ajmer]{"entity": "place", "value": "ajmer"}
+- I'm hungry in [Kanpur]{"entity": "place", "value": "kanpur"}
+- let's say, [Gulbarga]{"entity": "place", "value": "gulbarga"}
+- going to be in [nellore](place)
+- Seraching for restaurants in [vadhodhara]{"entity": "place", "value": "vadodara"}
+- my place is [jhansi](place)
+- my place is [Matura]{"entity": "place", "value": "mathura"}
+- Am looking for a quite place in [thrissur](place) to have food
+- Am looking for a quite place in [Varanashi]{"entity": "place", "value": "varanasi"} to have food
+- oh sorry, [Vadodara]{"entity": "place", "value": "vadodara"}
+- the city of [jodhpur](place)
+- in [rourkela](place) is there any takeaway options
+- Im in [kochi](place)
+- Please find me a cafe in [Salem]{"entity": "place", "value": "salem"}
+- let's say, [Jamshedpur]{"entity": "place", "value": "jamshedpur"}
+- From [ajmir]{"entity": "place", "value": "ajmer"} Is there any good place to eat out?
+- Am in [Agra]{"entity": "place", "value": "agra"}, wish if you could help me with hotel suggestions
+- Seraching for restaurants in [Kollam]{"entity": "place", "value": "kollam"}
+- Please find me a cafe in [Madurai]{"entity": "place", "value": "madurai"}
+- From [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"}
+- From [Madurai]{"entity": "place", "value": "madurai"}
+- Suggest me a restaurant in [bhavnagar](place) please
+- my place is [Cochi]{"entity": "place", "value": "kochi"}
+- going to be in [Firozabad]{"entity": "place", "value": "firozabad"}
+- Suggest me a restaurant in [aligad]{"entity": "place", "value": "aligarh"} please
+- Searching for a dining spot in [sanghli]{"entity": "place", "value": "sangli"}
+- I'm hungry in [Varangal]{"entity": "place", "value": "warangal"}
+- let's say, [Jabalpur]{"entity": "place", "value": "jabalpur"}
+- i want to eat out, let me know some good options in the city of [faridabd]{"entity": "place", "value": "faridabad"}
+- Im in [sangli](place)
+- Will u pls get me some top-class restraurants in [bokaro steel city](place)
+- Im in [vijayawada](place)
+- Any eating suggestion in [kanpur](place)
+- i want to eat out, let me know some good options in the city of [Gulbarga]{"entity": "place", "value": "gulbarga"}
+- From [malapuram]{"entity": "place", "value": "malappuram"} Is there any good place to eat out?
+- i want to eat out, let me know some good options in the city of [nashik](place)
+- I'm searching for some food in [salem](place)
+- From [bhanarash]{"entity": "place", "value": "varanasi"} Is there any good place to eat out?
+- oh sorry, [moradabad](place)
+- in [patna](place) is there any takeaway options
+- i'm looking for a place to eat in [Jabalpur]{"entity": "place", "value": "jabalpur"}
+- i'm looking for a place to eat in [ghasiabad]{"entity": "place", "value": "ghaziabad"}
+- in [Avantika]{"entity": "place", "value": "ujjain"} is there any takeaway options
+- Suggest me a restaurant in [faridabd]{"entity": "place", "value": "faridabad"} please
+- please help me to find restaurants in [Noida]{"entity": "place", "value": "noida"}
+- i want to eat out, let me know some good options in the city of [Varanashi]{"entity": "place", "value": "varanasi"}
+- i want to eat out, let me know some good options in the city of [Pondi]{"entity": "place", "value": "pondicherry"}
+- Please find me a cafe in [Gova]{"entity": "place", "value": "goa"}
+- From [hubli-dharwad](place) Is there any good place to eat out?
+- i want to eat out, let me know some good options in the city of [jansi]{"entity": "place", "value": "jhansi"}
+- i want to eat out, let me know some good options in the city of [gulbarga](place)
+- Seraching for restaurants in [bhavanagar]{"entity": "place", "value": "bhavnagar"}
+- Any eating suggestion in [thiruchirapali]{"entity": "place", "value": "tiruchirappalli"}
+- Suggest me a restaurant in [Gurgaon]{"entity": "place", "value": "gurgaon"} please
+- Will u pls get me some top-class restraurants in [belgam]{"entity": "place", "value": "belgaum"}
+- let's say, [Bhivandi]{"entity": "place", "value": "bhiwandi"}
+- Any eating suggestion in [Dhanbad]{"entity": "place", "value": "dhanbad"}
+- Seraching for restaurants in [Bhuvneswar]{"entity": "place", "value": "bhubaneswar"}
+- Am from [shrinagar]{"entity": "place", "value": "srinagar"}, Would like to get a list of recommended hotels for lunch
+- Please find me a cafe in [kakinada](place)
+- Im in [bhilai](place)
+- find me a restaurant in [Chandigar]{"entity": "place", "value": "chandigarh"}
+- Suggest me a restaurant in [ajmir]{"entity": "place", "value": "ajmer"} please
+- Am from [Firozbad]{"entity": "place", "value": "firozabad"}, Would like to get a list of recommended hotels for lunch
+- Seraching for restaurants in [jabalpur](place)
+- Searching for a dining spot in [Aagra]{"entity": "place", "value": "agra"}
+- From [bokaro steel city](place)
+- [coimbatur]{"entity": "place", "value": "coimbatore"}
+- find me a restaurant in [Bhanarash]{"entity": "place", "value": "varanasi"}
+- Please find me a cafe in [Aligarh]{"entity": "place", "value": "aligarh"}
+- the city of [surat](place)
+- From [Ujjain]{"entity": "place", "value": "ujjain"}
+- Am from [faridbad]{"entity": "place", "value": "faridabad"}, Would like to get a list of recommended hotels for lunch
+- Searching for a dining spot in [Vellore]{"entity": "place", "value": "vellore"}
+- Will u pls get me some top-class restraurants in [Bhanarash]{"entity": "place", "value": "varanasi"}
+- Will u pls get me some top-class restraurants in [Thrichur]{"entity": "place", "value": "thrissur"}
+- Am in [kakinada](place), wish if you could help me with hotel suggestions
+- oh sorry, [bilaspur](place)
+- Searching for a dining spot in [raipur](place)
+- Suggest me a restaurant in [Aligarh]{"entity": "place", "value": "aligarh"} please
+- Any eating suggestion in [Varanasi]{"entity": "place", "value": "varanasi"}
+- find me a restaurant in [Kakinada]{"entity": "place", "value": "kakinada"}
+- Will u pls get me some top-class restraurants in [lucknow](place)
+- oh sorry, [bopal]{"entity": "place", "value": "bhopal"}
+- Am in [Trichy]{"entity": "place", "value": "tiruchirappalli"}, wish if you could help me with hotel suggestions
+- Please find me a cafe in [shiliguri]{"entity": "place", "value": "siliguri"}
+- the city of [Patana]{"entity": "place", "value": "patna"}
+- Suggest me a restaurant in [cuttack](place) please
+- Am from [bhubneswar]{"entity": "place", "value": "bhubaneswar"}, Would like to get a list of recommended hotels for lunch
+- please help me to find restaurants in [Deradun]{"entity": "place", "value": "dehradun"}
+- oh sorry, [Sangli]{"entity": "place", "value": "sangli"}
+- From [Bhopal]{"entity": "place", "value": "bhopal"}
+- I'm searching for some food in [tiruchirappalli](place)
+- Am in [aurangbad]{"entity": "place", "value": "aurangabad"}, wish if you could help me with hotel suggestions
+- my place is [ludhiana](place)
+- I'm hungry in [nellore](place)
+- [meerut](place)
+- Please find me a cafe in [nanded](place)
+- my place is [Raipur]{"entity": "place", "value": "raipur"}
+- Am looking for a quite place in [hubli-dharwad](place) to have food
+- [agra](place)
+- i'm looking for a place to eat in [Gova]{"entity": "place", "value": "goa"}
+- Im in [thrissur](place)
+- Please find me a cafe in [noidaa]{"entity": "place", "value": "noida"}
+- [rajkot](place)
+- Any eating suggestion in [faridabad](place)
+- i'm looking for a place to eat in [Gwalior]{"entity": "place", "value": "gwalior"}
+- find me a restaurant in [Varanasi]{"entity": "place", "value": "varanasi"}
+- Seraching for restaurants in [Nellor]{"entity": "place", "value": "nellore"}
+- Am looking for a quite place in [Bhuvaneswar]{"entity": "place", "value": "bhubaneswar"} to have food
+- Will u pls get me some top-class restraurants in [Guntur]{"entity": "place", "value": "guntur"}
+- Suggest me a restaurant in [erode](place) please
+- i want to eat out, let me know some good options in the city of [bokaro steel city](place)
+- i want to eat out, let me know some good options in the city of [Varangal]{"entity": "place", "value": "warangal"}
+- please help me to find restaurants in [Dhanbad]{"entity": "place", "value": "dhanbad"}
+- oh sorry, [Bareilly]{"entity": "place", "value": "bareilly"}
+- going to be in [Cattack]{"entity": "place", "value": "cuttack"}
+- Will u pls get me some top-class restraurants in [Selam]{"entity": "place", "value": "salem"}
+- Am from [jammu](place), Would like to get a list of recommended hotels for lunch
+- Im in [Malappuram]{"entity": "place", "value": "malappuram"}
+- Im in [Amrutsar]{"entity": "place", "value": "amritsar"}
+- Suggest me a restaurant in [amritsar](place) please
+- From [coimbatore](place) Is there any good place to eat out?
+- please help me to find restaurants in [Vizag]{"entity": "place", "value": "visakhapatnam"}
+- Im in [Bhopal]{"entity": "place", "value": "bhopal"}
+- i'm looking for a place to eat in [Bokkaro]{"entity": "place", "value": "bokaro steel city"}
+- From [gvalior]{"entity": "place", "value": "gwalior"} Is there any good place to eat out?
+- going to be in [Kochi]{"entity": "place", "value": "kochi"}
+- Will u pls get me some top-class restraurants in [vadhodhara]{"entity": "place", "value": "vadodara"}
+- Any eating suggestion in [Solapur]{"entity": "place", "value": "solapur"}
+- find me a restaurant in [Belgaum]{"entity": "place", "value": "belgaum"}
+- Suggest me a restaurant in [Luknow]{"entity": "place", "value": "lucknow"} please
+- Am from [mathura](place), Would like to get a list of recommended hotels for lunch
+- Please find me a cafe in [Thirupur]{"entity": "place", "value": "tiruppur"}
+- find me a restaurant in [vijayawada](place)
+- Am in [jamnagar](place), wish if you could help me with hotel suggestions
+- going to be in [kolam]{"entity": "place", "value": "kollam"}
+- i want to eat out, let me know some good options in the city of [Kakinada]{"entity": "place", "value": "kakinada"}
+- Am from [Kurnool]{"entity": "place", "value": "kurnool"}, Would like to get a list of recommended hotels for lunch
+- my place is [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"}
+- i'm looking for a place to eat in [Nandigrama]{"entity": "place", "value": "nanded"}
+- oh sorry, [Dehradun]{"entity": "place", "value": "dehradun"}
+- Will u pls get me some top-class restraurants in [bhopal](place)
+- let's say, [Baroda]{"entity": "place", "value": "vadodara"}
+- Any eating suggestion in [Covai]{"entity": "place", "value": "coimbatore"}
+- [belgam]{"entity": "place", "value": "belgaum"}
+- going to be in [Ranchi]{"entity": "place", "value": "ranchi"}
+- i want to eat out, let me know some good options in the city of [faridbad]{"entity": "place", "value": "faridabad"}
+- I'm hungry in [surat](place)
+- Suggest me a restaurant in [kannoor]{"entity": "place", "value": "kannur"} please
+- going to be in [Ajmer]{"entity": "place", "value": "ajmer"}
+- Am from [Patna]{"entity": "place", "value": "patna"}, Would like to get a list of recommended hotels for lunch
+- my place is [aligad]{"entity": "place", "value": "aligarh"}
+- let's say, [ghasiabad]{"entity": "place", "value": "ghaziabad"}
+- i'm looking for a place to eat in [Dehradun]{"entity": "place", "value": "dehradun"}
+- From [Hubballi]{"entity": "place", "value": "hubli-dharwad"}
+- i'm looking for a place to eat in [jamshedpur](place)
+- chilling in [Rajahmandry]{"entity": "place", "value": "rajahmundry"}
+- Suggest me a restaurant in [jansi]{"entity": "place", "value": "jhansi"} please
+- Im in [Durgapur]{"entity": "place", "value": "durgapur"}
+- Will u pls get me some top-class restraurants in [Bilaspur]{"entity": "place", "value": "bilaspur"}
+- Searching for a dining spot in [indore](place)
+- Im in [Cannanore]{"entity": "place", "value": "kannur"}
+- please help me to find restaurants in [Malappuram]{"entity": "place", "value": "malappuram"}
+- chilling in [Bhivandi]{"entity": "place", "value": "bhiwandi"}
+- Searching for a dining spot in [goa](place)
+- my place is [trichi]{"entity": "place", "value": "tiruchirappalli"}
+- Suggest me a restaurant in [trissur]{"entity": "place", "value": "thrissur"} please
+- chilling in [Kollam]{"entity": "place", "value": "kollam"}
+- chilling in [erode](place)
+- my place is [Bhopal]{"entity": "place", "value": "bhopal"}
+- Seraching for restaurants in [Lucknow]{"entity": "place", "value": "lucknow"}
+- i want to eat out, let me know some good options in the city of [agra](place)
+- the city of [Varangal]{"entity": "place", "value": "warangal"}
+- the city of [Nasik]{"entity": "place", "value": "nashik"}
+- I'm searching for some food in [nellore](place)
+- find me a restaurant in [Aligar]{"entity": "place", "value": "aligarh"}
+- Suggest me a restaurant in [hubli-dharwad](place) please
+- [kattack]{"entity": "place", "value": "cuttack"}
+- Am in [Soorat]{"entity": "place", "value": "surat"}, wish if you could help me with hotel suggestions
+- Please find me a cafe in [Aurangabad]{"entity": "place", "value": "aurangabad"}
+- Please find me a cafe in [Nanded]{"entity": "place", "value": "nanded"}
+- Any eating suggestion in [Pondi]{"entity": "place", "value": "pondicherry"}
+- Am looking for a quite place in [faridbad]{"entity": "place", "value": "faridabad"} to have food
+- Any eating suggestion in [Aagra]{"entity": "place", "value": "agra"}
+- chilling in [noidaa]{"entity": "place", "value": "noida"}
+- find me a restaurant in [sholapur]{"entity": "place", "value": "solapur"}
+- Seraching for restaurants in [faridabad](place)
+- Seraching for restaurants in [Kochi]{"entity": "place", "value": "kochi"}
+- I'm searching for some food in [Salem]{"entity": "place", "value": "salem"}
+- I'm hungry in [kurnool](place)
+- I'm searching for some food in [Firozabad]{"entity": "place", "value": "firozabad"}
+- Am from [gorakhpur](place), Would like to get a list of recommended hotels for lunch
+- [dhanbad](place)
+- Will u pls get me some top-class restraurants in [Varanasi]{"entity": "place", "value": "varanasi"}
+- chilling in [ajmer](place)
+- my place is [Aagra]{"entity": "place", "value": "agra"}
+- Am looking for a quite place in [Thrissur]{"entity": "place", "value": "thrissur"} to have food
+- going to be in [Bhopal]{"entity": "place", "value": "bhopal"}
+- Im in [Tiruchirappalli]{"entity": "place", "value": "tiruchirappalli"}
+- Am looking for a quite place in [warangal](place) to have food
+- the city of [Ajmer]{"entity": "place", "value": "ajmer"}
+- Suggest me a restaurant in [trichi]{"entity": "place", "value": "tiruchirappalli"} please
+- oh sorry, [surat](place)
+- Seraching for restaurants in [sholapur]{"entity": "place", "value": "solapur"}
+- Am looking for a quite place in [Ujain]{"entity": "place", "value": "ujjain"} to have food
+- I'm searching for some food in [Gaziabad]{"entity": "place", "value": "ghaziabad"}
+- I'm searching for some food in [thiruchirapali]{"entity": "place", "value": "tiruchirappalli"}
+- find me a restaurant in [Ranchi]{"entity": "place", "value": "ranchi"}
+- chilling in [Nasik]{"entity": "place", "value": "nashik"}
+- in [tiruppur](place) is there any takeaway options
+- please help me to find restaurants in [Bhuvneswar]{"entity": "place", "value": "bhubaneswar"}
+- Suggest me a restaurant in [Bhivandi]{"entity": "place", "value": "bhiwandi"} please
+- Suggest me a restaurant in [jammu](place) please
+- Am from [rajkot](place), Would like to get a list of recommended hotels for lunch
+- Am in [Mangalore]{"entity": "place", "value": "mangalore"}, wish if you could help me with hotel suggestions
+- the city of [Prayag]{"entity": "place", "value": "prayagraj"}
+- i want to eat out, let me know some good options in the city of [Gurgaon]{"entity": "place", "value": "gurgaon"}
+- Please find me a cafe in [Nellor]{"entity": "place", "value": "nellore"}
+- let's say, [Bhavnagar]{"entity": "place", "value": "bhavnagar"}
+- let's say, [raipur](place)
+- going to be in [Jhansi]{"entity": "place", "value": "jhansi"}
+- Suggest me a restaurant in [nelluru]{"entity": "place", "value": "nellore"} please
+- Please find me a cafe in [Mangalore]{"entity": "place", "value": "mangalore"}
+- Please find me a cafe in [Kollam]{"entity": "place", "value": "kollam"}
+- I'm searching for some food in [Kalburgi]{"entity": "place", "value": "gulbarga"}
+- in [Varanashi]{"entity": "place", "value": "varanasi"} is there any takeaway options
+- oh sorry, [Belagavi]{"entity": "place", "value": "belgaum"}
+- Am from [amravati](place), Would like to get a list of recommended hotels for lunch
+- Im in [firozbad]{"entity": "place", "value": "firozabad"}
+- going to be in [tiruppur](place)
+- i want to eat out, let me know some good options in the city of [Simla]{"entity": "place", "value": "shimla"}
+- I'm searching for some food in [Gorakpur]{"entity": "place", "value": "gorakhpur"}
+- Seraching for restaurants in [kurnool](place)
+- i want to eat out, let me know some good options in the city of [bokaro]{"entity": "place", "value": "bokaro steel city"}
+- Searching for a dining spot in [rajamundri]{"entity": "place", "value": "rajahmundry"}
+- my place is [jodhpur](place)
+- Am from [gurgaon](place), Would like to get a list of recommended hotels for lunch
+- I'm searching for some food in [Avantikapuri]{"entity": "place", "value": "ujjain"}
+- please help me to find restaurants in [aligarh](place)
+- going to be in [Pondicherry]{"entity": "place", "value": "pondicherry"}
+- Suggest me a restaurant in [Ujjain]{"entity": "place", "value": "ujjain"} please
+- chilling in [cochin]{"entity": "place", "value": "kochi"}
+- Seraching for restaurants in [Aligar]{"entity": "place", "value": "aligarh"}
+- Seraching for restaurants in [Virar]{"entity": "place", "value": "Vasai-Virar City"}
+- let's say, [selum]{"entity": "place", "value": "salem"}
+- Will u pls get me some top-class restraurants in [Vasai-Virar City](place)
+- i'm looking for a place to eat in [Gulbarga]{"entity": "place", "value": "gulbarga"}
+- i'm looking for a place to eat in [Bikanir]{"entity": "place", "value": "bikaner"}
+- i'm looking for a place to eat in [Gorakhpur]{"entity": "place", "value": "gorakhpur"}
+- Am in [Pondicherry]{"entity": "place", "value": "pondicherry"}, wish if you could help me with hotel suggestions
+- oh sorry, [Hamirpur]{"entity": "place", "value": "hamirpur"}
+- Suggest me a restaurant in [Patna]{"entity": "place", "value": "patna"} please
+- Am looking for a quite place in [Bikaner]{"entity": "place", "value": "bikaner"} to have food
+- Seraching for restaurants in [firozabad](place)
+- I'm searching for some food in [Shimlah]{"entity": "place", "value": "shimla"}
+- the city of [Nellor]{"entity": "place", "value": "nellore"}
+- Am from [Ghaziabad]{"entity": "place", "value": "ghaziabad"}, Would like to get a list of recommended hotels for lunch
+- I'm hungry in [mysur]{"entity": "place", "value": "mysore"}
+- chilling in [purulia](place)
+- chilling in [surat](place)
+- chilling in [deharadun]{"entity": "place", "value": "dehradun"}
+- Am looking for a quite place in [Vijayawada]{"entity": "place", "value": "vijayawada"} to have food
+- please help me to find restaurants in [nasikh]{"entity": "place", "value": "nashik"}
+- Suggest me a restaurant in [Kalburgi]{"entity": "place", "value": "gulbarga"} please
+- Suggest me a restaurant in [Nagpur]{"entity": "place", "value": "nagpur"} please
+- Will u pls get me some top-class restraurants in [jamshedpur](place)
+- chilling in [bareilly](place)
+- please help me to find restaurants in [Quilon]{"entity": "place", "value": "kollam"}
+- Am looking for a quite place in [trissur]{"entity": "place", "value": "thrissur"} to have food
+- i want to eat out, let me know some good options in the city of [vadodara](place)
+- I'm searching for some food in [Varanasi]{"entity": "place", "value": "varanasi"}
+- i'm looking for a place to eat in [rajamundri]{"entity": "place", "value": "rajahmundry"}
+- Suggest me a restaurant in [Selam]{"entity": "place", "value": "salem"} please
+- oh sorry, [Dhanbad]{"entity": "place", "value": "dhanbad"}
+- Am from [Varangal]{"entity": "place", "value": "warangal"}, Would like to get a list of recommended hotels for lunch
+- Suggest me a restaurant in [amravati](place) please
+- find me a restaurant in [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"}
+- Please find me a cafe in [Bilaspur]{"entity": "place", "value": "bilaspur"}
+- please help me to find restaurants in [Amravati]{"entity": "place", "value": "amravati"}
+- Seraching for restaurants in [Asnsol]{"entity": "place", "value": "asansol"}
+- my place is [Rourkela]{"entity": "place", "value": "rourkela"}
+- going to be in [Thirupur]{"entity": "place", "value": "tiruppur"}
+- [Patna]{"entity": "place", "value": "patna"}
+- Please find me a cafe in [Thrissur]{"entity": "place", "value": "thrissur"}
+- Will u pls get me some top-class restraurants in [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}
+- Will u pls get me some top-class restraurants in [shrinagar]{"entity": "place", "value": "srinagar"}
+- in [salem](place) is there any takeaway options
+- Please find me a cafe in [pudducherry]{"entity": "place", "value": "pondicherry"}
+- I'm hungry in [hamirpur](place)
+- i want to eat out, let me know some good options in the city of [bhubaneswar](place)
+- From [Aligar]{"entity": "place", "value": "aligarh"}
+- my place is [Jablpur]{"entity": "place", "value": "jabalpur"}
+- I'm searching for some food in [cuttack](place)
+- find me a restaurant in [thiruchirapali]{"entity": "place", "value": "tiruchirappalli"}
+- Am in [bijapur](place), wish if you could help me with hotel suggestions
+- i want to eat out, let me know some good options in the city of [mangalore](place)
+- [Malappuram]{"entity": "place", "value": "malappuram"}
+- in [Mysore]{"entity": "place", "value": "mysore"} is there any takeaway options
+- the city of [indore](place)
+- Am looking for a quite place in [Ghaziabad]{"entity": "place", "value": "ghaziabad"} to have food
+- From [gulbarga](place) Is there any good place to eat out?
+- Suggest me a restaurant in [Cannanore]{"entity": "place", "value": "kannur"} please
+- Am in [Hubballi]{"entity": "place", "value": "hubli-dharwad"}, wish if you could help me with hotel suggestions
+- Suggest me a restaurant in [Tiruchirappalli]{"entity": "place", "value": "tiruchirappalli"} please
+- oh sorry, [Pudhuchery]{"entity": "place", "value": "pondicherry"}
+- Am in [vellore](place), wish if you could help me with hotel suggestions
+- find me a restaurant in [Durgapur]{"entity": "place", "value": "durgapur"}
+- From [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"} Is there any good place to eat out?
+- Am in [surath]{"entity": "place", "value": "surat"}, wish if you could help me with hotel suggestions
+- chilling in [vadhodhara]{"entity": "place", "value": "vadodara"}
+- Im in [pondicherry](place)
+- going to be in [Jamu]{"entity": "place", "value": "jammu"}
+- find me a restaurant in [jodhpur](place)
+- going to be in [gvalior]{"entity": "place", "value": "gwalior"}
+- Am from [noidaa]{"entity": "place", "value": "noida"}, Would like to get a list of recommended hotels for lunch
+- oh sorry, [ajmer](place)
+- Am looking for a quite place in [Nagpoor]{"entity": "place", "value": "nagpur"} to have food
+- [Sangli]{"entity": "place", "value": "sangli"}
+- Im in [noidaa]{"entity": "place", "value": "noida"}
+- Im in [Bhopl]{"entity": "place", "value": "bhopal"}
+- find me a restaurant in [siliguri](place)
+- chilling in [Asansol]{"entity": "place", "value": "asansol"}
+- Will u pls get me some top-class restraurants in [Kolapur]{"entity": "place", "value": "kolhapur"}
+- [jamshedpur](place)
+- Im in [Ujain]{"entity": "place", "value": "ujjain"}
+- the city of [warangal](place)
+- in [Rajkot]{"entity": "place", "value": "rajkot"} is there any takeaway options
+- oh sorry, [Eerode]{"entity": "place", "value": "erode"}
+- From [Thirupur]{"entity": "place", "value": "tiruppur"}
+- i want to eat out, let me know some good options in the city of [lucknow](place)
+- Suggest me a restaurant in [Vadodhara]{"entity": "place", "value": "vadodara"} please
+- find me a restaurant in [aligarh](place)
+- Seraching for restaurants in [vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- From [Roorkala]{"entity": "place", "value": "rourkela"}
+- From [sholapur]{"entity": "place", "value": "solapur"}
+- Im in [Warangal]{"entity": "place", "value": "warangal"}
+- my place is [vadhodhara]{"entity": "place", "value": "vadodara"}
+- my place is [Nandigrama]{"entity": "place", "value": "nanded"}
+- the city of [jamshedpur](place)
+- oh sorry, [Puruli]{"entity": "place", "value": "purulia"}
+- I'm searching for some food in [Nagpoor]{"entity": "place", "value": "nagpur"}
+- Searching for a dining spot in [Vadodara]{"entity": "place", "value": "vadodara"}
+- oh sorry, [kolhapur](place)
+- Searching for a dining spot in [Ludhiana]{"entity": "place", "value": "ludhiana"}
+- Am in [ghasiabad]{"entity": "place", "value": "ghaziabad"}, wish if you could help me with hotel suggestions
+- let's say, [Bhanarash]{"entity": "place", "value": "varanasi"}
+- the city of [mysur]{"entity": "place", "value": "mysore"}
+- Am looking for a quite place in [ghasiabad]{"entity": "place", "value": "ghaziabad"} to have food
+- Suggest me a restaurant in [bareili]{"entity": "place", "value": "bareilly"} please
+- in [Tiruppur]{"entity": "place", "value": "tiruppur"} is there any takeaway options
+- Im in [Jablpur]{"entity": "place", "value": "jabalpur"}
+- my place is [bhavanagar]{"entity": "place", "value": "bhavnagar"}
+- Am looking for a quite place in [Gulbarga]{"entity": "place", "value": "gulbarga"} to have food
+- going to be in [Nasik]{"entity": "place", "value": "nashik"}
+- From [Nasikh]{"entity": "place", "value": "nashik"}
+- let's say, [kannoor]{"entity": "place", "value": "kannur"}
+- Searching for a dining spot in [shrinagar]{"entity": "place", "value": "srinagar"}
+- in [Vadodara]{"entity": "place", "value": "vadodara"} is there any takeaway options
+- Am from [Rourkela]{"entity": "place", "value": "rourkela"}, Would like to get a list of recommended hotels for lunch
+- Any eating suggestion in [Soorat]{"entity": "place", "value": "surat"}
+- [Aligarh]{"entity": "place", "value": "aligarh"}
+- I'm searching for some food in [Gova]{"entity": "place", "value": "goa"}
+- Searching for a dining spot in [amaravati]{"entity": "place", "value": "amravati"}
+- Suggest me a restaurant in [bhilai](place) please
+- find me a restaurant in [Jabalpur]{"entity": "place", "value": "jabalpur"}
+- Any eating suggestion in [vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- Any eating suggestion in [Tiruppur]{"entity": "place", "value": "tiruppur"}
+- [Gwalior]{"entity": "place", "value": "gwalior"}
+- i want to eat out, let me know some good options in the city of [Ujjain]{"entity": "place", "value": "ujjain"}
+- Am in [Thrichur]{"entity": "place", "value": "thrissur"}, wish if you could help me with hotel suggestions
+- let's say, [Jalandhar]{"entity": "place", "value": "jalandhar"}
+- oh sorry, [Kanpur]{"entity": "place", "value": "kanpur"}
+- find me a restaurant in [guwahati](place)
+- Am in [coimbatore](place), wish if you could help me with hotel suggestions
+- the city of [Gorakpur]{"entity": "place", "value": "gorakhpur"}
+- Am looking for a quite place in [Asnsol]{"entity": "place", "value": "asansol"} to have food
+- chilling in [Jablpur]{"entity": "place", "value": "jabalpur"}
+- chilling in [Malappuram]{"entity": "place", "value": "malappuram"}
+- Am from [coimbatore](place), Would like to get a list of recommended hotels for lunch
+- I'm hungry in [kannoor]{"entity": "place", "value": "kannur"}
+- From [belgaum](place)
+- From [bhanarash]{"entity": "place", "value": "varanasi"}
+- find me a restaurant in [Jamnagar]{"entity": "place", "value": "jamnagar"}
+- Am in [kanpur](place), wish if you could help me with hotel suggestions
+- Will u pls get me some top-class restraurants in [kollam](place)
+- Am in [Dhanbad]{"entity": "place", "value": "dhanbad"}, wish if you could help me with hotel suggestions
+- Im in [belgam]{"entity": "place", "value": "belgaum"}
+- Am looking for a quite place in [Dharwad]{"entity": "place", "value": "hubli-dharwad"} to have food
+- find me a restaurant in [sanghli]{"entity": "place", "value": "sangli"}
+- please help me to find restaurants in [Hubli]{"entity": "place", "value": "hubli-dharwad"}
+- going to be in [Dharwad]{"entity": "place", "value": "hubli-dharwad"}
+- Am from [banaras]{"entity": "place", "value": "varanasi"}, Would like to get a list of recommended hotels for lunch
+- going to be in [ernakulam]{"entity": "place", "value": "kochi"}
+- Im in [guntur](place)
+- Searching for a dining spot in [hamirpur](place)
+- in [Bikanir]{"entity": "place", "value": "bikaner"} is there any takeaway options
+- Am in [Firozabad]{"entity": "place", "value": "firozabad"}, wish if you could help me with hotel suggestions
+- Searching for a dining spot in [surat](place)
+- oh sorry, [Bijapur]{"entity": "place", "value": "bijapur"}
+- From [amravati](place)
+- [Gulbarga]{"entity": "place", "value": "gulbarga"}
+- I'm searching for some food in [Jamshedpur]{"entity": "place", "value": "jamshedpur"}
+- find me a restaurant in [gurgaon](place)
+- Im in [Bhanarash]{"entity": "place", "value": "varanasi"}
+- Searching for a dining spot in [bijapur](place)
+- Any eating suggestion in [Puruli]{"entity": "place", "value": "purulia"}
+- Am from [Patana]{"entity": "place", "value": "patna"}, Would like to get a list of recommended hotels for lunch
+- let's say, [Simla]{"entity": "place", "value": "shimla"}
+- Searching for a dining spot in [Mysor]{"entity": "place", "value": "mysore"}
+- let's say, [Nanded]{"entity": "place", "value": "nanded"}
+- Am from [Bikaner]{"entity": "place", "value": "bikaner"}, Would like to get a list of recommended hotels for lunch
+- in [Kurnool]{"entity": "place", "value": "kurnool"} is there any takeaway options
+- the city of [Trichy]{"entity": "place", "value": "tiruchirappalli"}
+- Am in [mathura](place), wish if you could help me with hotel suggestions
+- Am in [Nanded]{"entity": "place", "value": "nanded"}, wish if you could help me with hotel suggestions
+- my place is [Gova]{"entity": "place", "value": "goa"}
+- Will u pls get me some top-class restraurants in [gorakhpur](place)
+- Im in [vizag]{"entity": "place", "value": "visakhapatnam"}
+- my place is [tiruchirappalli](place)
+- Suggest me a restaurant in [gvalior]{"entity": "place", "value": "gwalior"} please
+- I'm searching for some food in [noidaa]{"entity": "place", "value": "noida"}
+- oh sorry, [noidaa]{"entity": "place", "value": "noida"}
+- Any eating suggestion in [Lucknow]{"entity": "place", "value": "lucknow"}
+- [jammu](place)
+- let's say, [bilai]{"entity": "place", "value": "bhilai"}
+- Please find me a cafe in [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"}
+- Please find me a cafe in [Meerut]{"entity": "place", "value": "meerut"}
+- please help me to find restaurants in [Jalandar]{"entity": "place", "value": "jalandhar"}
+- Am in [goa](place), wish if you could help me with hotel suggestions
+- Will u pls get me some top-class restraurants in [Kollam]{"entity": "place", "value": "kollam"}
+- From [Rajahmundry]{"entity": "place", "value": "rajahmundry"}
+- I'm searching for some food in [Moradabad]{"entity": "place", "value": "moradabad"}
+- Any eating suggestion in [bokaro steel city](place)
+- my place is [Shimlah]{"entity": "place", "value": "shimla"}
+- From [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"} Is there any good place to eat out?
+- From [prayagraj](place) Is there any good place to eat out?
+- my place is [gwalior](place)
+- Seraching for restaurants in [ghaziabad](place)
+- please help me to find restaurants in [salem](place)
+- please help me to find restaurants in [Varangal]{"entity": "place", "value": "warangal"}
+- [Nellore]{"entity": "place", "value": "nellore"}
+- From [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"}
+- Am from [Gulbarga]{"entity": "place", "value": "gulbarga"}, Would like to get a list of recommended hotels for lunch
+- Will u pls get me some top-class restraurants in [bhavnagar](place)
+- Am in [Raanchi]{"entity": "place", "value": "ranchi"}, wish if you could help me with hotel suggestions
+- Am looking for a quite place in [mathura](place) to have food
+- the city of [erode](place)
+- i'm looking for a place to eat in [Luknow]{"entity": "place", "value": "lucknow"}
+- please help me to find restaurants in [Raipur]{"entity": "place", "value": "raipur"}
+- Am looking for a quite place in [faridabad](place) to have food
+- oh sorry, [malappuram](place)
+- please help me to find restaurants in [dehradoon]{"entity": "place", "value": "dehradun"}
+- the city of [mangalore](place)
+- [Amrutsar]{"entity": "place", "value": "amritsar"}
+- Im in [Jalandar]{"entity": "place", "value": "jalandhar"}
+- let's say, [Eerode]{"entity": "place", "value": "erode"}
+- I'm searching for some food in [Nellor]{"entity": "place", "value": "nellore"}
+- Am looking for a quite place in [Vasai]{"entity": "place", "value": "Vasai-Virar City"} to have food
+- i want to eat out, let me know some good options in the city of [Mangaluru]{"entity": "place", "value": "mangalore"}
+- in [sanghli]{"entity": "place", "value": "sangli"} is there any takeaway options
+- my place is [vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- chilling in [indor]{"entity": "place", "value": "indore"}
+- chilling in [vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- Am looking for a quite place in [salem](place) to have food
+- Suggest me a restaurant in [Bikaner]{"entity": "place", "value": "bikaner"} please
+- Am from [Puruli]{"entity": "place", "value": "purulia"}, Would like to get a list of recommended hotels for lunch
+- please help me to find restaurants in [Bhivandi]{"entity": "place", "value": "bhiwandi"}
+- Am looking for a quite place in [faridabd]{"entity": "place", "value": "faridabad"} to have food
+- Seraching for restaurants in [Cannanore]{"entity": "place", "value": "kannur"}
+- please help me to find restaurants in [Chandigar]{"entity": "place", "value": "chandigarh"}
+- Suggest me a restaurant in [Deradun]{"entity": "place", "value": "dehradun"} please
+- From [Asnsol]{"entity": "place", "value": "asansol"} Is there any good place to eat out?
+- i want to eat out, let me know some good options in the city of [Vasai-Virar City](place)
+- chilling in [Pondicherry]{"entity": "place", "value": "pondicherry"}
+- I'm hungry in [Varanashi]{"entity": "place", "value": "varanasi"}
+- Will u pls get me some top-class restraurants in [thiruvananthapuram](place)
+- Please find me a cafe in [lucknow](place)
+- Seraching for restaurants in [nashik](place)
+- let's say, [Gauhati]{"entity": "place", "value": "guwahati"}
+- chilling in [Kakkinada]{"entity": "place", "value": "kakinada"}
+- i'm looking for a place to eat in [Nagpur]{"entity": "place", "value": "nagpur"}
+- Seraching for restaurants in [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}
+- going to be in [malapuram]{"entity": "place", "value": "malappuram"}
+- I'm searching for some food in [Bhilai]{"entity": "place", "value": "bhilai"}
+- oh sorry, [Kolapur]{"entity": "place", "value": "kolhapur"}
+- Any eating suggestion in [jalandhar](place)
+- the city of [cuttak]{"entity": "place", "value": "cuttack"}
+- Please find me a cafe in [kurnul]{"entity": "place", "value": "kurnool"}
+- my place is [virar]{"entity": "place", "value": "Vasai-Virar City"}
+- Any eating suggestion in [Faridabad]{"entity": "place", "value": "faridabad"}
+- going to be in [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"}
+- Am in [jansi]{"entity": "place", "value": "jhansi"}, wish if you could help me with hotel suggestions
+- i want to eat out, let me know some good options in the city of [Vadodhara]{"entity": "place", "value": "vadodara"}
+- Any eating suggestion in [Kannur]{"entity": "place", "value": "kannur"}
+- I'm hungry in [chandigarh](place)
+- I'm searching for some food in [Virar]{"entity": "place", "value": "Vasai-Virar City"}
+- Am from [Nagpur]{"entity": "place", "value": "nagpur"}, Would like to get a list of recommended hotels for lunch
+- Searching for a dining spot in [ajmir]{"entity": "place", "value": "ajmer"}
+- I'm hungry in [selum]{"entity": "place", "value": "salem"}
+- Am looking for a quite place in [coimbatur]{"entity": "place", "value": "coimbatore"} to have food
+- [Kanpur]{"entity": "place", "value": "kanpur"}
+- oh sorry, [bareili]{"entity": "place", "value": "bareilly"}
+- Any eating suggestion in [Gauhati]{"entity": "place", "value": "guwahati"}
+- Am looking for a quite place in [Tiruppur]{"entity": "place", "value": "tiruppur"} to have food
+- Am from [Ranchi]{"entity": "place", "value": "ranchi"}, Would like to get a list of recommended hotels for lunch
+- oh sorry, [Guwahati]{"entity": "place", "value": "guwahati"}
+- I'm searching for some food in [Pondicherry]{"entity": "place", "value": "pondicherry"}
+- [bikner]{"entity": "place", "value": "bikaner"}
+- Will u pls get me some top-class restraurants in [Kozhikode]{"entity": "place", "value": "kozhikode"}
+- the city of [Guwahati]{"entity": "place", "value": "guwahati"}
+- Will u pls get me some top-class restraurants in [Aligarh]{"entity": "place", "value": "aligarh"}
+- please help me to find restaurants in [bhubaneswar](place)
+- Any eating suggestion in [thrissur](place)
+- Im in [visakhapatnam](place)
+- find me a restaurant in [Raanchi]{"entity": "place", "value": "ranchi"}
+- From [Mangalore]{"entity": "place", "value": "mangalore"} Is there any good place to eat out?
+- Any eating suggestion in [Jhansi]{"entity": "place", "value": "jhansi"}
+- Searching for a dining spot in [trissur]{"entity": "place", "value": "thrissur"}
+- I'm searching for some food in [Soorat]{"entity": "place", "value": "surat"}
+- Seraching for restaurants in [Gwalior]{"entity": "place", "value": "gwalior"}
+- Any eating suggestion in [kattak]{"entity": "place", "value": "cuttack"}
+- [amravati](place)
+- Am looking for a quite place in [Jodpur]{"entity": "place", "value": "jodhpur"} to have food
+- i want to eat out, let me know some good options in the city of [tiruchirappalli](place)
+- i want to eat out, let me know some good options in the city of [trissur]{"entity": "place", "value": "thrissur"}
+- Im in [kolam]{"entity": "place", "value": "kollam"}
+- Am looking for a quite place in [visakhapatnam](place) to have food
+- I'm hungry in [tiruppur](place)
+- Am in [malapuram]{"entity": "place", "value": "malappuram"}, wish if you could help me with hotel suggestions
+- Im in [Roorkala]{"entity": "place", "value": "rourkela"}
+- Am looking for a quite place in [Sangli]{"entity": "place", "value": "sangli"} to have food
+- Am looking for a quite place in [cuttack](place) to have food
+- I'm hungry in [bilaspur](place)
+- oh sorry, [bhubneswar]{"entity": "place", "value": "bhubaneswar"}
+- find me a restaurant in [kozhikode](place)
+- Will u pls get me some top-class restraurants in [jodhpur](place)
+- let's say, [Gurgaon]{"entity": "place", "value": "gurgaon"}
+- I'm searching for some food in [Vasai-Virar City](place)
+- Am in [aligarh](place), wish if you could help me with hotel suggestions
+- my place is [Bhanarash]{"entity": "place", "value": "varanasi"}
+- Suggest me a restaurant in [kattack]{"entity": "place", "value": "cuttack"} please
+- Please find me a cafe in [Quilon]{"entity": "place", "value": "kollam"}
+- the city of [vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- Searching for a dining spot in [shimla](place)
+- please help me to find restaurants in [Aligar]{"entity": "place", "value": "aligarh"}
+- [Rajahmundry]{"entity": "place", "value": "rajahmundry"}
+- I'm searching for some food in [gorakhpur](place)
+- find me a restaurant in [Faridabad]{"entity": "place", "value": "faridabad"}
+- From [nelluru]{"entity": "place", "value": "nellore"}
+- Will u pls get me some top-class restraurants in [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"}
+- Seraching for restaurants in [cuttack](place)
+- [Avantikapuri]{"entity": "place", "value": "ujjain"}
+- Searching for a dining spot in [Firozbad]{"entity": "place", "value": "firozabad"}
+- Will u pls get me some top-class restraurants in [Bokkaro]{"entity": "place", "value": "bokaro steel city"}
+- Suggest me a restaurant in [Bijapur]{"entity": "place", "value": "bijapur"} please
+- please help me to find restaurants in [Ajmer]{"entity": "place", "value": "ajmer"}
+- the city of [vadhodhara]{"entity": "place", "value": "vadodara"}
+- i want to eat out, let me know some good options in the city of [rajamundri]{"entity": "place", "value": "rajahmundry"}
+- Any eating suggestion in [gurgaon](place)
+- Im in [Avantika]{"entity": "place", "value": "ujjain"}
+- From [cochin]{"entity": "place", "value": "kochi"} Is there any good place to eat out?
+- Any eating suggestion in [Raanchi]{"entity": "place", "value": "ranchi"}
+- Am looking for a quite place in [surat](place) to have food
+- in [Erode]{"entity": "place", "value": "erode"} is there any takeaway options
+- Suggest me a restaurant in [faridabad](place) please
+- Suggest me a restaurant in [Ludhiana]{"entity": "place", "value": "ludhiana"} please
+- Seraching for restaurants in [Simla]{"entity": "place", "value": "shimla"}
+- [durgapur](place)
+- From [moradabad](place)
+- Im in [Varanashi]{"entity": "place", "value": "varanasi"}
+- [kannur](place)
+- the city of [aligad]{"entity": "place", "value": "aligarh"}
+- Any eating suggestion in [tiruppur](place)
+- find me a restaurant in [kochi](place)
+- Am in [trichi]{"entity": "place", "value": "tiruchirappalli"}, wish if you could help me with hotel suggestions
+- the city of [rajkot](place)
+- Any eating suggestion in [Hubli]{"entity": "place", "value": "hubli-dharwad"}
+- i want to eat out, let me know some good options in the city of [Virar]{"entity": "place", "value": "Vasai-Virar City"}
+- i'm looking for a place to eat in [tiruchirappalli](place)
+- please help me to find restaurants in [kanpur](place)
+- Im in [chandigad]{"entity": "place", "value": "chandigarh"}
+- [Nellor]{"entity": "place", "value": "nellore"}
+- I'm searching for some food in [dhanbad](place)
+- From [mysur]{"entity": "place", "value": "mysore"} Is there any good place to eat out?
+- please help me to find restaurants in [Rajahmandry]{"entity": "place", "value": "rajahmundry"}
+- Searching for a dining spot in [ranchi](place)
+- oh sorry, [Bhopl]{"entity": "place", "value": "bhopal"}
+- Am in [Vasai]{"entity": "place", "value": "Vasai-Virar City"}, wish if you could help me with hotel suggestions
+- Am looking for a quite place in [Prayag]{"entity": "place", "value": "prayagraj"} to have food
+- chilling in [Simla]{"entity": "place", "value": "shimla"}
+- From [Eerode]{"entity": "place", "value": "erode"}
+- chilling in [kakinada](place)
+- i want to eat out, let me know some good options in the city of [Nasik]{"entity": "place", "value": "nashik"}
+- I'm searching for some food in [Nandigrama]{"entity": "place", "value": "nanded"}
+- oh sorry, [ghaziabad](place)
+- Am from [amaravati]{"entity": "place", "value": "amravati"}, Would like to get a list of recommended hotels for lunch
+- I'm hungry in [jansi]{"entity": "place", "value": "jhansi"}
+- Will u pls get me some top-class restraurants in [durgapur](place)
+- Searching for a dining spot in [Ludiana]{"entity": "place", "value": "ludhiana"}
+- I'm searching for some food in [kollam](place)
+- going to be in [Thiruchirapalli]{"entity": "place", "value": "tiruchirappalli"}
+- Am in [raipur](place), wish if you could help me with hotel suggestions
+- oh sorry, [Bikaner]{"entity": "place", "value": "bikaner"}
+- oh sorry, [Soorat]{"entity": "place", "value": "surat"}
+- Suggest me a restaurant in [Bhanaras]{"entity": "place", "value": "varanasi"} please
+- I'm hungry in [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- Im in [kattak]{"entity": "place", "value": "cuttack"}
+- I'm hungry in [Selam]{"entity": "place", "value": "salem"}
+- I'm searching for some food in [ghasiabad]{"entity": "place", "value": "ghaziabad"}
+- i want to eat out, let me know some good options in the city of [belgam]{"entity": "place", "value": "belgaum"}
+- Am in [surat](place), wish if you could help me with hotel suggestions
+- Im in [Hubli]{"entity": "place", "value": "hubli-dharwad"}
+- the city of [Gulbarga]{"entity": "place", "value": "gulbarga"}
+- Am looking for a quite place in [amritsar](place) to have food
+- Please find me a cafe in [thrissur](place)
+- Am from [raipur](place), Would like to get a list of recommended hotels for lunch
+- [Cochi]{"entity": "place", "value": "kochi"}
+- chilling in [patna](place)
+- Will u pls get me some top-class restraurants in [Vadodhara]{"entity": "place", "value": "vadodara"}
+- Please find me a cafe in [bokaro steel city](place)
+- i want to eat out, let me know some good options in the city of [Jamshedpur]{"entity": "place", "value": "jamshedpur"}
+- find me a restaurant in [Ajmer]{"entity": "place", "value": "ajmer"}
+- chilling in [aurangbad]{"entity": "place", "value": "aurangabad"}
+- I'm hungry in [Ludhiana]{"entity": "place", "value": "ludhiana"}
+- i want to eat out, let me know some good options in the city of [rajahmundry](place)
+- Will u pls get me some top-class restraurants in [Amravati]{"entity": "place", "value": "amravati"}
+- Any eating suggestion in [ludhiana](place)
+- chilling in [banaras]{"entity": "place", "value": "varanasi"}
+- Will u pls get me some top-class restraurants in [Indore]{"entity": "place", "value": "indore"}
+- From [Gorakpur]{"entity": "place", "value": "gorakhpur"} Is there any good place to eat out?
+- Please find me a cafe in [bareilly](place)
+- From [varanasi](place) Is there any good place to eat out?
+- oh sorry, [Thirupur]{"entity": "place", "value": "tiruppur"}
+- Im in [Rajkot]{"entity": "place", "value": "rajkot"}
+- going to be in [rajkot](place)
+- [surath]{"entity": "place", "value": "surat"}
+- Am from [Eerode]{"entity": "place", "value": "erode"}, Would like to get a list of recommended hotels for lunch
+- let's say, [deharadun]{"entity": "place", "value": "dehradun"}
+- Am in [Warangal]{"entity": "place", "value": "warangal"}, wish if you could help me with hotel suggestions
+- Searching for a dining spot in [Solapur]{"entity": "place", "value": "solapur"}
+- From [Nellore]{"entity": "place", "value": "nellore"} Is there any good place to eat out?
+- the city of [vellore](place)
+- Will u pls get me some top-class restraurants in [hubli-dharwad](place)
+- Will u pls get me some top-class restraurants in [Gwalior]{"entity": "place", "value": "gwalior"}
+- Searching for a dining spot in [vijayawada](place)
+- chilling in [Gorakpur]{"entity": "place", "value": "gorakhpur"}
+- let's say, [noidaa]{"entity": "place", "value": "noida"}
+- oh sorry, [Kalburgi]{"entity": "place", "value": "gulbarga"}
+- Am in [Nellor]{"entity": "place", "value": "nellore"}, wish if you could help me with hotel suggestions
+- going to be in [Bhuvaneswar]{"entity": "place", "value": "bhubaneswar"}
+- Will u pls get me some top-class restraurants in [Jhansi]{"entity": "place", "value": "jhansi"}
+- please help me to find restaurants in [Aagra]{"entity": "place", "value": "agra"}
+- i'm looking for a place to eat in [coimbator]{"entity": "place", "value": "coimbatore"}
+- Im in [bijapur](place)
+- Suggest me a restaurant in [ludhiana](place) please
+- Suggest me a restaurant in [Cuttack]{"entity": "place", "value": "cuttack"} please
+- From [kattak]{"entity": "place", "value": "cuttack"}
+- I'm searching for some food in [Ranchi]{"entity": "place", "value": "ranchi"}
+- let's say, [Kolhapur]{"entity": "place", "value": "kolhapur"}
+- [srinagar](place)
+- Am looking for a quite place in [Guntur]{"entity": "place", "value": "guntur"} to have food
+- Im in [jalandhar](place)
+- Am from [belgam]{"entity": "place", "value": "belgaum"}, Would like to get a list of recommended hotels for lunch
+- [siliguri](place)
+- in [Bijapur]{"entity": "place", "value": "bijapur"} is there any takeaway options
+- i want to eat out, let me know some good options in the city of [Tiruppur]{"entity": "place", "value": "tiruppur"}
+- chilling in [Raanchi]{"entity": "place", "value": "ranchi"}
+- Searching for a dining spot in [bhanarash]{"entity": "place", "value": "varanasi"}
+- the city of [Thrissur]{"entity": "place", "value": "thrissur"}
+- Suggest me a restaurant in [Thrissur]{"entity": "place", "value": "thrissur"} please
+- i want to eat out, let me know some good options in the city of [Gorakpur]{"entity": "place", "value": "gorakhpur"}
+- From [Hamirpur]{"entity": "place", "value": "hamirpur"} Is there any good place to eat out?
+- Will u pls get me some top-class restraurants in [jansi]{"entity": "place", "value": "jhansi"}
+- Suggest me a restaurant in [Pondicherry]{"entity": "place", "value": "pondicherry"} please
+- Am looking for a quite place in [Kollam]{"entity": "place", "value": "kollam"} to have food
+- oh sorry, [Surat]{"entity": "place", "value": "surat"}
+- in [Jablpur]{"entity": "place", "value": "jabalpur"} is there any takeaway options
+- Am looking for a quite place in [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"} to have food
+- Will u pls get me some top-class restraurants in [tiruppur](place)
+- my place is [Bikanir]{"entity": "place", "value": "bikaner"}
+- oh sorry, [mathura](place)
+- i'm looking for a place to eat in [Varangal]{"entity": "place", "value": "warangal"}
+- Suggest me a restaurant in [Faridabad]{"entity": "place", "value": "faridabad"} please
+- find me a restaurant in [purulia](place)
+- let's say, [Amritsar]{"entity": "place", "value": "amritsar"}
+- oh sorry, [nagpur](place)
+- going to be in [thiruvananthapuram](place)
+- Am from [Cannanore]{"entity": "place", "value": "kannur"}, Would like to get a list of recommended hotels for lunch
+- Am looking for a quite place in [Raipur]{"entity": "place", "value": "raipur"} to have food
+- i want to eat out, let me know some good options in the city of [Thiruchirapalli]{"entity": "place", "value": "tiruchirappalli"}
+- Please find me a cafe in [kollam](place)
+- Im in [Raipur]{"entity": "place", "value": "raipur"}
+- going to be in [gorakhpur](place)
+- Suggest me a restaurant in [kanpur](place) please
+- in [Jamnagar]{"entity": "place", "value": "jamnagar"} is there any takeaway options
+- Seraching for restaurants in [goa](place)
+- chilling in [Bhuvneswar]{"entity": "place", "value": "bhubaneswar"}
+- my place is [bikaner](place)
+- Am in [Kalburgi]{"entity": "place", "value": "gulbarga"}, wish if you could help me with hotel suggestions
+- in [vellore](place) is there any takeaway options
+- i'm looking for a place to eat in [gvalior]{"entity": "place", "value": "gwalior"}
+- [prayagraj](place)
+- going to be in [Bhanaras]{"entity": "place", "value": "varanasi"}
+- going to be in [Noida]{"entity": "place", "value": "noida"}
+- oh sorry, [Covai]{"entity": "place", "value": "coimbatore"}
+- the city of [Bhanaras]{"entity": "place", "value": "varanasi"}
+- going to be in [aligarh](place)
+- find me a restaurant in [Bijapur]{"entity": "place", "value": "bijapur"}
+- I'm searching for some food in [ajmir]{"entity": "place", "value": "ajmer"}
+- [vijayawada](place)
+- find me a restaurant in [Jodhpur]{"entity": "place", "value": "jodhpur"}
+- Will u pls get me some top-class restraurants in [amaravati]{"entity": "place", "value": "amravati"}
+- the city of [coimbatur]{"entity": "place", "value": "coimbatore"}
+- oh sorry, [Jaipur]{"entity": "place", "value": "jaipur"}
+- Seraching for restaurants in [Thirupur]{"entity": "place", "value": "tiruppur"}
+- in [Rajahmandry]{"entity": "place", "value": "rajahmundry"} is there any takeaway options
+- Suggest me a restaurant in [ghasiabad]{"entity": "place", "value": "ghaziabad"} please
+- oh sorry, [kattak]{"entity": "place", "value": "cuttack"}
+- I'm searching for some food in [nashik](place)
+- i want to eat out, let me know some good options in the city of [belgaum](place)
+- From [Kalburgi]{"entity": "place", "value": "gulbarga"} Is there any good place to eat out?
+- From [Pondicherry]{"entity": "place", "value": "pondicherry"}
+- Am from [Agra]{"entity": "place", "value": "agra"}, Would like to get a list of recommended hotels for lunch
+- Seraching for restaurants in [surath]{"entity": "place", "value": "surat"}
+- Am from [Thrichur]{"entity": "place", "value": "thrissur"}, Would like to get a list of recommended hotels for lunch
+- I'm searching for some food in [bikaner](place)
+- I'm hungry in [jaipur](place)
+- Seraching for restaurants in [Vadodara]{"entity": "place", "value": "vadodara"}
+- i'm looking for a place to eat in [kurnul]{"entity": "place", "value": "kurnool"}
+- Im in [erode](place)
+- Will u pls get me some top-class restraurants in [Nasikh]{"entity": "place", "value": "nashik"}
+- i want to eat out, let me know some good options in the city of [Patana]{"entity": "place", "value": "patna"}
+- Searching for a dining spot in [Jodhpur]{"entity": "place", "value": "jodhpur"}
+- in [Virar]{"entity": "place", "value": "Vasai-Virar City"} is there any takeaway options
+- I'm searching for some food in [Belgaum]{"entity": "place", "value": "belgaum"}
+- find me a restaurant in [Solapur]{"entity": "place", "value": "solapur"}
+- Suggest me a restaurant in [amaravati]{"entity": "place", "value": "amravati"} please
+- Am in [shimla](place), wish if you could help me with hotel suggestions
+- Am from [Thirupur]{"entity": "place", "value": "tiruppur"}, Would like to get a list of recommended hotels for lunch
+- oh sorry, [Kozhikode]{"entity": "place", "value": "kozhikode"}
+- Please find me a cafe in [Kanpur]{"entity": "place", "value": "kanpur"}
+- Any eating suggestion in [Rajahmundry]{"entity": "place", "value": "rajahmundry"}
+- Any eating suggestion in [Ludhiana]{"entity": "place", "value": "ludhiana"}
+- Please find me a cafe in [bilaspur](place)
+- my place is [hubbali]{"entity": "place", "value": "hubli-dharwad"}
+- find me a restaurant in [Surat]{"entity": "place", "value": "surat"}
+- I'm hungry in [Firozabad]{"entity": "place", "value": "firozabad"}
+- oh sorry, [kozhikode](place)
+- From [Vellore]{"entity": "place", "value": "vellore"}
+- [Thrichur]{"entity": "place", "value": "thrissur"}
+- From [Gaziabad]{"entity": "place", "value": "ghaziabad"} Is there any good place to eat out?
+- Searching for a dining spot in [Thirupur]{"entity": "place", "value": "tiruppur"}
+- From [Bareilly]{"entity": "place", "value": "bareilly"} Is there any good place to eat out?
+- Suggest me a restaurant in [Moradabad]{"entity": "place", "value": "moradabad"} please
+- From [jalandhar](place) Is there any good place to eat out?
+- Searching for a dining spot in [Durgapur]{"entity": "place", "value": "durgapur"}
+- [Asnsol]{"entity": "place", "value": "asansol"}
+- i'm looking for a place to eat in [Nagpoor]{"entity": "place", "value": "nagpur"}
+- Im in [Aligarh]{"entity": "place", "value": "aligarh"}
+- my place is [Soorat]{"entity": "place", "value": "surat"}
+- [jaipur](place)
+- i want to eat out, let me know some good options in the city of [Kalburgi]{"entity": "place", "value": "gulbarga"}
+- From [Bhopl]{"entity": "place", "value": "bhopal"} Is there any good place to eat out?
+- please help me to find restaurants in [belgaum](place)
+- chilling in [gurgaon](place)
+- in [nellore](place) is there any takeaway options
+- Im in [coimbator]{"entity": "place", "value": "coimbatore"}
+- I'm searching for some food in [jamnagar](place)
+- i'm looking for a place to eat in [Shimlah]{"entity": "place", "value": "shimla"}
+- Am in [Gurugram]{"entity": "place", "value": "gurgaon"}, wish if you could help me with hotel suggestions
+- I'm searching for some food in [jhansi](place)
+- From [Tiruchirappalli]{"entity": "place", "value": "tiruchirappalli"} Is there any good place to eat out?
+- Please find me a cafe in [Vasai-Virar City](place)
+- [varanasi](place)
+- please help me to find restaurants in [kollam](place)
+- Any eating suggestion in [noida](place)
+- going to be in [cuttack](place)
+- in [cuttack](place) is there any takeaway options
+- going to be in [bhopal](place)
+- i want to eat out, let me know some good options in the city of [rourkela](place)
+- [hamirpur](place)
+- Am from [jabalpur](place), Would like to get a list of recommended hotels for lunch
+- find me a restaurant in [Indore]{"entity": "place", "value": "indore"}
+- From [Cochi]{"entity": "place", "value": "kochi"}
+- Am looking for a quite place in [Vasai-Virar City](place) to have food
+- Any eating suggestion in [chandigarh](place)
+- Seraching for restaurants in [malapuram]{"entity": "place", "value": "malappuram"}
+- i'm looking for a place to eat in [Virar]{"entity": "place", "value": "Vasai-Virar City"}
+- i'm looking for a place to eat in [Quilon]{"entity": "place", "value": "kollam"}
+- Searching for a dining spot in [indor]{"entity": "place", "value": "indore"}
+- chilling in [bhubaneswar](place)
+- Suggest me a restaurant in [Ujain]{"entity": "place", "value": "ujjain"} please
+- Am from [Bhuvaneswar]{"entity": "place", "value": "bhubaneswar"}, Would like to get a list of recommended hotels for lunch
+- Seraching for restaurants in [Matura]{"entity": "place", "value": "mathura"}
+- Please find me a cafe in [Roorkala]{"entity": "place", "value": "rourkela"}
+- Am looking for a quite place in [vijayawada](place) to have food
+- From [trichi]{"entity": "place", "value": "tiruchirappalli"} Is there any good place to eat out?
+- I'm hungry in [Prayag]{"entity": "place", "value": "prayagraj"}
+- Im in [cochin]{"entity": "place", "value": "kochi"}
+- in [rajamundri]{"entity": "place", "value": "rajahmundry"} is there any takeaway options
+- the city of [Kalburgi]{"entity": "place", "value": "gulbarga"}
+- my place is [Gulbarga]{"entity": "place", "value": "gulbarga"}
+- Am in [Jodpur]{"entity": "place", "value": "jodhpur"}, wish if you could help me with hotel suggestions
+- [Goa]{"entity": "place", "value": "goa"}
+- From [Gwalior]{"entity": "place", "value": "gwalior"}
+- i want to eat out, let me know some good options in the city of [Selam]{"entity": "place", "value": "salem"}
+- Seraching for restaurants in [Ujain]{"entity": "place", "value": "ujjain"}
+- Im in [Belgaum]{"entity": "place", "value": "belgaum"}
+- From [Durgapur]{"entity": "place", "value": "durgapur"} Is there any good place to eat out?
+- Please find me a cafe in [indore](place)
+- Am from [nelluru]{"entity": "place", "value": "nellore"}, Would like to get a list of recommended hotels for lunch
+- Am in [Raipur]{"entity": "place", "value": "raipur"}, wish if you could help me with hotel suggestions
+- From [Jhansi]{"entity": "place", "value": "jhansi"}
+- Am from [nanded](place), Would like to get a list of recommended hotels for lunch
+- find me a restaurant in [bhavnagar](place)
+- [rajamundri]{"entity": "place", "value": "rajahmundry"}
+- my place is [deharadun]{"entity": "place", "value": "dehradun"}
+- in [Selam]{"entity": "place", "value": "salem"} is there any takeaway options
+- I'm searching for some food in [Mangaluru]{"entity": "place", "value": "mangalore"}
+- [nashik](place)
+- Im in [Varangal]{"entity": "place", "value": "warangal"}
+- going to be in [Kanpur]{"entity": "place", "value": "kanpur"}
+- going to be in [Raanchi]{"entity": "place", "value": "ranchi"}
+- Seraching for restaurants in [Gorakhpur]{"entity": "place", "value": "gorakhpur"}
+- in [mangalore](place) is there any takeaway options
+- my place is [moradabad](place)
+- i'm looking for a place to eat in [lucknow](place)
+- oh sorry, [kurnul]{"entity": "place", "value": "kurnool"}
+- find me a restaurant in [jamshedpur](place)
+- Any eating suggestion in [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}
+- [bilaspur](place)
+- Please find me a cafe in [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- oh sorry, [Tiruppur]{"entity": "place", "value": "tiruppur"}
+- i want to eat out, let me know some good options in the city of [goa](place)
+- Suggest me a restaurant in [Patana]{"entity": "place", "value": "patna"} please
+- Am in [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"}, wish if you could help me with hotel suggestions
+- Will u pls get me some top-class restraurants in [Erode]{"entity": "place", "value": "erode"}
+- let's say, [shiliguri]{"entity": "place", "value": "siliguri"}
+- going to be in [pudducherry]{"entity": "place", "value": "pondicherry"}
+- Am in [solapur](place), wish if you could help me with hotel suggestions
+- in [dehradoon]{"entity": "place", "value": "dehradun"} is there any takeaway options
+- find me a restaurant in [Cattack]{"entity": "place", "value": "cuttack"}
+- Will u pls get me some top-class restraurants in [surat](place)
+- Am from [bijapur](place), Would like to get a list of recommended hotels for lunch
+- let's say, [Durgapur]{"entity": "place", "value": "durgapur"}
+- please help me to find restaurants in [sanghli]{"entity": "place", "value": "sangli"}
+- Suggest me a restaurant in [Vellur]{"entity": "place", "value": "vellore"} please
+- Please find me a cafe in [aligad]{"entity": "place", "value": "aligarh"}
+- find me a restaurant in [shimla](place)
+- From [thiruchirapali]{"entity": "place", "value": "tiruchirappalli"}
+- Any eating suggestion in [Avantikapuri]{"entity": "place", "value": "ujjain"}
+- Any eating suggestion in [Jodpur]{"entity": "place", "value": "jodhpur"}
+- oh sorry, [Gova]{"entity": "place", "value": "goa"}
+- going to be in [Meerat]{"entity": "place", "value": "meerut"}
+- Please find me a cafe in [kattack]{"entity": "place", "value": "cuttack"}
+- Please find me a cafe in [moradabad](place)
+- find me a restaurant in [bikaner](place)
+- Suggest me a restaurant in [Chandigarh]{"entity": "place", "value": "chandigarh"} please
+- going to be in [vishakapatanam]{"entity": "place", "value": "visakhapatnam"}
+- [Pondi]{"entity": "place", "value": "pondicherry"}
+- please help me to find restaurants in [Kakkinada]{"entity": "place", "value": "kakinada"}
+- i'm looking for a place to eat in [jodhpur](place)
+- Seraching for restaurants in [Dehradun]{"entity": "place", "value": "dehradun"}
+- chilling in [Jamu]{"entity": "place", "value": "jammu"}
+- the city of [Gurugram]{"entity": "place", "value": "gurgaon"}
+- Suggest me a restaurant in [Simla]{"entity": "place", "value": "shimla"} please
+- Suggest me a restaurant in [kozhikode](place) please
+- Am from [Bhuvneswar]{"entity": "place", "value": "bhubaneswar"}, Would like to get a list of recommended hotels for lunch
+- Please find me a cafe in [Varanasi]{"entity": "place", "value": "varanasi"}
+- Am looking for a quite place in [bilai]{"entity": "place", "value": "bhilai"} to have food
+- my place is [Kannur]{"entity": "place", "value": "kannur"}
+- in [Kannur]{"entity": "place", "value": "kannur"} is there any takeaway options
+- From [Jamshadpur]{"entity": "place", "value": "jamshedpur"}
+- From [malappuram](place) Is there any good place to eat out?
+- the city of [Covai]{"entity": "place", "value": "coimbatore"}
+- in [Bhopl]{"entity": "place", "value": "bhopal"} is there any takeaway options
+- in [selum]{"entity": "place", "value": "salem"} is there any takeaway options
+- Am in [kolam]{"entity": "place", "value": "kollam"}, wish if you could help me with hotel suggestions
+- the city of [Sangli]{"entity": "place", "value": "sangli"}
+- let's say, [Nashikh]{"entity": "place", "value": "nashik"}
+- going to be in [Varangal]{"entity": "place", "value": "warangal"}
+- I'm hungry in [hubbali]{"entity": "place", "value": "hubli-dharwad"}
+- Please find me a cafe in [rourkela](place)
+- i want to eat out, let me know some good options in the city of [jamshedpur](place)
+- I'm searching for some food in [Selam]{"entity": "place", "value": "salem"}
+- in [Dhanbad]{"entity": "place", "value": "dhanbad"} is there any takeaway options
+- going to be in [Quilon]{"entity": "place", "value": "kollam"}
+- Suggest me a restaurant in [Bhopl]{"entity": "place", "value": "bhopal"} please
+- i'm looking for a place to eat in [Calicut]{"entity": "place", "value": "kozhikode"}
+- i want to eat out, let me know some good options in the city of [bhiwandi](place)
+- i'm looking for a place to eat in [cuttak]{"entity": "place", "value": "cuttack"}
+- Will u pls get me some top-class restraurants in [Vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- I'm hungry in [jalandhar](place)
+- oh sorry, [Mangalore]{"entity": "place", "value": "mangalore"}
+- i want to eat out, let me know some good options in the city of [Avantika]{"entity": "place", "value": "ujjain"}
+- Am in [bareilly](place), wish if you could help me with hotel suggestions
+- please help me to find restaurants in [erod]{"entity": "place", "value": "erode"}
+- i want to eat out, let me know some good options in the city of [pondicherry](place)
+- please help me to find restaurants in [kochi](place)
+- I'm searching for some food in [Jaipur]{"entity": "place", "value": "jaipur"}
+- Am from [Vashai]{"entity": "place", "value": "Vasai-Virar City"}, Would like to get a list of recommended hotels for lunch
+- From [virar]{"entity": "place", "value": "Vasai-Virar City"} Is there any good place to eat out?
+- Suggest me a restaurant in [bhubaneswar](place) please
+- Will u pls get me some top-class restraurants in [bikner]{"entity": "place", "value": "bikaner"}
+- my place is [Warangal]{"entity": "place", "value": "warangal"}
+- Am from [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}, Would like to get a list of recommended hotels for lunch
+- I'm hungry in [ludhiana](place)
+- let's say, [Meerut]{"entity": "place", "value": "meerut"}
+- Seraching for restaurants in [Surat]{"entity": "place", "value": "surat"}
+- the city of [rourkela](place)
+- [shiliguri]{"entity": "place", "value": "siliguri"}
+- i want to eat out, let me know some good options in the city of [Firozabad]{"entity": "place", "value": "firozabad"}
+- Will u pls get me some top-class restraurants in [indor]{"entity": "place", "value": "indore"}
+- please help me to find restaurants in [Jodpur]{"entity": "place", "value": "jodhpur"}
+- I'm hungry in [Cochi]{"entity": "place", "value": "kochi"}
+- From [Bokaro]{"entity": "place", "value": "bokaro steel city"} Is there any good place to eat out?
+- i'm looking for a place to eat in [bhavanagar]{"entity": "place", "value": "bhavnagar"}
+- my place is [Asansol]{"entity": "place", "value": "asansol"}
+- I'm hungry in [Cattack]{"entity": "place", "value": "cuttack"}
+- the city of [Noida]{"entity": "place", "value": "noida"}
+- i want to eat out, let me know some good options in the city of [nasikh]{"entity": "place", "value": "nashik"}
+- Am from [Jablpur]{"entity": "place", "value": "jabalpur"}, Would like to get a list of recommended hotels for lunch
+- i want to eat out, let me know some good options in the city of [Vizag]{"entity": "place", "value": "visakhapatnam"}
+- chilling in [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}
+- going to be in [Surat]{"entity": "place", "value": "surat"}
+- Please find me a cafe in [Durgapur]{"entity": "place", "value": "durgapur"}
+- Am in [bhanarash]{"entity": "place", "value": "varanasi"}, wish if you could help me with hotel suggestions
+- Suggest me a restaurant in [srinagar](place) please
+- find me a restaurant in [Patna]{"entity": "place", "value": "patna"}
+- Any eating suggestion in [Jablpur]{"entity": "place", "value": "jabalpur"}
+- find me a restaurant in [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"}
+- please help me to find restaurants in [Puruli]{"entity": "place", "value": "purulia"}
+- going to be in [Jablpur]{"entity": "place", "value": "jabalpur"}
+- From [Jhansi]{"entity": "place", "value": "jhansi"} Is there any good place to eat out?
+- Seraching for restaurants in [belgam]{"entity": "place", "value": "belgaum"}
+- in [Vashai]{"entity": "place", "value": "Vasai-Virar City"} is there any takeaway options
+- Am from [cochin]{"entity": "place", "value": "kochi"}, Would like to get a list of recommended hotels for lunch
+- Suggest me a restaurant in [Madurai]{"entity": "place", "value": "madurai"} please
+- find me a restaurant in [Pondi]{"entity": "place", "value": "pondicherry"}
+- i want to eat out, let me know some good options in the city of [vishakapatanam]{"entity": "place", "value": "visakhapatnam"}
+- From [erod]{"entity": "place", "value": "erode"} Is there any good place to eat out?
+- Im in [Thrichur]{"entity": "place", "value": "thrissur"}
+- find me a restaurant in [bareili]{"entity": "place", "value": "bareilly"}
+- Please find me a cafe in [belgaum](place)
+- I'm searching for some food in [Thrissur]{"entity": "place", "value": "thrissur"}
+- the city of [Jalandhar]{"entity": "place", "value": "jalandhar"}
+- Will u pls get me some top-class restraurants in [rajkot](place)
+- oh sorry, [Meerut]{"entity": "place", "value": "meerut"}
+- Am from [Noida]{"entity": "place", "value": "noida"}, Would like to get a list of recommended hotels for lunch
+- i'm looking for a place to eat in [trissur]{"entity": "place", "value": "thrissur"}
+- going to be in [belgam]{"entity": "place", "value": "belgaum"}
+- let's say, [rourkela](place)
+- Suggest me a restaurant in [Dharwad]{"entity": "place", "value": "hubli-dharwad"} please
+- Am looking for a quite place in [Bijapur]{"entity": "place", "value": "bijapur"} to have food
+- in [shrinagar]{"entity": "place", "value": "srinagar"} is there any takeaway options
+- I'm searching for some food in [goa](place)
+- From [Erode]{"entity": "place", "value": "erode"}
+- Searching for a dining spot in [solapur](place)
+- i want to eat out, let me know some good options in the city of [aurangabad](place)
+- let's say, [Jhansi]{"entity": "place", "value": "jhansi"}
+- chilling in [agra](place)
+- Searching for a dining spot in [tiruchirappalli](place)
+- From [Goa]{"entity": "place", "value": "goa"}
+- please help me to find restaurants in [Dharwad]{"entity": "place", "value": "hubli-dharwad"}
+- From [Rajahmundry]{"entity": "place", "value": "rajahmundry"} Is there any good place to eat out?
+- chilling in [Bhanaras]{"entity": "place", "value": "varanasi"}
+- i'm looking for a place to eat in [Pudhuchery]{"entity": "place", "value": "pondicherry"}
+- oh sorry, [Faridabad]{"entity": "place", "value": "faridabad"}
+- i'm looking for a place to eat in [Nanded]{"entity": "place", "value": "nanded"}
+- Im in [Nasik]{"entity": "place", "value": "nashik"}
+- Please find me a cafe in [Hubballi]{"entity": "place", "value": "hubli-dharwad"}
+- the city of [Jodpur]{"entity": "place", "value": "jodhpur"}
+- please help me to find restaurants in [bokaro steel city](place)
+- Will u pls get me some top-class restraurants in [nelluru]{"entity": "place", "value": "nellore"}
+- going to be in [asansol](place)
+- please help me to find restaurants in [durgapur](place)
+- Am from [Raanchi]{"entity": "place", "value": "ranchi"}, Would like to get a list of recommended hotels for lunch
+- Am looking for a quite place in [Warangal]{"entity": "place", "value": "warangal"} to have food
+- Will u pls get me some top-class restraurants in [patna](place)
+- i'm looking for a place to eat in [Vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- oh sorry, [nelluru]{"entity": "place", "value": "nellore"}
+- Seraching for restaurants in [vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- From [ujjain](place)
+- I'm searching for some food in [Belagavi]{"entity": "place", "value": "belgaum"}
+- Please find me a cafe in [visakhapatnam](place)
+- I'm hungry in [meerut](place)
+- i want to eat out, let me know some good options in the city of [Nagpur]{"entity": "place", "value": "nagpur"}
+- in [bhavanagar]{"entity": "place", "value": "bhavnagar"} is there any takeaway options
+- From [pudducherry]{"entity": "place", "value": "pondicherry"}
+- Will u pls get me some top-class restraurants in [Rajkot]{"entity": "place", "value": "rajkot"}
+- Searching for a dining spot in [Varangal]{"entity": "place", "value": "warangal"}
+- please help me to find restaurants in [Gulbarga]{"entity": "place", "value": "gulbarga"}
+- find me a restaurant in [Guntur]{"entity": "place", "value": "guntur"}
+- let's say, [Mysore]{"entity": "place", "value": "mysore"}
+- Searching for a dining spot in [Dhanbad]{"entity": "place", "value": "dhanbad"}
+- Please find me a cafe in [kanpur](place)
+- Will u pls get me some top-class restraurants in [indore](place)
+- Im in [Firozbad]{"entity": "place", "value": "firozabad"}
+- Any eating suggestion in [gulbarga](place)
+- Seraching for restaurants in [Chandigar]{"entity": "place", "value": "chandigarh"}
+- Am in [bhubneswar]{"entity": "place", "value": "bhubaneswar"}, wish if you could help me with hotel suggestions
+- From [Soorat]{"entity": "place", "value": "surat"}
+- I'm hungry in [surath]{"entity": "place", "value": "surat"}
+- Am from [moradbad]{"entity": "place", "value": "moradabad"}, Would like to get a list of recommended hotels for lunch
+- in [Pondicherry]{"entity": "place", "value": "pondicherry"} is there any takeaway options
+- i'm looking for a place to eat in [Belagavi]{"entity": "place", "value": "belgaum"}
+- I'm searching for some food in [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- i want to eat out, let me know some good options in the city of [Calicut]{"entity": "place", "value": "kozhikode"}
+- oh sorry, [visakhapatnam](place)
+- From [purulia](place)
+- Suggest me a restaurant in [malappuram](place) please
+- going to be in [jalandhar](place)
+- Am looking for a quite place in [rajkot](place) to have food
+- I'm hungry in [Bikanir]{"entity": "place", "value": "bikaner"}
+- in [Hubballi]{"entity": "place", "value": "hubli-dharwad"} is there any takeaway options
+- the city of [Bhopl]{"entity": "place", "value": "bhopal"}
+- From [Erode]{"entity": "place", "value": "erode"} Is there any good place to eat out?
+- chilling in [ranchi](place)
+- my place is [Mysuru]{"entity": "place", "value": "mysore"}
+- in [Madurai]{"entity": "place", "value": "madurai"} is there any takeaway options
+- Any eating suggestion in [belgaum](place)
+- let's say, [Bijapur]{"entity": "place", "value": "bijapur"}
+- oh sorry, [Vellur]{"entity": "place", "value": "vellore"}
+- Please find me a cafe in [Agra]{"entity": "place", "value": "agra"}
+- From [Bokaro]{"entity": "place", "value": "bokaro steel city"}
+- in [kolhapur](place) is there any takeaway options
+- Suggest me a restaurant in [Pondi]{"entity": "place", "value": "pondicherry"} please
+- From [Quilon]{"entity": "place", "value": "kollam"}
+- my place is [Varanashi]{"entity": "place", "value": "varanasi"}
+- Am in [Deradun]{"entity": "place", "value": "dehradun"}, wish if you could help me with hotel suggestions
+- Searching for a dining spot in [visakhapatnam](place)
+- Am looking for a quite place in [Bhilai]{"entity": "place", "value": "bhilai"} to have food
+- Suggest me a restaurant in [sholapur]{"entity": "place", "value": "solapur"} please
+- the city of [Roorkala]{"entity": "place", "value": "rourkela"}
+- Am looking for a quite place in [varanasi](place) to have food
+- Please find me a cafe in [malappuram](place)
+- From [Matura]{"entity": "place", "value": "mathura"}
+- Im in [Barelly]{"entity": "place", "value": "bareilly"}
+- Am from [aurangbad]{"entity": "place", "value": "aurangabad"}, Would like to get a list of recommended hotels for lunch
+- Any eating suggestion in [erod]{"entity": "place", "value": "erode"}
+- oh sorry, [Gulbarga]{"entity": "place", "value": "gulbarga"}
+- find me a restaurant in [Salem]{"entity": "place", "value": "salem"}
+- i want to eat out, let me know some good options in the city of [Raipur]{"entity": "place", "value": "raipur"}
+- please help me to find restaurants in [ajmir]{"entity": "place", "value": "ajmer"}
+- Searching for a dining spot in [Ujjain]{"entity": "place", "value": "ujjain"}
+- I'm hungry in [cuttack](place)
+- Am in [Sangli]{"entity": "place", "value": "sangli"}, wish if you could help me with hotel suggestions
+- let's say, [indore](place)
+- Suggest me a restaurant in [Guntur]{"entity": "place", "value": "guntur"} please
+- Suggest me a restaurant in [ranchi](place) please
+- find me a restaurant in [Hamirpur]{"entity": "place", "value": "hamirpur"}
+- the city of [kannoor]{"entity": "place", "value": "kannur"}
+- Am in [Thrissur]{"entity": "place", "value": "thrissur"}, wish if you could help me with hotel suggestions
+- Searching for a dining spot in [Guwahati]{"entity": "place", "value": "guwahati"}
+- find me a restaurant in [faridabad](place)
+- oh sorry, [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"}
+- i'm looking for a place to eat in [Solapur]{"entity": "place", "value": "solapur"}
+- i'm looking for a place to eat in [hubbali]{"entity": "place", "value": "hubli-dharwad"}
+- i want to eat out, let me know some good options in the city of [Ajmer]{"entity": "place", "value": "ajmer"}
+- From [aurangbad]{"entity": "place", "value": "aurangabad"}
+- chilling in [thrissur](place)
+- From [jhansi](place)
+- going to be in [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}
+- oh sorry, [Prayag]{"entity": "place", "value": "prayagraj"}
+- Am from [Madura]{"entity": "place", "value": "madurai"}, Would like to get a list of recommended hotels for lunch
+- my place is [Mathura]{"entity": "place", "value": "mathura"}
+- I'm hungry in [jamnagar](place)
+- From [vadhodhara]{"entity": "place", "value": "vadodara"}
+- Any eating suggestion in [visakhapatnam](place)
+- in [Ujain]{"entity": "place", "value": "ujjain"} is there any takeaway options
+- oh sorry, [varanasi](place)
+- i'm looking for a place to eat in [Ranchi]{"entity": "place", "value": "ranchi"}
+- From [vasai]{"entity": "place", "value": "Vasai-Virar City"} Is there any good place to eat out?
+- From [bhiwandi](place) Is there any good place to eat out?
+- in [amaravati]{"entity": "place", "value": "amravati"} is there any takeaway options
+- From [Thrichur]{"entity": "place", "value": "thrissur"} Is there any good place to eat out?
+- the city of [gorakhpur](place)
+- please help me to find restaurants in [virar]{"entity": "place", "value": "Vasai-Virar City"}
+- Please find me a cafe in [Guwahati]{"entity": "place", "value": "guwahati"}
+- Searching for a dining spot in [Thrissur]{"entity": "place", "value": "thrissur"}
+- i want to eat out, let me know some good options in the city of [cuttak]{"entity": "place", "value": "cuttack"}
+- Seraching for restaurants in [Bilaspur]{"entity": "place", "value": "bilaspur"}
+- my place is [vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- my place is [Jodhpur]{"entity": "place", "value": "jodhpur"}
+- Am in [gurgaon](place), wish if you could help me with hotel suggestions
+- Suggest me a restaurant in [Jablpur]{"entity": "place", "value": "jabalpur"} please
+- Suggest me a restaurant in [gurgaon](place) please
+- Im in [Kurnool]{"entity": "place", "value": "kurnool"}
+- going to be in [bhanarash]{"entity": "place", "value": "varanasi"}
+- Am in [Jamnagar]{"entity": "place", "value": "jamnagar"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [indor]{"entity": "place", "value": "indore"}
+- Will u pls get me some top-class restraurants in [aurangabad](place)
+- Seraching for restaurants in [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"}
+- [Nasik]{"entity": "place", "value": "nashik"}
+- From [Madura]{"entity": "place", "value": "madurai"}
+- please help me to find restaurants in [noidaa]{"entity": "place", "value": "noida"}
+- Seraching for restaurants in [Kolapur]{"entity": "place", "value": "kolhapur"}
+- Searching for a dining spot in [kakinada](place)
+- Suggest me a restaurant in [Madura]{"entity": "place", "value": "madurai"} please
+- going to be in [Gorakpur]{"entity": "place", "value": "gorakhpur"}
+- please help me to find restaurants in [Vellore]{"entity": "place", "value": "vellore"}
+- I'm hungry in [thiruchirapali]{"entity": "place", "value": "tiruchirappalli"}
+- Im in [moradabad](place)
+- Will u pls get me some top-class restraurants in [Pondicherry]{"entity": "place", "value": "pondicherry"}
+- please help me to find restaurants in [Bhanarash]{"entity": "place", "value": "varanasi"}
+- Am looking for a quite place in [Chandigarh]{"entity": "place", "value": "chandigarh"} to have food
+- Searching for a dining spot in [Tiruppur]{"entity": "place", "value": "tiruppur"}
+- I'm hungry in [Pondicherry]{"entity": "place", "value": "pondicherry"}
+- in [visakhapatnam](place) is there any takeaway options
+- From [Kakkinada]{"entity": "place", "value": "kakinada"}
+- I'm searching for some food in [Soorath]{"entity": "place", "value": "surat"}
+- in [nashik](place) is there any takeaway options
+- let's say, [Roorkala]{"entity": "place", "value": "rourkela"}
+- Seraching for restaurants in [Bhiwandi]{"entity": "place", "value": "bhiwandi"}
+- I'm hungry in [Ranchi]{"entity": "place", "value": "ranchi"}
+- Will u pls get me some top-class restraurants in [Vellur]{"entity": "place", "value": "vellore"}
+- Seraching for restaurants in [Sangli]{"entity": "place", "value": "sangli"}
+- Im in [Vizag]{"entity": "place", "value": "visakhapatnam"}
+- Will u pls get me some top-class restraurants in [goa](place)
+- oh sorry, [virar]{"entity": "place", "value": "Vasai-Virar City"}
+- From [coimbatore](place)
+- Am in [bopal]{"entity": "place", "value": "bhopal"}, wish if you could help me with hotel suggestions
+- Am in [ranchi](place), wish if you could help me with hotel suggestions
+- I'm searching for some food in [erode](place)
+- Am in [Kannur]{"entity": "place", "value": "kannur"}, wish if you could help me with hotel suggestions
+- Suggest me a restaurant in [kurnul]{"entity": "place", "value": "kurnool"} please
+- in [dehradun](place) is there any takeaway options
+- Seraching for restaurants in [Nagpur]{"entity": "place", "value": "nagpur"}
+- the city of [firozbad]{"entity": "place", "value": "firozabad"}
+- [Vellore]{"entity": "place", "value": "vellore"}
+- Am from [hubli]{"entity": "place", "value": "hubli-dharwad"}, Would like to get a list of recommended hotels for lunch
+- [Durgapur]{"entity": "place", "value": "durgapur"}
+- i'm looking for a place to eat in [hamirpur](place)
+- let's say, [sholapur]{"entity": "place", "value": "solapur"}
+- oh sorry, [Vadodhara]{"entity": "place", "value": "vadodara"}
+- Will u pls get me some top-class restraurants in [Jamshedpur]{"entity": "place", "value": "jamshedpur"}
+- please help me to find restaurants in [vishakapatanam]{"entity": "place", "value": "visakhapatnam"}
+- Am looking for a quite place in [Deradun]{"entity": "place", "value": "dehradun"} to have food
+- Any eating suggestion in [Meerat]{"entity": "place", "value": "meerut"}
+- Am in [faridabad](place), wish if you could help me with hotel suggestions
+- chilling in [Jodpur]{"entity": "place", "value": "jodhpur"}
+- Am looking for a quite place in [asansol](place) to have food
+- I'm searching for some food in [gvalior]{"entity": "place", "value": "gwalior"}
+- [gorakhpur](place)
+- Suggest me a restaurant in [ernakulam]{"entity": "place", "value": "kochi"} please
+- let's say, [prayagraj](place)
+- Please find me a cafe in [Soorat]{"entity": "place", "value": "surat"}
+- Any eating suggestion in [kurnul]{"entity": "place", "value": "kurnool"}
+- I'm searching for some food in [Noida]{"entity": "place", "value": "noida"}
+- my place is [purulia](place)
+- in [Roorkala]{"entity": "place", "value": "rourkela"} is there any takeaway options
+- Am looking for a quite place in [nanded](place) to have food
+- please help me to find restaurants in [warangal](place)
+- Am in [jammu](place), wish if you could help me with hotel suggestions
+- From [bareili]{"entity": "place", "value": "bareilly"}
+- Suggest me a restaurant in [ujjain](place) please
+- find me a restaurant in [Hubballi]{"entity": "place", "value": "hubli-dharwad"}
+- From [Baroda]{"entity": "place", "value": "vadodara"} Is there any good place to eat out?
+- Any eating suggestion in [bopal]{"entity": "place", "value": "bhopal"}
+- I'm hungry in [Gaziabad]{"entity": "place", "value": "ghaziabad"}
+- I'm hungry in [Kollam]{"entity": "place", "value": "kollam"}
+- Am looking for a quite place in [Patna]{"entity": "place", "value": "patna"} to have food
+- the city of [Kolhapur]{"entity": "place", "value": "kolhapur"}
+- oh sorry, [Ranchi]{"entity": "place", "value": "ranchi"}
+- [kakinada](place)
+- From [mysore](place) Is there any good place to eat out?
+- I'm hungry in [Nashik]{"entity": "place", "value": "nashik"}
+- Will u pls get me some top-class restraurants in [ghaziabad](place)
+- Suggest me a restaurant in [vizag]{"entity": "place", "value": "visakhapatnam"} please
+- in [kannoor]{"entity": "place", "value": "kannur"} is there any takeaway options
+- Im in [firozabad](place)
+- my place is [shrinagar]{"entity": "place", "value": "srinagar"}
+- Any eating suggestion in [meerut](place)
+- I'm searching for some food in [Roorkala]{"entity": "place", "value": "rourkela"}
+- Suggest me a restaurant in [vasai]{"entity": "place", "value": "Vasai-Virar City"} please
+- the city of [Bikanir]{"entity": "place", "value": "bikaner"}
+- Am in [vadhodhara]{"entity": "place", "value": "vadodara"}, wish if you could help me with hotel suggestions
+- I'm hungry in [Guwahati]{"entity": "place", "value": "guwahati"}
+- in [Nashikh]{"entity": "place", "value": "nashik"} is there any takeaway options
+- oh sorry, [noida](place)
+- Will u pls get me some top-class restraurants in [nagpur](place)
+- Am from [Kalburgi]{"entity": "place", "value": "gulbarga"}, Would like to get a list of recommended hotels for lunch
+- please help me to find restaurants in [asansol](place)
+- Please find me a cafe in [ujjain](place)
+- Any eating suggestion in [mysore](place)
+- Am in [chandigad]{"entity": "place", "value": "chandigarh"}, wish if you could help me with hotel suggestions
+- oh sorry, [Kollam]{"entity": "place", "value": "kollam"}
+- Please find me a cafe in [raipur](place)
+- Am in [bhavnagar](place), wish if you could help me with hotel suggestions
+- Suggest me a restaurant in [Bhilai]{"entity": "place", "value": "bhilai"} please
+- the city of [kurnul]{"entity": "place", "value": "kurnool"}
+- oh sorry, [Bhilai]{"entity": "place", "value": "bhilai"}
+- let's say, [mathura](place)
+- please help me to find restaurants in [Soorat]{"entity": "place", "value": "surat"}
+- [Kozhikode]{"entity": "place", "value": "kozhikode"}
+- going to be in [kattak]{"entity": "place", "value": "cuttack"}
+- i want to eat out, let me know some good options in the city of [malapuram]{"entity": "place", "value": "malappuram"}
+- find me a restaurant in [Vasai-Virar City](place)
+- my place is [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}
+- going to be in [Jodpur]{"entity": "place", "value": "jodhpur"}
+- i want to eat out, let me know some good options in the city of [amritsar](place)
+- i want to eat out, let me know some good options in the city of [Gova]{"entity": "place", "value": "goa"}
+- Am from [virar]{"entity": "place", "value": "Vasai-Virar City"}, Would like to get a list of recommended hotels for lunch
+- [nagpur](place)
+- find me a restaurant in [Roorkala]{"entity": "place", "value": "rourkela"}
+- Any eating suggestion in [Amrutsar]{"entity": "place", "value": "amritsar"}
+- going to be in [bijapur](place)
+- Searching for a dining spot in [patna](place)
+- I'm searching for some food in [Mysor]{"entity": "place", "value": "mysore"}
+- Will u pls get me some top-class restraurants in [Aagra]{"entity": "place", "value": "agra"}
+- Any eating suggestion in [durgapur](place)
+- Seraching for restaurants in [belgaum](place)
+- the city of [jammu](place)
+- find me a restaurant in [sangli](place)
+- I'm hungry in [sangli](place)
+- Please find me a cafe in [Bhivandi]{"entity": "place", "value": "bhiwandi"}
+- Am looking for a quite place in [aurangbad]{"entity": "place", "value": "aurangabad"} to have food
+- my place is [Amritsar]{"entity": "place", "value": "amritsar"}
+- From [jodhpur](place) Is there any good place to eat out?
+- Will u pls get me some top-class restraurants in [mathura](place)
+- Any eating suggestion in [Jamnagar]{"entity": "place", "value": "jamnagar"}
+- oh sorry, [Jamu]{"entity": "place", "value": "jammu"}
+- Im in [faridbad]{"entity": "place", "value": "faridabad"}
+- Any eating suggestion in [belgam]{"entity": "place", "value": "belgaum"}
+- Searching for a dining spot in [bilai]{"entity": "place", "value": "bhilai"}
+- [Erode]{"entity": "place", "value": "erode"}
+- Any eating suggestion in [Trichy]{"entity": "place", "value": "tiruchirappalli"}
+- i'm looking for a place to eat in [bhopal](place)
+- Am in [dhanbad](place), wish if you could help me with hotel suggestions
+- Am looking for a quite place in [jansi]{"entity": "place", "value": "jhansi"} to have food
+- i'm looking for a place to eat in [Hubli]{"entity": "place", "value": "hubli-dharwad"}
+- Am in [Nagpur]{"entity": "place", "value": "nagpur"}, wish if you could help me with hotel suggestions
+- my place is [Kozhikode]{"entity": "place", "value": "kozhikode"}
+- Im in [jammu](place)
+- From [Aligar]{"entity": "place", "value": "aligarh"} Is there any good place to eat out?
+- Will u pls get me some top-class restraurants in [Firozbad]{"entity": "place", "value": "firozabad"}
+- From [nagpur](place) Is there any good place to eat out?
+- Will u pls get me some top-class restraurants in [faridabd]{"entity": "place", "value": "faridabad"}
+- chilling in [nelluru]{"entity": "place", "value": "nellore"}
+- chilling in [Mangalore]{"entity": "place", "value": "mangalore"}
+- my place is [firozabad](place)
+- Am looking for a quite place in [ranchi](place) to have food
+- in [solapur](place) is there any takeaway options
+- Seraching for restaurants in [ludhiana](place)
+- i'm looking for a place to eat in [bikner]{"entity": "place", "value": "bikaner"}
+- From [Vizag]{"entity": "place", "value": "visakhapatnam"} Is there any good place to eat out?
+- Am looking for a quite place in [Gwalior]{"entity": "place", "value": "gwalior"} to have food
+- in [Gwalior]{"entity": "place", "value": "gwalior"} is there any takeaway options
+- my place is [jansi]{"entity": "place", "value": "jhansi"}
+- oh sorry, [Bhanarash]{"entity": "place", "value": "varanasi"}
+- oh sorry, [deharadun]{"entity": "place", "value": "dehradun"}
+- my place is [jalandhar](place)
+- let's say, [Gaziabad]{"entity": "place", "value": "ghaziabad"}
+- Any eating suggestion in [Bhopal]{"entity": "place", "value": "bhopal"}
+- I'm searching for some food in [bilai]{"entity": "place", "value": "bhilai"}
+- Am in [rajamundri]{"entity": "place", "value": "rajahmundry"}, wish if you could help me with hotel suggestions
+- Im in [Patna]{"entity": "place", "value": "patna"}
+- From [solapur](place)
+- Any eating suggestion in [indore](place)
+- oh sorry, [kollam](place)
+- Im in [Deradun]{"entity": "place", "value": "dehradun"}
+- oh sorry, [kanpur](place)
+- chilling in [coimbator]{"entity": "place", "value": "coimbatore"}
+- let's say, [Gurugram]{"entity": "place", "value": "gurgaon"}
+- in [thiruchirapali]{"entity": "place", "value": "tiruchirappalli"} is there any takeaway options
+- Will u pls get me some top-class restraurants in [Varanashi]{"entity": "place", "value": "varanasi"}
+- oh sorry, [shimla](place)
+- Im in [Luknow]{"entity": "place", "value": "lucknow"}
+- Please find me a cafe in [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}
+- my place is [ernakulam]{"entity": "place", "value": "kochi"}
+- find me a restaurant in [hubli]{"entity": "place", "value": "hubli-dharwad"}
+- going to be in [Chandigarh]{"entity": "place", "value": "chandigarh"}
+- find me a restaurant in [agra](place)
+- chilling in [Raipur]{"entity": "place", "value": "raipur"}
+- in [Bhavnagar]{"entity": "place", "value": "bhavnagar"} is there any takeaway options
+- going to be in [Warangal]{"entity": "place", "value": "warangal"}
+- i'm looking for a place to eat in [Jhansi]{"entity": "place", "value": "jhansi"}
+- Will u pls get me some top-class restraurants in [Barelly]{"entity": "place", "value": "bareilly"}
+- my place is [Mysore]{"entity": "place", "value": "mysore"}
+- Am looking for a quite place in [kanpur](place) to have food
+- let's say, [amravati](place)
+- Im in [nashik](place)
+- going to be in [malappuram](place)
+- i'm looking for a place to eat in [Warangal]{"entity": "place", "value": "warangal"}
+- chilling in [sholapur]{"entity": "place", "value": "solapur"}
+- Im in [Aligar]{"entity": "place", "value": "aligarh"}
+- Searching for a dining spot in [Shimlah]{"entity": "place", "value": "shimla"}
+- Will u pls get me some top-class restraurants in [nasikh]{"entity": "place", "value": "nashik"}
+- Will u pls get me some top-class restraurants in [bikaner](place)
+- chilling in [Chandigarh]{"entity": "place", "value": "chandigarh"}
+- let's say, [bareili]{"entity": "place", "value": "bareilly"}
+- Seraching for restaurants in [Aagra]{"entity": "place", "value": "agra"}
+- i'm looking for a place to eat in [Cannanore]{"entity": "place", "value": "kannur"}
+- Am looking for a quite place in [vasai]{"entity": "place", "value": "Vasai-Virar City"} to have food
+- Will u pls get me some top-class restraurants in [sanghli]{"entity": "place", "value": "sangli"}
+- let's say, [Jammu]{"entity": "place", "value": "jammu"}
+- find me a restaurant in [lucknow](place)
+- Searching for a dining spot in [Amritsar]{"entity": "place", "value": "amritsar"}
+- please help me to find restaurants in [bikner]{"entity": "place", "value": "bikaner"}
+- going to be in [Jamshedpur]{"entity": "place", "value": "jamshedpur"}
+- From [Gova]{"entity": "place", "value": "goa"} Is there any good place to eat out?
+- Please find me a cafe in [Kakinada]{"entity": "place", "value": "kakinada"}
+- in [Nasikh]{"entity": "place", "value": "nashik"} is there any takeaway options
+- [bokaro]{"entity": "place", "value": "bokaro steel city"}
+- going to be in [ludhiana](place)
+- From [Faridabad]{"entity": "place", "value": "faridabad"}
+- my place is [Bareilly]{"entity": "place", "value": "bareilly"}
+- [thrissur](place)
+- find me a restaurant in [bareilly](place)
+- find me a restaurant in [Mysore]{"entity": "place", "value": "mysore"}
+- in [coimbator]{"entity": "place", "value": "coimbatore"} is there any takeaway options
+- please help me to find restaurants in [Kozhikode]{"entity": "place", "value": "kozhikode"}
+- Seraching for restaurants in [kolhapur](place)
+- my place is [Bokaro]{"entity": "place", "value": "bokaro steel city"}
+- I'm hungry in [Solapur]{"entity": "place", "value": "solapur"}
+- let's say, [rajahmundry](place)
+- Am in [Jalandhar]{"entity": "place", "value": "jalandhar"}, wish if you could help me with hotel suggestions
+- Im in [Jaipur]{"entity": "place", "value": "jaipur"}
+- in [ludhiana](place) is there any takeaway options
+- find me a restaurant in [Thirupur]{"entity": "place", "value": "tiruppur"}
+- Suggest me a restaurant in [vadhodhara]{"entity": "place", "value": "vadodara"} please
+- the city of [kannur](place)
+- Am looking for a quite place in [surath]{"entity": "place", "value": "surat"} to have food
+- Am from [tiruppur](place), Would like to get a list of recommended hotels for lunch
+- in [Faridabad]{"entity": "place", "value": "faridabad"} is there any takeaway options
+- Please find me a cafe in [Jodpur]{"entity": "place", "value": "jodhpur"}
+- Searching for a dining spot in [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"}
+- Suggest me a restaurant in [Kochi]{"entity": "place", "value": "kochi"} please
+- From [bikaner](place) Is there any good place to eat out?
+- i want to eat out, let me know some good options in the city of [Ludhiana]{"entity": "place", "value": "ludhiana"}
+- oh sorry, [guntur](place)
+- From [raipur](place)
+- i want to eat out, let me know some good options in the city of [ernakulam]{"entity": "place", "value": "kochi"}
+- Am in [Indore]{"entity": "place", "value": "indore"}, wish if you could help me with hotel suggestions
+- oh sorry, [Thrissur]{"entity": "place", "value": "thrissur"}
+- my place is [indore](place)
+- please help me to find restaurants in [Salem]{"entity": "place", "value": "salem"}
+- my place is [kannoor]{"entity": "place", "value": "kannur"}
+- Am looking for a quite place in [Roorkala]{"entity": "place", "value": "rourkela"} to have food
+- please help me to find restaurants in [shimla](place)
+- From [Jabalpur]{"entity": "place", "value": "jabalpur"} Is there any good place to eat out?
+- my place is [erode](place)
+- chilling in [jodhpur](place)
+- I'm searching for some food in [Surat]{"entity": "place", "value": "surat"}
+- Suggest me a restaurant in [Rajahmundry]{"entity": "place", "value": "rajahmundry"} please
+- the city of [chandigarh](place)
+- Seraching for restaurants in [gulbarga](place)
+- I'm hungry in [Jaipur]{"entity": "place", "value": "jaipur"}
+- Am in [deharadun]{"entity": "place", "value": "dehradun"}, wish if you could help me with hotel suggestions
+- Will u pls get me some top-class restraurants in [aligarh](place)
+- i want to eat out, let me know some good options in the city of [Kurnool]{"entity": "place", "value": "kurnool"}
+- i'm looking for a place to eat in [Thiruchirapalli]{"entity": "place", "value": "tiruchirappalli"}
+- i want to eat out, let me know some good options in the city of [Nandigrama]{"entity": "place", "value": "nanded"}
+- oh sorry, [rajamundri]{"entity": "place", "value": "rajahmundry"}
+- in [jhansi](place) is there any takeaway options
+- From [dhanbad](place)
+- From [Vashai]{"entity": "place", "value": "Vasai-Virar City"} Is there any good place to eat out?
+- I'm searching for some food in [Covai]{"entity": "place", "value": "coimbatore"}
+- From [Rajahmandry]{"entity": "place", "value": "rajahmundry"} Is there any good place to eat out?
+- Any eating suggestion in [Jodhpur]{"entity": "place", "value": "jodhpur"}
+- Any eating suggestion in [Vadodhara]{"entity": "place", "value": "vadodara"}
+- in [Gauhati]{"entity": "place", "value": "guwahati"} is there any takeaway options
+- Will u pls get me some top-class restraurants in [firozabad](place)
+- chilling in [ujjain](place)
+- Am in [Jalandar]{"entity": "place", "value": "jalandhar"}, wish if you could help me with hotel suggestions
+- Am from [vellore](place), Would like to get a list of recommended hotels for lunch
+- I'm searching for some food in [indore](place)
+- I'm hungry in [Jamu]{"entity": "place", "value": "jammu"}
+- i'm looking for a place to eat in [Dharwad]{"entity": "place", "value": "hubli-dharwad"}
+- Im in [Gurgaon]{"entity": "place", "value": "gurgaon"}
+- please help me to find restaurants in [Thiruchirapalli]{"entity": "place", "value": "tiruchirappalli"}
+- Searching for a dining spot in [Thrichur]{"entity": "place", "value": "thrissur"}
+- Am from [salem](place), Would like to get a list of recommended hotels for lunch
+- please help me to find restaurants in [gorakhpur](place)
+- Will u pls get me some top-class restraurants in [chandigarh](place)
+- From [chandigarh](place) Is there any good place to eat out?
+- chilling in [faridbad]{"entity": "place", "value": "faridabad"}
+- chilling in [Rajkot]{"entity": "place", "value": "rajkot"}
+- let's say, [Firozabad]{"entity": "place", "value": "firozabad"}
+- the city of [solapur](place)
+- I'm hungry in [sholapur]{"entity": "place", "value": "solapur"}
+- oh sorry, [coimbator]{"entity": "place", "value": "coimbatore"}
+- going to be in [Tiruppur]{"entity": "place", "value": "tiruppur"}
+- Am from [Luknow]{"entity": "place", "value": "lucknow"}, Would like to get a list of recommended hotels for lunch
+- I'm searching for some food in [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"}
+- Please find me a cafe in [Avantika]{"entity": "place", "value": "ujjain"}
+- i want to eat out, let me know some good options in the city of [cochin]{"entity": "place", "value": "kochi"}
+- Seraching for restaurants in [Hubballi]{"entity": "place", "value": "hubli-dharwad"}
+- Im in [ludhiana](place)
+- I'm searching for some food in [siliguri](place)
+- Any eating suggestion in [bilaspur](place)
+- the city of [Surat]{"entity": "place", "value": "surat"}
+- Please find me a cafe in [madurai](place)
+- Im in [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"}
+- Am looking for a quite place in [Vadodhara]{"entity": "place", "value": "vadodara"} to have food
+- my place is [pudducherry]{"entity": "place", "value": "pondicherry"}
+- let's say, [siliguri](place)
+- find me a restaurant in [Jhansi]{"entity": "place", "value": "jhansi"}
+- in [bopal]{"entity": "place", "value": "bhopal"} is there any takeaway options
+- Am in [Kurnool]{"entity": "place", "value": "kurnool"}, wish if you could help me with hotel suggestions
+- going to be in [hubli-dharwad](place)
+- please help me to find restaurants in [selum]{"entity": "place", "value": "salem"}
+- please help me to find restaurants in [bhanarash]{"entity": "place", "value": "varanasi"}
+- Am in [Vashai]{"entity": "place", "value": "Vasai-Virar City"}, wish if you could help me with hotel suggestions
+- Suggest me a restaurant in [Warangal]{"entity": "place", "value": "warangal"} please
+- find me a restaurant in [Nashik]{"entity": "place", "value": "nashik"}
+- From [Ujjain]{"entity": "place", "value": "ujjain"} Is there any good place to eat out?
+- From [kanpur](place)
+- the city of [tiruppur](place)
+- going to be in [Kolapur]{"entity": "place", "value": "kolhapur"}
+- let's say, [Gova]{"entity": "place", "value": "goa"}
+- Am looking for a quite place in [cuttak]{"entity": "place", "value": "cuttack"} to have food
+- chilling in [Gurgaon]{"entity": "place", "value": "gurgaon"}
+- I'm hungry in [dehradoon]{"entity": "place", "value": "dehradun"}
+- [Pudhuchery]{"entity": "place", "value": "pondicherry"}
+- Searching for a dining spot in [warangal](place)
+- Searching for a dining spot in [Nanded]{"entity": "place", "value": "nanded"}
+- Please find me a cafe in [ludhiana](place)
+- From [Guwahati]{"entity": "place", "value": "guwahati"} Is there any good place to eat out?
+- the city of [nagpur](place)
+- [Baroda]{"entity": "place", "value": "vadodara"}
+- I'm searching for some food in [dehradun](place)
+- find me a restaurant in [Lucknow]{"entity": "place", "value": "lucknow"}
+- I'm hungry in [Belagavi]{"entity": "place", "value": "belgaum"}
+- Searching for a dining spot in [Belagavi]{"entity": "place", "value": "belgaum"}
+- Searching for a dining spot in [chandigad]{"entity": "place", "value": "chandigarh"}
+- let's say, [mysur]{"entity": "place", "value": "mysore"}
+- Am from [Vizag]{"entity": "place", "value": "visakhapatnam"}, Would like to get a list of recommended hotels for lunch
+- Searching for a dining spot in [vizag]{"entity": "place", "value": "visakhapatnam"}
+- Any eating suggestion in [erode](place)
+- I'm hungry in [Thrissur]{"entity": "place", "value": "thrissur"}
+- Searching for a dining spot in [Bhopal]{"entity": "place", "value": "bhopal"}
+- i want to eat out, let me know some good options in the city of [Guntur]{"entity": "place", "value": "guntur"}
+- the city of [shrinagar]{"entity": "place", "value": "srinagar"}
+- [Raipur]{"entity": "place", "value": "raipur"}
+- in [thrissur](place) is there any takeaway options
+- I'm hungry in [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"}
+- going to be in [Aligarh]{"entity": "place", "value": "aligarh"}
+- Will u pls get me some top-class restraurants in [Agra]{"entity": "place", "value": "agra"}
+- I'm searching for some food in [Raanchi]{"entity": "place", "value": "ranchi"}
+- in [Luknow]{"entity": "place", "value": "lucknow"} is there any takeaway options
+- Any eating suggestion in [Simla]{"entity": "place", "value": "shimla"}
+- i want to eat out, let me know some good options in the city of [Madurai]{"entity": "place", "value": "madurai"}
+- Any eating suggestion in [Ranchi]{"entity": "place", "value": "ranchi"}
+- [Guwahati]{"entity": "place", "value": "guwahati"}
+- From [amaravati]{"entity": "place", "value": "amravati"}
+- I'm hungry in [cuttak]{"entity": "place", "value": "cuttack"}
+- Will u pls get me some top-class restraurants in [Warangal]{"entity": "place", "value": "warangal"}
+- i'm looking for a place to eat in [deharadun]{"entity": "place", "value": "dehradun"}
+- oh sorry, [Jablpur]{"entity": "place", "value": "jabalpur"}
+- the city of [hubli]{"entity": "place", "value": "hubli-dharwad"}
+- Any eating suggestion in [Mysuru]{"entity": "place", "value": "mysore"}
+- Am looking for a quite place in [Rourkela]{"entity": "place", "value": "rourkela"} to have food
+- i'm looking for a place to eat in [nagpur](place)
+- From [Nashik]{"entity": "place", "value": "nashik"}
+- Searching for a dining spot in [Bikanir]{"entity": "place", "value": "bikaner"}
+- in [belgaum](place) is there any takeaway options
+- Am in [Kakinada]{"entity": "place", "value": "kakinada"}, wish if you could help me with hotel suggestions
+- [Guntur]{"entity": "place", "value": "guntur"}
+- Searching for a dining spot in [Nasik]{"entity": "place", "value": "nashik"}
+- From [Coimbatore]{"entity": "place", "value": "coimbatore"} Is there any good place to eat out?
+- Seraching for restaurants in [gorakhpur](place)
+- [Gurgaon]{"entity": "place", "value": "gurgaon"}
+- From [Rajkot]{"entity": "place", "value": "rajkot"} Is there any good place to eat out?
+- Am from [Hubballi]{"entity": "place", "value": "hubli-dharwad"}, Would like to get a list of recommended hotels for lunch
+- I'm hungry in [raipur](place)
+- I'm searching for some food in [rajamundri]{"entity": "place", "value": "rajahmundry"}
+- Seraching for restaurants in [Raipur]{"entity": "place", "value": "raipur"}
+- oh sorry, [Bokaro]{"entity": "place", "value": "bokaro steel city"}
+- Am in [Tiruchirappalli]{"entity": "place", "value": "tiruchirappalli"}, wish if you could help me with hotel suggestions
+- From [firozbad]{"entity": "place", "value": "firozabad"}
+- Seraching for restaurants in [Rajahmundry]{"entity": "place", "value": "rajahmundry"}
+- [Gorakpur]{"entity": "place", "value": "gorakhpur"}
+- Im in [dhanbad](place)
+- Searching for a dining spot in [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- I'm hungry in [belgam]{"entity": "place", "value": "belgaum"}
+- in [Goa]{"entity": "place", "value": "goa"} is there any takeaway options
+- Please find me a cafe in [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"}
+- I'm hungry in [jodhpur](place)
+- going to be in [dehradoon]{"entity": "place", "value": "dehradun"}
+- Will u pls get me some top-class restraurants in [malappuram](place)
+- going to be in [ghasiabad]{"entity": "place", "value": "ghaziabad"}
+- Suggest me a restaurant in [jodhpur](place) please
+- please help me to find restaurants in [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}
+- Will u pls get me some top-class restraurants in [trissur]{"entity": "place", "value": "thrissur"}
+- chilling in [Varanashi]{"entity": "place", "value": "varanasi"}
+- please help me to find restaurants in [Jaipur]{"entity": "place", "value": "jaipur"}
+- chilling in [vijayawada](place)
+- find me a restaurant in [Nellor]{"entity": "place", "value": "nellore"}
+- i'm looking for a place to eat in [Tiruchirappalli]{"entity": "place", "value": "tiruchirappalli"}
+- [kattak]{"entity": "place", "value": "cuttack"}
+- Please find me a cafe in [Ujain]{"entity": "place", "value": "ujjain"}
+- Am in [Simla]{"entity": "place", "value": "shimla"}, wish if you could help me with hotel suggestions
+- [Varanasi]{"entity": "place", "value": "varanasi"}
+- [trissur]{"entity": "place", "value": "thrissur"}
+- i'm looking for a place to eat in [siliguri](place)
+- let's say, [Bhanaras]{"entity": "place", "value": "varanasi"}
+- the city of [Bhilai]{"entity": "place", "value": "bhilai"}
+- Please find me a cafe in [jaipur](place)
+- Am looking for a quite place in [Kozhikode]{"entity": "place", "value": "kozhikode"} to have food
+- Am from [Kozhikode]{"entity": "place", "value": "kozhikode"}, Would like to get a list of recommended hotels for lunch
+- From [patna](place) Is there any good place to eat out?
+- Searching for a dining spot in [ghasiabad]{"entity": "place", "value": "ghaziabad"}
+- i want to eat out, let me know some good options in the city of [Kanpur]{"entity": "place", "value": "kanpur"}
+- From [shrinagar]{"entity": "place", "value": "srinagar"} Is there any good place to eat out?
+- From [gorakhpur](place) Is there any good place to eat out?
+- find me a restaurant in [Quilon]{"entity": "place", "value": "kollam"}
+- Will u pls get me some top-class restraurants in [Salem]{"entity": "place", "value": "salem"}
+- I'm searching for some food in [vishakapatanam]{"entity": "place", "value": "visakhapatnam"}
+- Please find me a cafe in [chandigad]{"entity": "place", "value": "chandigarh"}
+- I'm searching for some food in [Erode]{"entity": "place", "value": "erode"}
+- Searching for a dining spot in [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"}
+- oh sorry, [vishakapatanam]{"entity": "place", "value": "visakhapatnam"}
+- please help me to find restaurants in [nanded](place)
+- From [vadhodhara]{"entity": "place", "value": "vadodara"} Is there any good place to eat out?
+- Will u pls get me some top-class restraurants in [trichi]{"entity": "place", "value": "tiruchirappalli"}
+- From [Roorkala]{"entity": "place", "value": "rourkela"} Is there any good place to eat out?
+- Searching for a dining spot in [vellore](place)
+- Suggest me a restaurant in [Vasai-Virar City](place) please
+- Please find me a cafe in [Kochi]{"entity": "place", "value": "kochi"}
+- Seraching for restaurants in [guntur](place)
+- let's say, [hamirpur](place)
+- Please find me a cafe in [Kakkinada]{"entity": "place", "value": "kakinada"}
+- From [Ranchi]{"entity": "place", "value": "ranchi"} Is there any good place to eat out?
+- Am from [Pudhuchery]{"entity": "place", "value": "pondicherry"}, Would like to get a list of recommended hotels for lunch
+- Am in [Meerut]{"entity": "place", "value": "meerut"}, wish if you could help me with hotel suggestions
+- please help me to find restaurants in [Covai]{"entity": "place", "value": "coimbatore"}
+- in [kannur](place) is there any takeaway options
+- oh sorry, [bhavanagar]{"entity": "place", "value": "bhavnagar"}
+- chilling in [bikner]{"entity": "place", "value": "bikaner"}
+- my place is [vellore](place)
+- Suggest me a restaurant in [bokaro steel city](place) please
+- the city of [Nagpoor]{"entity": "place", "value": "nagpur"}
+- I'm searching for some food in [Nanded]{"entity": "place", "value": "nanded"}
+- let's say, [salem](place)
+- let's say, [faridabad](place)
+- find me a restaurant in [Bhivandi]{"entity": "place", "value": "bhiwandi"}
+- let's say, [trichi]{"entity": "place", "value": "tiruchirappalli"}
+- Any eating suggestion in [Quilon]{"entity": "place", "value": "kollam"}
+- I'm searching for some food in [chandigarh](place)
+- chilling in [Firozbad]{"entity": "place", "value": "firozabad"}
+- i want to eat out, let me know some good options in the city of [Hamirpur]{"entity": "place", "value": "hamirpur"}
+- Please find me a cafe in [bikner]{"entity": "place", "value": "bikaner"}
+- Am looking for a quite place in [ujjain](place) to have food
+- please help me to find restaurants in [aligad]{"entity": "place", "value": "aligarh"}
+- Im in [lucknow](place)
+- going to be in [aligad]{"entity": "place", "value": "aligarh"}
+- find me a restaurant in [tiruchirappalli](place)
+- Please find me a cafe in [Jaipur]{"entity": "place", "value": "jaipur"}
+- I'm searching for some food in [Trichy]{"entity": "place", "value": "tiruchirappalli"}
+- please help me to find restaurants in [Bokaro]{"entity": "place", "value": "bokaro steel city"}
+- Any eating suggestion in [Gulbarga]{"entity": "place", "value": "gulbarga"}
+- I'm searching for some food in [Bijapur]{"entity": "place", "value": "bijapur"}
+- Am looking for a quite place in [guwahati](place) to have food
+- the city of [bokaro steel city](place)
+- Im in [shiliguri]{"entity": "place", "value": "siliguri"}
+- Am from [Amrutsar]{"entity": "place", "value": "amritsar"}, Would like to get a list of recommended hotels for lunch
+- Please find me a cafe in [Bareilly]{"entity": "place", "value": "bareilly"}
+- oh sorry, [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"}
+- chilling in [ghasiabad]{"entity": "place", "value": "ghaziabad"}
+- Seraching for restaurants in [jamnagar](place)
+- I'm searching for some food in [Jamnagar]{"entity": "place", "value": "jamnagar"}
+- find me a restaurant in [Jalandar]{"entity": "place", "value": "jalandhar"}
+- I'm searching for some food in [jammu](place)
+- Will u pls get me some top-class restraurants in [Bikaner]{"entity": "place", "value": "bikaner"}
+- I'm searching for some food in [bhavanagar]{"entity": "place", "value": "bhavnagar"}
+- i'm looking for a place to eat in [patna](place)
+- please help me to find restaurants in [jhansi](place)
+- please help me to find restaurants in [ranchi](place)
+- my place is [Kanpur]{"entity": "place", "value": "kanpur"}
+- my place is [thiruchirapali]{"entity": "place", "value": "tiruchirappalli"}
+- Suggest me a restaurant in [jaipur](place) please
+- Seraching for restaurants in [aurangabad](place)
+- From [Kurnool]{"entity": "place", "value": "kurnool"}
+- Please find me a cafe in [jabalpur](place)
+- chilling in [Bhopl]{"entity": "place", "value": "bhopal"}
+- Am looking for a quite place in [mysur]{"entity": "place", "value": "mysore"} to have food
+- Seraching for restaurants in [Jablpur]{"entity": "place", "value": "jabalpur"}
+- please help me to find restaurants in [jaipur](place)
+- From [dehradoon]{"entity": "place", "value": "dehradun"} Is there any good place to eat out?
+- Am looking for a quite place in [hubbali]{"entity": "place", "value": "hubli-dharwad"} to have food
+- Suggest me a restaurant in [Raanchi]{"entity": "place", "value": "ranchi"} please
+- From [Moradabad]{"entity": "place", "value": "moradabad"} Is there any good place to eat out?
+- going to be in [Gurgaon]{"entity": "place", "value": "gurgaon"}
+- Please find me a cafe in [pondicherry](place)
+- Am from [Varanashi]{"entity": "place", "value": "varanasi"}, Would like to get a list of recommended hotels for lunch
+- Searching for a dining spot in [jansi]{"entity": "place", "value": "jhansi"}
+- let's say, [Kalburgi]{"entity": "place", "value": "gulbarga"}
+- Am looking for a quite place in [Nellore]{"entity": "place", "value": "nellore"} to have food
+- the city of [Varanasi]{"entity": "place", "value": "varanasi"}
+- Seraching for restaurants in [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- Searching for a dining spot in [Warangal]{"entity": "place", "value": "warangal"}
+- i want to eat out, let me know some good options in the city of [coimbatore](place)
+- the city of [bikner]{"entity": "place", "value": "bikaner"}
+- Am looking for a quite place in [Nasik]{"entity": "place", "value": "nashik"} to have food
+- Please find me a cafe in [sangli](place)
+- find me a restaurant in [Malappuram]{"entity": "place", "value": "malappuram"}
+- let's say, [Pondi]{"entity": "place", "value": "pondicherry"}
+- Searching for a dining spot in [Jamu]{"entity": "place", "value": "jammu"}
+- From [aligarh](place) Is there any good place to eat out?
+- please help me to find restaurants in [Shimlah]{"entity": "place", "value": "shimla"}
+- in [ujjain](place) is there any takeaway options
+- I'm searching for some food in [malappuram](place)
+- Am looking for a quite place in [Mysore]{"entity": "place", "value": "mysore"} to have food
+- I'm searching for some food in [bhubneswar]{"entity": "place", "value": "bhubaneswar"}
+- Any eating suggestion in [Calicut]{"entity": "place", "value": "kozhikode"}
+- chilling in [Gaziabad]{"entity": "place", "value": "ghaziabad"}
+- Searching for a dining spot in [rourkela](place)
+- Will u pls get me some top-class restraurants in [Kanpur]{"entity": "place", "value": "kanpur"}
+- [guwahati](place)
+- Will u pls get me some top-class restraurants in [bareilly](place)
+- [Vadodara]{"entity": "place", "value": "vadodara"}
+- find me a restaurant in [Bhuvaneswar]{"entity": "place", "value": "bhubaneswar"}
+- let's say, [Nasik]{"entity": "place", "value": "nashik"}
+- i want to eat out, let me know some good options in the city of [shiliguri]{"entity": "place", "value": "siliguri"}
+- Am looking for a quite place in [ghaziabad](place) to have food
+- Seraching for restaurants in [bokaro]{"entity": "place", "value": "bokaro steel city"}
+- i'm looking for a place to eat in [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- I'm hungry in [trichi]{"entity": "place", "value": "tiruchirappalli"}
+- I'm searching for some food in [Bareilly]{"entity": "place", "value": "bareilly"}
+- I'm searching for some food in [Chandigarh]{"entity": "place", "value": "chandigarh"}
+- my place is [Dehradun]{"entity": "place", "value": "dehradun"}
+- From [Patna]{"entity": "place", "value": "patna"} Is there any good place to eat out?
+- i'm looking for a place to eat in [Asansol]{"entity": "place", "value": "asansol"}
+- I'm searching for some food in [Jabalpur]{"entity": "place", "value": "jabalpur"}
+- the city of [Jhansi]{"entity": "place", "value": "jhansi"}
+- i'm looking for a place to eat in [Vizag]{"entity": "place", "value": "visakhapatnam"}
+- going to be in [Bareilly]{"entity": "place", "value": "bareilly"}
+- the city of [Mangaluru]{"entity": "place", "value": "mangalore"}
+- Am in [Nagpoor]{"entity": "place", "value": "nagpur"}, wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [kattack]{"entity": "place", "value": "cuttack"}
+- the city of [Cattack]{"entity": "place", "value": "cuttack"}
+- please help me to find restaurants in [Indore]{"entity": "place", "value": "indore"}
+- From [Gurgaon]{"entity": "place", "value": "gurgaon"} Is there any good place to eat out?
+- i want to eat out, let me know some good options in the city of [kattak]{"entity": "place", "value": "cuttack"}
+- chilling in [Dehradun]{"entity": "place", "value": "dehradun"}
+- Am from [belgaum](place), Would like to get a list of recommended hotels for lunch
+- Please find me a cafe in [Aagra]{"entity": "place", "value": "agra"}
+- i want to eat out, let me know some good options in the city of [Bokaro]{"entity": "place", "value": "bokaro steel city"}
+- Suggest me a restaurant in [Gorakpur]{"entity": "place", "value": "gorakhpur"} please
+- find me a restaurant in [kattack]{"entity": "place", "value": "cuttack"}
+- please help me to find restaurants in [lucknow](place)
+- Any eating suggestion in [Rourkela]{"entity": "place", "value": "rourkela"}
+- I'm hungry in [gulbarga](place)
+- Am looking for a quite place in [firozbad]{"entity": "place", "value": "firozabad"} to have food
+- I'm searching for some food in [hamirpur](place)
+- Any eating suggestion in [Pondicherry]{"entity": "place", "value": "pondicherry"}
+- let's say, [Chandigar]{"entity": "place", "value": "chandigarh"}
+- find me a restaurant in [erod]{"entity": "place", "value": "erode"}
+- in [moradabad](place) is there any takeaway options
+- Suggest me a restaurant in [Varanashi]{"entity": "place", "value": "varanasi"} please
+- Am from [bokaro steel city](place), Would like to get a list of recommended hotels for lunch
+- Will u pls get me some top-class restraurants in [nellore](place)
+- From [Bhiwandi]{"entity": "place", "value": "bhiwandi"} Is there any good place to eat out?
+- [Vellur]{"entity": "place", "value": "vellore"}
+- Seraching for restaurants in [Madura]{"entity": "place", "value": "madurai"}
+- the city of [Coimbatore]{"entity": "place", "value": "coimbatore"}
+- From [Firozbad]{"entity": "place", "value": "firozabad"}
+- please help me to find restaurants in [madurai](place)
+- Am from [Belagavi]{"entity": "place", "value": "belgaum"}, Would like to get a list of recommended hotels for lunch
+- From [sangli](place) Is there any good place to eat out?
+- Im in [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"}
+- let's say, [Raanchi]{"entity": "place", "value": "ranchi"}
+- [gurgaon](place)
+- Please find me a cafe in [banaras]{"entity": "place", "value": "varanasi"}
+- I'm searching for some food in [kolhapur](place)
+- Will u pls get me some top-class restraurants in [Nashik]{"entity": "place", "value": "nashik"}
+- Am in [nellore](place), wish if you could help me with hotel suggestions
+- I'm searching for some food in [Sangli]{"entity": "place", "value": "sangli"}
+- oh sorry, [firozbad]{"entity": "place", "value": "firozabad"}
+- Please find me a cafe in [bhiwandi](place)
+- i want to eat out, let me know some good options in the city of [bhavnagar](place)
+- I'm searching for some food in [Jablpur]{"entity": "place", "value": "jabalpur"}
+- Seraching for restaurants in [Calicut]{"entity": "place", "value": "kozhikode"}
+- [Thirupur]{"entity": "place", "value": "tiruppur"}
+- Any eating suggestion in [prayagraj](place)
+- Seraching for restaurants in [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"}
+- i'm looking for a place to eat in [nanded](place)
+- find me a restaurant in [bopal]{"entity": "place", "value": "bhopal"}
+- Will u pls get me some top-class restraurants in [aligad]{"entity": "place", "value": "aligarh"}
+- my place is [Bhanaras]{"entity": "place", "value": "varanasi"}
+- let's say, [Kakkinada]{"entity": "place", "value": "kakinada"}
+- I'm hungry in [salem](place)
+- From [Selam]{"entity": "place", "value": "salem"}
+- Will u pls get me some top-class restraurants in [Thirupur]{"entity": "place", "value": "tiruppur"}
+- going to be in [aurangbad]{"entity": "place", "value": "aurangabad"}
+- Any eating suggestion in [pudducherry]{"entity": "place", "value": "pondicherry"}
+- oh sorry, [Nellor]{"entity": "place", "value": "nellore"}
+- i'm looking for a place to eat in [Kakinada]{"entity": "place", "value": "kakinada"}
+- i'm looking for a place to eat in [kozhikode](place)
+- my place is [jamshedpur](place)
+- From [patna](place)
+- i want to eat out, let me know some good options in the city of [Bhanarash]{"entity": "place", "value": "varanasi"}
+- i want to eat out, let me know some good options in the city of [dehradun](place)
+- find me a restaurant in [Tiruchirappalli]{"entity": "place", "value": "tiruchirappalli"}
+- Any eating suggestion in [faridbad]{"entity": "place", "value": "faridabad"}
+- From [kozhikode](place)
+- I'm searching for some food in [Bikanir]{"entity": "place", "value": "bikaner"}
+- From [noidaa]{"entity": "place", "value": "noida"} Is there any good place to eat out?
+- find me a restaurant in [Gorakpur]{"entity": "place", "value": "gorakhpur"}
+- From [Bijapur]{"entity": "place", "value": "bijapur"}
+- From [Belgaum]{"entity": "place", "value": "belgaum"}
+- i want to eat out, let me know some good options in the city of [tirupur]{"entity": "place", "value": "tiruppur"}
+- I'm searching for some food in [Avantika]{"entity": "place", "value": "ujjain"}
+- Any eating suggestion in [vellore](place)
+- please help me to find restaurants in [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"}
+- Suggest me a restaurant in [purulia](place) please
+- i want to eat out, let me know some good options in the city of [indore](place)
+- Searching for a dining spot in [Sangli]{"entity": "place", "value": "sangli"}
+- Please find me a cafe in [kurnool](place)
+- Will u pls get me some top-class restraurants in [ernakulam]{"entity": "place", "value": "kochi"}
+- [madurai](place)
+- Am from [aurangabad](place), Would like to get a list of recommended hotels for lunch
+- let's say, [Deradun]{"entity": "place", "value": "dehradun"}
+- [trichi]{"entity": "place", "value": "tiruchirappalli"}
+- oh sorry, [belgaum](place)
+- Please find me a cafe in [Bhavnagar]{"entity": "place", "value": "bhavnagar"}
+- Please find me a cafe in [tiruchirappalli](place)
+- Any eating suggestion in [Jalandar]{"entity": "place", "value": "jalandhar"}
+- From [bopal]{"entity": "place", "value": "bhopal"}
+- oh sorry, [Aligarh]{"entity": "place", "value": "aligarh"}
+- From [bhilai](place) Is there any good place to eat out?
+- Suggest me a restaurant in [Erode]{"entity": "place", "value": "erode"} please
+- Suggest me a restaurant in [hubbali]{"entity": "place", "value": "hubli-dharwad"} please
+- Will u pls get me some top-class restraurants in [Belgaum]{"entity": "place", "value": "belgaum"}
+- [vizag]{"entity": "place", "value": "visakhapatnam"}
+- i want to eat out, let me know some good options in the city of [steel city]{"entity": "place", "value": "bokaro steel city"}
+- From [jamshedpur](place)
+- Searching for a dining spot in [Asansol]{"entity": "place", "value": "asansol"}
+- Im in [jabalpur](place)
+- going to be in [shrinagar]{"entity": "place", "value": "srinagar"}
+- [Chandigarh]{"entity": "place", "value": "chandigarh"}
+- i'm looking for a place to eat in [mysur]{"entity": "place", "value": "mysore"}
+- my place is [hubli-dharwad](place)
+- From [kollam](place) Is there any good place to eat out?
+- the city of [Rajkot]{"entity": "place", "value": "rajkot"}
+- i want to eat out, let me know some good options in the city of [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}
+- find me a restaurant in [noidaa]{"entity": "place", "value": "noida"}
+- I'm hungry in [dhanbad](place)
+- Any eating suggestion in [Dharwad]{"entity": "place", "value": "hubli-dharwad"}
+- let's say, [Belgaum]{"entity": "place", "value": "belgaum"}
+- going to be in [jammu](place)
+- find me a restaurant in [vizag]{"entity": "place", "value": "visakhapatnam"}
+- i'm looking for a place to eat in [Aligar]{"entity": "place", "value": "aligarh"}
+- [patna](place)
+- oh sorry, [jansi]{"entity": "place", "value": "jhansi"}
+- going to be in [Mysuru]{"entity": "place", "value": "mysore"}
+- Searching for a dining spot in [bhubneswar]{"entity": "place", "value": "bhubaneswar"}
+- in [gulbarga](place) is there any takeaway options
+- Please find me a cafe in [Barelly]{"entity": "place", "value": "bareilly"}
+- I'm searching for some food in [chandigad]{"entity": "place", "value": "chandigarh"}
+- From [tiruchirappalli](place)
+- Am in [kannur](place), wish if you could help me with hotel suggestions
+- please help me to find restaurants in [Faridabad]{"entity": "place", "value": "faridabad"}
+- Please find me a cafe in [faridbad]{"entity": "place", "value": "faridabad"}
+- I'm hungry in [kakinada](place)
+- chilling in [siliguri](place)
+- Am in [bilaspur](place), wish if you could help me with hotel suggestions
+- From [kurnool](place) Is there any good place to eat out?
+- Searching for a dining spot in [varanasi](place)
+- find me a restaurant in [Ujjain]{"entity": "place", "value": "ujjain"}
+- let's say, [Dehradun]{"entity": "place", "value": "dehradun"}
+- Please find me a cafe in [prayagraj](place)
+- Suggest me a restaurant in [shrinagar]{"entity": "place", "value": "srinagar"} please
+- Am from [Aligar]{"entity": "place", "value": "aligarh"}, Would like to get a list of recommended hotels for lunch
+- let's say, [Mangaluru]{"entity": "place", "value": "mangalore"}
+- Seraching for restaurants in [Gaziabad]{"entity": "place", "value": "ghaziabad"}
+- Im in [Noida]{"entity": "place", "value": "noida"}
+- Im in [jamshedpur](place)
+- Searching for a dining spot in [jalandhar](place)
+- the city of [vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- I'm searching for some food in [Rajahmandry]{"entity": "place", "value": "rajahmundry"}
+- From [jaipur](place)
+- please help me to find restaurants in [Tiruchirappalli]{"entity": "place", "value": "tiruchirappalli"}
+- my place is [kurnul]{"entity": "place", "value": "kurnool"}
+- Am from [Vasai]{"entity": "place", "value": "Vasai-Virar City"}, Would like to get a list of recommended hotels for lunch
+- the city of [Vizag]{"entity": "place", "value": "visakhapatnam"}
+- Am from [erod]{"entity": "place", "value": "erode"}, Would like to get a list of recommended hotels for lunch
+- [hubli]{"entity": "place", "value": "hubli-dharwad"}
+- i'm looking for a place to eat in [kannoor]{"entity": "place", "value": "kannur"}
+- Am looking for a quite place in [jaipur](place) to have food
+- Please find me a cafe in [malapuram]{"entity": "place", "value": "malappuram"}
+- going to be in [Ujain]{"entity": "place", "value": "ujjain"}
+- From [Kolhapur]{"entity": "place", "value": "kolhapur"}
+- Searching for a dining spot in [Vasai-Virar City](place)
+- Am in [Prayag]{"entity": "place", "value": "prayagraj"}, wish if you could help me with hotel suggestions
+- Am looking for a quite place in [Faridabad]{"entity": "place", "value": "faridabad"} to have food
+- the city of [Firozabad]{"entity": "place", "value": "firozabad"}
+- let's say, [Bhuvneswar]{"entity": "place", "value": "bhubaneswar"}
+- i'm looking for a place to eat in [rajahmundry](place)
+- [ranchi](place)
+- Im in [tirupur]{"entity": "place", "value": "tiruppur"}
+- Any eating suggestion in [goa](place)
+- Searching for a dining spot in [mysur]{"entity": "place", "value": "mysore"}
+- i'm looking for a place to eat in [Firozabad]{"entity": "place", "value": "firozabad"}
+- [Belagavi]{"entity": "place", "value": "belgaum"}
+- going to be in [Bhivandi]{"entity": "place", "value": "bhiwandi"}
+- Am in [Chandigarh]{"entity": "place", "value": "chandigarh"}, wish if you could help me with hotel suggestions
+- From [Bikaner]{"entity": "place", "value": "bikaner"} Is there any good place to eat out?
+- Seraching for restaurants in [srinagar](place)
+- i'm looking for a place to eat in [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}
+- Please find me a cafe in [bhopal](place)
+- i'm looking for a place to eat in [Jodhpur]{"entity": "place", "value": "jodhpur"}
+- in [Dharwad]{"entity": "place", "value": "hubli-dharwad"} is there any takeaway options
+- chilling in [gvalior]{"entity": "place", "value": "gwalior"}
+- i'm looking for a place to eat in [prayagraj](place)
+- i'm looking for a place to eat in [Aagra]{"entity": "place", "value": "agra"}
+- I'm hungry in [solapur](place)
+- Any eating suggestion in [gwalior](place)
+- Am from [Mangaluru]{"entity": "place", "value": "mangalore"}, Would like to get a list of recommended hotels for lunch
+- Am from [Chandigar]{"entity": "place", "value": "chandigarh"}, Would like to get a list of recommended hotels for lunch
+- Seraching for restaurants in [Eerode]{"entity": "place", "value": "erode"}
+- please help me to find restaurants in [guwahati](place)
+- I'm hungry in [Jammu]{"entity": "place", "value": "jammu"}
+- i'm looking for a place to eat in [jamnagar](place)
+- let's say, [bokaro steel city](place)
+- Am looking for a quite place in [Kalburgi]{"entity": "place", "value": "gulbarga"} to have food
+- [bikaner](place)
+- Am in [bikaner](place), wish if you could help me with hotel suggestions
+- Will u pls get me some top-class restraurants in [selum]{"entity": "place", "value": "salem"}
+- i want to eat out, let me know some good options in the city of [Mathura]{"entity": "place", "value": "mathura"}
+- i want to eat out, let me know some good options in the city of [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"}
+- Any eating suggestion in [salem](place)
+- I'm hungry in [Pudhuchery]{"entity": "place", "value": "pondicherry"}
+- From [Kollam]{"entity": "place", "value": "kollam"} Is there any good place to eat out?
+- I'm searching for some food in [guwahati](place)
+- From [Jamshedpur]{"entity": "place", "value": "jamshedpur"}
+- i want to eat out, let me know some good options in the city of [vijayawada](place)
+- oh sorry, [moradbad]{"entity": "place", "value": "moradabad"}
+- Im in [bhavanagar]{"entity": "place", "value": "bhavnagar"}
+- From [bikaner](place)
+- Any eating suggestion in [Kakkinada]{"entity": "place", "value": "kakinada"}
+- Seraching for restaurants in [Asansol]{"entity": "place", "value": "asansol"}
+- From [Patna]{"entity": "place", "value": "patna"}
+- find me a restaurant in [Thiruchirapalli]{"entity": "place", "value": "tiruchirappalli"}
+- Will u pls get me some top-class restraurants in [coimbatur]{"entity": "place", "value": "coimbatore"}
+- Im in [Faridabad]{"entity": "place", "value": "faridabad"}
+- From [noidaa]{"entity": "place", "value": "noida"}
+- going to be in [Avantikapuri]{"entity": "place", "value": "ujjain"}
+- i'm looking for a place to eat in [faridbad]{"entity": "place", "value": "faridabad"}
+- i'm looking for a place to eat in [madurai](place)
+- Will u pls get me some top-class restraurants in [gvalior]{"entity": "place", "value": "gwalior"}
+- i want to eat out, let me know some good options in the city of [Solapur]{"entity": "place", "value": "solapur"}
+- Seraching for restaurants in [hamirpur](place)
+- Am in [Nandigrama]{"entity": "place", "value": "nanded"}, wish if you could help me with hotel suggestions
+- Please find me a cafe in [Mysore]{"entity": "place", "value": "mysore"}
+- Am in [kollam](place), wish if you could help me with hotel suggestions
+- From [thrissur](place) Is there any good place to eat out?
+- my place is [Noida]{"entity": "place", "value": "noida"}
+- Im in [raipur](place)
+- Any eating suggestion in [Nellor]{"entity": "place", "value": "nellore"}
+- chilling in [kattack]{"entity": "place", "value": "cuttack"}
+- i'm looking for a place to eat in [coimbatore](place)
+- find me a restaurant in [Madura]{"entity": "place", "value": "madurai"}
+- oh sorry, [Calicut]{"entity": "place", "value": "kozhikode"}
+- i want to eat out, let me know some good options in the city of [salem](place)
+- let's say, [dehradoon]{"entity": "place", "value": "dehradun"}
+- in [gorakhpur](place) is there any takeaway options
+- Im in [Quilon]{"entity": "place", "value": "kollam"}
+- [Deradun]{"entity": "place", "value": "dehradun"}
+- i'm looking for a place to eat in [bokaro]{"entity": "place", "value": "bokaro steel city"}
+- find me a restaurant in [coimbatore](place)
+- find me a restaurant in [Deradun]{"entity": "place", "value": "dehradun"}
+- chilling in [Tiruppur]{"entity": "place", "value": "tiruppur"}
+- Will u pls get me some top-class restraurants in [Durgapur]{"entity": "place", "value": "durgapur"}
+- I'm searching for some food in [faridabad](place)
+- From [rourkela](place) Is there any good place to eat out?
+- the city of [erod]{"entity": "place", "value": "erode"}
+- Please find me a cafe in [Pondicherry]{"entity": "place", "value": "pondicherry"}
+- oh sorry, [ajmir]{"entity": "place", "value": "ajmer"}
+- the city of [Jablpur]{"entity": "place", "value": "jabalpur"}
+- [chandigarh](place)
+- i'm looking for a place to eat in [kolhapur](place)
+- I'm searching for some food in [bareilly](place)
+- Will u pls get me some top-class restraurants in [Gauhati]{"entity": "place", "value": "guwahati"}
+- i'm looking for a place to eat in [ludhiana](place)
+- Seraching for restaurants in [Firozbad]{"entity": "place", "value": "firozabad"}
+- Im in [Avantikapuri]{"entity": "place", "value": "ujjain"}
+- i want to eat out, let me know some good options in the city of [Vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- [ghasiabad]{"entity": "place", "value": "ghaziabad"}
+- i'm looking for a place to eat in [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"}
+- my place is [Varangal]{"entity": "place", "value": "warangal"}
+- [Madura]{"entity": "place", "value": "madurai"}
+- the city of [Thirupur]{"entity": "place", "value": "tiruppur"}
+- Any eating suggestion in [solapur](place)
+- Am looking for a quite place in [deharadun]{"entity": "place", "value": "dehradun"} to have food
+- Will u pls get me some top-class restraurants in [Madura]{"entity": "place", "value": "madurai"}
+- Searching for a dining spot in [Salem]{"entity": "place", "value": "salem"}
+- Seraching for restaurants in [indore](place)
+- Am from [jalandhar](place), Would like to get a list of recommended hotels for lunch
+- going to be in [nanded](place)
+- in [nanded](place) is there any takeaway options
+- Am in [Varangal]{"entity": "place", "value": "warangal"}, wish if you could help me with hotel suggestions
+- Searching for a dining spot in [Nagpoor]{"entity": "place", "value": "nagpur"}
+- Am in [Quilon]{"entity": "place", "value": "kollam"}, wish if you could help me with hotel suggestions
+- chilling in [kannur](place)
+- From [ghaziabad](place) Is there any good place to eat out?
+- let's say, [jaipur](place)
+- I'm searching for some food in [Bokaro]{"entity": "place", "value": "bokaro steel city"}
+- my place is [Hamirpur]{"entity": "place", "value": "hamirpur"}
+- Am looking for a quite place in [coimbator]{"entity": "place", "value": "coimbatore"} to have food
+- From [Bhavnagar]{"entity": "place", "value": "bhavnagar"} Is there any good place to eat out?
+- From [Jaipur]{"entity": "place", "value": "jaipur"}
+- Searching for a dining spot in [Nellore]{"entity": "place", "value": "nellore"}
+- [Thrissur]{"entity": "place", "value": "thrissur"}
+- [Eerode]{"entity": "place", "value": "erode"}
+- Will u pls get me some top-class restraurants in [Raanchi]{"entity": "place", "value": "ranchi"}
+- i'm looking for a place to eat in [bilai]{"entity": "place", "value": "bhilai"}
+- Any eating suggestion in [Mysor]{"entity": "place", "value": "mysore"}
+- From [vijayawada](place) Is there any good place to eat out?
+- i'm looking for a place to eat in [Ludhiana]{"entity": "place", "value": "ludhiana"}
+- [Dehradun]{"entity": "place", "value": "dehradun"}
+- From [Vasai]{"entity": "place", "value": "Vasai-Virar City"} Is there any good place to eat out?
+- find me a restaurant in [steel city]{"entity": "place", "value": "bokaro steel city"}
+- Will u pls get me some top-class restraurants in [kanpur](place)
+- Im in [Bhavnagar]{"entity": "place", "value": "bhavnagar"}
+- From [Dhanbad]{"entity": "place", "value": "dhanbad"}
+- find me a restaurant in [Nasikh]{"entity": "place", "value": "nashik"}
+- please help me to find restaurants in [mathura](place)
+- I'm searching for some food in [Rajkot]{"entity": "place", "value": "rajkot"}
+- please help me to find restaurants in [Erode]{"entity": "place", "value": "erode"}
+- i'm looking for a place to eat in [Trichy]{"entity": "place", "value": "tiruchirappalli"}
+- my place is [gulbarga](place)
+- Suggest me a restaurant in [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"} please
+- Am looking for a quite place in [kochi](place) to have food
+- please help me to find restaurants in [sangli](place)
+- my place is [Jamnagar]{"entity": "place", "value": "jamnagar"}
+- Am in [Soorath]{"entity": "place", "value": "surat"}, wish if you could help me with hotel suggestions
+- my place is [bhubneswar]{"entity": "place", "value": "bhubaneswar"}
+- I'm searching for some food in [kozhikode](place)
+- [tiruppur](place)
+- Please find me a cafe in [Cattack]{"entity": "place", "value": "cuttack"}
+- my place is [Vellore]{"entity": "place", "value": "vellore"}
+- From [Tiruppur]{"entity": "place", "value": "tiruppur"}
+- From [Tiruppur]{"entity": "place", "value": "tiruppur"} Is there any good place to eat out?
+- Will u pls get me some top-class restraurants in [Hubballi]{"entity": "place", "value": "hubli-dharwad"}
+- i want to eat out, let me know some good options in the city of [Mysor]{"entity": "place", "value": "mysore"}
+- in [Amritsar]{"entity": "place", "value": "amritsar"} is there any takeaway options
+- Suggest me a restaurant in [dhanbad](place) please
+- Will u pls get me some top-class restraurants in [deharadun]{"entity": "place", "value": "dehradun"}
+- [Vadodhara]{"entity": "place", "value": "vadodara"}
+- Searching for a dining spot in [lucknow](place)
+- Im in [Hamirpur]{"entity": "place", "value": "hamirpur"}
+- Any eating suggestion in [Bhilai]{"entity": "place", "value": "bhilai"}
+- Am from [durgapur](place), Would like to get a list of recommended hotels for lunch
+- my place is [coimbatur]{"entity": "place", "value": "coimbatore"}
+- oh sorry, [selum]{"entity": "place", "value": "salem"}
+- Any eating suggestion in [Nandigrama]{"entity": "place", "value": "nanded"}
+- Am from [cuttak]{"entity": "place", "value": "cuttack"}, Would like to get a list of recommended hotels for lunch
+- going to be in [bareilly](place)
+- i want to eat out, let me know some good options in the city of [Bokkaro]{"entity": "place", "value": "bokaro steel city"}
+- From [kannur](place)
+- I'm hungry in [Malappuram]{"entity": "place", "value": "malappuram"}
+- From [Jamshadpur]{"entity": "place", "value": "jamshedpur"} Is there any good place to eat out?
+- chilling in [Nasikh]{"entity": "place", "value": "nashik"}
+- i want to eat out, let me know some good options in the city of [hubli-dharwad](place)
+- chilling in [Cannanore]{"entity": "place", "value": "kannur"}
+- Am from [ajmer](place), Would like to get a list of recommended hotels for lunch
+- let's say, [ludhiana](place)
+- From [bijapur](place)
+- i'm looking for a place to eat in [Gorakpur]{"entity": "place", "value": "gorakhpur"}
+- oh sorry, [Cuttack]{"entity": "place", "value": "cuttack"}
+- Am from [vijayawada](place), Would like to get a list of recommended hotels for lunch
+- find me a restaurant in [vishakapatanam]{"entity": "place", "value": "visakhapatnam"}
+- Please find me a cafe in [ajmir]{"entity": "place", "value": "ajmer"}
+- Searching for a dining spot in [asansol](place)
+- Any eating suggestion in [jamshedpur](place)
+- Will u pls get me some top-class restraurants in [surath]{"entity": "place", "value": "surat"}
+- please help me to find restaurants in [Moradabad]{"entity": "place", "value": "moradabad"}
+- Any eating suggestion in [selum]{"entity": "place", "value": "salem"}
+- Am from [jaipur](place), Would like to get a list of recommended hotels for lunch
+- From [Nellor]{"entity": "place", "value": "nellore"}
+- Am in [Bikaner]{"entity": "place", "value": "bikaner"}, wish if you could help me with hotel suggestions
+- Suggest me a restaurant in [Sangli]{"entity": "place", "value": "sangli"} please
+- Suggest me a restaurant in [Pudhuchery]{"entity": "place", "value": "pondicherry"} please
+- Im in [Bijapur]{"entity": "place", "value": "bijapur"}
+- let's say, [Cuttack]{"entity": "place", "value": "cuttack"}
+- going to be in [Roorkala]{"entity": "place", "value": "rourkela"}
+- Will u pls get me some top-class restraurants in [warangal](place)
+- From [Soorath]{"entity": "place", "value": "surat"}
+- Im in [moradbad]{"entity": "place", "value": "moradabad"}
+- i'm looking for a place to eat in [Rourkela]{"entity": "place", "value": "rourkela"}
+- oh sorry, [Aagra]{"entity": "place", "value": "agra"}
+- Am looking for a quite place in [goa](place) to have food
+- From [sanghli]{"entity": "place", "value": "sangli"}
+- From [rajamundri]{"entity": "place", "value": "rajahmundry"} Is there any good place to eat out?
+- i want to eat out, let me know some good options in the city of [gorakhpur](place)
+- I'm hungry in [Vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- Any eating suggestion in [Bikanir]{"entity": "place", "value": "bikaner"}
+- let's say, [Coimbatore]{"entity": "place", "value": "coimbatore"}
+- please help me to find restaurants in [Bhopal]{"entity": "place", "value": "bhopal"}
+- Suggest me a restaurant in [ghaziabad](place) please
+- Im in [bopal]{"entity": "place", "value": "bhopal"}
+- I'm searching for some food in [prayagraj](place)
+- Am from [Avantika]{"entity": "place", "value": "ujjain"}, Would like to get a list of recommended hotels for lunch
+- please help me to find restaurants in [jabalpur](place)
+- Will u pls get me some top-class restraurants in [Vellore]{"entity": "place", "value": "vellore"}
+- i'm looking for a place to eat in [gorakhpur](place)
+- From [Varanashi]{"entity": "place", "value": "varanasi"} Is there any good place to eat out?
+- in [Moradabad]{"entity": "place", "value": "moradabad"} is there any takeaway options
+- Any eating suggestion in [jaipur](place)
+- Seraching for restaurants in [Gulbarga]{"entity": "place", "value": "gulbarga"}
+- i'm looking for a place to eat in [Vadodhara]{"entity": "place", "value": "vadodara"}
+- From [Gauhati]{"entity": "place", "value": "guwahati"}
+- Searching for a dining spot in [faridbad]{"entity": "place", "value": "faridabad"}
+- I'm hungry in [Cannanore]{"entity": "place", "value": "kannur"}
+- find me a restaurant in [kannur](place)
+- I'm hungry in [bhubneswar]{"entity": "place", "value": "bhubaneswar"}
+- Seraching for restaurants in [Jamnagar]{"entity": "place", "value": "jamnagar"}
+- please help me to find restaurants in [Gauhati]{"entity": "place", "value": "guwahati"}
+- Please find me a cafe in [chandigarh](place)
+- in [Bikaner]{"entity": "place", "value": "bikaner"} is there any takeaway options
+- in [Mangalore]{"entity": "place", "value": "mangalore"} is there any takeaway options
+- i'm looking for a place to eat in [kannur](place)
+- Im in [hubli-dharwad](place)
+- chilling in [Bhiwandi]{"entity": "place", "value": "bhiwandi"}
+- chilling in [Nagpoor]{"entity": "place", "value": "nagpur"}
+- chilling in [Belagavi]{"entity": "place", "value": "belgaum"}
+- i want to eat out, let me know some good options in the city of [Amrutsar]{"entity": "place", "value": "amritsar"}
+- i'm looking for a place to eat in [firozbad]{"entity": "place", "value": "firozabad"}
+- i'm looking for a place to eat in [Belgaum]{"entity": "place", "value": "belgaum"}
+- I'm hungry in [kattack]{"entity": "place", "value": "cuttack"}
+- please help me to find restaurants in [kolhapur](place)
+- Any eating suggestion in [Jamu]{"entity": "place", "value": "jammu"}
+- Am in [Jamu]{"entity": "place", "value": "jammu"}, wish if you could help me with hotel suggestions
+- Am from [Tiruchirappalli]{"entity": "place", "value": "tiruchirappalli"}, Would like to get a list of recommended hotels for lunch
+- i want to eat out, let me know some good options in the city of [thiruchirapali]{"entity": "place", "value": "tiruchirappalli"}
+- [Faridabad]{"entity": "place", "value": "faridabad"}
+- Im in [Sangli]{"entity": "place", "value": "sangli"}
+- [Lucknow]{"entity": "place", "value": "lucknow"}
+- chilling in [pudducherry]{"entity": "place", "value": "pondicherry"}
+- Seraching for restaurants in [Luknow]{"entity": "place", "value": "lucknow"}
+- Am from [Jamnagar]{"entity": "place", "value": "jamnagar"}, Would like to get a list of recommended hotels for lunch
+- Please find me a cafe in [solapur](place)
+- Am in [kochi](place), wish if you could help me with hotel suggestions
+- i'm looking for a place to eat in [rajkot](place)
+- Am from [Aurangabad]{"entity": "place", "value": "aurangabad"}, Would like to get a list of recommended hotels for lunch
+- Am in [Vizag]{"entity": "place", "value": "visakhapatnam"}, wish if you could help me with hotel suggestions
+- my place is [bokaro steel city](place)
+- Am from [vizag]{"entity": "place", "value": "visakhapatnam"}, Would like to get a list of recommended hotels for lunch
+- Suggest me a restaurant in [Meerut]{"entity": "place", "value": "meerut"} please
+- please help me to find restaurants in [tirupur]{"entity": "place", "value": "tiruppur"}
+- [Bhanaras]{"entity": "place", "value": "varanasi"}
+- Any eating suggestion in [firozabad](place)
+- I'm hungry in [faridabd]{"entity": "place", "value": "faridabad"}
+- i'm looking for a place to eat in [Bhavnagar]{"entity": "place", "value": "bhavnagar"}
+- Seraching for restaurants in [Jhansi]{"entity": "place", "value": "jhansi"}
+- going to be in [shimla](place)
+- i want to eat out, let me know some good options in the city of [pudducherry]{"entity": "place", "value": "pondicherry"}
+- Am from [bhanarash]{"entity": "place", "value": "varanasi"}, Would like to get a list of recommended hotels for lunch
+- the city of [Soorath]{"entity": "place", "value": "surat"}
+- Suggest me a restaurant in [dehradoon]{"entity": "place", "value": "dehradun"} please
+- Am in [varanasi](place), wish if you could help me with hotel suggestions
+- Seraching for restaurants in [raipur](place)
+- let's say, [Kozhikode]{"entity": "place", "value": "kozhikode"}
+- I'm hungry in [Nellor]{"entity": "place", "value": "nellore"}
+- i'm looking for a place to eat in [Kanpur]{"entity": "place", "value": "kanpur"}
+- Am looking for a quite place in [Gorakpur]{"entity": "place", "value": "gorakhpur"} to have food
+- Am looking for a quite place in [Solapur]{"entity": "place", "value": "solapur"} to have food
+- Any eating suggestion in [bhanarash]{"entity": "place", "value": "varanasi"}
+- From [ernakulam]{"entity": "place", "value": "kochi"} Is there any good place to eat out?
+- in [Bhivandi]{"entity": "place", "value": "bhiwandi"} is there any takeaway options
+- in [thiruvananthapuram](place) is there any takeaway options
+- Please find me a cafe in [Mangaluru]{"entity": "place", "value": "mangalore"}
+- i'm looking for a place to eat in [Rajahmandry]{"entity": "place", "value": "rajahmundry"}
+- From [moradbad]{"entity": "place", "value": "moradabad"} Is there any good place to eat out?
+- find me a restaurant in [durgapur](place)
+- Searching for a dining spot in [Rajahmandry]{"entity": "place", "value": "rajahmundry"}
+- I'm hungry in [amritsar](place)
+- Please find me a cafe in [shimla](place)
+- please help me to find restaurants in [Selam]{"entity": "place", "value": "salem"}
+- my place is [sangli](place)
+- i'm looking for a place to eat in [Mysore]{"entity": "place", "value": "mysore"}
+- i'm looking for a place to eat in [Jalandar]{"entity": "place", "value": "jalandhar"}
+- the city of [salem](place)
+- find me a restaurant in [vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- Am in [sangli](place), wish if you could help me with hotel suggestions
+- in [Chandigar]{"entity": "place", "value": "chandigarh"} is there any takeaway options
+- Any eating suggestion in [Chandigar]{"entity": "place", "value": "chandigarh"}
+- let's say, [Kochi]{"entity": "place", "value": "kochi"}
+- I'm searching for some food in [jabalpur](place)
+- chilling in [belgam]{"entity": "place", "value": "belgaum"}
+- Am looking for a quite place in [Aagra]{"entity": "place", "value": "agra"} to have food
+- Am looking for a quite place in [bokaro]{"entity": "place", "value": "bokaro steel city"} to have food
+- going to be in [shiliguri]{"entity": "place", "value": "siliguri"}
+- Please find me a cafe in [Bhanarash]{"entity": "place", "value": "varanasi"}
+- I'm hungry in [visakhapatnam](place)
+- Searching for a dining spot in [nellore](place)
+- please help me to find restaurants in [noida](place)
+- please help me to find restaurants in [Jhansi]{"entity": "place", "value": "jhansi"}
+- let's say, [faridabd]{"entity": "place", "value": "faridabad"}
+- please help me to find restaurants in [Gaziabad]{"entity": "place", "value": "ghaziabad"}
+- Please find me a cafe in [Hubli]{"entity": "place", "value": "hubli-dharwad"}
+- Suggest me a restaurant in [noidaa]{"entity": "place", "value": "noida"} please
+- Searching for a dining spot in [Madura]{"entity": "place", "value": "madurai"}
+- From [Thiruchirapalli]{"entity": "place", "value": "tiruchirappalli"} Is there any good place to eat out?
+- in [surath]{"entity": "place", "value": "surat"} is there any takeaway options
+- Im in [Surat]{"entity": "place", "value": "surat"}
+- Im in [Jabalpur]{"entity": "place", "value": "jabalpur"}
+- From [ajmir]{"entity": "place", "value": "ajmer"}
+- Please find me a cafe in [jodhpur](place)
+- From [bhubaneswar](place)
+- Seraching for restaurants in [Jabalpur]{"entity": "place", "value": "jabalpur"}
+- Am from [nagpur](place), Would like to get a list of recommended hotels for lunch
+- Am looking for a quite place in [vadhodhara]{"entity": "place", "value": "vadodara"} to have food
+- my place is [kattack]{"entity": "place", "value": "cuttack"}
+- Suggest me a restaurant in [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"} please
+- my place is [bilai]{"entity": "place", "value": "bhilai"}
+- [Chandigar]{"entity": "place", "value": "chandigarh"}
+- Im in [bikaner](place)
+- Any eating suggestion in [Bokkaro]{"entity": "place", "value": "bokaro steel city"}
+- Am in [nashik](place), wish if you could help me with hotel suggestions
+- my place is [vizag]{"entity": "place", "value": "visakhapatnam"}
+- oh sorry, [ludhiana](place)
+- let's say, [vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- Am looking for a quite place in [amaravati]{"entity": "place", "value": "amravati"} to have food
+- i'm looking for a place to eat in [Varanasi]{"entity": "place", "value": "varanasi"}
+- let's say, [varanasi](place)
+- my place is [vadodara](place)
+- my place is [Thrichur]{"entity": "place", "value": "thrissur"}
+- I'm searching for some food in [vadodara](place)
+- I'm searching for some food in [sholapur]{"entity": "place", "value": "solapur"}
+- From [Jalandhar]{"entity": "place", "value": "jalandhar"} Is there any good place to eat out?
+- the city of [rajamundri]{"entity": "place", "value": "rajahmundry"}
+- Am looking for a quite place in [Madura]{"entity": "place", "value": "madurai"} to have food
+- Searching for a dining spot in [nanded](place)
+- Any eating suggestion in [Warangal]{"entity": "place", "value": "warangal"}
+- going to be in [purulia](place)
+- [aurangabad](place)
+- I'm hungry in [patna](place)
+- chilling in [hubli-dharwad](place)
+- Am looking for a quite place in [Nasikh]{"entity": "place", "value": "nashik"} to have food
+- Will u pls get me some top-class restraurants in [varanasi](place)
+- Seraching for restaurants in [bhopal](place)
+- going to be in [aurangabad](place)
+- Suggest me a restaurant in [gulbarga](place) please
+- find me a restaurant in [bhilai](place)
+- find me a restaurant in [chandigad]{"entity": "place", "value": "chandigarh"}
+- oh sorry, [vizag]{"entity": "place", "value": "visakhapatnam"}
+- chilling in [malapuram]{"entity": "place", "value": "malappuram"}
+- the city of [Eerode]{"entity": "place", "value": "erode"}
+- Seraching for restaurants in [Nandigrama]{"entity": "place", "value": "nanded"}
+- Please find me a cafe in [Bikanir]{"entity": "place", "value": "bikaner"}
+- I'm searching for some food in [Tiruppur]{"entity": "place", "value": "tiruppur"}
+- Searching for a dining spot in [Aurangabad]{"entity": "place", "value": "aurangabad"}
+- Suggest me a restaurant in [Bhopal]{"entity": "place", "value": "bhopal"} please
+- Any eating suggestion in [Belagavi]{"entity": "place", "value": "belgaum"}
+- [pondicherry](place)
+- Searching for a dining spot in [Bhanarash]{"entity": "place", "value": "varanasi"}
+- Am from [aligarh](place), Would like to get a list of recommended hotels for lunch
+- Suggest me a restaurant in [Baroda]{"entity": "place", "value": "vadodara"} please
+- I'm hungry in [aurangbad]{"entity": "place", "value": "aurangabad"}
+- Any eating suggestion in [Thiruchirapalli]{"entity": "place", "value": "tiruchirappalli"}
+- chilling in [Bikanir]{"entity": "place", "value": "bikaner"}
+- my place is [bhanarash]{"entity": "place", "value": "varanasi"}
+- Am from [Lucknow]{"entity": "place", "value": "lucknow"}, Would like to get a list of recommended hotels for lunch
+- find me a restaurant in [Shimlah]{"entity": "place", "value": "shimla"}
+- i'm looking for a place to eat in [Mangaluru]{"entity": "place", "value": "mangalore"}
+- I'm searching for some food in [rourkela](place)
+- let's say, [thrissur](place)
+- please help me to find restaurants in [Nashik]{"entity": "place", "value": "nashik"}
+- the city of [jamnagar](place)
+- find me a restaurant in [Agra]{"entity": "place", "value": "agra"}
+- Im in [vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- Please find me a cafe in [Meerat]{"entity": "place", "value": "meerut"}
+- Any eating suggestion in [nellore](place)
+- the city of [Mysore]{"entity": "place", "value": "mysore"}
+- Am from [Amritsar]{"entity": "place", "value": "amritsar"}, Would like to get a list of recommended hotels for lunch
+- my place is [ghasiabad]{"entity": "place", "value": "ghaziabad"}
+- I'm hungry in [Guntur]{"entity": "place", "value": "guntur"}
+- my place is [jammu](place)
+- Will u pls get me some top-class restraurants in [vellore](place)
+- From [Ludhiana]{"entity": "place", "value": "ludhiana"}
+- Am in [mysur]{"entity": "place", "value": "mysore"}, wish if you could help me with hotel suggestions
+- Will u pls get me some top-class restraurants in [Kochi]{"entity": "place", "value": "kochi"}
+- Am in [Jhansi]{"entity": "place", "value": "jhansi"}, wish if you could help me with hotel suggestions
+- [Jalandhar]{"entity": "place", "value": "jalandhar"}
+- [ernakulam]{"entity": "place", "value": "kochi"}
+- please help me to find restaurants in [meerut](place)
+- Seraching for restaurants in [malappuram](place)
+- I'm searching for some food in [gurgaon](place)
+- From [Dharwad]{"entity": "place", "value": "hubli-dharwad"} Is there any good place to eat out?
+- From [banaras]{"entity": "place", "value": "varanasi"}
+- I'm hungry in [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}
+- From [guwahati](place) Is there any good place to eat out?
+- From [Dehradun]{"entity": "place", "value": "dehradun"} Is there any good place to eat out?
+- From [Tiruchirappalli]{"entity": "place", "value": "tiruchirappalli"}
+- From [Selam]{"entity": "place", "value": "salem"} Is there any good place to eat out?
+- Please find me a cafe in [goa](place)
+- going to be in [Sangli]{"entity": "place", "value": "sangli"}
+- Please find me a cafe in [Chandigarh]{"entity": "place", "value": "chandigarh"}
+- oh sorry, [thiruchirapali]{"entity": "place", "value": "tiruchirappalli"}
+- i'm looking for a place to eat in [belgam]{"entity": "place", "value": "belgaum"}
+- Any eating suggestion in [shiliguri]{"entity": "place", "value": "siliguri"}
+- going to be in [Jammu]{"entity": "place", "value": "jammu"}
+- I'm hungry in [Roorkala]{"entity": "place", "value": "rourkela"}
+- my place is [Hubballi]{"entity": "place", "value": "hubli-dharwad"}
+- From [siliguri](place) Is there any good place to eat out?
+- I'm hungry in [rourkela](place)
+- going to be in [chandigad]{"entity": "place", "value": "chandigarh"}
+- Searching for a dining spot in [vadhodhara]{"entity": "place", "value": "vadodara"}
+- I'm hungry in [Bokkaro]{"entity": "place", "value": "bokaro steel city"}
+- Am in [dehradun](place), wish if you could help me with hotel suggestions
+- Please find me a cafe in [Trichy]{"entity": "place", "value": "tiruchirappalli"}
+- Am from [Kolhapur]{"entity": "place", "value": "kolhapur"}, Would like to get a list of recommended hotels for lunch
+- i want to eat out, let me know some good options in the city of [Tiruchirappalli]{"entity": "place", "value": "tiruchirappalli"}
+- Searching for a dining spot in [jabalpur](place)
+- From [bilai]{"entity": "place", "value": "bhilai"} Is there any good place to eat out?
+- Will u pls get me some top-class restraurants in [bijapur](place)
+- Please find me a cafe in [vellore](place)
+- let's say, [trissur]{"entity": "place", "value": "thrissur"}
+- Suggest me a restaurant in [Firozbad]{"entity": "place", "value": "firozabad"} please
+- please help me to find restaurants in [Nellor]{"entity": "place", "value": "nellore"}
+- Am in [Gova]{"entity": "place", "value": "goa"}, wish if you could help me with hotel suggestions
+- chilling in [Bhavnagar]{"entity": "place", "value": "bhavnagar"}
+- Any eating suggestion in [Vellur]{"entity": "place", "value": "vellore"}
+- I'm hungry in [jamshedpur](place)
+- [tiruchirappalli](place)
+- the city of [Jamshedpur]{"entity": "place", "value": "jamshedpur"}
+- [bhiwandi](place)
+- Suggest me a restaurant in [bopal]{"entity": "place", "value": "bhopal"} please
+- let's say, [Prayag]{"entity": "place", "value": "prayagraj"}
+- Will u pls get me some top-class restraurants in [Mathura]{"entity": "place", "value": "mathura"}
+- Im in [Jodpur]{"entity": "place", "value": "jodhpur"}
+- Searching for a dining spot in [steel city]{"entity": "place", "value": "bokaro steel city"}
+- Seraching for restaurants in [kollam](place)
+- i'm looking for a place to eat in [Jodpur]{"entity": "place", "value": "jodhpur"}
+- let's say, [hubbali]{"entity": "place", "value": "hubli-dharwad"}
+- Suggest me a restaurant in [Kakinada]{"entity": "place", "value": "kakinada"} please
+- let's say, [aurangbad]{"entity": "place", "value": "aurangabad"}
+- let's say, [Vijayawada]{"entity": "place", "value": "vijayawada"}
+- find me a restaurant in [kurnool](place)
+- let's say, [Ujain]{"entity": "place", "value": "ujjain"}
+- I'm hungry in [kannur](place)
+- Am looking for a quite place in [Amrutsar]{"entity": "place", "value": "amritsar"} to have food
+- Searching for a dining spot in [Gurgaon]{"entity": "place", "value": "gurgaon"}
+- I'm searching for some food in [Prayag]{"entity": "place", "value": "prayagraj"}
+- please help me to find restaurants in [Mangaluru]{"entity": "place", "value": "mangalore"}
+- chilling in [Patna]{"entity": "place", "value": "patna"}
+- in [Gulbarga]{"entity": "place", "value": "gulbarga"} is there any takeaway options
+- i'm looking for a place to eat in [Mysor]{"entity": "place", "value": "mysore"}
+- in [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"} is there any takeaway options
+- Am looking for a quite place in [Gauhati]{"entity": "place", "value": "guwahati"} to have food
+- I'm searching for some food in [Meerat]{"entity": "place", "value": "meerut"}
+- Seraching for restaurants in [bijapur](place)
+- find me a restaurant in [Amravati]{"entity": "place", "value": "amravati"}
+- in [Kakkinada]{"entity": "place", "value": "kakinada"} is there any takeaway options
+- From [Solapur]{"entity": "place", "value": "solapur"}
+- Seraching for restaurants in [Thrissur]{"entity": "place", "value": "thrissur"}
+- let's say, [Bhopal]{"entity": "place", "value": "bhopal"}
+- Suggest me a restaurant in [bhavanagar]{"entity": "place", "value": "bhavnagar"} please
+- Am in [bhavanagar]{"entity": "place", "value": "bhavnagar"}, wish if you could help me with hotel suggestions
+- Please find me a cafe in [Guntur]{"entity": "place", "value": "guntur"}
+- I'm searching for some food in [hubbali]{"entity": "place", "value": "hubli-dharwad"}
+- in [cochin]{"entity": "place", "value": "kochi"} is there any takeaway options
+- i'm looking for a place to eat in [Bhuvaneswar]{"entity": "place", "value": "bhubaneswar"}
+- going to be in [Amrutsar]{"entity": "place", "value": "amritsar"}
+- i want to eat out, let me know some good options in the city of [Jamshadpur]{"entity": "place", "value": "jamshedpur"}
+- the city of [Goa]{"entity": "place", "value": "goa"}
+- oh sorry, [Bokkaro]{"entity": "place", "value": "bokaro steel city"}
+- Seraching for restaurants in [kochi](place)
+- I'm hungry in [Nagpur]{"entity": "place", "value": "nagpur"}
+- Seraching for restaurants in [Soorath]{"entity": "place", "value": "surat"}
+- [Soorat]{"entity": "place", "value": "surat"}
+- Am from [indor]{"entity": "place", "value": "indore"}, Would like to get a list of recommended hotels for lunch
+- Please find me a cafe in [Vadodara]{"entity": "place", "value": "vadodara"}
+- Any eating suggestion in [bhavnagar](place)
+- in [jansi]{"entity": "place", "value": "jhansi"} is there any takeaway options
+- Any eating suggestion in [Salem]{"entity": "place", "value": "salem"}
+- i want to eat out, let me know some good options in the city of [cuttack](place)
+- Am in [Aurangabad]{"entity": "place", "value": "aurangabad"}, wish if you could help me with hotel suggestions
+- Will u pls get me some top-class restraurants in [Jalandar]{"entity": "place", "value": "jalandhar"}
+- Im in [Virar]{"entity": "place", "value": "Vasai-Virar City"}
+- my place is [Virar]{"entity": "place", "value": "Vasai-Virar City"}
+- the city of [kozhikode](place)
+- I'm searching for some food in [steel city]{"entity": "place", "value": "bokaro steel city"}
+- [Hubballi]{"entity": "place", "value": "hubli-dharwad"}
+- Suggest me a restaurant in [Firozabad]{"entity": "place", "value": "firozabad"} please
+- in [Jalandar]{"entity": "place", "value": "jalandhar"} is there any takeaway options
+- Suggest me a restaurant in [Lucknow]{"entity": "place", "value": "lucknow"} please
+- find me a restaurant in [shiliguri]{"entity": "place", "value": "siliguri"}
+- find me a restaurant in [warangal](place)
+- From [Aligarh]{"entity": "place", "value": "aligarh"} Is there any good place to eat out?
+- [jamnagar](place)
+- i want to eat out, let me know some good options in the city of [dhanbad](place)
+- From [jammu](place) Is there any good place to eat out?
+- Searching for a dining spot in [Raipur]{"entity": "place", "value": "raipur"}
+- oh sorry, [aligarh](place)
+- i want to eat out, let me know some good options in the city of [meerut](place)
+- please help me to find restaurants in [amravati](place)
+- going to be in [Varanashi]{"entity": "place", "value": "varanasi"}
+- I'm searching for some food in [Ujain]{"entity": "place", "value": "ujjain"}
+- From [Varanasi]{"entity": "place", "value": "varanasi"} Is there any good place to eat out?
+- Please find me a cafe in [Jamshedpur]{"entity": "place", "value": "jamshedpur"}
+- i'm looking for a place to eat in [Noida]{"entity": "place", "value": "noida"}
+- I'm hungry in [Nanded]{"entity": "place", "value": "nanded"}
+- oh sorry, [Dharwad]{"entity": "place", "value": "hubli-dharwad"}
+- i'm looking for a place to eat in [Meerut]{"entity": "place", "value": "meerut"}
+- Am looking for a quite place in [Vizag]{"entity": "place", "value": "visakhapatnam"} to have food
+- my place is [Amravati]{"entity": "place", "value": "amravati"}
+- i want to eat out, let me know some good options in the city of [Thrissur]{"entity": "place", "value": "thrissur"}
+- Please find me a cafe in [amritsar](place)
+- please help me to find restaurants in [indore](place)
+- From [Ujain]{"entity": "place", "value": "ujjain"}
+- Searching for a dining spot in [nagpur](place)
+- Am in [visakhapatnam](place), wish if you could help me with hotel suggestions
+- in [rajkot](place) is there any takeaway options
+- I'm searching for some food in [Eerode]{"entity": "place", "value": "erode"}
+- going to be in [kozhikode](place)
+- in [jamnagar](place) is there any takeaway options
+- From [Agra]{"entity": "place", "value": "agra"} Is there any good place to eat out?
+- [aligarh](place)
+- chilling in [sangli](place)
+- Am looking for a quite place in [hamirpur](place) to have food
+- in [firozbad]{"entity": "place", "value": "firozabad"} is there any takeaway options
+- I'm searching for some food in [Mysore]{"entity": "place", "value": "mysore"}
+- From [Bhuvneswar]{"entity": "place", "value": "bhubaneswar"} Is there any good place to eat out?
+- Am looking for a quite place in [Thrichur]{"entity": "place", "value": "thrissur"} to have food
+- Im in [meerut](place)
+- Any eating suggestion in [guntur](place)
+- my place is [Bhuvneswar]{"entity": "place", "value": "bhubaneswar"}
+- going to be in [Nanded]{"entity": "place", "value": "nanded"}
+- Please find me a cafe in [Bhilai]{"entity": "place", "value": "bhilai"}
+- From [bokaro steel city](place) Is there any good place to eat out?
+- I'm searching for some food in [nagpur](place)
+- chilling in [Gauhati]{"entity": "place", "value": "guwahati"}
+- From [Madura]{"entity": "place", "value": "madurai"} Is there any good place to eat out?
+- i'm looking for a place to eat in [Prayag]{"entity": "place", "value": "prayagraj"}
+- I'm hungry in [cochin]{"entity": "place", "value": "kochi"}
+- the city of [bareili]{"entity": "place", "value": "bareilly"}
+- please help me to find restaurants in [moradbad]{"entity": "place", "value": "moradabad"}
+- Im in [guwahati](place)
+- the city of [banaras]{"entity": "place", "value": "varanasi"}
+- the city of [pudducherry]{"entity": "place", "value": "pondicherry"}
+- From [Jablpur]{"entity": "place", "value": "jabalpur"}
+- From [Nanded]{"entity": "place", "value": "nanded"} Is there any good place to eat out?
+- please help me to find restaurants in [Amritsar]{"entity": "place", "value": "amritsar"}
+- [Covai]{"entity": "place", "value": "coimbatore"}
+- Am in [hubbali]{"entity": "place", "value": "hubli-dharwad"}, wish if you could help me with hotel suggestions
+- in [kurnul]{"entity": "place", "value": "kurnool"} is there any takeaway options
+- i want to eat out, let me know some good options in the city of [purulia](place)
+- find me a restaurant in [Gova]{"entity": "place", "value": "goa"}
+- chilling in [Ujain]{"entity": "place", "value": "ujjain"}
+- Will u pls get me some top-class restraurants in [Mysor]{"entity": "place", "value": "mysore"}
+- Am looking for a quite place in [Goa]{"entity": "place", "value": "goa"} to have food
+- going to be in [kollam](place)
+- find me a restaurant in [Gurugram]{"entity": "place", "value": "gurgaon"}
+- From [Bhavnagar]{"entity": "place", "value": "bhavnagar"}
+- going to be in [bilaspur](place)
+- From [bhiwandi](place)
+- Any eating suggestion in [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- Am from [jamshedpur](place), Would like to get a list of recommended hotels for lunch
+- in [Salem]{"entity": "place", "value": "salem"} is there any takeaway options
+- i want to eat out, let me know some good options in the city of [Rajkot]{"entity": "place", "value": "rajkot"}
+- Suggest me a restaurant in [Ranchi]{"entity": "place", "value": "ranchi"} please
+- the city of [bijapur](place)
+- please help me to find restaurants in [raipur](place)
+- Please find me a cafe in [Mysor]{"entity": "place", "value": "mysore"}
+- the city of [faridabad](place)
+- Any eating suggestion in [Aurangabad]{"entity": "place", "value": "aurangabad"}
+- the city of [Kozhikode]{"entity": "place", "value": "kozhikode"}
+- oh sorry, [lucknow](place)
+- oh sorry, [Firozbad]{"entity": "place", "value": "firozabad"}
+- Please find me a cafe in [bhavnagar](place)
+- Searching for a dining spot in [kozhikode](place)
+- [cuttak]{"entity": "place", "value": "cuttack"}
+- oh sorry, [asansol](place)
+- in [hubbali]{"entity": "place", "value": "hubli-dharwad"} is there any takeaway options
+- From [tirupur]{"entity": "place", "value": "tiruppur"}
+- going to be in [Rajkot]{"entity": "place", "value": "rajkot"}
+- chilling in [chandigad]{"entity": "place", "value": "chandigarh"}
+- I'm searching for some food in [Varangal]{"entity": "place", "value": "warangal"}
+- going to be in [vadhodhara]{"entity": "place", "value": "vadodara"}
+- Please find me a cafe in [coimbatur]{"entity": "place", "value": "coimbatore"}
+- Am from [malapuram]{"entity": "place", "value": "malappuram"}, Would like to get a list of recommended hotels for lunch
+- i'm looking for a place to eat in [bilaspur](place)
+- Im in [Gorakhpur]{"entity": "place", "value": "gorakhpur"}
+- Suggest me a restaurant in [Dhanbad]{"entity": "place", "value": "dhanbad"} please
+- I'm hungry in [Soorat]{"entity": "place", "value": "surat"}
+- Am looking for a quite place in [Eerode]{"entity": "place", "value": "erode"} to have food
+- Am from [thiruvananthapuram](place), Would like to get a list of recommended hotels for lunch
+- I'm hungry in [noida](place)
+- Will u pls get me some top-class restraurants in [Jammu]{"entity": "place", "value": "jammu"}
+- please help me to find restaurants in [jamnagar](place)
+- chilling in [Gulbarga]{"entity": "place", "value": "gulbarga"}
+- Am looking for a quite place in [gwalior](place) to have food
+- From [faridabd]{"entity": "place", "value": "faridabad"}
+- please help me to find restaurants in [Hubballi]{"entity": "place", "value": "hubli-dharwad"}
+- oh sorry, [Ludhiana]{"entity": "place", "value": "ludhiana"}
+- my place is [kollam](place)
+- Please find me a cafe in [Goa]{"entity": "place", "value": "goa"}
+- From [Cattack]{"entity": "place", "value": "cuttack"} Is there any good place to eat out?
+- i want to eat out, let me know some good options in the city of [Raanchi]{"entity": "place", "value": "ranchi"}
+- going to be in [Gorakhpur]{"entity": "place", "value": "gorakhpur"}
+- Any eating suggestion in [Belgaum]{"entity": "place", "value": "belgaum"}
+- Im in [purulia](place)
+- the city of [tirupur]{"entity": "place", "value": "tiruppur"}
+- oh sorry, [nasikh]{"entity": "place", "value": "nashik"}
+- oh sorry, [Bhuvneswar]{"entity": "place", "value": "bhubaneswar"}
+- [kozhikode](place)
+- my place is [Meerut]{"entity": "place", "value": "meerut"}
+- Am in [Nashikh]{"entity": "place", "value": "nashik"}, wish if you could help me with hotel suggestions
+- Any eating suggestion in [Rajkot]{"entity": "place", "value": "rajkot"}
+- let's say, [nasikh]{"entity": "place", "value": "nashik"}
+- i want to eat out, let me know some good options in the city of [Belagavi]{"entity": "place", "value": "belgaum"}
+- i want to eat out, let me know some good options in the city of [kochi](place)
+- find me a restaurant in [Vizag]{"entity": "place", "value": "visakhapatnam"}
+- chilling in [mathura](place)
+- Any eating suggestion in [vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- Am looking for a quite place in [Salem]{"entity": "place", "value": "salem"} to have food
+- From [Vellur]{"entity": "place", "value": "vellore"} Is there any good place to eat out?
+- in [Mathura]{"entity": "place", "value": "mathura"} is there any takeaway options
+- my place is [hubli]{"entity": "place", "value": "hubli-dharwad"}
+- Searching for a dining spot in [cuttak]{"entity": "place", "value": "cuttack"}
+- in [Bareilly]{"entity": "place", "value": "bareilly"} is there any takeaway options
+- going to be in [tiruchirappalli](place)
+- find me a restaurant in [Puruli]{"entity": "place", "value": "purulia"}
+- Seraching for restaurants in [Aurangabad]{"entity": "place", "value": "aurangabad"}
+- Im in [thiruvananthapuram](place)
+- i'm looking for a place to eat in [vijayawada](place)
+- chilling in [Cochi]{"entity": "place", "value": "kochi"}
+- Im in [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- in [Belagavi]{"entity": "place", "value": "belgaum"} is there any takeaway options
+- in [Firozabad]{"entity": "place", "value": "firozabad"} is there any takeaway options
+- Im in [Jhansi]{"entity": "place", "value": "jhansi"}
+- in [raipur](place) is there any takeaway options
+- Am in [Gauhati]{"entity": "place", "value": "guwahati"}, wish if you could help me with hotel suggestions
+- let's say, [ernakulam]{"entity": "place", "value": "kochi"}
+- going to be in [Rajahmundry]{"entity": "place", "value": "rajahmundry"}
+- I'm hungry in [Jamshadpur]{"entity": "place", "value": "jamshedpur"}
+- let's say, [vizag]{"entity": "place", "value": "visakhapatnam"}
+- Am looking for a quite place in [sangli](place) to have food
+- From [Bilaspur]{"entity": "place", "value": "bilaspur"} Is there any good place to eat out?
+- I'm searching for some food in [kannur](place)
+- oh sorry, [Soorath]{"entity": "place", "value": "surat"}
+- Am looking for a quite place in [Jammu]{"entity": "place", "value": "jammu"} to have food
+- i'm looking for a place to eat in [Guntur]{"entity": "place", "value": "guntur"}
+- Am in [madurai](place), wish if you could help me with hotel suggestions
+- From [jaipur](place) Is there any good place to eat out?
+- i want to eat out, let me know some good options in the city of [Soorat]{"entity": "place", "value": "surat"}
+- going to be in [raipur](place)
+- Searching for a dining spot in [Trichy]{"entity": "place", "value": "tiruchirappalli"}
+- I'm hungry in [Jodhpur]{"entity": "place", "value": "jodhpur"}
+- Seraching for restaurants in [Trichy]{"entity": "place", "value": "tiruchirappalli"}
+- I'm hungry in [Aligarh]{"entity": "place", "value": "aligarh"}
+- Searching for a dining spot in [trichi]{"entity": "place", "value": "tiruchirappalli"}
+- the city of [sholapur]{"entity": "place", "value": "solapur"}
+- i'm looking for a place to eat in [cuttack](place)
+- Seraching for restaurants in [prayagraj](place)
+- find me a restaurant in [aurangbad]{"entity": "place", "value": "aurangabad"}
+- oh sorry, [cuttak]{"entity": "place", "value": "cuttack"}
+- Any eating suggestion in [Virar]{"entity": "place", "value": "Vasai-Virar City"}
+- I'm hungry in [Amrutsar]{"entity": "place", "value": "amritsar"}
+- I'm hungry in [Gurgaon]{"entity": "place", "value": "gurgaon"}
+- Am looking for a quite place in [Calicut]{"entity": "place", "value": "kozhikode"} to have food
+- Im in [Lucknow]{"entity": "place", "value": "lucknow"}
+- going to be in [kolhapur](place)
+- find me a restaurant in [Aligarh]{"entity": "place", "value": "aligarh"}
+- Am in [bhopal](place), wish if you could help me with hotel suggestions
+- oh sorry, [Lucknow]{"entity": "place", "value": "lucknow"}
+- let's say, [Kollam]{"entity": "place", "value": "kollam"}
+- please help me to find restaurants in [Bhiwandi]{"entity": "place", "value": "bhiwandi"}
+- Seraching for restaurants in [Quilon]{"entity": "place", "value": "kollam"}
+- please help me to find restaurants in [Hamirpur]{"entity": "place", "value": "hamirpur"}
+- Am from [rajamundri]{"entity": "place", "value": "rajahmundry"}, Would like to get a list of recommended hotels for lunch
+- [Hamirpur]{"entity": "place", "value": "hamirpur"}
+- going to be in [noida](place)
+- Am in [steel city]{"entity": "place", "value": "bokaro steel city"}, wish if you could help me with hotel suggestions
+- Any eating suggestion in [aligad]{"entity": "place", "value": "aligarh"}
+- From [vashai]{"entity": "place", "value": "Vasai-Virar City"} Is there any good place to eat out?
+- going to be in [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"}
+- Suggest me a restaurant in [erod]{"entity": "place", "value": "erode"} please
+- going to be in [Madura]{"entity": "place", "value": "madurai"}
+- From [thiruvananthapuram](place)
+- Searching for a dining spot in [cochin]{"entity": "place", "value": "kochi"}
+- Am from [chandigarh](place), Would like to get a list of recommended hotels for lunch
+- From [deharadun]{"entity": "place", "value": "dehradun"}
+- Seraching for restaurants in [Moradabad]{"entity": "place", "value": "moradabad"}
+- Searching for a dining spot in [hubli]{"entity": "place", "value": "hubli-dharwad"}
+- chilling in [Mysuru]{"entity": "place", "value": "mysore"}
+- Am looking for a quite place in [kattak]{"entity": "place", "value": "cuttack"} to have food
+- oh sorry, [shrinagar]{"entity": "place", "value": "srinagar"}
+- Am from [trissur]{"entity": "place", "value": "thrissur"}, Would like to get a list of recommended hotels for lunch
+- From [Kannur]{"entity": "place", "value": "kannur"} Is there any good place to eat out?
+- I'm hungry in [Baroda]{"entity": "place", "value": "vadodara"}
+- Im in [Firozabad]{"entity": "place", "value": "firozabad"}
+- oh sorry, [Varanasi]{"entity": "place", "value": "varanasi"}
+- I'm searching for some food in [Bhuvaneswar]{"entity": "place", "value": "bhubaneswar"}
+- let's say, [amaravati]{"entity": "place", "value": "amravati"}
+- Will u pls get me some top-class restraurants in [Dhanbad]{"entity": "place", "value": "dhanbad"}
+- please help me to find restaurants in [Kannur]{"entity": "place", "value": "kannur"}
+- going to be in [sanghli]{"entity": "place", "value": "sangli"}
+- please help me to find restaurants in [Bikanir]{"entity": "place", "value": "bikaner"}
+- Will u pls get me some top-class restraurants in [cochin]{"entity": "place", "value": "kochi"}
+- find me a restaurant in [banaras]{"entity": "place", "value": "varanasi"}
+- I'm searching for some food in [vadhodhara]{"entity": "place", "value": "vadodara"}
+- the city of [shimla](place)
+- i want to eat out, let me know some good options in the city of [coimbator]{"entity": "place", "value": "coimbatore"}
+- the city of [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"}
+- please help me to find restaurants in [Gorakpur]{"entity": "place", "value": "gorakhpur"}
+- Searching for a dining spot in [guwahati](place)
+- Will u pls get me some top-class restraurants in [gulbarga](place)
+- i'm looking for a place to eat in [vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- i want to eat out, let me know some good options in the city of [Jammu]{"entity": "place", "value": "jammu"}
+- i'm looking for a place to eat in [indore](place)
+- Please find me a cafe in [hubli-dharwad](place)
+- Searching for a dining spot in [Pondicherry]{"entity": "place", "value": "pondicherry"}
+- i'm looking for a place to eat in [gwalior](place)
+- please help me to find restaurants in [hubbali]{"entity": "place", "value": "hubli-dharwad"}
+- From [Luknow]{"entity": "place", "value": "lucknow"} Is there any good place to eat out?
+- i want to eat out, let me know some good options in the city of [Jamu]{"entity": "place", "value": "jammu"}
+- I'm searching for some food in [Patana]{"entity": "place", "value": "patna"}
+- Am in [Ujain]{"entity": "place", "value": "ujjain"}, wish if you could help me with hotel suggestions
+- Searching for a dining spot in [Soorath]{"entity": "place", "value": "surat"}
+- I'm searching for some food in [amravati](place)
+- i'm looking for a place to eat in [Hamirpur]{"entity": "place", "value": "hamirpur"}
+- Am from [ludhiana](place), Would like to get a list of recommended hotels for lunch
+- i'm looking for a place to eat in [warangal](place)
+- Suggest me a restaurant in [Bokkaro]{"entity": "place", "value": "bokaro steel city"} please
+- i want to eat out, let me know some good options in the city of [Thirupur]{"entity": "place", "value": "tiruppur"}
+- let's say, [ajmer](place)
+- Searching for a dining spot in [kanpur](place)
+- oh sorry, [Bhivandi]{"entity": "place", "value": "bhiwandi"}
+- Any eating suggestion in [Cuttack]{"entity": "place", "value": "cuttack"}
+- going to be in [vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- Am from [Bijapur]{"entity": "place", "value": "bijapur"}, Would like to get a list of recommended hotels for lunch
+- Please find me a cafe in [jhansi](place)
+- I'm hungry in [amaravati]{"entity": "place", "value": "amravati"}
+- i'm looking for a place to eat in [Soorat]{"entity": "place", "value": "surat"}
+- Im in [kanpur](place)
+- [Jablpur]{"entity": "place", "value": "jabalpur"}
+- let's say, [Thrissur]{"entity": "place", "value": "thrissur"}
+- the city of [Ludhiana]{"entity": "place", "value": "ludhiana"}
+- Am in [shiliguri]{"entity": "place", "value": "siliguri"}, wish if you could help me with hotel suggestions
+- please help me to find restaurants in [Cattack]{"entity": "place", "value": "cuttack"}
+- Searching for a dining spot in [bikner]{"entity": "place", "value": "bikaner"}
+- i'm looking for a place to eat in [mangalore](place)
+- I'm hungry in [bijapur](place)
+- Im in [Rajahmandry]{"entity": "place", "value": "rajahmundry"}
+- Am looking for a quite place in [Bhavnagar]{"entity": "place", "value": "bhavnagar"} to have food
+- the city of [ludhiana](place)
+- the city of [noida](place)
+- From [Hubballi]{"entity": "place", "value": "hubli-dharwad"} Is there any good place to eat out?
+- [erod]{"entity": "place", "value": "erode"}
+- chilling in [bilaspur](place)
+- oh sorry, [Bhuvaneswar]{"entity": "place", "value": "bhubaneswar"}
+- Im in [ajmer](place)
+- let's say, [Patna]{"entity": "place", "value": "patna"}
+- From [kakinada](place) Is there any good place to eat out?
+- [Tiruppur]{"entity": "place", "value": "tiruppur"}
+- Im in [Ujjain]{"entity": "place", "value": "ujjain"}
+- chilling in [Aligarh]{"entity": "place", "value": "aligarh"}
+- please help me to find restaurants in [Bokkaro]{"entity": "place", "value": "bokaro steel city"}
+- From [Vasai-Virar City](place)
+- Am from [ajmir]{"entity": "place", "value": "ajmer"}, Would like to get a list of recommended hotels for lunch
+- I'm hungry in [Warangal]{"entity": "place", "value": "warangal"}
+- Suggest me a restaurant in [Meerat]{"entity": "place", "value": "meerut"} please
+- in [faridabd]{"entity": "place", "value": "faridabad"} is there any takeaway options
+- in [Chandigarh]{"entity": "place", "value": "chandigarh"} is there any takeaway options
+- From [Mysor]{"entity": "place", "value": "mysore"} Is there any good place to eat out?
+- chilling in [Erode]{"entity": "place", "value": "erode"}
+- Searching for a dining spot in [bhiwandi](place)
+- the city of [Nasikh]{"entity": "place", "value": "nashik"}
+- i want to eat out, let me know some good options in the city of [Quilon]{"entity": "place", "value": "kollam"}
+- Searching for a dining spot in [mysore](place)
+- the city of [Bikaner]{"entity": "place", "value": "bikaner"}
+- i'm looking for a place to eat in [nelluru]{"entity": "place", "value": "nellore"}
+- I'm searching for some food in [bhavnagar](place)
+- From [bikner]{"entity": "place", "value": "bikaner"} Is there any good place to eat out?
+- in [Mangaluru]{"entity": "place", "value": "mangalore"} is there any takeaway options
+- I'm hungry in [Virar]{"entity": "place", "value": "Vasai-Virar City"}
+- Seraching for restaurants in [Nanded]{"entity": "place", "value": "nanded"}
+- Seraching for restaurants in [Roorkala]{"entity": "place", "value": "rourkela"}
+- my place is [guwahati](place)
+- Am in [malappuram](place), wish if you could help me with hotel suggestions
+- I'm searching for some food in [Solapur]{"entity": "place", "value": "solapur"}
+- Searching for a dining spot in [Ranchi]{"entity": "place", "value": "ranchi"}
+- the city of [bilai]{"entity": "place", "value": "bhilai"}
+- I'm searching for some food in [Goa]{"entity": "place", "value": "goa"}
+- Seraching for restaurants in [Jamu]{"entity": "place", "value": "jammu"}
+- I'm searching for some food in [ujjain](place)
+- Am from [thiruchirapali]{"entity": "place", "value": "tiruchirappalli"}, Would like to get a list of recommended hotels for lunch
+- the city of [thiruchirapali]{"entity": "place", "value": "tiruchirappalli"}
+- oh sorry, [Cattack]{"entity": "place", "value": "cuttack"}
+- let's say, [Firozbad]{"entity": "place", "value": "firozabad"}
+- Please find me a cafe in [jansi]{"entity": "place", "value": "jhansi"}
+- I'm searching for some food in [gulbarga](place)
+- Will u pls get me some top-class restraurants in [ujjain](place)
+- chilling in [cuttack](place)
+- please help me to find restaurants in [Tiruppur]{"entity": "place", "value": "tiruppur"}
+- Will u pls get me some top-class restraurants in [Bhuvneswar]{"entity": "place", "value": "bhubaneswar"}
+- please help me to find restaurants in [indor]{"entity": "place", "value": "indore"}
+- From [jabalpur](place) Is there any good place to eat out?
+- find me a restaurant in [Nagpur]{"entity": "place", "value": "nagpur"}
+- in [Firozbad]{"entity": "place", "value": "firozabad"} is there any takeaway options
+- my place is [Nashikh]{"entity": "place", "value": "nashik"}
+- From [Shimlah]{"entity": "place", "value": "shimla"}
+- my place is [coimbatore](place)
+- Any eating suggestion in [Gova]{"entity": "place", "value": "goa"}
+- let's say, [durgapur](place)
+- oh sorry, [Vellore]{"entity": "place", "value": "vellore"}
+- i want to eat out, let me know some good options in the city of [Nashikh]{"entity": "place", "value": "nashik"}
+- [Dhanbad]{"entity": "place", "value": "dhanbad"}
+- in [Vizag]{"entity": "place", "value": "visakhapatnam"} is there any takeaway options
+- i'm looking for a place to eat in [Bhilai]{"entity": "place", "value": "bhilai"}
+- From [Bhanaras]{"entity": "place", "value": "varanasi"} Is there any good place to eat out?
+- the city of [kurnool](place)
+- please help me to find restaurants in [Vijayawada]{"entity": "place", "value": "vijayawada"}
+- Am in [banaras]{"entity": "place", "value": "varanasi"}, wish if you could help me with hotel suggestions
+- Please find me a cafe in [Prayag]{"entity": "place", "value": "prayagraj"}
+- the city of [Vellore]{"entity": "place", "value": "vellore"}
+- i want to eat out, let me know some good options in the city of [Hubli]{"entity": "place", "value": "hubli-dharwad"}
+- oh sorry, [dhanbad](place)
+- find me a restaurant in [Rourkela]{"entity": "place", "value": "rourkela"}
+- From [kattack]{"entity": "place", "value": "cuttack"}
+- please help me to find restaurants in [bijapur](place)
+- find me a restaurant in [Madurai]{"entity": "place", "value": "madurai"}
+- Any eating suggestion in [Gorakhpur]{"entity": "place", "value": "gorakhpur"}
+- please help me to find restaurants in [Trichy]{"entity": "place", "value": "tiruchirappalli"}
+- oh sorry, [vijayawada](place)
+- oh sorry, [chandigad]{"entity": "place", "value": "chandigarh"}
+- Searching for a dining spot in [thrissur](place)
+- Any eating suggestion in [Barelly]{"entity": "place", "value": "bareilly"}
+- Any eating suggestion in [Nanded]{"entity": "place", "value": "nanded"}
+- Suggest me a restaurant in [Coimbatore]{"entity": "place", "value": "coimbatore"} please
+- please help me to find restaurants in [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"}
+- Please find me a cafe in [Belgaum]{"entity": "place", "value": "belgaum"}
+- I'm searching for some food in [Bikaner]{"entity": "place", "value": "bikaner"}
+- chilling in [kattak]{"entity": "place", "value": "cuttack"}
+- Im in [asansol](place)
+- From [Prayag]{"entity": "place", "value": "prayagraj"} Is there any good place to eat out?
+- I'm searching for some food in [bopal]{"entity": "place", "value": "bhopal"}
+- my place is [goa](place)
+- oh sorry, [Amravati]{"entity": "place", "value": "amravati"}
+- let's say, [Rajkot]{"entity": "place", "value": "rajkot"}
+- [Indore]{"entity": "place", "value": "indore"}
+- I'm searching for some food in [Jammu]{"entity": "place", "value": "jammu"}
+- i want to eat out, let me know some good options in the city of [Erode]{"entity": "place", "value": "erode"}
+- in [bikaner](place) is there any takeaway options
+- let's say, [Gwalior]{"entity": "place", "value": "gwalior"}
+- Please find me a cafe in [Erode]{"entity": "place", "value": "erode"}
+- please help me to find restaurants in [aurangabad](place)
+- [Avantika]{"entity": "place", "value": "ujjain"}
+- Will u pls get me some top-class restraurants in [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- Am in [Vijayawada]{"entity": "place", "value": "vijayawada"}, wish if you could help me with hotel suggestions
+- chilling in [amaravati]{"entity": "place", "value": "amravati"}
+- From [belgam]{"entity": "place", "value": "belgaum"}
+- From [Bhanaras]{"entity": "place", "value": "varanasi"}
+- Any eating suggestion in [Amritsar]{"entity": "place", "value": "amritsar"}
+- chilling in [Quilon]{"entity": "place", "value": "kollam"}
+- Any eating suggestion in [surath]{"entity": "place", "value": "surat"}
+- Im in [Moradabad]{"entity": "place", "value": "moradabad"}
+- oh sorry, [hubbali]{"entity": "place", "value": "hubli-dharwad"}
+- going to be in [ajmir]{"entity": "place", "value": "ajmer"}
+- [Jamshedpur]{"entity": "place", "value": "jamshedpur"}
+- find me a restaurant in [hubli-dharwad](place)
+- find me a restaurant in [Coimbatore]{"entity": "place", "value": "coimbatore"}
+- i want to eat out, let me know some good options in the city of [Hubballi]{"entity": "place", "value": "hubli-dharwad"}
+- I'm searching for some food in [ranchi](place)
+- i'm looking for a place to eat in [Rajkot]{"entity": "place", "value": "rajkot"}
+- Any eating suggestion in [Firozbad]{"entity": "place", "value": "firozabad"}
+- my place is [Bhilai]{"entity": "place", "value": "bhilai"}
+- i'm looking for a place to eat in [bopal]{"entity": "place", "value": "bhopal"}
+- I'm hungry in [Thiruchirapalli]{"entity": "place", "value": "tiruchirappalli"}
+- chilling in [Sangli]{"entity": "place", "value": "sangli"}
+- let's say, [gvalior]{"entity": "place", "value": "gwalior"}
+- From [dhanbad](place) Is there any good place to eat out?
+- I'm hungry in [Jablpur]{"entity": "place", "value": "jabalpur"}
+- Any eating suggestion in [dehradun](place)
+- please help me to find restaurants in [mysore](place)
+- Suggest me a restaurant in [Mysor]{"entity": "place", "value": "mysore"} please
+- Searching for a dining spot in [Varanashi]{"entity": "place", "value": "varanasi"}
+- Am from [Bhanaras]{"entity": "place", "value": "varanasi"}, Would like to get a list of recommended hotels for lunch
+- going to be in [Vadodara]{"entity": "place", "value": "vadodara"}
+- i'm looking for a place to eat in [Thrichur]{"entity": "place", "value": "thrissur"}
+- Will u pls get me some top-class restraurants in [bopal]{"entity": "place", "value": "bhopal"}
+- Will u pls get me some top-class restraurants in [sangli](place)
+- Am looking for a quite place in [pondicherry](place) to have food
+- Seraching for restaurants in [Erode]{"entity": "place", "value": "erode"}
+- in [kolam]{"entity": "place", "value": "kollam"} is there any takeaway options
+- From [Gorakhpur]{"entity": "place", "value": "gorakhpur"} Is there any good place to eat out?
+- please help me to find restaurants in [Avantika]{"entity": "place", "value": "ujjain"}
+- Suggest me a restaurant in [Gorakhpur]{"entity": "place", "value": "gorakhpur"} please
+- Am from [kurnool](place), Would like to get a list of recommended hotels for lunch
+- i'm looking for a place to eat in [Tiruppur]{"entity": "place", "value": "tiruppur"}
+- Suggest me a restaurant in [moradabad](place) please
+- I'm hungry in [gvalior]{"entity": "place", "value": "gwalior"}
+- the city of [Matura]{"entity": "place", "value": "mathura"}
+- i want to eat out, let me know some good options in the city of [bareili]{"entity": "place", "value": "bareilly"}
+- in [Kollam]{"entity": "place", "value": "kollam"} is there any takeaway options
+- let's say, [Agra]{"entity": "place", "value": "agra"}
+- my place is [Salem]{"entity": "place", "value": "salem"}
+- [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"}
+- I'm hungry in [deharadun]{"entity": "place", "value": "dehradun"}
+- i'm looking for a place to eat in [Jamu]{"entity": "place", "value": "jammu"}
+- let's say, [vishakapatanam]{"entity": "place", "value": "visakhapatnam"}
+- I'm searching for some food in [asansol](place)
+- From [ludhiana](place)
+- Am in [Bhopal]{"entity": "place", "value": "bhopal"}, wish if you could help me with hotel suggestions
+- please help me to find restaurants in [trichi]{"entity": "place", "value": "tiruchirappalli"}
+- my place is [Jalandhar]{"entity": "place", "value": "jalandhar"}
+- From [kattak]{"entity": "place", "value": "cuttack"} Is there any good place to eat out?
+- the city of [Kakinada]{"entity": "place", "value": "kakinada"}
+- From [bareili]{"entity": "place", "value": "bareilly"} Is there any good place to eat out?
+- I'm searching for some food in [coimbatore](place)
+- Seraching for restaurants in [Bhopl]{"entity": "place", "value": "bhopal"}
+- Am from [ghaziabad](place), Would like to get a list of recommended hotels for lunch
+- [Jammu]{"entity": "place", "value": "jammu"}
+- Suggest me a restaurant in [Nanded]{"entity": "place", "value": "nanded"} please
+- let's say, [jhansi](place)
+- Searching for a dining spot in [kolam]{"entity": "place", "value": "kollam"}
+- Seraching for restaurants in [siliguri](place)
+- i'm looking for a place to eat in [Gauhati]{"entity": "place", "value": "guwahati"}
+- in [Vadodhara]{"entity": "place", "value": "vadodara"} is there any takeaway options
+- Will u pls get me some top-class restraurants in [jhansi](place)
+- I'm searching for some food in [vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- Any eating suggestion in [Jamshadpur]{"entity": "place", "value": "jamshedpur"}
+- i want to eat out, let me know some good options in the city of [jhansi](place)
+- i'm looking for a place to eat in [Kollam]{"entity": "place", "value": "kollam"}
+- Any eating suggestion in [noidaa]{"entity": "place", "value": "noida"}
+- in [Gorakpur]{"entity": "place", "value": "gorakhpur"} is there any takeaway options
+- [Kakkinada]{"entity": "place", "value": "kakinada"}
+- Suggest me a restaurant in [Nasik]{"entity": "place", "value": "nashik"} please
+- Im in [Vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- From [ghasiabad]{"entity": "place", "value": "ghaziabad"}
+- From [Bilaspur]{"entity": "place", "value": "bilaspur"}
+- Am in [durgapur](place), wish if you could help me with hotel suggestions
+- Searching for a dining spot in [Baroda]{"entity": "place", "value": "vadodara"}
+- in [rajahmundry](place) is there any takeaway options
+- i'm looking for a place to eat in [Patana]{"entity": "place", "value": "patna"}
+- my place is [Pondicherry]{"entity": "place", "value": "pondicherry"}
+- Am in [Jamshedpur]{"entity": "place", "value": "jamshedpur"}, wish if you could help me with hotel suggestions
+- Am from [Gurgaon]{"entity": "place", "value": "gurgaon"}, Would like to get a list of recommended hotels for lunch
+- Am from [Pondicherry]{"entity": "place", "value": "pondicherry"}, Would like to get a list of recommended hotels for lunch
+- Suggest me a restaurant in [Jamu]{"entity": "place", "value": "jammu"} please
+- I'm hungry in [Bijapur]{"entity": "place", "value": "bijapur"}
+- Im in [Mangalore]{"entity": "place", "value": "mangalore"}
+- [Roorkala]{"entity": "place", "value": "rourkela"}
+- in [bareilly](place) is there any takeaway options
+- going to be in [Pondi]{"entity": "place", "value": "pondicherry"}
+- Im in [sholapur]{"entity": "place", "value": "solapur"}
+- in [madurai](place) is there any takeaway options
+- let's say, [indor]{"entity": "place", "value": "indore"}
+- oh sorry, [Avantikapuri]{"entity": "place", "value": "ujjain"}
+- Am from [Kollam]{"entity": "place", "value": "kollam"}, Would like to get a list of recommended hotels for lunch
+- I'm searching for some food in [faridbad]{"entity": "place", "value": "faridabad"}
+- Searching for a dining spot in [Bokaro]{"entity": "place", "value": "bokaro steel city"}
+- Searching for a dining spot in [Jamshadpur]{"entity": "place", "value": "jamshedpur"}
+- i'm looking for a place to eat in [sholapur]{"entity": "place", "value": "solapur"}
+- my place is [nasikh]{"entity": "place", "value": "nashik"}
+- the city of [Nellore]{"entity": "place", "value": "nellore"}
+- I'm searching for some food in [Madura]{"entity": "place", "value": "madurai"}
+- oh sorry, [Ajmer]{"entity": "place", "value": "ajmer"}
+- [bhilai](place)
+- Im in [Gurugram]{"entity": "place", "value": "gurgaon"}
+- Am looking for a quite place in [nellore](place) to have food
+- chilling in [durgapur](place)
+- From [Jodhpur]{"entity": "place", "value": "jodhpur"} Is there any good place to eat out?
+- Please find me a cafe in [rajkot](place)
+- Am from [varanasi](place), Would like to get a list of recommended hotels for lunch
+- I'm hungry in [rajamundri]{"entity": "place", "value": "rajahmundry"}
+- i'm looking for a place to eat in [selum]{"entity": "place", "value": "salem"}
+- please help me to find restaurants in [Goa]{"entity": "place", "value": "goa"}
+- please help me to find restaurants in [moradabad](place)
+- Am looking for a quite place in [shrinagar]{"entity": "place", "value": "srinagar"} to have food
+- I'm hungry in [Bhopl]{"entity": "place", "value": "bhopal"}
+- my place is [Surat]{"entity": "place", "value": "surat"}
+- oh sorry, [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- chilling in [malappuram](place)
+- Suggest me a restaurant in [Virar]{"entity": "place", "value": "Vasai-Virar City"} please
+- Searching for a dining spot in [Gova]{"entity": "place", "value": "goa"}
+- [thiruchirapali]{"entity": "place", "value": "tiruchirappalli"}
+- going to be in [jamnagar](place)
+- my place is [rourkela](place)
+- From [Vadodara]{"entity": "place", "value": "vadodara"}
+- Please find me a cafe in [siliguri](place)
+- find me a restaurant in [aurangabad](place)
+- find me a restaurant in [belgaum](place)
+- Please find me a cafe in [mathura](place)
+- the city of [thiruvananthapuram](place)
+- From [vishakapatanam]{"entity": "place", "value": "visakhapatnam"}
+- chilling in [rajkot](place)
+- going to be in [bareili]{"entity": "place", "value": "bareilly"}
+- Please find me a cafe in [Bhuvneswar]{"entity": "place", "value": "bhubaneswar"}
+- From [siliguri](place)
+- Seraching for restaurants in [Nagpoor]{"entity": "place", "value": "nagpur"}
+- in [Jabalpur]{"entity": "place", "value": "jabalpur"} is there any takeaway options
+- chilling in [gorakhpur](place)
+- From [Nagpur]{"entity": "place", "value": "nagpur"}
+- Any eating suggestion in [Bikaner]{"entity": "place", "value": "bikaner"}
+- Seraching for restaurants in [Salem]{"entity": "place", "value": "salem"}
+- From [Gulbarga]{"entity": "place", "value": "gulbarga"}
+- Seraching for restaurants in [guwahati](place)
+- Will u pls get me some top-class restraurants in [Tiruppur]{"entity": "place", "value": "tiruppur"}
+- Please find me a cafe in [Kozhikode]{"entity": "place", "value": "kozhikode"}
+- Im in [Asansol]{"entity": "place", "value": "asansol"}
+- oh sorry, [Nashik]{"entity": "place", "value": "nashik"}
+- [gvalior]{"entity": "place", "value": "gwalior"}
+- chilling in [Vizag]{"entity": "place", "value": "visakhapatnam"}
+- let's say, [Chandigarh]{"entity": "place", "value": "chandigarh"}
+- From [Kakkinada]{"entity": "place", "value": "kakinada"} Is there any good place to eat out?
+- the city of [Quilon]{"entity": "place", "value": "kollam"}
+- let's say, [Vellore]{"entity": "place", "value": "vellore"}
+- the city of [amritsar](place)
+- oh sorry, [Nasikh]{"entity": "place", "value": "nashik"}
+- Will u pls get me some top-class restraurants in [erod]{"entity": "place", "value": "erode"}
+- I'm searching for some food in [kannoor]{"entity": "place", "value": "kannur"}
+- find me a restaurant in [Asnsol]{"entity": "place", "value": "asansol"}
+- From [Kolapur]{"entity": "place", "value": "kolhapur"} Is there any good place to eat out?
+- i want to eat out, let me know some good options in the city of [Gauhati]{"entity": "place", "value": "guwahati"}
+- Searching for a dining spot in [jaipur](place)
+- my place is [solapur](place)
+- From [Jodhpur]{"entity": "place", "value": "jodhpur"}
+- in [varanasi](place) is there any takeaway options
+- my place is [faridabad](place)
+- please help me to find restaurants in [Lucknow]{"entity": "place", "value": "lucknow"}
+- I'm hungry in [Jalandar]{"entity": "place", "value": "jalandhar"}
+- Please find me a cafe in [Nellore]{"entity": "place", "value": "nellore"}
+- find me a restaurant in [Kozhikode]{"entity": "place", "value": "kozhikode"}
+- chilling in [Kochi]{"entity": "place", "value": "kochi"}
+- chilling in [Vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- From [Varanasi]{"entity": "place", "value": "varanasi"}
+- chilling in [Kanpur]{"entity": "place", "value": "kanpur"}
+- I'm hungry in [Simla]{"entity": "place", "value": "shimla"}
+- Any eating suggestion in [Aligar]{"entity": "place", "value": "aligarh"}
+- Im in [trichi]{"entity": "place", "value": "tiruchirappalli"}
+- Am from [bikner]{"entity": "place", "value": "bikaner"}, Would like to get a list of recommended hotels for lunch
+- Am looking for a quite place in [Thirupur]{"entity": "place", "value": "tiruppur"} to have food
+- From [coimbatur]{"entity": "place", "value": "coimbatore"}
+- From [moradabad](place) Is there any good place to eat out?
+- Seraching for restaurants in [Patana]{"entity": "place", "value": "patna"}
+- Seraching for restaurants in [Firozabad]{"entity": "place", "value": "firozabad"}
+- [kannoor]{"entity": "place", "value": "kannur"}
+- Am looking for a quite place in [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"} to have food
+- my place is [Madurai]{"entity": "place", "value": "madurai"}
+- chilling in [Mangaluru]{"entity": "place", "value": "mangalore"}
+- Am in [Noida]{"entity": "place", "value": "noida"}, wish if you could help me with hotel suggestions
+- Im in [Kalburgi]{"entity": "place", "value": "gulbarga"}
+- Any eating suggestion in [Surat]{"entity": "place", "value": "surat"}
+- in [asansol](place) is there any takeaway options
+- chilling in [Gova]{"entity": "place", "value": "goa"}
+- Seraching for restaurants in [Thiruchirapalli]{"entity": "place", "value": "tiruchirappalli"}
+- Any eating suggestion in [amritsar](place)
+- Seraching for restaurants in [lucknow](place)
+- please help me to find restaurants in [mysur]{"entity": "place", "value": "mysore"}
+- From [kannoor]{"entity": "place", "value": "kannur"}
+- Seraching for restaurants in [vijayawada](place)
+- Any eating suggestion in [bareilly](place)
+- I'm hungry in [Hubballi]{"entity": "place", "value": "hubli-dharwad"}
+- Am looking for a quite place in [Noida]{"entity": "place", "value": "noida"} to have food
+- From [Bhiwandi]{"entity": "place", "value": "bhiwandi"}
+- find me a restaurant in [salem](place)
+- From [lucknow](place) Is there any good place to eat out?
+- Im in [Vadodhara]{"entity": "place", "value": "vadodara"}
+- Searching for a dining spot in [thiruchirapali]{"entity": "place", "value": "tiruchirappalli"}
+- Seraching for restaurants in [indor]{"entity": "place", "value": "indore"}
+- the city of [ujjain](place)
+- i want to eat out, let me know some good options in the city of [Pondicherry]{"entity": "place", "value": "pondicherry"}
+- From [Firozabad]{"entity": "place", "value": "firozabad"} Is there any good place to eat out?
+- Searching for a dining spot in [guntur](place)
+- From [Surat]{"entity": "place", "value": "surat"}
+- Am from [thrissur](place), Would like to get a list of recommended hotels for lunch
+- i'm looking for a place to eat in [asansol](place)
+- i want to eat out, let me know some good options in the city of [prayagraj](place)
+- Searching for a dining spot in [bhopal](place)
+- chilling in [Thiruchirapalli]{"entity": "place", "value": "tiruchirappalli"}
+- i'm looking for a place to eat in [Pondi]{"entity": "place", "value": "pondicherry"}
+- I'm hungry in [Mangaluru]{"entity": "place", "value": "mangalore"}
+- the city of [Belgaum]{"entity": "place", "value": "belgaum"}
+- I'm searching for some food in [Dehradun]{"entity": "place", "value": "dehradun"}
+- Seraching for restaurants in [bikner]{"entity": "place", "value": "bikaner"}
+- Please find me a cafe in [meerut](place)
+- Any eating suggestion in [Ujjain]{"entity": "place", "value": "ujjain"}
+- Please find me a cafe in [erod]{"entity": "place", "value": "erode"}
+- please help me to find restaurants in [amritsar](place)
+- Will u pls get me some top-class restraurants in [Belagavi]{"entity": "place", "value": "belgaum"}
+- Will u pls get me some top-class restraurants in [Jamshadpur]{"entity": "place", "value": "jamshedpur"}
+- chilling in [Selam]{"entity": "place", "value": "salem"}
+- I'm hungry in [Aligar]{"entity": "place", "value": "aligarh"}
+- Am in [bareili]{"entity": "place", "value": "bareilly"}, wish if you could help me with hotel suggestions
+- Searching for a dining spot in [faridabad](place)
+- Will u pls get me some top-class restraurants in [Kakinada]{"entity": "place", "value": "kakinada"}
+- I'm searching for some food in [mangalore](place)
+- I'm hungry in [Dhanbad]{"entity": "place", "value": "dhanbad"}
+- [Gurugram]{"entity": "place", "value": "gurgaon"}
+- I'm searching for some food in [Bhopl]{"entity": "place", "value": "bhopal"}
+- Please find me a cafe in [Ajmer]{"entity": "place", "value": "ajmer"}
+- From [Nashikh]{"entity": "place", "value": "nashik"} Is there any good place to eat out?
+- in [malapuram]{"entity": "place", "value": "malappuram"} is there any takeaway options
+- I'm hungry in [Noida]{"entity": "place", "value": "noida"}
+- Suggest me a restaurant in [Calicut]{"entity": "place", "value": "kozhikode"} please
+- From [vishakapatanam]{"entity": "place", "value": "visakhapatnam"} Is there any good place to eat out?
+- Please find me a cafe in [bhanarash]{"entity": "place", "value": "varanasi"}
+- the city of [jaipur](place)
+- i'm looking for a place to eat in [amritsar](place)
+- i want to eat out, let me know some good options in the city of [durgapur](place)
+- Searching for a dining spot in [siliguri](place)
+- Am looking for a quite place in [prayagraj](place) to have food
+- Am looking for a quite place in [bijapur](place) to have food
+- in [Vellur]{"entity": "place", "value": "vellore"} is there any takeaway options
+- please help me to find restaurants in [jalandhar](place)
+- I'm searching for some food in [kurnool](place)
+- Any eating suggestion in [cuttack](place)
+- Any eating suggestion in [Bhopl]{"entity": "place", "value": "bhopal"}
+- I'm searching for some food in [nanded](place)
+- Suggest me a restaurant in [Amritsar]{"entity": "place", "value": "amritsar"} please
+- Im in [Nagpoor]{"entity": "place", "value": "nagpur"}
+- in [Covai]{"entity": "place", "value": "coimbatore"} is there any takeaway options
+- From [virar]{"entity": "place", "value": "Vasai-Virar City"}
+- I'm searching for some food in [Nasik]{"entity": "place", "value": "nashik"}
+- Searching for a dining spot in [Jabalpur]{"entity": "place", "value": "jabalpur"}
+- I'm hungry in [Bhanaras]{"entity": "place", "value": "varanasi"}
+- Am looking for a quite place in [vashai]{"entity": "place", "value": "Vasai-Virar City"} to have food
+- going to be in [gurgaon](place)
+- going to be in [noidaa]{"entity": "place", "value": "noida"}
+- i want to eat out, let me know some good options in the city of [Bhilai]{"entity": "place", "value": "bhilai"}
+- let's say, [jodhpur](place)
+- the city of [jhansi](place)
+- From [vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- From [Gwalior]{"entity": "place", "value": "gwalior"} Is there any good place to eat out?
+- [kolam]{"entity": "place", "value": "kollam"}
+- Am from [Kochi]{"entity": "place", "value": "kochi"}, Would like to get a list of recommended hotels for lunch
+- let's say, [hubli]{"entity": "place", "value": "hubli-dharwad"}
+- let's say, [Puruli]{"entity": "place", "value": "purulia"}
+- my place is [Chandigarh]{"entity": "place", "value": "chandigarh"}
+- Any eating suggestion in [mathura](place)
+- chilling in [Varanasi]{"entity": "place", "value": "varanasi"}
+- Searching for a dining spot in [Jalandar]{"entity": "place", "value": "jalandhar"}
+- I'm searching for some food in [Nashik]{"entity": "place", "value": "nashik"}
+- the city of [varanasi](place)
+- Suggest me a restaurant in [Jalandar]{"entity": "place", "value": "jalandhar"} please
+- From [Kochi]{"entity": "place", "value": "kochi"} Is there any good place to eat out?
+- Will u pls get me some top-class restraurants in [jalandhar](place)
+- let's say, [noida](place)
+- Am from [Jalandar]{"entity": "place", "value": "jalandhar"}, Would like to get a list of recommended hotels for lunch
+- find me a restaurant in [ajmer](place)
+- please help me to find restaurants in [Patna]{"entity": "place", "value": "patna"}
+- From [Trichy]{"entity": "place", "value": "tiruchirappalli"} Is there any good place to eat out?
+- Seraching for restaurants in [Vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- Am from [Baroda]{"entity": "place", "value": "vadodara"}, Would like to get a list of recommended hotels for lunch
+- going to be in [jansi]{"entity": "place", "value": "jhansi"}
+- chilling in [Jamshedpur]{"entity": "place", "value": "jamshedpur"}
+- From [Kakinada]{"entity": "place", "value": "kakinada"}
+- Am in [mysore](place), wish if you could help me with hotel suggestions
+- From [indor]{"entity": "place", "value": "indore"} Is there any good place to eat out?
+- find me a restaurant in [Thrissur]{"entity": "place", "value": "thrissur"}
+- Will u pls get me some top-class restraurants in [ludhiana](place)
+- Suggest me a restaurant in [Salem]{"entity": "place", "value": "salem"} please
+- chilling in [kochi](place)
+- i'm looking for a place to eat in [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"}
+- going to be in [Mangalore]{"entity": "place", "value": "mangalore"}
+- I'm searching for some food in [Luknow]{"entity": "place", "value": "lucknow"}
+- From [Ludiana]{"entity": "place", "value": "ludhiana"}
+- oh sorry, [Jamnagar]{"entity": "place", "value": "jamnagar"}
+- oh sorry, [bilai]{"entity": "place", "value": "bhilai"}
+- let's say, [Varanasi]{"entity": "place", "value": "varanasi"}
+- let's say, [shrinagar]{"entity": "place", "value": "srinagar"}
+- From [Mathura]{"entity": "place", "value": "mathura"} Is there any good place to eat out?
+- Suggest me a restaurant in [kolhapur](place) please
+- i want to eat out, let me know some good options in the city of [bopal]{"entity": "place", "value": "bhopal"}
+- let's say, [Goa]{"entity": "place", "value": "goa"}
+- going to be in [Jamshadpur]{"entity": "place", "value": "jamshedpur"}
+- find me a restaurant in [Kalburgi]{"entity": "place", "value": "gulbarga"}
+- oh sorry, [Bilaspur]{"entity": "place", "value": "bilaspur"}
+- From [kolam]{"entity": "place", "value": "kollam"}
+- Searching for a dining spot in [jamnagar](place)
+- Am from [jodhpur](place), Would like to get a list of recommended hotels for lunch
+- I'm searching for some food in [erod]{"entity": "place", "value": "erode"}
+- the city of [jansi]{"entity": "place", "value": "jhansi"}
+- chilling in [Indore]{"entity": "place", "value": "indore"}
+- find me a restaurant in [nagpur](place)
+- From [ranchi](place) Is there any good place to eat out?
+- Im in [Jamshedpur]{"entity": "place", "value": "jamshedpur"}
+- Im in [Pondi]{"entity": "place", "value": "pondicherry"}
+- [Kurnool]{"entity": "place", "value": "kurnool"}
+- From [vadodara](place)
+- let's say, [kattack]{"entity": "place", "value": "cuttack"}
+- Suggest me a restaurant in [durgapur](place) please
+- Am in [jalandhar](place), wish if you could help me with hotel suggestions
+- in [tirupur]{"entity": "place", "value": "tiruppur"} is there any takeaway options
+- going to be in [Bhopl]{"entity": "place", "value": "bhopal"}
+- going to be in [Agra]{"entity": "place", "value": "agra"}
+- let's say, [Varanashi]{"entity": "place", "value": "varanasi"}
+- Please find me a cafe in [guwahati](place)
+- From [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- please help me to find restaurants in [Nagpur]{"entity": "place", "value": "nagpur"}
+- Seraching for restaurants in [firozbad]{"entity": "place", "value": "firozabad"}
+- find me a restaurant in [Jodpur]{"entity": "place", "value": "jodhpur"}
+- find me a restaurant in [vadhodhara]{"entity": "place", "value": "vadodara"}
+- i want to eat out, let me know some good options in the city of [jalandhar](place)
+- Seraching for restaurants in [Mangalore]{"entity": "place", "value": "mangalore"}
+- my place is [Mysor]{"entity": "place", "value": "mysore"}
+- Will u pls get me some top-class restraurants in [bhubaneswar](place)
+- [chandigad]{"entity": "place", "value": "chandigarh"}
+- From [kannur](place) Is there any good place to eat out?
+- Im in [bareili]{"entity": "place", "value": "bareilly"}
+- Will u pls get me some top-class restraurants in [Sangli]{"entity": "place", "value": "sangli"}
+- Suggest me a restaurant in [solapur](place) please
+- Suggest me a restaurant in [Gova]{"entity": "place", "value": "goa"} please
+- Please find me a cafe in [Vijayawada]{"entity": "place", "value": "vijayawada"}
+- From [Meerat]{"entity": "place", "value": "meerut"}
+- Seraching for restaurants in [Mysor]{"entity": "place", "value": "mysore"}
+- find me a restaurant in [Jaipur]{"entity": "place", "value": "jaipur"}
+- From [Covai]{"entity": "place", "value": "coimbatore"} Is there any good place to eat out?
+- I'm searching for some food in [vijayawada](place)
+- From [Amravati]{"entity": "place", "value": "amravati"}
+- Am looking for a quite place in [rajahmundry](place) to have food
+- Will u pls get me some top-class restraurants in [Avantika]{"entity": "place", "value": "ujjain"}
+- I'm hungry in [agra](place)
+- Am looking for a quite place in [coimbatore](place) to have food
+- Searching for a dining spot in [vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- Am in [shrinagar]{"entity": "place", "value": "srinagar"}, wish if you could help me with hotel suggestions
+- going to be in [Vasai-Virar City](place)
+- Suggest me a restaurant in [guwahati](place) please
+- Will u pls get me some top-class restraurants in [Gova]{"entity": "place", "value": "goa"}
+- Any eating suggestion in [Vizag]{"entity": "place", "value": "visakhapatnam"}
+- I'm searching for some food in [Dhanbad]{"entity": "place", "value": "dhanbad"}
+- From [gulbarga](place)
+- Im in [Varanasi]{"entity": "place", "value": "varanasi"}
+- Am in [Pudhuchery]{"entity": "place", "value": "pondicherry"}, wish if you could help me with hotel suggestions
+- let's say, [Calicut]{"entity": "place", "value": "kozhikode"}
+- i want to eat out, let me know some good options in the city of [srinagar](place)
+- Searching for a dining spot in [shiliguri]{"entity": "place", "value": "siliguri"}
+- please help me to find restaurants in [Firozbad]{"entity": "place", "value": "firozabad"}
+- Searching for a dining spot in [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"}
+- Seraching for restaurants in [kannur](place)
+- i want to eat out, let me know some good options in the city of [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"}
+- going to be in [bhavnagar](place)
+- Am looking for a quite place in [shiliguri]{"entity": "place", "value": "siliguri"} to have food
+- Seraching for restaurants in [madurai](place)
+- find me a restaurant in [Eerode]{"entity": "place", "value": "erode"}
+- I'm hungry in [Madura]{"entity": "place", "value": "madurai"}
+- From [Vijayawada]{"entity": "place", "value": "vijayawada"} Is there any good place to eat out?
+- chilling in [Thrichur]{"entity": "place", "value": "thrissur"}
+- Am looking for a quite place in [Kurnool]{"entity": "place", "value": "kurnool"} to have food
+- I'm searching for some food in [nasikh]{"entity": "place", "value": "nashik"}
+- my place is [indor]{"entity": "place", "value": "indore"}
+- Seraching for restaurants in [Varanashi]{"entity": "place", "value": "varanasi"}
+- going to be in [jabalpur](place)
+- find me a restaurant in [ghaziabad](place)
+- From [belgam]{"entity": "place", "value": "belgaum"} Is there any good place to eat out?
+- i want to eat out, let me know some good options in the city of [shimla](place)
+- Seraching for restaurants in [Goa]{"entity": "place", "value": "goa"}
+- From [chandigad]{"entity": "place", "value": "chandigarh"} Is there any good place to eat out?
+- Am looking for a quite place in [Bhopal]{"entity": "place", "value": "bhopal"} to have food
+- find me a restaurant in [gorakhpur](place)
+- Suggest me a restaurant in [kollam](place) please
+- Will u pls get me some top-class restraurants in [bhilai](place)
+- my place is [nellore](place)
+- From [Bareilly]{"entity": "place", "value": "bareilly"}
+- Will u pls get me some top-class restraurants in [Kurnool]{"entity": "place", "value": "kurnool"}
+- in [nelluru]{"entity": "place", "value": "nellore"} is there any takeaway options
+- From [Bikanir]{"entity": "place", "value": "bikaner"}
+- [Rajkot]{"entity": "place", "value": "rajkot"}
+- my place is [jamnagar](place)
+- Any eating suggestion in [Bareilly]{"entity": "place", "value": "bareilly"}
+- i want to eat out, let me know some good options in the city of [kannoor]{"entity": "place", "value": "kannur"}
+- Am in [thiruvananthapuram](place), wish if you could help me with hotel suggestions
+- Seraching for restaurants in [rourkela](place)
+- i'm looking for a place to eat in [rourkela](place)
+- Suggest me a restaurant in [gorakhpur](place) please
+- Seraching for restaurants in [Bokkaro]{"entity": "place", "value": "bokaro steel city"}
+- let's say, [jabalpur](place)
+- find me a restaurant in [Matura]{"entity": "place", "value": "mathura"}
+- please help me to find restaurants in [surath]{"entity": "place", "value": "surat"}
+- the city of [vishakapatanam]{"entity": "place", "value": "visakhapatnam"}
+- the city of [ghasiabad]{"entity": "place", "value": "ghaziabad"}
+- From [Amritsar]{"entity": "place", "value": "amritsar"}
+- chilling in [Roorkala]{"entity": "place", "value": "rourkela"}
+- my place is [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"}
+- my place is [kannur](place)
+- let's say, [Matura]{"entity": "place", "value": "mathura"}
+- the city of [Luknow]{"entity": "place", "value": "lucknow"}
+- Am looking for a quite place in [Jodhpur]{"entity": "place", "value": "jodhpur"} to have food
+- Am from [indore](place), Would like to get a list of recommended hotels for lunch
+- i'm looking for a place to eat in [Aurangabad]{"entity": "place", "value": "aurangabad"}
+- Searching for a dining spot in [Nashik]{"entity": "place", "value": "nashik"}
+- I'm searching for some food in [jansi]{"entity": "place", "value": "jhansi"}
+- Suggest me a restaurant in [thrissur](place) please
+- From [Varangal]{"entity": "place", "value": "warangal"}
+- chilling in [Kakinada]{"entity": "place", "value": "kakinada"}
+- i want to eat out, let me know some good options in the city of [Bhavnagar]{"entity": "place", "value": "bhavnagar"}
+- I'm searching for some food in [ernakulam]{"entity": "place", "value": "kochi"}
+- my place is [Gaziabad]{"entity": "place", "value": "ghaziabad"}
+- oh sorry, [bhubaneswar](place)
+- please help me to find restaurants in [Baroda]{"entity": "place", "value": "vadodara"}
+- my place is [erod]{"entity": "place", "value": "erode"}
+- chilling in [Madura]{"entity": "place", "value": "madurai"}
+- going to be in [hubli]{"entity": "place", "value": "hubli-dharwad"}
+- i want to eat out, let me know some good options in the city of [moradbad]{"entity": "place", "value": "moradabad"}
+- Am in [Gaziabad]{"entity": "place", "value": "ghaziabad"}, wish if you could help me with hotel suggestions
+- the city of [Rajahmundry]{"entity": "place", "value": "rajahmundry"}
+- Im in [Nandigrama]{"entity": "place", "value": "nanded"}
+- Am in [pudducherry]{"entity": "place", "value": "pondicherry"}, wish if you could help me with hotel suggestions
+- i want to eat out, let me know some good options in the city of [jabalpur](place)
+- From [Dehradun]{"entity": "place", "value": "dehradun"}
+- From [gwalior](place)
+- Please find me a cafe in [steel city]{"entity": "place", "value": "bokaro steel city"}
+- find me a restaurant in [coimbator]{"entity": "place", "value": "coimbatore"}
+- From [hamirpur](place) Is there any good place to eat out?
+- From [Jodpur]{"entity": "place", "value": "jodhpur"}
+- oh sorry, [Kurnool]{"entity": "place", "value": "kurnool"}
+- [Trichy]{"entity": "place", "value": "tiruchirappalli"}
+- my place is [Cannanore]{"entity": "place", "value": "kannur"}
+- please help me to find restaurants in [kakinada](place)
+- the city of [Vadodara]{"entity": "place", "value": "vadodara"}
+- find me a restaurant in [Noida]{"entity": "place", "value": "noida"}
+- Am looking for a quite place in [Belgaum]{"entity": "place", "value": "belgaum"} to have food
+- going to be in [vadodara](place)
+- in [Aligarh]{"entity": "place", "value": "aligarh"} is there any takeaway options
+- From [nagpur](place)
+- Will u pls get me some top-class restraurants in [kattak]{"entity": "place", "value": "cuttack"}
+- Searching for a dining spot in [gurgaon](place)
+- i want to eat out, let me know some good options in the city of [Malappuram]{"entity": "place", "value": "malappuram"}
+- Am from [hubli-dharwad](place), Would like to get a list of recommended hotels for lunch
+- Suggest me a restaurant in [Jamshadpur]{"entity": "place", "value": "jamshedpur"} please
+- going to be in [Coimbatore]{"entity": "place", "value": "coimbatore"}
+- [jalandhar](place)
+- Seraching for restaurants in [jansi]{"entity": "place", "value": "jhansi"}
+- find me a restaurant in [jhansi](place)
+- Suggest me a restaurant in [Kolhapur]{"entity": "place", "value": "kolhapur"} please
+- I'm searching for some food in [Ujjain]{"entity": "place", "value": "ujjain"}
+- please help me to find restaurants in [vizag]{"entity": "place", "value": "visakhapatnam"}
+- chilling in [Luknow]{"entity": "place", "value": "lucknow"}
+- going to be in [bhiwandi](place)
+- Am looking for a quite place in [steel city]{"entity": "place", "value": "bokaro steel city"} to have food
+- i want to eat out, let me know some good options in the city of [firozbad]{"entity": "place", "value": "firozabad"}
+- Im in [Bhiwandi]{"entity": "place", "value": "bhiwandi"}
+- i'm looking for a place to eat in [moradabad](place)
+- oh sorry, [purulia](place)
+- please help me to find restaurants in [Bareilly]{"entity": "place", "value": "bareilly"}
+- Will u pls get me some top-class restraurants in [Nellor]{"entity": "place", "value": "nellore"}
+- find me a restaurant in [Trichy]{"entity": "place", "value": "tiruchirappalli"}
+- in [kattak]{"entity": "place", "value": "cuttack"} is there any takeaway options
+- the city of [Shimlah]{"entity": "place", "value": "shimla"}
+- Am from [bilaspur](place), Would like to get a list of recommended hotels for lunch
+- in [Soorat]{"entity": "place", "value": "surat"} is there any takeaway options
+- Any eating suggestion in [Moradabad]{"entity": "place", "value": "moradabad"}
+- find me a restaurant in [meerut](place)
+- From [mysur]{"entity": "place", "value": "mysore"}
+- chilling in [Guwahati]{"entity": "place", "value": "guwahati"}
+- Seraching for restaurants in [rajahmundry](place)
+- Suggest me a restaurant in [Ajmer]{"entity": "place", "value": "ajmer"} please
+- please help me to find restaurants in [Durgapur]{"entity": "place", "value": "durgapur"}
+- I'm searching for some food in [Asnsol]{"entity": "place", "value": "asansol"}
+- Searching for a dining spot in [Agra]{"entity": "place", "value": "agra"}
+- oh sorry, [Rajahmundry]{"entity": "place", "value": "rajahmundry"}
+- Am in [Belgaum]{"entity": "place", "value": "belgaum"}, wish if you could help me with hotel suggestions
+- Any eating suggestion in [Avantika]{"entity": "place", "value": "ujjain"}
+- Im in [Chandigar]{"entity": "place", "value": "chandigarh"}
+- Suggest me a restaurant in [virar]{"entity": "place", "value": "Vasai-Virar City"} please
+- i want to eat out, let me know some good options in the city of [Meerat]{"entity": "place", "value": "meerut"}
+- oh sorry, [thiruvananthapuram](place)
+- let's say, [sangli](place)
+- Suggest me a restaurant in [jalandhar](place) please
+- oh sorry, [Virar]{"entity": "place", "value": "Vasai-Virar City"}
+- Searching for a dining spot in [Selam]{"entity": "place", "value": "salem"}
+- i'm looking for a place to eat in [guwahati](place)
+- From [Gurgaon]{"entity": "place", "value": "gurgaon"}
+- Am from [Dharwad]{"entity": "place", "value": "hubli-dharwad"}, Would like to get a list of recommended hotels for lunch
+- Suggest me a restaurant in [Varanasi]{"entity": "place", "value": "varanasi"} please
+- chilling in [jammu](place)
+- Suggest me a restaurant in [vadodara](place) please
+- Im in [hubli]{"entity": "place", "value": "hubli-dharwad"}
+- in [Belgaum]{"entity": "place", "value": "belgaum"} is there any takeaway options
+- Am from [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"}, Would like to get a list of recommended hotels for lunch
+- Suggest me a restaurant in [dehradun](place) please
+- Any eating suggestion in [thiruvananthapuram](place)
+- Seraching for restaurants in [Warangal]{"entity": "place", "value": "warangal"}
+- my place is [Vasai-Virar City](place)
+- going to be in [nashik](place)
+- in [Jodpur]{"entity": "place", "value": "jodhpur"} is there any takeaway options
+- my place is [trissur]{"entity": "place", "value": "thrissur"}
+- Am from [Gova]{"entity": "place", "value": "goa"}, Would like to get a list of recommended hotels for lunch
+- Seraching for restaurants in [ujjain](place)
+- chilling in [amritsar](place)
+- going to be in [madurai](place)
+- Searching for a dining spot in [Nashikh]{"entity": "place", "value": "nashik"}
+- Searching for a dining spot in [Erode]{"entity": "place", "value": "erode"}
+- Am looking for a quite place in [aurangabad](place) to have food
+- the city of [amaravati]{"entity": "place", "value": "amravati"}
+- I'm searching for some food in [cuttak]{"entity": "place", "value": "cuttack"}
+- [Jodhpur]{"entity": "place", "value": "jodhpur"}
+- Please find me a cafe in [Dehradun]{"entity": "place", "value": "dehradun"}
+- From [Vadodhara]{"entity": "place", "value": "vadodara"}
+- please help me to find restaurants in [rajamundri]{"entity": "place", "value": "rajahmundry"}
+- Am in [Eerode]{"entity": "place", "value": "erode"}, wish if you could help me with hotel suggestions
+- I'm searching for some food in [Vadodara]{"entity": "place", "value": "vadodara"}
+- oh sorry, [Bhanaras]{"entity": "place", "value": "varanasi"}
+- From [thiruchirapali]{"entity": "place", "value": "tiruchirappalli"} Is there any good place to eat out?
+- my place is [bijapur](place)
+- Seraching for restaurants in [Rajahmandry]{"entity": "place", "value": "rajahmundry"}
+- From [mathura](place)
+- find me a restaurant in [Goa]{"entity": "place", "value": "goa"}
+- I'm searching for some food in [Calicut]{"entity": "place", "value": "kozhikode"}
+- Will u pls get me some top-class restraurants in [chandigad]{"entity": "place", "value": "chandigarh"}
+- let's say, [gurgaon](place)
+- I'm hungry in [bareilly](place)
+- Am in [kozhikode](place), wish if you could help me with hotel suggestions
+- in [faridabad](place) is there any takeaway options
+- please help me to find restaurants in [Belagavi]{"entity": "place", "value": "belgaum"}
+- Searching for a dining spot in [Simla]{"entity": "place", "value": "shimla"}
+- Am from [bikaner](place), Would like to get a list of recommended hotels for lunch
+- chilling in [aligarh](place)
+- i want to eat out, let me know some good options in the city of [bikner]{"entity": "place", "value": "bikaner"}
+- Searching for a dining spot in [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}
+- Am from [coimbatur]{"entity": "place", "value": "coimbatore"}, Would like to get a list of recommended hotels for lunch
+- let's say, [kattak]{"entity": "place", "value": "cuttack"}
+- Suggest me a restaurant in [Prayag]{"entity": "place", "value": "prayagraj"} please
+- I'm searching for some food in [Bilaspur]{"entity": "place", "value": "bilaspur"}
+- the city of [Simla]{"entity": "place", "value": "shimla"}
+- my place is [ranchi](place)
+- in [bhavnagar](place) is there any takeaway options
+- let's say, [Soorat]{"entity": "place", "value": "surat"}
+- i'm looking for a place to eat in [Jaipur]{"entity": "place", "value": "jaipur"}
+- I'm searching for some food in [Guntur]{"entity": "place", "value": "guntur"}
+- the city of [Barelly]{"entity": "place", "value": "bareilly"}
+- Am looking for a quite place in [purulia](place) to have food
+- oh sorry, [Vijayawada]{"entity": "place", "value": "vijayawada"}
+- Im in [Asnsol]{"entity": "place", "value": "asansol"}
+- I'm hungry in [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"}
+- my place is [Bikaner]{"entity": "place", "value": "bikaner"}
+- please help me to find restaurants in [kattak]{"entity": "place", "value": "cuttack"}
+- my place is [Thiruchirapalli]{"entity": "place", "value": "tiruchirappalli"}
+- find me a restaurant in [bhiwandi](place)
+- Seraching for restaurants in [Rajkot]{"entity": "place", "value": "rajkot"}
+- From [selum]{"entity": "place", "value": "salem"} Is there any good place to eat out?
+- Any eating suggestion in [amaravati]{"entity": "place", "value": "amravati"}
+- Im in [Coimbatore]{"entity": "place", "value": "coimbatore"}
+- my place is [varanasi](place)
+- going to be in [moradbad]{"entity": "place", "value": "moradabad"}
+- my place is [Mangaluru]{"entity": "place", "value": "mangalore"}
+- Suggest me a restaurant in [bokaro]{"entity": "place", "value": "bokaro steel city"} please
+- in [Indore]{"entity": "place", "value": "indore"} is there any takeaway options
+- Suggest me a restaurant in [Shimlah]{"entity": "place", "value": "shimla"} please
+- Am looking for a quite place in [aligarh](place) to have food
+- the city of [dehradoon]{"entity": "place", "value": "dehradun"}
+- the city of [kakinada](place)
+- Am from [Thiruchirapalli]{"entity": "place", "value": "tiruchirappalli"}, Would like to get a list of recommended hotels for lunch
+- Am looking for a quite place in [Simla]{"entity": "place", "value": "shimla"} to have food
+- Seraching for restaurants in [nasikh]{"entity": "place", "value": "nashik"}
+- the city of [Puruli]{"entity": "place", "value": "purulia"}
+- Am in [Bhuvneswar]{"entity": "place", "value": "bhubaneswar"}, wish if you could help me with hotel suggestions
+- [salem](place)
+- find me a restaurant in [guntur](place)
+- Please find me a cafe in [Tiruppur]{"entity": "place", "value": "tiruppur"}
+- I'm hungry in [Kochi]{"entity": "place", "value": "kochi"}
+- in [amritsar](place) is there any takeaway options
+- going to be in [Nagpoor]{"entity": "place", "value": "nagpur"}
+- [erode](place)
+- Any eating suggestion in [kannur](place)
+- i'm looking for a place to eat in [Gurgaon]{"entity": "place", "value": "gurgaon"}
+- i'm looking for a place to eat in [raipur](place)
+- chilling in [bhanarash]{"entity": "place", "value": "varanasi"}
+- From [goa](place) Is there any good place to eat out?
+- oh sorry, [Asansol]{"entity": "place", "value": "asansol"}
+- the city of [madurai](place)
+- going to be in [Asansol]{"entity": "place", "value": "asansol"}
+- Suggest me a restaurant in [warangal](place) please
+- Suggest me a restaurant in [indor]{"entity": "place", "value": "indore"} please
+- I'm searching for some food in [bijapur](place)
+- Seraching for restaurants in [Selam]{"entity": "place", "value": "salem"}
+- I'm searching for some food in [pondicherry](place)
+- my place is [mangalore](place)
+- Am in [Bhanarash]{"entity": "place", "value": "varanasi"}, wish if you could help me with hotel suggestions
+- my place is [nanded](place)
+- in [Kanpur]{"entity": "place", "value": "kanpur"} is there any takeaway options
+- Suggest me a restaurant in [Gwalior]{"entity": "place", "value": "gwalior"} please
+- From [Bhivandi]{"entity": "place", "value": "bhiwandi"}
+- [coimbator]{"entity": "place", "value": "coimbatore"}
+- From [Kalburgi]{"entity": "place", "value": "gulbarga"}
+- Any eating suggestion in [Eerode]{"entity": "place", "value": "erode"}
+- let's say, [Thirupur]{"entity": "place", "value": "tiruppur"}
+- I'm searching for some food in [indor]{"entity": "place", "value": "indore"}
+- Im in [nellore](place)
+- Will u pls get me some top-class restraurants in [Jabalpur]{"entity": "place", "value": "jabalpur"}
+- in [Avantikapuri]{"entity": "place", "value": "ujjain"} is there any takeaway options
+- [rourkela](place)
+- Please find me a cafe in [Gaziabad]{"entity": "place", "value": "ghaziabad"}
+- let's say, [Barelly]{"entity": "place", "value": "bareilly"}
+- chilling in [Rourkela]{"entity": "place", "value": "rourkela"}
+- Im in [Raanchi]{"entity": "place", "value": "ranchi"}
+- From [nellore](place)
+- Please find me a cafe in [Jabalpur]{"entity": "place", "value": "jabalpur"}
+- I'm searching for some food in [trissur]{"entity": "place", "value": "thrissur"}
+- let's say, [vijayawada](place)
+- I'm searching for some food in [Vellore]{"entity": "place", "value": "vellore"}
+- i'm looking for a place to eat in [aurangbad]{"entity": "place", "value": "aurangabad"}
+- Please find me a cafe in [mangalore](place)
+- oh sorry, [meerut](place)
+- please help me to find restaurants in [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"}
+- Seraching for restaurants in [Guntur]{"entity": "place", "value": "guntur"}
+- From [Gauhati]{"entity": "place", "value": "guwahati"} Is there any good place to eat out?
+- find me a restaurant in [nanded](place)
+- find me a restaurant in [Ludiana]{"entity": "place", "value": "ludhiana"}
+- chilling in [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- Any eating suggestion in [tirupur]{"entity": "place", "value": "tiruppur"}
+- going to be in [Belgaum]{"entity": "place", "value": "belgaum"}
+- in [Bhopal]{"entity": "place", "value": "bhopal"} is there any takeaway options
+- please help me to find restaurants in [gwalior](place)
+- in [Aagra]{"entity": "place", "value": "agra"} is there any takeaway options
+- [Prayag]{"entity": "place", "value": "prayagraj"}
+- my place is [bikner]{"entity": "place", "value": "bikaner"}
+- in [Ujjain]{"entity": "place", "value": "ujjain"} is there any takeaway options
+- From [Indore]{"entity": "place", "value": "indore"} Is there any good place to eat out?
+- Suggest me a restaurant in [sanghli]{"entity": "place", "value": "sangli"} please
+- Searching for a dining spot in [ernakulam]{"entity": "place", "value": "kochi"}
+- in [chandigarh](place) is there any takeaway options
+- oh sorry, [goa](place)
+- [Bhivandi]{"entity": "place", "value": "bhiwandi"}
+- please help me to find restaurants in [nelluru]{"entity": "place", "value": "nellore"}
+- Will u pls get me some top-class restraurants in [meerut](place)
+- Seraching for restaurants in [jodhpur](place)
+- From [Gova]{"entity": "place", "value": "goa"}
+- [cuttack](place)
+- oh sorry, [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"}
+- Any eating suggestion in [bikaner](place)
+- Please find me a cafe in [Coimbatore]{"entity": "place", "value": "coimbatore"}
+- let's say, [Bilaspur]{"entity": "place", "value": "bilaspur"}
+- From [Kanpur]{"entity": "place", "value": "kanpur"} Is there any good place to eat out?
+- Suggest me a restaurant in [moradbad]{"entity": "place", "value": "moradabad"} please
+- in [Pondi]{"entity": "place", "value": "pondicherry"} is there any takeaway options
+- Am looking for a quite place in [belgam]{"entity": "place", "value": "belgaum"} to have food
+- i'm looking for a place to eat in [firozabad](place)
+- oh sorry, [Kochi]{"entity": "place", "value": "kochi"}
+- Will u pls get me some top-class restraurants in [Soorath]{"entity": "place", "value": "surat"}
+- I'm searching for some food in [Patna]{"entity": "place", "value": "patna"}
+- I'm searching for some food in [hubli]{"entity": "place", "value": "hubli-dharwad"}
+- chilling in [Amravati]{"entity": "place", "value": "amravati"}
+- in [jaipur](place) is there any takeaway options
+- Please find me a cafe in [srinagar](place)
+- Any eating suggestion in [gvalior]{"entity": "place", "value": "gwalior"}
+- Am looking for a quite place in [Bhuvneswar]{"entity": "place", "value": "bhubaneswar"} to have food
+- find me a restaurant in [Raipur]{"entity": "place", "value": "raipur"}
+- in [Pudhuchery]{"entity": "place", "value": "pondicherry"} is there any takeaway options
+- in [Gurgaon]{"entity": "place", "value": "gurgaon"} is there any takeaway options
+- chilling in [Nandigrama]{"entity": "place", "value": "nanded"}
+- chilling in [Vellore]{"entity": "place", "value": "vellore"}
+- Im in [Kakkinada]{"entity": "place", "value": "kakinada"}
+- Will u pls get me some top-class restraurants in [Cuttack]{"entity": "place", "value": "cuttack"}
+- From [Meerut]{"entity": "place", "value": "meerut"}
+- Im in [bhubaneswar](place)
+- the city of [amravati](place)
+- let's say, [Vizag]{"entity": "place", "value": "visakhapatnam"}
+- [Nashik]{"entity": "place", "value": "nashik"}
+- going to be in [vashai]{"entity": "place", "value": "Vasai-Virar City"}
+- oh sorry, [Chandigar]{"entity": "place", "value": "chandigarh"}
+- Am looking for a quite place in [amravati](place) to have food
+- Seraching for restaurants in [mathura](place)
+- going to be in [ghaziabad](place)
+- Seraching for restaurants in [Bhavnagar]{"entity": "place", "value": "bhavnagar"}
+- I'm searching for some food in [gwalior](place)
+- Im in [aligad]{"entity": "place", "value": "aligarh"}
+- please help me to find restaurants in [ghasiabad]{"entity": "place", "value": "ghaziabad"}
+- Im in [Kollam]{"entity": "place", "value": "kollam"}
+- Im in [mangalore](place)
+- in [Thiruchirapalli]{"entity": "place", "value": "tiruchirappalli"} is there any takeaway options
+- From [Thrissur]{"entity": "place", "value": "thrissur"} Is there any good place to eat out?
+- I'm hungry in [warangal](place)
+- i'm looking for a place to eat in [Mangalore]{"entity": "place", "value": "mangalore"}
+- let's say, [Mangalore]{"entity": "place", "value": "mangalore"}
+- [Cuttack]{"entity": "place", "value": "cuttack"}
+- Suggest me a restaurant in [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"} please
+- From [Surat]{"entity": "place", "value": "surat"} Is there any good place to eat out?
+- my place is [Deradun]{"entity": "place", "value": "dehradun"}
+- I'm searching for some food in [noida](place)
+- I'm hungry in [bhubaneswar](place)
+- Seraching for restaurants in [vadodara](place)
+- From [ajmer](place) Is there any good place to eat out?
+- [dehradun](place)
+- i want to eat out, let me know some good options in the city of [Cattack]{"entity": "place", "value": "cuttack"}
+- going to be in [Lucknow]{"entity": "place", "value": "lucknow"}
+- Am in [Baroda]{"entity": "place", "value": "vadodara"}, wish if you could help me with hotel suggestions
+- Please find me a cafe in [virar]{"entity": "place", "value": "Vasai-Virar City"}
+- oh sorry, [Guntur]{"entity": "place", "value": "guntur"}
+- I'm searching for some food in [Dharwad]{"entity": "place", "value": "hubli-dharwad"}
+- Seraching for restaurants in [Vasai-Virar City](place)
+- Will u pls get me some top-class restraurants in [Gaziabad]{"entity": "place", "value": "ghaziabad"}
+- let's say, [Nandigrama]{"entity": "place", "value": "nanded"}
+- i'm looking for a place to eat in [dehradun](place)
+- let's say, [aligad]{"entity": "place", "value": "aligarh"}
+- Searching for a dining spot in [gorakhpur](place)
+- find me a restaurant in [mathura](place)
+- chilling in [goa](place)
+- Am in [Kochi]{"entity": "place", "value": "kochi"}, wish if you could help me with hotel suggestions
+- chilling in [coimbatur]{"entity": "place", "value": "coimbatore"}
+- Any eating suggestion in [Bilaspur]{"entity": "place", "value": "bilaspur"}
+- Am looking for a quite place in [Kolapur]{"entity": "place", "value": "kolhapur"} to have food
+- Will u pls get me some top-class restraurants in [Jalandhar]{"entity": "place", "value": "jalandhar"}
+- i want to eat out, let me know some good options in the city of [Jhansi]{"entity": "place", "value": "jhansi"}
+- Im in [Bhilai]{"entity": "place", "value": "bhilai"}
+- Am looking for a quite place in [gulbarga](place) to have food
+- i want to eat out, let me know some good options in the city of [jaipur](place)
+- my place is [pondicherry](place)
+- [Solapur]{"entity": "place", "value": "solapur"}
+- please help me to find restaurants in [Nasikh]{"entity": "place", "value": "nashik"}
+- I'm searching for some food in [Asansol]{"entity": "place", "value": "asansol"}
+- I'm searching for some food in [kolam]{"entity": "place", "value": "kollam"}
+- going to be in [Matura]{"entity": "place", "value": "mathura"}
+- going to be in [Dhanbad]{"entity": "place", "value": "dhanbad"}
+- my place is [kolam]{"entity": "place", "value": "kollam"}
+- i'm looking for a place to eat in [Amravati]{"entity": "place", "value": "amravati"}
+- Will u pls get me some top-class restraurants in [shimla](place)
+- i want to eat out, let me know some good options in the city of [trichi]{"entity": "place", "value": "tiruchirappalli"}
+- Am from [Sangli]{"entity": "place", "value": "sangli"}, Would like to get a list of recommended hotels for lunch
+- I'm searching for some food in [Barelly]{"entity": "place", "value": "bareilly"}
+- chilling in [Guntur]{"entity": "place", "value": "guntur"}
+- From [Kannur]{"entity": "place", "value": "kannur"}
+- my place is [faridabd]{"entity": "place", "value": "faridabad"}
+- Any eating suggestion in [rourkela](place)
+- From [meerut](place) Is there any good place to eat out?
+- find me a restaurant in [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- going to be in [Virar]{"entity": "place", "value": "Vasai-Virar City"}
+- oh sorry, [Erode]{"entity": "place", "value": "erode"}
+- [Kannur]{"entity": "place", "value": "kannur"}
+- chilling in [rourkela](place)
+- From [Aurangabad]{"entity": "place", "value": "aurangabad"} Is there any good place to eat out?
+- Am looking for a quite place in [Mangalore]{"entity": "place", "value": "mangalore"} to have food
+- oh sorry, [bhiwandi](place)
+- chilling in [raipur](place)
+- i'm looking for a place to eat in [Eerode]{"entity": "place", "value": "erode"}
+- the city of [Gaziabad]{"entity": "place", "value": "ghaziabad"}
+- Suggest me a restaurant in [banaras]{"entity": "place", "value": "varanasi"} please
+- in [Durgapur]{"entity": "place", "value": "durgapur"} is there any takeaway options
+- Please find me a cafe in [Nandigrama]{"entity": "place", "value": "nanded"}
+- Am from [firozbad]{"entity": "place", "value": "firozabad"}, Would like to get a list of recommended hotels for lunch
+- Please find me a cafe in [dehradoon]{"entity": "place", "value": "dehradun"}
+- Am from [madurai](place), Would like to get a list of recommended hotels for lunch
+- find me a restaurant in [Bilaspur]{"entity": "place", "value": "bilaspur"}
+- Am looking for a quite place in [Hamirpur]{"entity": "place", "value": "hamirpur"} to have food
+- let's say, [belgaum](place)
+- Im in [nasikh]{"entity": "place", "value": "nashik"}
+- i'm looking for a place to eat in [nasikh]{"entity": "place", "value": "nashik"}
+- find me a restaurant in [bhubneswar]{"entity": "place", "value": "bhubaneswar"}
+- i want to eat out, let me know some good options in the city of [jamnagar](place)
+- my place is [warangal](place)
+- I'm hungry in [Aurangabad]{"entity": "place", "value": "aurangabad"}
+- find me a restaurant in [erode](place)
+- From [jansi]{"entity": "place", "value": "jhansi"}
+- Suggest me a restaurant in [Bareilly]{"entity": "place", "value": "bareilly"} please
+- find me a restaurant in [hamirpur](place)
+- Will u pls get me some top-class restraurants in [thrissur](place)
+- Seraching for restaurants in [ghasiabad]{"entity": "place", "value": "ghaziabad"}
+- let's say, [bhavanagar]{"entity": "place", "value": "bhavnagar"}
+- please help me to find restaurants in [nagpur](place)
+- please help me to find restaurants in [Mysor]{"entity": "place", "value": "mysore"}
+- [firozbad]{"entity": "place", "value": "firozabad"}
+- in [trissur]{"entity": "place", "value": "thrissur"} is there any takeaway options
+- Will u pls get me some top-class restraurants in [Amrutsar]{"entity": "place", "value": "amritsar"}
+- Searching for a dining spot in [noida](place)
+- i'm looking for a place to eat in [Sangli]{"entity": "place", "value": "sangli"}
+- From [Meerat]{"entity": "place", "value": "meerut"} Is there any good place to eat out?
+- Seraching for restaurants in [steel city]{"entity": "place", "value": "bokaro steel city"}
+- Please find me a cafe in [patna](place)
+- Will u pls get me some top-class restraurants in [rajahmundry](place)
+- my place is [asansol](place)
+- in [lucknow](place) is there any takeaway options
+- From [selum]{"entity": "place", "value": "salem"}
+- i want to eat out, let me know some good options in the city of [kollam](place)
+- chilling in [asansol](place)
+- i want to eat out, let me know some good options in the city of [raipur](place)
+- please help me to find restaurants in [malappuram](place)
+- I'm hungry in [rajkot](place)
+- [ajmer](place)
+- I'm hungry in [srinagar](place)
+- Seraching for restaurants in [agra](place)
+- chilling in [Meerut]{"entity": "place", "value": "meerut"}
+- in [Trichy]{"entity": "place", "value": "tiruchirappalli"} is there any takeaway options
+- the city of [Kochi]{"entity": "place", "value": "kochi"}
+- the city of [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- Any eating suggestion in [Bhivandi]{"entity": "place", "value": "bhiwandi"}
+- Seraching for restaurants in [rajamundri]{"entity": "place", "value": "rajahmundry"}
+- From [Belagavi]{"entity": "place", "value": "belgaum"}
+- I'm hungry in [Matura]{"entity": "place", "value": "mathura"}
+- going to be in [Solapur]{"entity": "place", "value": "solapur"}
+- Seraching for restaurants in [bhubaneswar](place)
+- my place is [steel city]{"entity": "place", "value": "bokaro steel city"}
+- Im in [virar]{"entity": "place", "value": "Vasai-Virar City"}
+- Will u pls get me some top-class restraurants in [Kannur]{"entity": "place", "value": "kannur"}
+- let's say, [belgam]{"entity": "place", "value": "belgaum"}
+- From [Prayag]{"entity": "place", "value": "prayagraj"}
+- oh sorry, [Gauhati]{"entity": "place", "value": "guwahati"}
+- please help me to find restaurants in [faridbad]{"entity": "place", "value": "faridabad"}
+- looking for a [chinese](cuisine) restaurant in [ahmedabad](place)
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in Aahmedabad](place:ahmedabad)
+- search me some [chines]{"entity": "cuisine", "value": "chinese"} cafe in the city of [Ahamedabad]{"entity": "place", "value": "ahmedabad"}
+- which [china]{"entity": "cuisine", "value": "chinese"} buffets are there in [ahmmedabad]{"entity": "place", "value": "ahmedabad"}?
+- can you book a table for 4 people in [Ahmedabad]{"entity": "place", "value": "ahmedabad"} which serves cuisine [chinis]{"entity": "cuisine", "value": "chinese"}?
+- get me [chines]{"entity": "cuisine", "value": "chinese"} options in [ahmedabd]{"entity": "place", "value": "ahmedabad"}
+- Suggest me [Chinese]{"entity": "cuisine", "value": "chinese"} food, Im from [ahmedabad](place)
+- Recommend [chinese](cuisine) spots in the city of [ahmedabad](place)
+- Get me list of [Chinese]{"entity": "cuisine", "value": "chinese"} restro in the city of [Ahmedabad]{"entity": "place", "value": "ahmedabad"}
+- [chinese](cuisine) options in [ahmedabad](place)
+- looking for a [chinese](cuisine) restaurant in [Bangalore]{"entity": "place", "value": "bangalore"}
+- find [chinese](cuisine) food in [bangalore](place)
+- search me some [chinese](cuisine) cafe in the city of [Bengaluru]{"entity": "place", "value": "bangalore"}
+- which [chinise]{"entity": "cuisine", "value": "chinese"} buffets are there in [Banglore]{"entity": "place", "value": "bangalore"}?
+- can you book a table for 4 people in [bangalore](place)  which serves cuisine [chinese](cuisine)?
+- get me [chines]{"entity": "cuisine", "value": "chinese"} options in [bangaluru]{"entity": "place", "value": "bangalore"}
+- Suggest me [Chinese]{"entity": "cuisine", "value": "chinese"} food, Im from [bangalor]{"entity": "place", "value": "bangalore"}
+- Recommend [chinese](cuisine) spots in the city of [bangalore](place)
+- Get me list of [chinese](cuisine) restro in the city of [bangalore](place)
+- [chinese](cuisine) options in [bangalore](place)
+- looking for a [chinese](cuisine) restaurant in [chennai](place)
+- find [chinese](cuisine) food in [Chennai]{"entity": "place", "value": "chennai"}
+- search me some [Chines]{"entity": "cuisine", "value": "chinese"} cafe in the city of [chennai](place)
+- which [chinese](cuisine) buffets are there in [Madras]{"entity": "place", "value": "chennai"}?
+- can you book a table for 4 people in [Chenai]{"entity": "place", "value": "chennai"} which serves cuisine [Chinese]{"entity": "cuisine", "value": "chinese"} ?
+- get me [chinese](cuisine) options in [chennai](place)
+- Suggest me [chinese](cuisine) food, Im from [chennai](place)
+- [chinese](cuisine) options in [chennai](place)
+- looking for a [chinese](cuisine) restaurant in [delhi](place)
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in [Delhi]{"entity": "place", "value": "delhi"}
+- search me some [chinese](cuisine) cafe in the city of [New delhi]{"entity": "place", "value": "delhi"}
+- which [chinese](cuisine) buffets are there in [Dilli]{"entity": "place", "value": "delhi"}?
+- can you book a table for 4 people in [delhi](place) which serves cuisine [chinese](cuisine) ?
+- get me [china]{"entity": "cuisine", "value": "chinese"} options in [New Delhi]{"entity": "place", "value": "delhi"}
+- Suggest me [chinese](cuisine) food, Im from [delhi](place)
+- Recommend [chinis]{"entity": "cuisine", "value": "chinese"} spots in the city of [Dili]{"entity": "place", "value": "delhi"}
+- Get me list of [chinese](cuisine) restro in the city of [delhi](place)
+- find [chinese](cuisine) food in [hyderabad](place)
+- search me some [Chinese]{"entity": "cuisine", "value": "chinese"} cafe in the city of [Hyderabad]{"entity": "place", "value": "hyderabad"}
+- which [chines]{"entity": "cuisine", "value": "chinese"} buffets are there in [hydrabad]{"entity": "place", "value": "hyderabad"}?
+- Suggest me [chinese](cuisine) food, Im from [hyderbad]{"entity": "place", "value": "hyderabad"}
+- Recommend [chinese](cuisine) spots in the city of [Hydrabad]{"entity": "place", "value": "hyderabad"}
+- Get me list of [chinese](cuisine) restro in the city of [hyderabad](place)
+- [chinese](cuisine) options in [hyderabad](place)
+- looking for a [chinese](cuisine) restaurant in [kolkata](place)
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in [Kolkata]{"entity": "place", "value": "kolkata"}
+- search me some [chinese](cuisine) cafe in the city of [kolkatta]{"entity": "place", "value": "kolkata"}
+- which [chinese](cuisine) buffets are there in [kolkatha]{"entity": "place", "value": "kolkata"}?
+- Recommend [chinese](cuisine) spots in the city of [cucutta]{"entity": "place", "value": "kolkata"}
+- Get me list of [Chinese]{"entity": "cuisine", "value": "chinese"} restro in the city of [Culcutta]{"entity": "place", "value": "kolkata"}
+- [chinese](cuisine) options in [kolkata](place)
+- looking for a [chinese](cuisine) restaurant in [mumbai](place)
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in [Mumbai]{"entity": "place", "value": "mumbai"}
+- search me some [chinese](cuisine) cafe in the city of [mumbai](place)
+- Get me list of [chinese](cuisine) restro in the city of [Bombay]{"entity": "place", "value": "mumbai"}
+- [Chinese]{"entity": "cuisine", "value": "chinese"} options in [mumbai](place)
+- can you book a table for 4 people in [pune](place) which serves cuisine [chinese](cuisine) ?
+- get me [Chinese]{"entity": "cuisine", "value": "chinese"} options in [Pune]{"entity": "place", "value": "pune"}
+- Suggest me [chines]{"entity": "cuisine", "value": "chinese"} food, Im from [pune](place)
+- Recommend [china]{"entity": "cuisine", "value": "chinese"} spots in the city of [Puna]{"entity": "place", "value": "pune"}
+- looking for a [chinese](cuisine) restaurant in [agra](place)
+- get me [Chinese]{"entity": "cuisine", "value": "chinese"} options in [agra](place)
+- Suggest me [chinese](cuisine) food, Im from [Agra]{"entity": "place", "value": "agra"}
+- [chinise]{"entity": "cuisine", "value": "chinese"} options in [Agra]{"entity": "place", "value": "agra"}
+- looking for a [chinese](cuisine) restaurant in [ajmer](place)
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in [Ajmer]{"entity": "place", "value": "ajmer"}
+- search me some [chinese](cuisine) cafe in the city of [ajmer](place)
+- which [Chinis]{"entity": "cuisine", "value": "chinese"} buffets are there in [ajmir]{"entity": "place", "value": "ajmer"}?
+- can you book a table for 4 people in [Ajmir]{"entity": "place", "value": "ajmer"} which serves [chinese](cuisine) cuisine?
+- get me [chinese](cuisine) options in [ajmer](place)
+- Suggest me [Chinese]{"entity": "cuisine", "value": "chinese"} food, Im from [ajmer](place)
+- looking for a [chinese](cuisine) restaurant in [aligarh](place)
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in [Aligarh]{"entity": "place", "value": "aligarh"}
+- can you book a table for 4 people in [aligarh](place) which serves [chinese](cuisine) cuisine?
+- get me [chinese](cuisine) options in [aligad]{"entity": "place", "value": "aligarh"}
+- Suggest me [chinese](cuisine) food, Im from [aligar]{"entity": "place", "value": "aligarh"}
+- Recommend [Chinese]{"entity": "cuisine", "value": "chinese"} spots in the city of [aligar]{"entity": "place", "value": "aligarh"}
+- looking for a [chinese](cuisine) restaurant in [Amravati]{"entity": "place", "value": "amravati"}
+- which [Chinese]{"entity": "cuisine", "value": "chinese"} buffets are there in [amravati](place)?
+- can you book a table for 4 people in [amravati](place) which serves [chinise]{"entity": "cuisine", "value": "chinese"} cuisine?
+- get me [chinese](cuisine) options in [amravati](place)
+- Get me list of [chinese](cuisine) restro in the city of [Amravati]{"entity": "place", "value": "amravati"}
+- looking for a [chinese](cuisine) restaurant in [amritsar](place)
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in [Amritsar]{"entity": "place", "value": "amritsar"}
+- Get me list of [chinese](cuisine) restro in the city of [amrutsar]{"entity": "place", "value": "amritsar"}
+- [chinese](cuisine) options in [Amrutsar]{"entity": "place", "value": "amritsar"}
+- get me [chinese](cuisine) options in [Asansol]{"entity": "place", "value": "asansol"}
+- Suggest me [Chinese]{"entity": "cuisine", "value": "chinese"} food, Im from [asansol](place)
+- Recommend [chinese](cuisine) spots in the city of [Asnsol]{"entity": "place", "value": "asansol"}
+- Get me list of [chinese](cuisine) restro in the city of [asansol](place)
+- looking for a [chinese](cuisine) restaurant in [Aurangabad]{"entity": "place", "value": "aurangabad"}
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in [aurangabad](place)
+- search me some [china]{"entity": "cuisine", "value": "chinese"} cafe in the city of [aurangbad]{"entity": "place", "value": "aurangabad"}
+- get me [Chinese]{"entity": "cuisine", "value": "chinese"} options in [bareilly](place)
+- Suggest me [chinese](cuisine) food, Im from [Bareilly]{"entity": "place", "value": "bareilly"}
+- Recommend [chinese](cuisine) spots in the city of [Bareily]{"entity": "place", "value": "bareilly"}
+- Get me list of [chinese](cuisine) restro in the city of [bareilli]{"entity": "place", "value": "bareilly"}
+- [chineese]{"entity": "cuisine", "value": "chinese"} options in [bareilly](place)
+- looking for a [chinese](cuisine) restaurant in [belgaum](place)
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in [Belgaum]{"entity": "place", "value": "belgaum"}
+- search me some [chinese](cuisine) cafe in the city of [Belagavi]{"entity": "place", "value": "belgaum"}
+- Recommend [Chinese]{"entity": "cuisine", "value": "chinese"} spots in the city of [bhavnagar](place)
+- Get me list of [chinese](cuisine) restro in the city of [bhavnagar](place)
+- [chinese](cuisine) options in [bhavnagar](place)
+- search me some [chinese](cuisine) cafe in the city of [bhiwandi](place)
+- get me [Chinese]{"entity": "cuisine", "value": "chinese"} options in [Bhiwandi]{"entity": "place", "value": "bhiwandi"}
+- Suggest me [chinnese]{"entity": "cuisine", "value": "chinese"} food, Im from [bhiwandi](place)
+- Recommend [chinis]{"entity": "cuisine", "value": "chinese"} spots in the city of [bhivandi]{"entity": "place", "value": "bhiwandi"}
+- looking for a [chinese](cuisine) restaurant in [bhopal](place)
+- find [chinese](cuisine) food in [Bhopal]{"entity": "place", "value": "bhopal"}
+- search me some [Chinese]{"entity": "cuisine", "value": "chinese"} cafe in the city of [bhopal](place)
+- Get me list of [chinese](cuisine) restro in the city of [bhopl]{"entity": "place", "value": "bhopal"}
+- [chinese](cuisine) options in [Bopal]{"entity": "place", "value": "bhopal"}
+- looking for a [chinese](cuisine) restaurant in [bhubaneswar](place)
+- find [chinese](cuisine) food in [bhubaneswar](place)
+- search me some [chinese](cuisine) cafe in the city of [bhubaneswar](place)
+- Get me list of [Chinese]{"entity": "cuisine", "value": "chinese"} restro in the city of [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"}
+- [chinese](cuisine) options in [bhuvaneswar]{"entity": "place", "value": "bhubaneswar"}
+- looking for a [chinese](cuisine) restaurant in [bikaner](place)
+- find [chinese](cuisine) food in [bikaner](place)
+- which [Chinese]{"entity": "cuisine", "value": "chinese"} buffets are there in [Bikaner]{"entity": "place", "value": "bikaner"}?
+- can you book a table for 4 people in (place:bikaner) which serves [bikanir]{"entity": "place", "value": "bikaner"} [chinese](cuisine) cuisine?
+- looking for a [chinese](cuisine) restaurant in [bilaspur](place)
+- find [chinese](cuisine) food in [bilaspur](place)
+- search me some [chinese](cuisine) cafe in the city of [bilaspur](place)
+- get me [Chinese]{"entity": "cuisine", "value": "chinese"} options in [bokaro]{"entity": "place", "value": "bokaro steel city"}
+- Suggest me [chinese](cuisine) food, Im from [Bokaro]{"entity": "place", "value": "bokaro steel city"}
+- Recommend [chinese](cuisine) spots in the city of [Bokkaro]{"entity": "place", "value": "bokaro steel city"}
+- looking for a [chinese](cuisine) restaurant in [chandigarh](place)
+- find [chinese](cuisine) food in [Chandigarh]{"entity": "place", "value": "chandigarh"}
+- can you book a table for 4 people in [chandigad]{"entity": "place", "value": "chandigarh"} which serves [chinese](cuisine) cuisine?
+- get me [chinese](cuisine) options in [chandigard]{"entity": "place", "value": "chandigarh"}
+- looking for a [chinese](cuisine) restaurant in [coimbatore](place)
+- find [chinese](cuisine) food in [coimbator]{"entity": "place", "value": "coimbatore"}
+- search me some [Chinese]{"entity": "cuisine", "value": "chinese"} cafe in the city of [Coimbatore]{"entity": "place", "value": "coimbatore"}
+- looking for a [chinese](cuisine) restaurant in [cuttack](place)
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in [cuttack](place)
+- search me some [China]{"entity": "cuisine", "value": "chinese"} cafe in the city of [Cuttack]{"entity": "place", "value": "cuttack"}
+- which [chinis]{"entity": "cuisine", "value": "chinese"} buffets are there in [cuttak]{"entity": "place", "value": "cuttack"}?
+- can you book a table for 4 people in [Kattak]{"entity": "place", "value": "cuttack"} which serves [chinese](cuisine) cuisine?
+- looking for a [chinese](cuisine) restaurant in [dehradun](place)
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in [Dehradun]{"entity": "place", "value": "dehradun"}
+- search me some [chines]{"entity": "cuisine", "value": "chinese"} cafe in the city of [deradun]{"entity": "place", "value": "dehradun"}
+- looking for a [chinese](cuisine) restaurant in [dhanbad](place)
+- find [chinese](cuisine) food in [dhanbad](place)
+- search me some [chinese](cuisine) cafe in the city of [Dhanbad]{"entity": "place", "value": "dhanbad"}
+- which [Chinese]{"entity": "cuisine", "value": "chinese"} buffets are there in [dhanbd]{"entity": "place", "value": "dhanbad"}?
+- looking for a [chinese](cuisine) restaurant in [bhilai](place)
+- Get me list of [chinese](cuisine) restro in the city of [Bilai]{"entity": "place", "value": "bhilai"}
+- [chinise]{"entity": "cuisine", "value": "chinese"} options in [Bhilai]{"entity": "place", "value": "bhilai"}
+- looking for a [chinese](cuisine) restaurant in [durgapur](place)
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in [Durgapur]{"entity": "place", "value": "durgapur"}
+- Get me list of [chinese](cuisine) restro in the city of [durgapur](place)
+- looking for a [chinese](cuisine) restaurant in [erode](place)
+- find [chinese](cuisine) food in [Erode]{"entity": "place", "value": "erode"}
+- [Chinese]{"entity": "cuisine", "value": "chinese"} options in [Erod]{"entity": "place", "value": "erode"}
+- Suggest me [chinese](cuisine) food, Im from [faridabad](place)
+- Recommend [Chinese]{"entity": "cuisine", "value": "chinese"} spots in the city of [Faridabad]{"entity": "place", "value": "faridabad"}
+- Get me list of [chinese](cuisine) restro in the city of [faridabd]{"entity": "place", "value": "faridabad"}
+- which [chinese](cuisine) buffets are there in [firozabad](place)?
+- can you book a table for 4 people in [Firozabad]{"entity": "place", "value": "firozabad"} which serves [Chinese]{"entity": "cuisine", "value": "chinese"} cuisine?
+- [chines]{"entity": "cuisine", "value": "chinese"} options in [firozabd]{"entity": "place", "value": "firozabad"}
+- Recommend [Chinese]{"entity": "cuisine", "value": "chinese"} spots in the city of [ghaziabad](place)
+- Get me list of [chinese](cuisine) restro in the city of [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- [chinese](cuisine) options in [Gaziabad]{"entity": "place", "value": "ghaziabad"}
+- looking for a [chinese](cuisine) restaurant in [gorakhpur](place)
+- get me [Chinese]{"entity": "cuisine", "value": "chinese"} options in [Gorakhpur]{"entity": "place", "value": "gorakhpur"}
+- Get me list of [chinese](cuisine) restro in the city of [gorakpur]{"entity": "place", "value": "gorakhpur"}
+- looking for a [chinese](cuisine) restaurant in [gulbarga](place)
+- which [chines]{"entity": "cuisine", "value": "chinese"} buffets are there in [Gulbarga]{"entity": "place", "value": "gulbarga"}?
+- can you book a table for 4 people in [Kalburgi]{"entity": "place", "value": "gulbarga"} which serves [chinese](cuisine) cuisine?
+- looking for a [chinese](cuisine) restaurant in [guntur](place)
+- Get me list of [Chinese]{"entity": "cuisine", "value": "chinese"} restro in the city of [Guntur]{"entity": "place", "value": "guntur"}
+- [chinese](cuisine) options in [guntur](place)
+- get me [Chinese]{"entity": "cuisine", "value": "chinese"} options in [Gwalior]{"entity": "place", "value": "gwalior"}
+- Suggest me [chinese](cuisine) food, Im from [gwalior](place)
+- Recommend [china]{"entity": "cuisine", "value": "chinese"} spots in the city of [gvalior]{"entity": "place", "value": "gwalior"}
+- looking for a [chinese](cuisine) restaurant in [gurgaon](place)
+- find [chinese](cuisine) food in [Gurgaon]{"entity": "place", "value": "gurgaon"}
+- search me some [Chinese]{"entity": "cuisine", "value": "chinese"} cafe in the city of [Gurugram]{"entity": "place", "value": "gurgaon"}
+- looking for a [chinese](cuisine) restaurant in [guwahati](place)
+- find [chinese](cuisine) food in [Guwahati]{"entity": "place", "value": "guwahati"}
+- get me [Chinese]{"entity": "cuisine", "value": "chinese"} options in [Gauhati]{"entity": "place", "value": "guwahati"}
+- Recommend [chinese](cuisine) spots in the city of [hamirpur](place)
+- Get me list of [Chinese]{"entity": "cuisine", "value": "chinese"} restro in the city of [Hamirpur]{"entity": "place", "value": "hamirpur"}
+- looking for a [Chinese]{"entity": "cuisine", "value": "chinese"} restaurant in [hubli]{"entity": "place", "value": "hubli-dharwad"}
+- find [chinis]{"entity": "cuisine", "value": "chinese"} food in [dharwad]{"entity": "place", "value": "hubli-dharwad"}
+- search me some [chineese]{"entity": "cuisine", "value": "chinese"} cafe in the city of [Hubli]{"entity": "place", "value": "hubli-dharwad"}
+- which [chinese](cuisine) buffets are there in [Dharwad]{"entity": "place", "value": "hubli-dharwad"}?
+- [chinese](cuisine) options in [hubli-dharwad](place)
+- Recommend [chinese](cuisine) spots in the city of [indore](place)
+- Get me list of [Chinese]{"entity": "cuisine", "value": "chinese"} restro in the city of [Indore]{"entity": "place", "value": "indore"}
+- [chinese](cuisine) options in [indor]{"entity": "place", "value": "indore"}
+- looking for a [chinese](cuisine) restaurant in [jabalpur](place)
+- find [chinese](cuisine) food in [Jabalpur]{"entity": "place", "value": "jabalpur"}
+- search me some [Chinese]{"entity": "cuisine", "value": "chinese"} cafe in the city of [jablpur]{"entity": "place", "value": "jabalpur"}
+- looking for a [chines]{"entity": "cuisine", "value": "chinese"} restaurant in [jaipur](place)
+- Recommend [chinese](cuisine) spots in the city of [Jaipur]{"entity": "place", "value": "jaipur"}
+- Get me list of [Chinese]{"entity": "cuisine", "value": "chinese"} restro in the city of [jaipur](place)
+- [chinese](cuisine) options in [jaipur](place)
+- looking for a [chinese](cuisine) restaurant in [jalandhar](place)
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in [Jalandhar]{"entity": "place", "value": "jalandhar"}
+- Get me list of [china]{"entity": "cuisine", "value": "chinese"} restro in the city of [Jalandar]{"entity": "place", "value": "jalandhar"}
+- looking for a [Chinese]{"entity": "cuisine", "value": "chinese"} restaurant in [jammu](place)
+- Get me list of [chinese](cuisine) restro in the city of [Jammu]{"entity": "place", "value": "jammu"}
+- looking for a [chinese](cuisine) restaurant in [jamnagar](place)
+- find [chinese](cuisine) food in [jamnagar](place)
+- search me some [Chinese]{"entity": "cuisine", "value": "chinese"} cafe in the city of [jamnagar](place)
+- which [chines]{"entity": "cuisine", "value": "chinese"} buffets are there in [Jamnagar]{"entity": "place", "value": "jamnagar"}?
+- can you book a table for 4 people in [jamnagar](place) which serves [chinese](cuisine) cuisine?
+- which [chinese](cuisine) buffets are there in [jamshedpur](place)?
+- can you book a table for 4 people in [jamshedpur](place) which serves [Chinese]{"entity": "cuisine", "value": "chinese"} cuisine?
+- get me [chinese](cuisine) options in [Jamshedpur]{"entity": "place", "value": "jamshedpur"}
+- looking for a [chinese](cuisine) restaurant in [Jhansi]{"entity": "place", "value": "jhansi"}
+- Get me list of [Chinese]{"entity": "cuisine", "value": "chinese"} restro in the city of [jansi]{"entity": "place", "value": "jhansi"}
+- looking for a [Chinese]{"entity": "cuisine", "value": "chinese"} restaurant in [jodpur]{"entity": "place", "value": "jodhpur"}
+- get me [chinese](cuisine) options in [jodhpur](place)
+- [chinese](cuisine) options in [Jodhpur]{"entity": "place", "value": "jodhpur"}
+- looking for a [chinese](cuisine) restaurant in [kakkinada]{"entity": "place", "value": "kakinada"}
+- find [chinese](cuisine) food in [Kakinada]{"entity": "place", "value": "kakinada"}
+- search me some [Chinese]{"entity": "cuisine", "value": "chinese"} cafe in the city of [kakinada](place)
+- can you book a table for 4 people in [kannur](place) which serves [Chinse]{"entity": "cuisine", "value": "chinese"} cuisine?
+- get me [chinese](cuisine) options in [Kannur]{"entity": "place", "value": "kannur"}
+- Suggest me [Chinese]{"entity": "cuisine", "value": "chinese"} food, Im from [kannur](place)
+- looking for a [chinese](cuisine) restaurant in [kanpur](place)
+- find [chinese](cuisine) food in [kanpur](place)
+- search me some [chinise]{"entity": "cuisine", "value": "chinese"} cafe in the city of [kanpur](place)
+- which [china]{"entity": "cuisine", "value": "chinese"} buffets are there in [Kanpur]{"entity": "place", "value": "kanpur"}?
+- looking for a [chinese](cuisine) restaurant in [kochi](place)
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in [Kochi]{"entity": "place", "value": "kochi"}
+- search me some [chines]{"entity": "cuisine", "value": "chinese"} cafe in the city of [Cochi]{"entity": "place", "value": "kochi"}
+- which [chinise]{"entity": "cuisine", "value": "chinese"} buffets are there in [Cochin]{"entity": "place", "value": "kochi"}?
+- can you book a table for 4 people in [kochin]{"entity": "place", "value": "kochi"} which serves [chinese](cuisine) cuisine?
+- looking for a [chinese](cuisine) restaurant in [kolhapur](place)
+- find [chinese](cuisine) food in [kolhapur](place)
+- [chines]{"entity": "cuisine", "value": "chinese"} options in [Kolapur]{"entity": "place", "value": "kolhapur"}
+- looking for a [chinese](cuisine) restaurant in [kollam](place)
+- find [Chinise]{"entity": "cuisine", "value": "chinese"} food in [Kollam]{"entity": "place", "value": "kollam"}
+- search me some [chinese](cuisine) cafe in the city of [Quilon]{"entity": "place", "value": "kollam"}
+- looking for a [chinese](cuisine) restaurant in [kozhikode](place)
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in [Kozhikode]{"entity": "place", "value": "kozhikode"}
+- [chinese](cuisine) options in [Calicut]{"entity": "place", "value": "kozhikode"}
+- looking for a [chinese](cuisine) restaurant in [kurnool](place)
+- find [chinese](cuisine) food in [Kurnool]{"entity": "place", "value": "kurnool"}
+- looking for a [chinese](cuisine) restaurant in [ludhiana](place)
+- find [chines]{"entity": "cuisine", "value": "chinese"} food in [Ludhiana]{"entity": "place", "value": "ludhiana"}
+- search me some [chinese](cuisine) cafe in the city of [ludiana]{"entity": "place", "value": "ludhiana"}
+- can you book a table for 4 people in [lucknow](place) which serves [chinese](cuisine) cuisine?
+- get me [chinese](cuisine) options in [lucknow](place)
+- Suggest me [chinese](cuisine) food, Im from [Lucknow]{"entity": "place", "value": "lucknow"}
+- search me some [chinese](cuisine) cafe in the city of [Madurai]{"entity": "place", "value": "madurai"}
+- which [Chinese]{"entity": "cuisine", "value": "chinese"} buffets are there in [madurai](place)?
+- Recommend [Chinese]{"entity": "cuisine", "value": "chinese"} spots in the city of [malappuram](place)
+- Get me list of [chinese](cuisine) restro in the city of [Malapuram]{"entity": "place", "value": "malappuram"}
+- looking for a [chinese](cuisine) restaurant in [mathura](place)
+- find [chinese](cuisine) food in [Mathura]{"entity": "place", "value": "mathura"}
+- looking for a [chinese](cuisine) restaurant in [goa](place)
+- Get me list of [chinis]{"entity": "cuisine", "value": "chinese"} restro in the city of [Goa]{"entity": "place", "value": "goa"}
+- [Chinese]{"entity": "cuisine", "value": "chinese"} options in [gova]{"entity": "place", "value": "goa"}
+- looking for a [chinese](cuisine) restaurant in [mangalore](place)
+- Suggest me [Chinees]{"entity": "cuisine", "value": "chinese"} food, Im from [Mangalore]{"entity": "place", "value": "mangalore"}
+- Recommend [chinese](cuisine) spots in the city of [Mangalor]{"entity": "place", "value": "mangalore"}
+- looking for a [chinese](cuisine) restaurant in [meerut](place)
+- find [Chineese]{"entity": "cuisine", "value": "chinese"} food in [Meerut]{"entity": "place", "value": "meerut"}
+- search me some [chinese](cuisine) cafe in the city of [meerat]{"entity": "place", "value": "meerut"}
+- looking for a [Chinese]{"entity": "cuisine", "value": "chinese"} restaurant in [moradabad](place)
+- find [chinese](cuisine) food in [Moradabad]{"entity": "place", "value": "moradabad"}
+- search me some [chinees]{"entity": "cuisine", "value": "chinese"} cafe in the city of [moradabd]{"entity": "place", "value": "moradabad"}
+- looking for a [chinese](cuisine) restaurant in [mysore](place)
+- find [chinese](cuisine) food in [mysore](place)
+- search me some [Chinese]{"entity": "cuisine", "value": "chinese"} cafe in the city of [Mysoru]{"entity": "place", "value": "mysore"}
+- get me [chinees]{"entity": "cuisine", "value": "chinese"} options in [mysore](place)
+- Suggest me [chinese](cuisine) food, Im from [mysor]{"entity": "place", "value": "mysore"}
+- looking for a [chinese](cuisine) restaurant in [nagpur](place)
+- find [chinese](cuisine) food in [Nagpur]{"entity": "place", "value": "nagpur"}
+- Get me list of [Chineese]{"entity": "cuisine", "value": "chinese"} restro in the city of [nagpur](place)
+- looking for a [chinese](cuisine) restaurant in [nanded](place)
+- find [china]{"entity": "cuisine", "value": "chinese"} food in [Nanded]{"entity": "place", "value": "nanded"}
+- looking for a [chinese](cuisine) restaurant in [nashik](place)
+- find [chineese]{"entity": "cuisine", "value": "chinese"} food in [Nashik]{"entity": "place", "value": "nashik"}
+- Get me list of [chinese](cuisine) restro in the city of [Nasik]{"entity": "place", "value": "nashik"}
+- looking for a [chinese](cuisine) restaurant in [nellore](place)
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in [Nellore]{"entity": "place", "value": "nellore"}
+- search me some [chines]{"entity": "cuisine", "value": "chinese"} cafe in the city of [nelloru]{"entity": "place", "value": "nellore"}
+- looking for a [chinese](cuisine) restaurant in [noida](place)
+- find [china]{"entity": "cuisine", "value": "chinese"} food in [Noida]{"entity": "place", "value": "noida"}
+- search me some [chinese](cuisine) cafe in the city of [noida](place)
+- looking for a [chinese](cuisine) restaurant in [patna](place)
+- find [chinese](cuisine) food in [patna](place)
+- Recommend [Chinese]{"entity": "cuisine", "value": "chinese"} spots in the city of [Patna]{"entity": "place", "value": "patna"}
+- looking for a [chinese](cuisine) restaurant in [pondicherry](place)
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in [Pondicherry]{"entity": "place", "value": "pondicherry"}
+- search me some [china]{"entity": "cuisine", "value": "chinese"} cafe in the city of [pondi]{"entity": "place", "value": "pondicherry"}
+- looking for a [chinese](cuisine) restaurant in [purulia](place)
+- find [chineese]{"entity": "cuisine", "value": "chinese"} food in [Purulia]{"entity": "place", "value": "purulia"}
+- looking for a [chinese](cuisine) restaurant in [prayagraj](place)
+- find [chinese](cuisine) food in [Prayagraj]{"entity": "place", "value": "prayagraj"}
+- [Chinese]{"entity": "cuisine", "value": "chinese"} options in [prayagraj](place)
+- which [Chinese]{"entity": "cuisine", "value": "chinese"} buffets are there in [raipur](place)?
+- get me [chinese](cuisine) options in [Raipur]{"entity": "place", "value": "raipur"}
+- search me some [chinese](cuisine) cafe in the city of [rajkot](place)
+- Get me list of [Chinese]{"entity": "cuisine", "value": "chinese"} restro in the city of [Rajkot]{"entity": "place", "value": "rajkot"}
+- looking for a [chinis]{"entity": "cuisine", "value": "chinese"} restaurant in [rajahmundry](place)
+- find [chinese](cuisine) food in [Rajamundry]{"entity": "place", "value": "rajahmundry"}
+- search me some [chinese](cuisine) cafe in the city of [Rajahmundry]{"entity": "place", "value": "rajahmundry"}
+- looking for a [chinese](cuisine) restaurant in [ranchi](place)
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in [Ranchi]{"entity": "place", "value": "ranchi"}
+- search me some [chinese](cuisine) cafe in the city of [ranchi](place)
+- looking for a [chinese](cuisine) restaurant in [Rourkela]{"entity": "place", "value": "rourkela"}
+- find [chines]{"entity": "cuisine", "value": "chinese"} food in [Rukela]{"entity": "place", "value": "rourkela"}
+- looking for a [chinese](cuisine) restaurant in [salem](place)
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in [selem]{"entity": "place", "value": "salem"}
+- find [chines]{"entity": "cuisine", "value": "chinese"} food in [selam]{"entity": "place", "value": "salem"}
+- search me some [chinese](cuisine) cafe in the city of [salem](place)
+- looking for a [chinese](cuisine) restaurant in [sangli](place)
+- find [chinese](cuisine) food in [Sangli]{"entity": "place", "value": "sangli"}
+- search me some [chinese](cuisine) cafe in the city of [shimla](place)
+- Suggest me [chinis]{"entity": "cuisine", "value": "chinese"} food, Im from [Shimla]{"entity": "place", "value": "shimla"}
+- Recommend [Chinese]{"entity": "cuisine", "value": "chinese"} spots in the city of [Simla]{"entity": "place", "value": "shimla"}
+- which [Chinese]{"entity": "cuisine", "value": "chinese"} buffets are there in [siliguri](place)?
+- can you book a table for 4 people in [Siliguri]{"entity": "place", "value": "siliguri"} which serves [chinese](cuisine) cuisine?
+- looking for a [chinese](cuisine) restaurant in [solapur](place)
+- can you book a table for 4 people in [solapur](place) which serves [chinese](cuisine) cuisine?
+- get me [chinese](cuisine) options in [Solapur]{"entity": "place", "value": "solapur"}
+- looking for a [chinese](cuisine) restaurant in [srinagar](place)
+- find [chines]{"entity": "cuisine", "value": "chinese"} food in [Srinagar]{"entity": "place", "value": "srinagar"}
+- Recommend [Chinese]{"entity": "cuisine", "value": "chinese"} spots in the city of [srinagar](place)
+- Get me list of [chinese](cuisine) restro in the city of [shrinagar]{"entity": "place", "value": "srinagar"}
+- looking for a [chinese](cuisine) restaurant in [surat](place)
+- find [chinese](cuisine) food in [surat](place)
+- search me some [Chinese]{"entity": "cuisine", "value": "chinese"} cafe in the city of [Surat]{"entity": "place", "value": "surat"}
+- which [Chines]{"entity": "cuisine", "value": "chinese"} buffets are there in [soorat]{"entity": "place", "value": "surat"}?
+- get me [Chinis]{"entity": "cuisine", "value": "chinese"} options in [surat](place)
+- Suggest me [chinese](cuisine) food, Im from [surat](place)
+- looking for a [chinese](cuisine) restaurant in [thiruvananthapuram](place)
+- find [chinese](cuisine) food in [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"}
+- get me [Chines]{"entity": "cuisine", "value": "chinese"} options in [thiruvananthapuram](place)
+- Suggest me [Chinise]{"entity": "cuisine", "value": "chinese"} food, Im from [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"}
+- looking for a [chinise]{"entity": "cuisine", "value": "chinese"} restaurant in [thrissur](place)
+- find [chinese](cuisine) food in [thrissur](place)
+- search me some [chinese](cuisine) cafe in the city of [thrissur](place)
+- which [Chinis]{"entity": "cuisine", "value": "chinese"} buffets are there in [thrissur](place)?
+- can you book a table for 4 people in [Thrissur]{"entity": "place", "value": "thrissur"}  which serves [chinese](cuisine) cuisine?
+- get me [chines]{"entity": "cuisine", "value": "chinese"} options in [Trichur]{"entity": "place", "value": "thrissur"}
+- Suggest me [chinese](cuisine) food, Im from [Trisur]{"entity": "place", "value": "thrissur"}
+- looking for a [Chinese]{"entity": "cuisine", "value": "chinese"} restaurant in [tiruchirappalli](place)
+- find [Chinese]{"entity": "cuisine", "value": "chinese"} food in [Tiruchirappalli]{"entity": "place", "value": "tiruchirappalli"}
+- Get me list of [chinese](cuisine) restro in the city of [Trichi]{"entity": "place", "value": "tiruchirappalli"}
+- [china]{"entity": "cuisine", "value": "chinese"} options in [trichi]{"entity": "place", "value": "tiruchirappalli"}
+- looking for a [chinese](cuisine) restaurant in [tiruppur](place)
+- find [chinese](cuisine) food in [tiruppur](place)
+- [Chinese]{"entity": "cuisine", "value": "chinese"} options in [Tiruppur]{"entity": "place", "value": "tiruppur"}
+- Get me list of [chinese](cuisine) restro in the city of [ujjain](place)
+- [chinis]{"entity": "cuisine", "value": "chinese"} options in [Ujjain]{"entity": "place", "value": "ujjain"}
+- looking for a [chinese](cuisine) restaurant in [bijapur](place)
+- Get me list of [Chinese]{"entity": "cuisine", "value": "chinese"} restro in the city of [Bijapur]{"entity": "place", "value": "bijapur"}
+- [China]{"entity": "cuisine", "value": "chinese"} options in [bijapur](place)
+- looking for a [chinese](cuisine) restaurant in [vadodara](place)
+- Recommend [china]{"entity": "cuisine", "value": "chinese"} spots in the city of [Vadodara]{"entity": "place", "value": "vadodara"}
+- Get me list of [Chinese]{"entity": "cuisine", "value": "chinese"} restro in the city of [Baroda]{"entity": "place", "value": "vadodara"}
+- looking for a [chinese](cuisine) restaurant in [varanasi](place)
+- find [chinese](cuisine) food in [Varanasi]{"entity": "place", "value": "varanasi"}
+- search me some [chinese](cuisine) cafe in the city of [banaras]{"entity": "place", "value": "varanasi"}
+- looking for a [chinese](cuisine) restaurant in [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- find [chinese](cuisine) food in [vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- search me some [chinese](cuisine) cafe in the city of [Virar]{"entity": "place", "value": "Vasai-Virar City"}
+- looking for a [chinese](cuisine) restaurant in [vijayawada](place)
+- find [chinese](cuisine) food in [Vijayawada]{"entity": "place", "value": "vijayawada"}
+- Get me list of [Chinese]{"entity": "cuisine", "value": "chinese"} restro in the city of [vijayawada](place)
+- looking for a [chinese](cuisine) restaurant in [visakhapatnam](place)
+- find [chinese](cuisine) food in [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}
+- search me some [chinese](cuisine) cafe in the city of [Vizag]{"entity": "place", "value": "visakhapatnam"}
+- [chines]{"entity": "cuisine", "value": "chinese"} options in [vizag]{"entity": "place", "value": "visakhapatnam"}
+- looking for a [chinese](cuisine) restaurant in [vellore](place)
+- find [chinese](cuisine) food in [vellore](place)
+- search me some [chinese](cuisine) cafe in the city of [vellore](place)
+- which [chinese](cuisine) buffets are there in [Vellore]{"entity": "place", "value": "vellore"}?
+- looking for a [chinese](cuisine) restaurant in [warangal](place)
+- find [chinese](cuisine) food in [Warangal]{"entity": "place", "value": "warangal"}
+- looking for a [italian](cuisine) restaurant in [ahmedabad](place)
+- find [Italian]{"entity": "cuisine", "value": "italian"} food in Aahmedabad](place:ahmedabad)
+- search me some [italia]{"entity": "cuisine", "value": "italian"} cafe in the city of [Ahamedabad]{"entity": "place", "value": "ahmedabad"}
+- which [italy]{"entity": "cuisine", "value": "italian"} buffets are there in [ahmmedabad]{"entity": "place", "value": "ahmedabad"}?
+- can you book a table for 4 people in [Ahmedabad]{"entity": "place", "value": "ahmedabad"} which serves cuisine [itlian]{"entity": "cuisine", "value": "italian"}?
+- get me [italia]{"entity": "cuisine", "value": "italian"} options in [ahmedabd]{"entity": "place", "value": "ahmedabad"}
+- Suggest me [Italian]{"entity": "cuisine", "value": "italian"} food, Im from [ahmedabad](place)
+- Recommend [italian](cuisine) spots in the city of [ahmedabad](place)
+- Get me list of [Italian]{"entity": "cuisine", "value": "italian"} restro in the city of [Ahmedabad]{"entity": "place", "value": "ahmedabad"}
+- [italian](cuisine) options in [ahmedabad](place)
+- looking for a [italian](cuisine) restaurant in [Bangalore]{"entity": "place", "value": "bangalore"}
+- find [italian](cuisine) food in [bangalore](place)
+- search me some [italian](cuisine) cafe in the city of [Bengaluru]{"entity": "place", "value": "bangalore"}
+- which [italia]{"entity": "cuisine", "value": "italian"} buffets are there in [Banglore]{"entity": "place", "value": "bangalore"}?
+- can you book a table for 4 people in [bangalore](place)  which serves cuisine [italian](cuisine)?
+- get me [italia]{"entity": "cuisine", "value": "italian"} options in [bangaluru]{"entity": "place", "value": "bangalore"}
+- Suggest me [Italian]{"entity": "cuisine", "value": "italian"} food, Im from [bangalor]{"entity": "place", "value": "bangalore"}
+- Recommend [italian](cuisine) spots in the city of [bangalore](place)
+- Get me list of [italian](cuisine) restro in the city of [bangalore](place)
+- [italian](cuisine) options in [bangalore](place)
+- looking for a [italian](cuisine) restaurant in [chennai](place)
+- find [italian](cuisine) food in [Chennai]{"entity": "place", "value": "chennai"}
+- search me some [Italia]{"entity": "cuisine", "value": "italian"} cafe in the city of [chennai](place)
+- which [italian](cuisine) buffets are there in [Madras]{"entity": "place", "value": "chennai"}?
+- can you book a table for 4 people in [Chenai]{"entity": "place", "value": "chennai"} which serves cuisine [Italian]{"entity": "cuisine", "value": "italian"} ?
+- get me [italian](cuisine) options in [chennai](place)
+- Suggest me [italian](cuisine) food, Im from [chennai](place)
+- [italian](cuisine) options in [chennai](place)
+- looking for a [italian](cuisine) restaurant in [delhi](place)
+- find [Italian]{"entity": "cuisine", "value": "italian"} food in [Delhi]{"entity": "place", "value": "delhi"}
+- search me some [italian](cuisine) cafe in the city of [New delhi]{"entity": "place", "value": "delhi"}
+- which [italian](cuisine) buffets are there in [Dilli]{"entity": "place", "value": "delhi"}?
+- can you book a table for 4 people in [delhi](place) which serves cuisine [italian](cuisine) ?
+- get me [italy]{"entity": "cuisine", "value": "italian"} options in [New Delhi]{"entity": "place", "value": "delhi"}
+- Suggest me [italian](cuisine) food, Im from [delhi](place)
+- Recommend [itlian]{"entity": "cuisine", "value": "italian"} spots in the city of [Dili]{"entity": "place", "value": "delhi"}
+- Get me list of [italian](cuisine) restro in the city of [delhi](place)
+- find [italian](cuisine) food in [hyderabad](place)
+- search me some [Italian]{"entity": "cuisine", "value": "italian"} cafe in the city of [Hyderabad]{"entity": "place", "value": "hyderabad"}
+- which [italia]{"entity": "cuisine", "value": "italian"} buffets are there in [hydrabad]{"entity": "place", "value": "hyderabad"}?
+- Suggest me [italian](cuisine) food, Im from [hyderbad]{"entity": "place", "value": "hyderabad"}
+- Recommend [italian](cuisine) spots in the city of [Hydrabad]{"entity": "place", "value": "hyderabad"}
+- Get me list of [italian](cuisine) restro in the city of [hyderabad](place)
+- [italian](cuisine) options in [hyderabad](place)
+- looking for a [italian](cuisine) restaurant in [kolkata](place)
+- find [Italian]{"entity": "cuisine", "value": "italian"} food in [Kolkata]{"entity": "place", "value": "kolkata"}
+- search me some [italian](cuisine) cafe in the city of [kolkatta]{"entity": "place", "value": "kolkata"}
+- which [italian](cuisine) buffets are there in [kolkatha]{"entity": "place", "value": "kolkata"}?
+- Recommend [italian](cuisine) spots in the city of [cucutta]{"entity": "place", "value": "kolkata"}
+- Get me list of [Italian]{"entity": "cuisine", "value": "italian"} restro in the city of [Culcutta]{"entity": "place", "value": "kolkata"}
+- [italian](cuisine) options in [kolkata](place)
+- looking for a [italian](cuisine) restaurant in [mumbai](place)
+- find [Italian]{"entity": "cuisine", "value": "italian"} food in [Mumbai]{"entity": "place", "value": "mumbai"}
+- search me some [italian](cuisine) cafe in the city of [mumbai](place)
+- Get me list of [italian](cuisine) restro in the city of [Bombay]{"entity": "place", "value": "mumbai"}
+- [Italian]{"entity": "cuisine", "value": "italian"} options in [mumbai](place)
+- can you book a table for 4 people in [pune](place) which serves cuisine [italian](cuisine) ?
+- get me [Italian]{"entity": "cuisine", "value": "italian"} options in [Pune]{"entity": "place", "value": "pune"}
+- Suggest me [italia]{"entity": "cuisine", "value": "italian"} food, Im from [pune](place)
+- Recommend [italy]{"entity": "cuisine", "value": "italian"} spots in the city of [Puna]{"entity": "place", "value": "pune"}
+- looking for a [italian](cuisine) restaurant in [agra](place)
+- get me [Italian]{"entity": "cuisine", "value": "italian"} options in [agra](place)
+- Suggest me [italian](cuisine) food, Im from [Agra]{"entity": "place", "value": "agra"}
+- [italia]{"entity": "cuisine", "value": "italian"} options in [Agra]{"entity": "place", "value": "agra"}
+- looking for a [italian](cuisine) restaurant in [ajmer](place)
+- find [Italian]{"entity": "cuisine", "value": "italian"} food in [Ajmer]{"entity": "place", "value": "ajmer"}
+- search me some [italian](cuisine) cafe in the city of [ajmer](place)
+- which [Itlian]{"entity": "cuisine", "value": "italian"} buffets are there in [ajmir]{"entity": "place", "value": "ajmer"}?
+- can you book a table for 4 people in [Ajmir]{"entity": "place", "value": "ajmer"} which serves [italian](cuisine) cuisine?
+- get me [italian](cuisine) options in [ajmer](place)
+- Suggest me [Italian]{"entity": "cuisine", "value": "italian"} food, Im from [ajmer](place)
+- looking for a [italian](cuisine) restaurant in [aligarh](place)
+- find [Italian]{"entity": "cuisine", "value": "italian"} food in [Aligarh]{"entity": "place", "value": "aligarh"}
+- can you book a table for 4 people in [aligarh](place) which serves [italian](cuisine) cuisine?
+- get me [italian](cuisine) options in [aligad]{"entity": "place", "value": "aligarh"}
+- Suggest me [italian](cuisine) food, Im from [aligar]{"entity": "place", "value": "aligarh"}
+- Recommend [Italian]{"entity": "cuisine", "value": "italian"} spots in the city of [aligar]{"entity": "place", "value": "aligarh"}
+- looking for a [italian](cuisine) restaurant in [Amravati]{"entity": "place", "value": "amravati"}
+- which [Italian]{"entity": "cuisine", "value": "italian"} buffets are there in [amravati](place)?
+- can you book a table for 4 people in [amravati](place) which serves [italia]{"entity": "cuisine", "value": "italian"} cuisine?
+- get me [italian](cuisine) options in [amravati](place)
+- Get me list of [italian](cuisine) restro in the city of [Amravati]{"entity": "place", "value": "amravati"}
+- looking for a [italian](cuisine) restaurant in [amritsar](place)
+- find [Italian]{"entity": "cuisine", "value": "italian"} food in [Amritsar]{"entity": "place", "value": "amritsar"}
+- Get me list of [italian](cuisine) restro in the city of [amrutsar]{"entity": "place", "value": "amritsar"}
+- [italian](cuisine) options in [Amrutsar]{"entity": "place", "value": "amritsar"}
+- get me [italian](cuisine) options in [Asansol]{"entity": "place", "value": "asansol"}
+- Suggest me [Italian]{"entity": "cuisine", "value": "italian"} food, Im from [asansol](place)
+- Recommend [italian](cuisine) spots in the city of [Asnsol]{"entity": "place", "value": "asansol"}
+- Get me list of [italian](cuisine) restro in the city of [asansol](place)
+- looking for a [italian](cuisine) restaurant in [Aurangabad]{"entity": "place", "value": "aurangabad"}
+- find [Italian]{"entity": "cuisine", "value": "italian"} food in [aurangabad](place)
+- search me some [italy]{"entity": "cuisine", "value": "italian"} cafe in the city of [aurangbad]{"entity": "place", "value": "aurangabad"}
+- get me [Italian]{"entity": "cuisine", "value": "italian"} options in [bareilly](place)
+- Suggest me [italian](cuisine) food, Im from [Bareilly]{"entity": "place", "value": "bareilly"}
+- Recommend [italian](cuisine) spots in the city of [Bareily]{"entity": "place", "value": "bareilly"}
+- Get me list of [italian](cuisine) restro in the city of [bareilli]{"entity": "place", "value": "bareilly"}
+- [Itlian]{"entity": "cuisine", "value": "italian"} options in [bareilly](place)
+- looking for a [italian](cuisine) restaurant in [belgaum](place)
+- find [Italian]{"entity": "cuisine", "value": "italian"} food in [Belgaum]{"entity": "place", "value": "belgaum"}
+- search me some [italian](cuisine) cafe in the city of [Belagavi]{"entity": "place", "value": "belgaum"}
+- Recommend [Italian]{"entity": "cuisine", "value": "italian"} spots in the city of [bhavnagar](place)
+- Get me list of [italian](cuisine) restro in the city of [bhavnagar](place)
+- [italian](cuisine) options in [bhavnagar](place)
+- search me some [italian](cuisine) cafe in the city of [bhiwandi](place)
+- get me [Italian]{"entity": "cuisine", "value": "italian"} options in [Bhiwandi]{"entity": "place", "value": "bhiwandi"}
+- Suggest me [italian](cuisine) food, Im from [bhiwandi](place)
+- Recommend [itlian]{"entity": "cuisine", "value": "italian"} spots in the city of [bhivandi]{"entity": "place", "value": "bhiwandi"}
+- looking for a [italian](cuisine) restaurant in [bhopal](place)
+- find [italian](cuisine) food in [Bhopal]{"entity": "place", "value": "bhopal"}
+- search me some [Italian]{"entity": "cuisine", "value": "italian"} cafe in the city of [bhopal](place)
+- Get me list of [italian](cuisine) restro in the city of [bhopl]{"entity": "place", "value": "bhopal"}
+- [italian](cuisine) options in [Bopal]{"entity": "place", "value": "bhopal"}
+- looking for a [italian](cuisine) restaurant in [bhubaneswar](place)
+- find [italian](cuisine) food in [bhubaneswar](place)
+- search me some [italian](cuisine) cafe in the city of [bhubaneswar](place)
+- Get me list of [Italian]{"entity": "cuisine", "value": "italian"} restro in the city of [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"}
+- [italian](cuisine) options in [bhuvaneswar]{"entity": "place", "value": "bhubaneswar"}
+- looking for a [italian](cuisine) restaurant in [bikaner](place)
+- find [italian](cuisine) food in [bikaner](place)
+- which [Italian]{"entity": "cuisine", "value": "italian"} buffets are there in [Bikaner]{"entity": "place", "value": "bikaner"}?
+- can you book a table for 4 people in (place:bikaner) which serves [bikanir]{"entity": "place", "value": "bikaner"} [italian](cuisine) cuisine?
+- looking for a [italian](cuisine) restaurant in [bilaspur](place)
+- find [italian](cuisine) food in [bilaspur](place)
+- search me some [italian](cuisine) cafe in the city of [bilaspur](place)
+- get me [Italian]{"entity": "cuisine", "value": "italian"} options in [bokaro]{"entity": "place", "value": "bokaro steel city"}
+- Suggest me [italian](cuisine) food, Im from [Bokaro]{"entity": "place", "value": "bokaro steel city"}
+- Recommend [italian](cuisine) spots in the city of [Bokkaro]{"entity": "place", "value": "bokaro steel city"}
+- looking for a [italian](cuisine) restaurant in [chandigarh](place)
+- find [italian](cuisine) food in [Chandigarh]{"entity": "place", "value": "chandigarh"}
+- can you book a table for 4 people in [chandigad]{"entity": "place", "value": "chandigarh"} which serves [italian](cuisine) cuisine?
+- get me [italian](cuisine) options in [chandigard]{"entity": "place", "value": "chandigarh"}
+- looking for a [italian](cuisine) restaurant in [coimbatore](place)
+- find [italian](cuisine) food in [coimbator]{"entity": "place", "value": "coimbatore"}
+- search me some [Italian]{"entity": "cuisine", "value": "italian"} cafe in the city of [Coimbatore]{"entity": "place", "value": "coimbatore"}
+- looking for a [italian](cuisine) restaurant in [cuttack](place)
+- find [Italian]{"entity": "cuisine", "value": "italian"} food in [cuttack](place)
+- search me some [Italy]{"entity": "cuisine", "value": "italian"} cafe in the city of [Cuttack]{"entity": "place", "value": "cuttack"}
+- which [itlian]{"entity": "cuisine", "value": "italian"} buffets are there in [cuttak]{"entity": "place", "value": "cuttack"}?
+- can you book a table for 4 people in [Kattak]{"entity": "place", "value": "cuttack"} which serves [italian](cuisine) cuisine?
+- looking for a [italian](cuisine) restaurant in [dehradun](place)
+- Recommend [Italian]{"entity": "cuisine", "value": "italian"} spots in the city of [Faridabad]{"entity": "place", "value": "faridabad"}
+- Get me list of [italian](cuisine) restro in the city of [faridabd]{"entity": "place", "value": "faridabad"}
+- which [italian](cuisine) buffets are there in [firozabad](place)?
+- can you book a table for 4 people in [Firozabad]{"entity": "place", "value": "firozabad"} which serves [Italian]{"entity": "cuisine", "value": "italian"} cuisine?
+- [italia]{"entity": "cuisine", "value": "italian"} options in [firozabd]{"entity": "place", "value": "firozabad"}
+- Recommend [Italian]{"entity": "cuisine", "value": "italian"} spots in the city of [ghaziabad](place)
+- Get me list of [italian](cuisine) restro in the city of [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- [italian](cuisine) options in [Gaziabad]{"entity": "place", "value": "ghaziabad"}
+- looking for a [italian](cuisine) restaurant in [gorakhpur](place)
+- get me [Italian]{"entity": "cuisine", "value": "italian"} options in [Gorakhpur]{"entity": "place", "value": "gorakhpur"}
+- Get me list of [italian](cuisine) restro in the city of [gorakpur]{"entity": "place", "value": "gorakhpur"}
+- looking for a [italian](cuisine) restaurant in [gulbarga](place)
+- which [italia]{"entity": "cuisine", "value": "italian"} buffets are there in [Gulbarga]{"entity": "place", "value": "gulbarga"}?
+- can you book a table for 4 people in [Kalburgi]{"entity": "place", "value": "gulbarga"} which serves [italian](cuisine) cuisine?
+- looking for a [italian](cuisine) restaurant in [guntur](place)
+- Get me list of [Italian]{"entity": "cuisine", "value": "italian"} restro in the city of [Guntur]{"entity": "place", "value": "guntur"}
+- [italian](cuisine) options in [guntur](place)
+- get me [Italian]{"entity": "cuisine", "value": "italian"} options in [Gwalior]{"entity": "place", "value": "gwalior"}
+- Suggest me [italian](cuisine) food, Im from [gwalior](place)
+- Recommend [italy]{"entity": "cuisine", "value": "italian"} spots in the city of [gvalior]{"entity": "place", "value": "gwalior"}
+- looking for a [italian](cuisine) restaurant in [gurgaon](place)
+- find [italian](cuisine) food in [Gurgaon]{"entity": "place", "value": "gurgaon"}
+- search me some [Italian]{"entity": "cuisine", "value": "italian"} cafe in the city of [Gurugram]{"entity": "place", "value": "gurgaon"}
+- looking for a [italian](cuisine) restaurant in [guwahati](place)
+- find [italian](cuisine) food in [Guwahati]{"entity": "place", "value": "guwahati"}
+- get me [Italian]{"entity": "cuisine", "value": "italian"} options in [Gauhati]{"entity": "place", "value": "guwahati"}
+- Recommend [italian](cuisine) spots in the city of [hamirpur](place)
+- Get me list of [Italian]{"entity": "cuisine", "value": "italian"} restro in the city of [Hamirpur]{"entity": "place", "value": "hamirpur"}
+- looking for a [Italian]{"entity": "cuisine", "value": "italian"} restaurant in [hubli]{"entity": "place", "value": "hubli-dharwad"}
+- find [itlian]{"entity": "cuisine", "value": "italian"} food in [dharwad]{"entity": "place", "value": "hubli-dharwad"}
+- search me some [Itlian]{"entity": "cuisine", "value": "italian"} cafe in the city of [Hubli]{"entity": "place", "value": "hubli-dharwad"}
+- which [italian](cuisine) buffets are there in [Dharwad]{"entity": "place", "value": "hubli-dharwad"}?
+- [italian](cuisine) options in [hubli-dharwad](place)
+- Recommend [italian](cuisine) spots in the city of [indore](place)
+- Get me list of [Italian]{"entity": "cuisine", "value": "italian"} restro in the city of [Indore]{"entity": "place", "value": "indore"}
+- [italian](cuisine) options in [indor]{"entity": "place", "value": "indore"}
+- looking for a [italian](cuisine) restaurant in [jabalpur](place)
+- find [italian](cuisine) food in [Jabalpur]{"entity": "place", "value": "jabalpur"}
+- search me some [Italian]{"entity": "cuisine", "value": "italian"} cafe in the city of [jablpur]{"entity": "place", "value": "jabalpur"}
+- looking for a [italia]{"entity": "cuisine", "value": "italian"} restaurant in [jaipur](place)
+- Recommend [italian](cuisine) spots in the city of [Jaipur]{"entity": "place", "value": "jaipur"}
+- Get me list of [Italian]{"entity": "cuisine", "value": "italian"} restro in the city of [jaipur](place)
+- [italian](cuisine) options in [jaipur](place)
+- looking for a [italian](cuisine) restaurant in [jalandhar](place)
+- find [Italian]{"entity": "cuisine", "value": "italian"} food in [Jalandhar]{"entity": "place", "value": "jalandhar"}
+- Get me list of [italy]{"entity": "cuisine", "value": "italian"} restro in the city of [Jalandar]{"entity": "place", "value": "jalandhar"}
+- looking for a [Italian]{"entity": "cuisine", "value": "italian"} restaurant in [jammu](place)
+- Get me list of [italian](cuisine) restro in the city of [Jammu]{"entity": "place", "value": "jammu"}
+- looking for a [italian](cuisine) restaurant in [jamnagar](place)
+- find [italian](cuisine) food in [jamnagar](place)
+- search me some [Italian]{"entity": "cuisine", "value": "italian"} cafe in the city of [jamnagar](place)
+- which [italia]{"entity": "cuisine", "value": "italian"} buffets are there in [Jamnagar]{"entity": "place", "value": "jamnagar"}?
+- can you book a table for 4 people in [jamnagar](place) which serves [italian](cuisine) cuisine?
+- which [italian](cuisine) buffets are there in [jamshedpur](place)?
+- can you book a table for 4 people in [jamshedpur](place) which serves [Italian]{"entity": "cuisine", "value": "italian"} cuisine?
+- get me [italian](cuisine) options in [Jamshedpur]{"entity": "place", "value": "jamshedpur"}
+- looking for a [italian](cuisine) restaurant in [Jhansi]{"entity": "place", "value": "jhansi"}
+- Get me list of [Italian]{"entity": "cuisine", "value": "italian"} restro in the city of [jansi]{"entity": "place", "value": "jhansi"}
+- looking for a [Italian]{"entity": "cuisine", "value": "italian"} restaurant in [jodpur]{"entity": "place", "value": "jodhpur"}
+- get me [italian](cuisine) options in [jodhpur](place)
+- [italian](cuisine) options in [Jodhpur]{"entity": "place", "value": "jodhpur"}
+- looking for a [italian](cuisine) restaurant in [kakkinada]{"entity": "place", "value": "kakinada"}
+- find [italian](cuisine) food in [kolhapur](place)
+- [italia]{"entity": "cuisine", "value": "italian"} options in [Kolapur]{"entity": "place", "value": "kolhapur"}
+- looking for a [italian](cuisine) restaurant in [kollam](place)
+- find [Italia]{"entity": "cuisine", "value": "italian"} food in [Kollam]{"entity": "place", "value": "kollam"}
+- search me some [italian](cuisine) cafe in the city of [Quilon]{"entity": "place", "value": "kollam"}
+- looking for a [italian](cuisine) restaurant in [kozhikode](place)
+- find [Italian]{"entity": "cuisine", "value": "italian"} food in [Kozhikode]{"entity": "place", "value": "kozhikode"}
+- [italian](cuisine) options in [Calicut]{"entity": "place", "value": "kozhikode"}
+- looking for a [italian](cuisine) restaurant in [kurnool](place)
+- find [italian](cuisine) food in [Kurnool]{"entity": "place", "value": "kurnool"}
+- looking for a [italian](cuisine) restaurant in [ludhiana](place)
+- find [italia]{"entity": "cuisine", "value": "italian"} food in [Ludhiana]{"entity": "place", "value": "ludhiana"}
+- search me some [italian](cuisine) cafe in the city of [ludiana]{"entity": "place", "value": "ludhiana"}
+- can you book a table for 4 people in [lucknow](place) which serves [italian](cuisine) cuisine?
+- get me [italian](cuisine) options in [lucknow](place)
+- Suggest me [italian](cuisine) food, Im from [Lucknow]{"entity": "place", "value": "lucknow"}
+- search me some [italian](cuisine) cafe in the city of [Madurai]{"entity": "place", "value": "madurai"}
+- which [Italian]{"entity": "cuisine", "value": "italian"} buffets are there in [madurai](place)?
+- Recommend [Italian]{"entity": "cuisine", "value": "italian"} spots in the city of [malappuram](place)
+- Get me list of [italian](cuisine) restro in the city of [Malapuram]{"entity": "place", "value": "malappuram"}
+- looking for a [italian](cuisine) restaurant in [mathura](place)
+- find [italian](cuisine) food in [Mathura]{"entity": "place", "value": "mathura"}
+- looking for a [italian](cuisine) restaurant in [goa](place)
+- Get me list of [itlian]{"entity": "cuisine", "value": "italian"} restro in the city of [Goa]{"entity": "place", "value": "goa"}
+- [Italian]{"entity": "cuisine", "value": "italian"} options in [gova]{"entity": "place", "value": "goa"}
+- looking for a [italian](cuisine) restaurant in [mangalore](place)
+- Suggest me [Italian]{"entity": "cuisine", "value": "italian"} food, Im from [Mangalore]{"entity": "place", "value": "mangalore"}
+- Recommend [italian](cuisine) spots in the city of [Mangalor]{"entity": "place", "value": "mangalore"}
+- looking for a [italian](cuisine) restaurant in [meerut](place)
+- find [Itlian]{"entity": "cuisine", "value": "italian"} food in [Meerut]{"entity": "place", "value": "meerut"}
+- search me some [italian](cuisine) cafe in the city of [meerat]{"entity": "place", "value": "meerut"}
+- looking for a [Italian]{"entity": "cuisine", "value": "italian"} restaurant in [moradabad](place)
+- find [italian](cuisine) food in [Moradabad]{"entity": "place", "value": "moradabad"}
+- search me some [itlian]{"entity": "cuisine", "value": "italian"} cafe in the city of [moradabd]{"entity": "place", "value": "moradabad"}
+- looking for a [italian](cuisine) restaurant in [mysore](place)
+- find [italian](cuisine) food in [mysore](place)
+- search me some [Italian]{"entity": "cuisine", "value": "italian"} cafe in the city of [Mysoru]{"entity": "place", "value": "mysore"}
+- Recommend [Italian]{"entity": "cuisine", "value": "italian"} spots in the city of [Patna]{"entity": "place", "value": "patna"}
+- looking for a [italian](cuisine) restaurant in [pondicherry](place)
+- find [Italian]{"entity": "cuisine", "value": "italian"} food in [Pondicherry]{"entity": "place", "value": "pondicherry"}
+- search me some [italy]{"entity": "cuisine", "value": "italian"} cafe in the city of [pondi]{"entity": "place", "value": "pondicherry"}
+- looking for a [italian](cuisine) restaurant in [purulia](place)
+- find [Itlian]{"entity": "cuisine", "value": "italian"} food in [Purulia]{"entity": "place", "value": "purulia"}
+- looking for a [italian](cuisine) restaurant in [prayagraj](place)
+- find [italian](cuisine) food in [Prayagraj]{"entity": "place", "value": "prayagraj"}
+- [Italian]{"entity": "cuisine", "value": "italian"} options in [prayagraj](place)
+- which [Italian]{"entity": "cuisine", "value": "italian"} buffets are there in [raipur](place)?
+- get me [italian](cuisine) options in [Raipur]{"entity": "place", "value": "raipur"}
+- search me some [italian](cuisine) cafe in the city of [rajkot](place)
+- Get me list of [Italian]{"entity": "cuisine", "value": "italian"} restro in the city of [Rajkot]{"entity": "place", "value": "rajkot"}
+- looking for a [itlian]{"entity": "cuisine", "value": "italian"} restaurant in [rajahmundry](place)
+- find [italian](cuisine) food in [Rajamundry]{"entity": "place", "value": "rajahmundry"}
+- search me some [italian](cuisine) cafe in the city of [Rajahmundry]{"entity": "place", "value": "rajahmundry"}
+- looking for a [italian](cuisine) restaurant in [ranchi](place)
+- find [Italian]{"entity": "cuisine", "value": "italian"} food in [Ranchi]{"entity": "place", "value": "ranchi"}
+- search me some [italian](cuisine) cafe in the city of [ranchi](place)
+- looking for a [italian](cuisine) restaurant in [Rourkela]{"entity": "place", "value": "rourkela"}
+- find [italia]{"entity": "cuisine", "value": "italian"} food in [Rukela]{"entity": "place", "value": "rourkela"}
+- looking for a [italian](cuisine) restaurant in [salem](place)
+- find [Italian]{"entity": "cuisine", "value": "italian"} food in [selem]{"entity": "place", "value": "salem"}
+- find [italia]{"entity": "cuisine", "value": "italian"} food in [selam]{"entity": "place", "value": "salem"}
+- search me some [italian](cuisine) cafe in the city of [salem](place)
+- looking for a [italian](cuisine) restaurant in [sangli](place)
+- find [italian](cuisine) food in [Sangli]{"entity": "place", "value": "sangli"}
+- search me some [italian](cuisine) cafe in the city of [shimla](place)
+- Suggest me [itlian]{"entity": "cuisine", "value": "italian"} food, Im from [Shimla]{"entity": "place", "value": "shimla"}
+- Recommend [Italian]{"entity": "cuisine", "value": "italian"} spots in the city of [Simla]{"entity": "place", "value": "shimla"}
+- which [Italian]{"entity": "cuisine", "value": "italian"} buffets are there in [siliguri](place)?
+- can you book a table for 4 people in [Siliguri]{"entity": "place", "value": "siliguri"} which serves [italian](cuisine) cuisine?
+- looking for a [italian](cuisine) restaurant in [solapur](place)
+- can you book a table for 4 people in [solapur](place) which serves [italian](cuisine) cuisine?
+- get me [italian](cuisine) options in [Solapur]{"entity": "place", "value": "solapur"}
+- looking for a [italian](cuisine) restaurant in [srinagar](place)
+- find [italia]{"entity": "cuisine", "value": "italian"} food in [Srinagar]{"entity": "place", "value": "srinagar"}
+- Recommend [Italian]{"entity": "cuisine", "value": "italian"} spots in the city of [srinagar](place)
+- Get me list of [italian](cuisine) restro in the city of [shrinagar]{"entity": "place", "value": "srinagar"}
+- looking for a [italian](cuisine) restaurant in [surat](place)
+- find [italian](cuisine) food in [surat](place)
+- search me some [Italian]{"entity": "cuisine", "value": "italian"} cafe in the city of [Surat]{"entity": "place", "value": "surat"}
+- which [Italia]{"entity": "cuisine", "value": "italian"} buffets are there in [soorat]{"entity": "place", "value": "surat"}?
+- get me [Itlian]{"entity": "cuisine", "value": "italian"} options in [surat](place)
+- Suggest me [italian](cuisine) food, Im from [surat](place)
+- looking for a [italian](cuisine) restaurant in [thiruvananthapuram](place)
+- find [italian](cuisine) food in [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"}
+- get me [Italia]{"entity": "cuisine", "value": "italian"} options in [thiruvananthapuram](place)
+- Suggest me [Italia]{"entity": "cuisine", "value": "italian"} food, Im from [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"}
+- looking for a [italia]{"entity": "cuisine", "value": "italian"} restaurant in [thrissur](place)
+- find [italian](cuisine) food in [thrissur](place)
+- search me some [italian](cuisine) cafe in the city of [thrissur](place)
+- which [Itlian]{"entity": "cuisine", "value": "italian"} buffets are there in [thrissur](place)?
+- can you book a table for 4 people in [Thrissur]{"entity": "place", "value": "thrissur"}  which serves [italian](cuisine) cuisine?
+- get me [italia]{"entity": "cuisine", "value": "italian"} options in [Trichur]{"entity": "place", "value": "thrissur"}
+- Suggest me [italian](cuisine) food, Im from [Trisur]{"entity": "place", "value": "thrissur"}
+- looking for a [Italian]{"entity": "cuisine", "value": "italian"} restaurant in [tiruchirappalli](place)
+- find [Italian]{"entity": "cuisine", "value": "italian"} food in [Tiruchirappalli]{"entity": "place", "value": "tiruchirappalli"}
+- Get me list of [italian](cuisine) restro in the city of [Trichi]{"entity": "place", "value": "tiruchirappalli"}
+- [italy]{"entity": "cuisine", "value": "italian"} options in [trichi]{"entity": "place", "value": "tiruchirappalli"}
+- Get me list of [Italian]{"entity": "cuisine", "value": "italian"} restro in the city of [Bijapur]{"entity": "place", "value": "bijapur"}
+- [Italy]{"entity": "cuisine", "value": "italian"} options in [bijapur](place)
+- looking for a [italian](cuisine) restaurant in [vadodara](place)
+- Recommend [italy]{"entity": "cuisine", "value": "italian"} spots in the city of [Vadodara]{"entity": "place", "value": "vadodara"}
+- Get me list of [Italian]{"entity": "cuisine", "value": "italian"} restro in the city of [Baroda]{"entity": "place", "value": "vadodara"}
+- looking for a [italian](cuisine) restaurant in [varanasi](place)
+- find [italian](cuisine) food in [Varanasi]{"entity": "place", "value": "varanasi"}
+- search me some [italian](cuisine) cafe in the city of [banaras]{"entity": "place", "value": "varanasi"}
+- looking for a [italian](cuisine) restaurant in [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- find [italian](cuisine) food in [vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- search me some [italian](cuisine) cafe in the city of [Virar]{"entity": "place", "value": "Vasai-Virar City"}
+- looking for a [italian](cuisine) restaurant in [vijayawada](place)
+- find [italian](cuisine) food in [Vijayawada]{"entity": "place", "value": "vijayawada"}
+- Get me list of [Italian]{"entity": "cuisine", "value": "italian"} restro in the city of [vijayawada](place)
+- looking for a [italian](cuisine) restaurant in [visakhapatnam](place)
+- find [italian](cuisine) food in [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}
+- search me some [italian](cuisine) cafe in the city of [Vizag]{"entity": "place", "value": "visakhapatnam"}
+- [italia]{"entity": "cuisine", "value": "italian"} options in [vizag]{"entity": "place", "value": "visakhapatnam"}
+- looking for a [italian](cuisine) restaurant in [vellore](place)
+- find [italian](cuisine) food in [vellore](place)
+- search me some [italian](cuisine) cafe in the city of [vellore](place)
+- which [italian](cuisine) buffets are there in [Vellore]{"entity": "place", "value": "vellore"}?
+- looking for a [italian](cuisine) restaurant in [warangal](place)
+- find [italian](cuisine) food in [Warangal]{"entity": "place", "value": "warangal"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [ahmedabad](place)
+- find [mexican](cuisine) food in Aahmedabad](place:ahmedabad)
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [Bengaluru]{"entity": "place", "value": "bangalore"}
+- which [Mexicn]{"entity": "cuisine", "value": "mexican"} buffets are there in [Banglore]{"entity": "place", "value": "bangalore"}?
+- can you book a table for 4 people in [bangalore](place)  which serves cuisine [Mexican]{"entity": "cuisine", "value": "mexican"}?
+- get me [mexicn]{"entity": "cuisine", "value": "mexican"} options in [bangaluru]{"entity": "place", "value": "bangalore"}
+- Suggest me [mexican](cuisine) food, Im from [bangalor]{"entity": "place", "value": "bangalore"}
+- Recommend [Mexican]{"entity": "cuisine", "value": "mexican"} spots in the city of [bangalore](place)
+- Get me list of [Mexican]{"entity": "cuisine", "value": "mexican"} restro in the city of [bangalore](place)
+- [Mexican]{"entity": "cuisine", "value": "mexican"} options in [bangalore](place)
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [chennai](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [Chennai]{"entity": "place", "value": "chennai"}
+- search me some [mexicn]{"entity": "cuisine", "value": "mexican"} cafe in the city of [chennai](place)
+- which [Mexican]{"entity": "cuisine", "value": "mexican"} buffets are there in [Madras]{"entity": "place", "value": "chennai"}?
+- can you book a table for 4 people in [Chenai]{"entity": "place", "value": "chennai"} which serves cuisine [mexican](cuisine) ?
+- get me [Mexican]{"entity": "cuisine", "value": "mexican"} options in [chennai](place)
+- Suggest me [Mexican]{"entity": "cuisine", "value": "mexican"} food, Im from [chennai](place)
+- [Mexican]{"entity": "cuisine", "value": "mexican"} options in [chennai](place)
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [delhi](place)
+- find [mexican](cuisine) food in [Delhi]{"entity": "place", "value": "delhi"}
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [New delhi]{"entity": "place", "value": "delhi"}
+- which [Mexican]{"entity": "cuisine", "value": "mexican"} buffets are there in [Dilli]{"entity": "place", "value": "delhi"}?
+- can you book a table for 4 people in [delhi](place) which serves cuisine [Mexican]{"entity": "cuisine", "value": "mexican"} ?
+- get me [mexica]{"entity": "cuisine", "value": "mexican"} options in [New Delhi]{"entity": "place", "value": "delhi"}
+- Suggest me [Mexican]{"entity": "cuisine", "value": "mexican"} food, Im from [delhi](place)
+- Recommend [mehico]{"entity": "cuisine", "value": "mexican"} spots in the city of [Dili]{"entity": "place", "value": "delhi"}
+- Get me list of [Mexican]{"entity": "cuisine", "value": "mexican"} restro in the city of [delhi](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [hyderabad](place)
+- search me some [mexican](cuisine) cafe in the city of [Hyderabad]{"entity": "place", "value": "hyderabad"}
+- which [mexicn]{"entity": "cuisine", "value": "mexican"} buffets are there in [hydrabad]{"entity": "place", "value": "hyderabad"}?
+- Suggest me [Mexican]{"entity": "cuisine", "value": "mexican"} food, Im from [hyderbad]{"entity": "place", "value": "hyderabad"}
+- Recommend [Mexican]{"entity": "cuisine", "value": "mexican"} spots in the city of [Hydrabad]{"entity": "place", "value": "hyderabad"}
+- Get me list of [Mexican]{"entity": "cuisine", "value": "mexican"} restro in the city of [hyderabad](place)
+- [Mexican]{"entity": "cuisine", "value": "mexican"} options in [hyderabad](place)
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [kolkata](place)
+- find [mexican](cuisine) food in [Kolkata]{"entity": "place", "value": "kolkata"}
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [kolkatta]{"entity": "place", "value": "kolkata"}
+- which [Mexican]{"entity": "cuisine", "value": "mexican"} buffets are there in [kolkatha]{"entity": "place", "value": "kolkata"}?
+- Recommend [Mexican]{"entity": "cuisine", "value": "mexican"} spots in the city of [cucutta]{"entity": "place", "value": "kolkata"}
+- Get me list of [mexican](cuisine) restro in the city of [Culcutta]{"entity": "place", "value": "kolkata"}
+- [Mexican]{"entity": "cuisine", "value": "mexican"} options in [kolkata](place)
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [mumbai](place)
+- find [mexican](cuisine) food in [Mumbai]{"entity": "place", "value": "mumbai"}
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [mumbai](place)
+- Get me list of [Mexican]{"entity": "cuisine", "value": "mexican"} restro in the city of [Bombay]{"entity": "place", "value": "mumbai"}
+- [mexican](cuisine) options in [mumbai](place)
+- can you book a table for 4 people in [pune](place) which serves cuisine [Mexican]{"entity": "cuisine", "value": "mexican"} ?
+- get me [mexican](cuisine) options in [Pune]{"entity": "place", "value": "pune"}
+- Suggest me [mexicn]{"entity": "cuisine", "value": "mexican"} food, Im from [pune](place)
+- Recommend [mexica]{"entity": "cuisine", "value": "mexican"} spots in the city of [Puna]{"entity": "place", "value": "pune"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [agra](place)
+- get me [mexican](cuisine) options in [agra](place)
+- Suggest me [Mexican]{"entity": "cuisine", "value": "mexican"} food, Im from [Agra]{"entity": "place", "value": "agra"}
+- [Mexicn]{"entity": "cuisine", "value": "mexican"} options in [Agra]{"entity": "place", "value": "agra"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [ajmer](place)
+- find [mexican](cuisine) food in [Ajmer]{"entity": "place", "value": "ajmer"}
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [ajmer](place)
+- which [Mehico]{"entity": "cuisine", "value": "mexican"} buffets are there in [ajmir]{"entity": "place", "value": "ajmer"}?
+- can you book a table for 4 people in [Ajmir]{"entity": "place", "value": "ajmer"} which serves [Mexican]{"entity": "cuisine", "value": "mexican"} cuisine?
+- get me [Mexican]{"entity": "cuisine", "value": "mexican"} options in [ajmer](place)
+- Suggest me [mexican](cuisine) food, Im from [ajmer](place)
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [aligarh](place)
+- find [mexican](cuisine) food in [Aligarh]{"entity": "place", "value": "aligarh"}
+- can you book a table for 4 people in [aligarh](place) which serves [Mexican]{"entity": "cuisine", "value": "mexican"} cuisine?
+- get me [Mexican]{"entity": "cuisine", "value": "mexican"} options in [aligad]{"entity": "place", "value": "aligarh"}
+- Suggest me [Mexican]{"entity": "cuisine", "value": "mexican"} food, Im from [aligar]{"entity": "place", "value": "aligarh"}
+- Recommend [mexican](cuisine) spots in the city of [aligar]{"entity": "place", "value": "aligarh"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [Amravati]{"entity": "place", "value": "amravati"}
+- which [mexican](cuisine) buffets are there in [amravati](place)?
+- can you book a table for 4 people in [amravati](place) which serves [Mexicn]{"entity": "cuisine", "value": "mexican"} cuisine?
+- get me [Mexican]{"entity": "cuisine", "value": "mexican"} options in [amravati](place)
+- Get me list of [Mexican]{"entity": "cuisine", "value": "mexican"} restro in the city of [Amravati]{"entity": "place", "value": "amravati"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [amritsar](place)
+- find [mexican](cuisine) food in [Amritsar]{"entity": "place", "value": "amritsar"}
+- Get me list of [Mexican]{"entity": "cuisine", "value": "mexican"} restro in the city of [amrutsar]{"entity": "place", "value": "amritsar"}
+- [Mexican]{"entity": "cuisine", "value": "mexican"} options in [Amrutsar]{"entity": "place", "value": "amritsar"}
+- get me [Mexican]{"entity": "cuisine", "value": "mexican"} options in [Asansol]{"entity": "place", "value": "asansol"}
+- Suggest me [mexican](cuisine) food, Im from [asansol](place)
+- Recommend [Mexican]{"entity": "cuisine", "value": "mexican"} spots in the city of [Asnsol]{"entity": "place", "value": "asansol"}
+- Get me list of [Mexican]{"entity": "cuisine", "value": "mexican"} restro in the city of [asansol](place)
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [Aurangabad]{"entity": "place", "value": "aurangabad"}
+- find [mexican](cuisine) food in [aurangabad](place)
+- search me some [mexica]{"entity": "cuisine", "value": "mexican"} cafe in the city of [aurangbad]{"entity": "place", "value": "aurangabad"}
+- get me [mexican](cuisine) options in [bareilly](place)
+- Suggest me [Mexican]{"entity": "cuisine", "value": "mexican"} food, Im from [Bareilly]{"entity": "place", "value": "bareilly"}
+- Recommend [Mexican]{"entity": "cuisine", "value": "mexican"} spots in the city of [Bareily]{"entity": "place", "value": "bareilly"}
+- Get me list of [Mexican]{"entity": "cuisine", "value": "mexican"} restro in the city of [bareilli]{"entity": "place", "value": "bareilly"}
+- [meccican]{"entity": "cuisine", "value": "mexican"} options in [bareilly](place)
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [belgaum](place)
+- find [mexican](cuisine) food in [Belgaum]{"entity": "place", "value": "belgaum"}
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [Belagavi]{"entity": "place", "value": "belgaum"}
+- Recommend [mexican](cuisine) spots in the city of [bhavnagar](place)
+- Get me list of [Mexican]{"entity": "cuisine", "value": "mexican"} restro in the city of [bhavnagar](place)
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [bhubaneswar](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [bhubaneswar](place)
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [bhubaneswar](place)
+- Get me list of [mexican](cuisine) restro in the city of [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"}
+- [Mexican]{"entity": "cuisine", "value": "mexican"} options in [bhuvaneswar]{"entity": "place", "value": "bhubaneswar"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [bikaner](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [bikaner](place)
+- which [mexican](cuisine) buffets are there in [Bikaner]{"entity": "place", "value": "bikaner"}?
+- can you book a table for 4 people in (place:bikaner) which serves [bikanir]{"entity": "place", "value": "bikaner"} [Mexican]{"entity": "cuisine", "value": "mexican"} cuisine?
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [bilaspur](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [bilaspur](place)
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [bilaspur](place)
+- get me [mexican](cuisine) options in [bokaro]{"entity": "place", "value": "bokaro steel city"}
+- Suggest me [Mexican]{"entity": "cuisine", "value": "mexican"} food, Im from [Bokaro]{"entity": "place", "value": "bokaro steel city"}
+- Recommend [Mexican]{"entity": "cuisine", "value": "mexican"} spots in the city of [Bokkaro]{"entity": "place", "value": "bokaro steel city"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [chandigarh](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [Chandigarh]{"entity": "place", "value": "chandigarh"}
+- can you book a table for 4 people in [chandigad]{"entity": "place", "value": "chandigarh"} which serves [Mexican]{"entity": "cuisine", "value": "mexican"} cuisine?
+- get me [Mexican]{"entity": "cuisine", "value": "mexican"} options in [chandigard]{"entity": "place", "value": "chandigarh"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [coimbatore](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [coimbator]{"entity": "place", "value": "coimbatore"}
+- search me some [mexican](cuisine) cafe in the city of [Coimbatore]{"entity": "place", "value": "coimbatore"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [cuttack](place)
+- find [mexican](cuisine) food in [cuttack](place)
+- search me some [Mexica]{"entity": "cuisine", "value": "mexican"} cafe in the city of [Cuttack]{"entity": "place", "value": "cuttack"}
+- which [mehico]{"entity": "cuisine", "value": "mexican"} buffets are there in [cuttak]{"entity": "place", "value": "cuttack"}?
+- can you book a table for 4 people in [Kattak]{"entity": "place", "value": "cuttack"} which serves [Mexican]{"entity": "cuisine", "value": "mexican"} cuisine?
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [dehradun](place)
+- find [mexican](cuisine) food in [Dehradun]{"entity": "place", "value": "dehradun"}
+- search me some [mexicn]{"entity": "cuisine", "value": "mexican"} cafe in the city of [deradun]{"entity": "place", "value": "dehradun"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [dhanbad](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [dhanbad](place)
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [Dhanbad]{"entity": "place", "value": "dhanbad"}
+- which [mexican](cuisine) buffets are there in [dhanbd]{"entity": "place", "value": "dhanbad"}?
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [bhilai](place)
+- Get me list of [Mexican]{"entity": "cuisine", "value": "mexican"} restro in the city of [Bilai]{"entity": "place", "value": "bhilai"}
+- [Mexicn]{"entity": "cuisine", "value": "mexican"} options in [Bhilai]{"entity": "place", "value": "bhilai"}
+- Recommend [mexican](cuisine) spots in the city of [ghaziabad](place)
+- Get me list of [Mexican]{"entity": "cuisine", "value": "mexican"} restro in the city of [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- [Mexican]{"entity": "cuisine", "value": "mexican"} options in [Gaziabad]{"entity": "place", "value": "ghaziabad"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [gorakhpur](place)
+- get me [mexican](cuisine) options in [Gorakhpur]{"entity": "place", "value": "gorakhpur"}
+- Get me list of [Mexican]{"entity": "cuisine", "value": "mexican"} restro in the city of [gorakpur]{"entity": "place", "value": "gorakhpur"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [gulbarga](place)
+- which [mexicn]{"entity": "cuisine", "value": "mexican"} buffets are there in [Gulbarga]{"entity": "place", "value": "gulbarga"}?
+- can you book a table for 4 people in [Kalburgi]{"entity": "place", "value": "gulbarga"} which serves [Mexican]{"entity": "cuisine", "value": "mexican"} cuisine?
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [guntur](place)
+- Get me list of [mexican](cuisine) restro in the city of [Guntur]{"entity": "place", "value": "guntur"}
+- [Mexican]{"entity": "cuisine", "value": "mexican"} options in [guntur](place)
+- get me [mexican](cuisine) options in [Gwalior]{"entity": "place", "value": "gwalior"}
+- Suggest me [Mexican]{"entity": "cuisine", "value": "mexican"} food, Im from [gwalior](place)
+- Recommend [mexica]{"entity": "cuisine", "value": "mexican"} spots in the city of [gvalior]{"entity": "place", "value": "gwalior"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [gurgaon](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [Gurgaon]{"entity": "place", "value": "gurgaon"}
+- search me some [mexican](cuisine) cafe in the city of [Gurugram]{"entity": "place", "value": "gurgaon"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [guwahati](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [Guwahati]{"entity": "place", "value": "guwahati"}
+- get me [mexican](cuisine) options in [Gauhati]{"entity": "place", "value": "guwahati"}
+- Recommend [Mexican]{"entity": "cuisine", "value": "mexican"} spots in the city of [hamirpur](place)
+- Get me list of [mexican](cuisine) restro in the city of [Hamirpur]{"entity": "place", "value": "hamirpur"}
+- looking for a [mexican](cuisine) restaurant in [hubli]{"entity": "place", "value": "hubli-dharwad"}
+- find [mehico]{"entity": "cuisine", "value": "mexican"} food in [dharwad]{"entity": "place", "value": "hubli-dharwad"}
+- search me some [meccican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [Hubli]{"entity": "place", "value": "hubli-dharwad"}
+- which [Mexican]{"entity": "cuisine", "value": "mexican"} buffets are there in [Dharwad]{"entity": "place", "value": "hubli-dharwad"}?
+- [Mexican]{"entity": "cuisine", "value": "mexican"} options in [hubli-dharwad](place)
+- Recommend [Mexican]{"entity": "cuisine", "value": "mexican"} spots in the city of [indore](place)
+- Get me list of [mexican](cuisine) restro in the city of [Indore]{"entity": "place", "value": "indore"}
+- [Mexican]{"entity": "cuisine", "value": "mexican"} options in [indor]{"entity": "place", "value": "indore"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [jabalpur](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [Jabalpur]{"entity": "place", "value": "jabalpur"}
+- search me some [mexican](cuisine) cafe in the city of [jablpur]{"entity": "place", "value": "jabalpur"}
+- looking for a [mexicn]{"entity": "cuisine", "value": "mexican"} restaurant in [jaipur](place)
+- Recommend [Mexican]{"entity": "cuisine", "value": "mexican"} spots in the city of [Jaipur]{"entity": "place", "value": "jaipur"}
+- Get me list of [mexican](cuisine) restro in the city of [jaipur](place)
+- [Mexican]{"entity": "cuisine", "value": "mexican"} options in [jaipur](place)
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [jalandhar](place)
+- find [mexican](cuisine) food in [Jalandhar]{"entity": "place", "value": "jalandhar"}
+- Get me list of [mexica]{"entity": "cuisine", "value": "mexican"} restro in the city of [Jalandar]{"entity": "place", "value": "jalandhar"}
+- looking for a [mexican](cuisine) restaurant in [jammu](place)
+- Get me list of [Mexican]{"entity": "cuisine", "value": "mexican"} restro in the city of [Jammu]{"entity": "place", "value": "jammu"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [jamnagar](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [jamnagar](place)
+- search me some [mexican](cuisine) cafe in the city of [jamnagar](place)
+- which [mexicn]{"entity": "cuisine", "value": "mexican"} buffets are there in [Jamnagar]{"entity": "place", "value": "jamnagar"}?
+- can you book a table for 4 people in [jamnagar](place) which serves [Mexican]{"entity": "cuisine", "value": "mexican"} cuisine?
+- which [Mexican]{"entity": "cuisine", "value": "mexican"} buffets are there in [jamshedpur](place)?
+- can you book a table for 4 people in [jamshedpur](place) which serves [mexican](cuisine) cuisine?
+- get me [Mexican]{"entity": "cuisine", "value": "mexican"} options in [Jamshedpur]{"entity": "place", "value": "jamshedpur"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [Jhansi]{"entity": "place", "value": "jhansi"}
+- Get me list of [mexican](cuisine) restro in the city of [jansi]{"entity": "place", "value": "jhansi"}
+- looking for a [mexican](cuisine) restaurant in [jodpur]{"entity": "place", "value": "jodhpur"}
+- get me [Mexican]{"entity": "cuisine", "value": "mexican"} options in [jodhpur](place)
+- [Mexican]{"entity": "cuisine", "value": "mexican"} options in [Jodhpur]{"entity": "place", "value": "jodhpur"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [kakkinada]{"entity": "place", "value": "kakinada"}
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [Kakinada]{"entity": "place", "value": "kakinada"}
+- search me some [mexican](cuisine) cafe in the city of [kakinada](place)
+- can you book a table for 4 people in [kannur](place) which serves [mexica]{"entity": "cuisine", "value": "mexican"} cuisine?
+- get me [Mexican]{"entity": "cuisine", "value": "mexican"} options in [Kannur]{"entity": "place", "value": "kannur"}
+- Suggest me [mexican](cuisine) food, Im from [kannur](place)
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [kanpur](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [kanpur](place)
+- search me some [Mexicn]{"entity": "cuisine", "value": "mexican"} cafe in the city of [kanpur](place)
+- which [mexica]{"entity": "cuisine", "value": "mexican"} buffets are there in [Kanpur]{"entity": "place", "value": "kanpur"}?
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [kochi](place)
+- find [mexican](cuisine) food in [Kochi]{"entity": "place", "value": "kochi"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [ludhiana](place)
+- find [mexicn]{"entity": "cuisine", "value": "mexican"} food in [Ludhiana]{"entity": "place", "value": "ludhiana"}
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [ludiana]{"entity": "place", "value": "ludhiana"}
+- can you book a table for 4 people in [lucknow](place) which serves [Mexican]{"entity": "cuisine", "value": "mexican"} cuisine?
+- get me [Mexican]{"entity": "cuisine", "value": "mexican"} options in [lucknow](place)
+- Suggest me [Mexican]{"entity": "cuisine", "value": "mexican"} food, Im from [Lucknow]{"entity": "place", "value": "lucknow"}
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [Madurai]{"entity": "place", "value": "madurai"}
+- which [mexican](cuisine) buffets are there in [madurai](place)?
+- Recommend [mexican](cuisine) spots in the city of [malappuram](place)
+- Get me list of [Mexican]{"entity": "cuisine", "value": "mexican"} restro in the city of [Malapuram]{"entity": "place", "value": "malappuram"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [mathura](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [Mathura]{"entity": "place", "value": "mathura"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [goa](place)
+- Get me list of [mehico]{"entity": "cuisine", "value": "mexican"} restro in the city of [Goa]{"entity": "place", "value": "goa"}
+- [mexican](cuisine) options in [gova]{"entity": "place", "value": "goa"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [mangalore](place)
+- Suggest me [Mexica]{"entity": "cuisine", "value": "mexican"} food, Im from [Mangalore]{"entity": "place", "value": "mangalore"}
+- Recommend [Mexican]{"entity": "cuisine", "value": "mexican"} spots in the city of [Mangalor]{"entity": "place", "value": "mangalore"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [meerut](place)
+- find [Meccican]{"entity": "cuisine", "value": "mexican"} food in [Meerut]{"entity": "place", "value": "meerut"}
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [meerat]{"entity": "place", "value": "meerut"}
+- looking for a [mexican](cuisine) restaurant in [moradabad](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [Moradabad]{"entity": "place", "value": "moradabad"}
+- search me some [mehico]{"entity": "cuisine", "value": "mexican"} cafe in the city of [moradabd]{"entity": "place", "value": "moradabad"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [mysore](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [mysore](place)
+- search me some [mexican](cuisine) cafe in the city of [Mysoru]{"entity": "place", "value": "mysore"}
+- get me [Mehico]{"entity": "cuisine", "value": "mexican"} options in [mysore](place)
+- Suggest me [Mexican]{"entity": "cuisine", "value": "mexican"} food, Im from [mysor]{"entity": "place", "value": "mysore"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [nagpur](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [Nagpur]{"entity": "place", "value": "nagpur"}
+- Get me list of [Meccican]{"entity": "cuisine", "value": "mexican"} restro in the city of [nagpur](place)
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [nanded](place)
+- find [mexica]{"entity": "cuisine", "value": "mexican"} food in [Nanded]{"entity": "place", "value": "nanded"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [nashik](place)
+- find [meccican]{"entity": "cuisine", "value": "mexican"} food in [Nashik]{"entity": "place", "value": "nashik"}
+- Get me list of [Mexican]{"entity": "cuisine", "value": "mexican"} restro in the city of [Nasik]{"entity": "place", "value": "nashik"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [nellore](place)
+- find [mexican](cuisine) food in [Nellore]{"entity": "place", "value": "nellore"}
+- search me some [mexicn]{"entity": "cuisine", "value": "mexican"} cafe in the city of [nelloru]{"entity": "place", "value": "nellore"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [noida](place)
+- find [mexica]{"entity": "cuisine", "value": "mexican"} food in [Noida]{"entity": "place", "value": "noida"}
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [noida](place)
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [patna](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [patna](place)
+- Recommend [mexican](cuisine) spots in the city of [Patna]{"entity": "place", "value": "patna"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [pondicherry](place)
+- find [mexican](cuisine) food in [Pondicherry]{"entity": "place", "value": "pondicherry"}
+- search me some [mexica]{"entity": "cuisine", "value": "mexican"} cafe in the city of [pondi]{"entity": "place", "value": "pondicherry"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [purulia](place)
+- find [meccican]{"entity": "cuisine", "value": "mexican"} food in [Purulia]{"entity": "place", "value": "purulia"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [prayagraj](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [Prayagraj]{"entity": "place", "value": "prayagraj"}
+- [mexican](cuisine) options in [prayagraj](place)
+- which [mexican](cuisine) buffets are there in [raipur](place)?
+- get me [Mexican]{"entity": "cuisine", "value": "mexican"} options in [Raipur]{"entity": "place", "value": "raipur"}
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [rajkot](place)
+- Get me list of [mexican](cuisine) restro in the city of [Rajkot]{"entity": "place", "value": "rajkot"}
+- looking for a [mehico]{"entity": "cuisine", "value": "mexican"} restaurant in [rajahmundry](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [Rajamundry]{"entity": "place", "value": "rajahmundry"}
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [Rajahmundry]{"entity": "place", "value": "rajahmundry"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [ranchi](place)
+- find [mexican](cuisine) food in [Ranchi]{"entity": "place", "value": "ranchi"}
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [ranchi](place)
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [Rourkela]{"entity": "place", "value": "rourkela"}
+- find [mexicn]{"entity": "cuisine", "value": "mexican"} food in [Rukela]{"entity": "place", "value": "rourkela"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [salem](place)
+- find [mexican](cuisine) food in [selem]{"entity": "place", "value": "salem"}
+- find [mexicn]{"entity": "cuisine", "value": "mexican"} food in [selam]{"entity": "place", "value": "salem"}
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [salem](place)
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [sangli](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [Sangli]{"entity": "place", "value": "sangli"}
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [shimla](place)
+- Suggest me [mehico]{"entity": "cuisine", "value": "mexican"} food, Im from [Shimla]{"entity": "place", "value": "shimla"}
+- Recommend [mexican](cuisine) spots in the city of [Simla]{"entity": "place", "value": "shimla"}
+- which [mexican](cuisine) buffets are there in [siliguri](place)?
+- can you book a table for 4 people in [Siliguri]{"entity": "place", "value": "siliguri"} which serves [Mexican]{"entity": "cuisine", "value": "mexican"} cuisine?
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [solapur](place)
+- can you book a table for 4 people in [solapur](place) which serves [Mexican]{"entity": "cuisine", "value": "mexican"} cuisine?
+- get me [Mexican]{"entity": "cuisine", "value": "mexican"} options in [Solapur]{"entity": "place", "value": "solapur"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [srinagar](place)
+- find [mexicn]{"entity": "cuisine", "value": "mexican"} food in [Srinagar]{"entity": "place", "value": "srinagar"}
+- Recommend [mexican](cuisine) spots in the city of [srinagar](place)
+- Get me list of [Mexican]{"entity": "cuisine", "value": "mexican"} restro in the city of [shrinagar]{"entity": "place", "value": "srinagar"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [surat](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [surat](place)
+- search me some [mexican](cuisine) cafe in the city of [Surat]{"entity": "place", "value": "surat"}
+- which [mexicn]{"entity": "cuisine", "value": "mexican"} buffets are there in [soorat]{"entity": "place", "value": "surat"}?
+- get me [Mehico]{"entity": "cuisine", "value": "mexican"} options in [surat](place)
+- Suggest me [Mexican]{"entity": "cuisine", "value": "mexican"} food, Im from [surat](place)
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [thiruvananthapuram](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"}
+- get me [mexicn]{"entity": "cuisine", "value": "mexican"} options in [thiruvananthapuram](place)
+- Suggest me [Mexicn]{"entity": "cuisine", "value": "mexican"} food, Im from [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"}
+- looking for a [Mexicn]{"entity": "cuisine", "value": "mexican"} restaurant in [thrissur](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [thrissur](place)
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [thrissur](place)
+- which [Mehico]{"entity": "cuisine", "value": "mexican"} buffets are there in [thrissur](place)?
+- can you book a table for 4 people in [Thrissur]{"entity": "place", "value": "thrissur"}  which serves [Mexican]{"entity": "cuisine", "value": "mexican"} cuisine?
+- get me [mexicn]{"entity": "cuisine", "value": "mexican"} options in [Trichur]{"entity": "place", "value": "thrissur"}
+- Suggest me [Mexican]{"entity": "cuisine", "value": "mexican"} food, Im from [Trisur]{"entity": "place", "value": "thrissur"}
+- looking for a [mexican](cuisine) restaurant in [tiruchirappalli](place)
+- find [mexican](cuisine) food in [Tiruchirappalli]{"entity": "place", "value": "tiruchirappalli"}
+- Get me list of [Mexican]{"entity": "cuisine", "value": "mexican"} restro in the city of [Trichi]{"entity": "place", "value": "tiruchirappalli"}
+- [mexica]{"entity": "cuisine", "value": "mexican"} options in [trichi]{"entity": "place", "value": "tiruchirappalli"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [tiruppur](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [tiruppur](place)
+- [mexican](cuisine) options in [Tiruppur]{"entity": "place", "value": "tiruppur"}
+- Get me list of [Mexican]{"entity": "cuisine", "value": "mexican"} restro in the city of [ujjain](place)
+- [mehico]{"entity": "cuisine", "value": "mexican"} options in [Ujjain]{"entity": "place", "value": "ujjain"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [bijapur](place)
+- Get me list of [mexican](cuisine) restro in the city of [Bijapur]{"entity": "place", "value": "bijapur"}
+- [Mexica]{"entity": "cuisine", "value": "mexican"} options in [bijapur](place)
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [vadodara](place)
+- Recommend [mexica]{"entity": "cuisine", "value": "mexican"} spots in the city of [Vadodara]{"entity": "place", "value": "vadodara"}
+- Get me list of [mexican](cuisine) restro in the city of [Baroda]{"entity": "place", "value": "vadodara"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [varanasi](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [Varanasi]{"entity": "place", "value": "varanasi"}
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [banaras]{"entity": "place", "value": "varanasi"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [Virar]{"entity": "place", "value": "Vasai-Virar City"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [vijayawada](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [Vijayawada]{"entity": "place", "value": "vijayawada"}
+- Get me list of [mexican](cuisine) restro in the city of [vijayawada](place)
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [visakhapatnam](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [Vizag]{"entity": "place", "value": "visakhapatnam"}
+- [mexicn]{"entity": "cuisine", "value": "mexican"} options in [vizag]{"entity": "place", "value": "visakhapatnam"}
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [vellore](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [vellore](place)
+- search me some [Mexican]{"entity": "cuisine", "value": "mexican"} cafe in the city of [vellore](place)
+- which [Mexican]{"entity": "cuisine", "value": "mexican"} buffets are there in [Vellore]{"entity": "place", "value": "vellore"}?
+- looking for a [Mexican]{"entity": "cuisine", "value": "mexican"} restaurant in [warangal](place)
+- find [Mexican]{"entity": "cuisine", "value": "mexican"} food in [Warangal]{"entity": "place", "value": "warangal"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [ahmedabad](place)
+- find [american](cuisine) food in Aahmedabad](place:ahmedabad)
+- search me some [America]{"entity": "cuisine", "value": "american"} cafe in the city of [Ahamedabad]{"entity": "place", "value": "ahmedabad"}
+- which [america]{"entity": "cuisine", "value": "american"} buffets are there in [ahmmedabad]{"entity": "place", "value": "ahmedabad"}?
+- can you book a table for 4 people in [Ahmedabad]{"entity": "place", "value": "ahmedabad"} which serves cuisine [US]{"entity": "cuisine", "value": "american"}?
+- get me [America]{"entity": "cuisine", "value": "american"} options in [ahmedabd]{"entity": "place", "value": "ahmedabad"}
+- Suggest me [american](cuisine) food, Im from [ahmedabad](place)
+- Recommend [American]{"entity": "cuisine", "value": "american"} spots in the city of [ahmedabad](place)
+- Get me list of [american](cuisine) restro in the city of [Ahmedabad]{"entity": "place", "value": "ahmedabad"}
+- [American]{"entity": "cuisine", "value": "american"} options in [ahmedabad](place)
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [Bangalore]{"entity": "place", "value": "bangalore"}
+- find [American]{"entity": "cuisine", "value": "american"} food in [bangalore](place)
+- search me some [American]{"entity": "cuisine", "value": "american"} cafe in the city of [Bengaluru]{"entity": "place", "value": "bangalore"}
+- which [america]{"entity": "cuisine", "value": "american"} buffets are there in [Banglore]{"entity": "place", "value": "bangalore"}?
+- can you book a table for 4 people in [bangalore](place)  which serves cuisine [American]{"entity": "cuisine", "value": "american"}?
+- get me [America]{"entity": "cuisine", "value": "american"} options in [bangaluru]{"entity": "place", "value": "bangalore"}
+- Suggest me [american](cuisine) food, Im from [bangalor]{"entity": "place", "value": "bangalore"}
+- Recommend [American]{"entity": "cuisine", "value": "american"} spots in the city of [bangalore](place)
+- Get me list of [American]{"entity": "cuisine", "value": "american"} restro in the city of [bangalore](place)
+- [American]{"entity": "cuisine", "value": "american"} options in [bangalore](place)
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [chennai](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [Chennai]{"entity": "place", "value": "chennai"}
+- search me some [America]{"entity": "cuisine", "value": "american"} cafe in the city of [chennai](place)
+- which [American]{"entity": "cuisine", "value": "american"} buffets are there in [Madras]{"entity": "place", "value": "chennai"}?
+- can you book a table for 4 people in [Chenai]{"entity": "place", "value": "chennai"} which serves cuisine [american](cuisine) ?
+- get me [American]{"entity": "cuisine", "value": "american"} options in [chennai](place)
+- Suggest me [American]{"entity": "cuisine", "value": "american"} food, Im from [chennai](place)
+- [American]{"entity": "cuisine", "value": "american"} options in [chennai](place)
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [delhi](place)
+- find [american](cuisine) food in [Delhi]{"entity": "place", "value": "delhi"}
+- search me some [American]{"entity": "cuisine", "value": "american"} cafe in the city of [New delhi]{"entity": "place", "value": "delhi"}
+- which [American]{"entity": "cuisine", "value": "american"} buffets are there in [Dilli]{"entity": "place", "value": "delhi"}?
+- can you book a table for 4 people in [delhi](place) which serves cuisine [American]{"entity": "cuisine", "value": "american"} ?
+- get me [america]{"entity": "cuisine", "value": "american"} options in [New Delhi]{"entity": "place", "value": "delhi"}
+- Suggest me [American]{"entity": "cuisine", "value": "american"} food, Im from [delhi](place)
+- Recommend [US]{"entity": "cuisine", "value": "american"} spots in the city of [Dili]{"entity": "place", "value": "delhi"}
+- Get me list of [American]{"entity": "cuisine", "value": "american"} restro in the city of [delhi](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [hyderabad](place)
+- search me some [american](cuisine) cafe in the city of [Hyderabad]{"entity": "place", "value": "hyderabad"}
+- which [America]{"entity": "cuisine", "value": "american"} buffets are there in [hydrabad]{"entity": "place", "value": "hyderabad"}?
+- Suggest me [American]{"entity": "cuisine", "value": "american"} food, Im from [hyderbad]{"entity": "place", "value": "hyderabad"}
+- Recommend [American]{"entity": "cuisine", "value": "american"} spots in the city of [Hydrabad]{"entity": "place", "value": "hyderabad"}
+- Get me list of [American]{"entity": "cuisine", "value": "american"} restro in the city of [hyderabad](place)
+- [American]{"entity": "cuisine", "value": "american"} options in [hyderabad](place)
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [kolkata](place)
+- find [american](cuisine) food in [Kolkata]{"entity": "place", "value": "kolkata"}
+- search me some [American]{"entity": "cuisine", "value": "american"} cafe in the city of [kolkatta]{"entity": "place", "value": "kolkata"}
+- which [American]{"entity": "cuisine", "value": "american"} buffets are there in [kolkatha]{"entity": "place", "value": "kolkata"}?
+- Recommend [American]{"entity": "cuisine", "value": "american"} spots in the city of [cucutta]{"entity": "place", "value": "kolkata"}
+- Get me list of [american](cuisine) restro in the city of [Culcutta]{"entity": "place", "value": "kolkata"}
+- [American]{"entity": "cuisine", "value": "american"} options in [kolkata](place)
+- Suggest me [american](cuisine) food, Im from [ajmer](place)
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [aligarh](place)
+- find [american](cuisine) food in [Aligarh]{"entity": "place", "value": "aligarh"}
+- can you book a table for 4 people in [aligarh](place) which serves [American]{"entity": "cuisine", "value": "american"} cuisine?
+- get me [American]{"entity": "cuisine", "value": "american"} options in [aligad]{"entity": "place", "value": "aligarh"}
+- Suggest me [American]{"entity": "cuisine", "value": "american"} food, Im from [aligar]{"entity": "place", "value": "aligarh"}
+- Recommend [american](cuisine) spots in the city of [aligar]{"entity": "place", "value": "aligarh"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [Amravati]{"entity": "place", "value": "amravati"}
+- which [american](cuisine) buffets are there in [amravati](place)?
+- can you book a table for 4 people in [amravati](place) which serves [america]{"entity": "cuisine", "value": "american"} cuisine?
+- get me [American]{"entity": "cuisine", "value": "american"} options in [amravati](place)
+- Get me list of [American]{"entity": "cuisine", "value": "american"} restro in the city of [Amravati]{"entity": "place", "value": "amravati"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [amritsar](place)
+- find [american](cuisine) food in [Amritsar]{"entity": "place", "value": "amritsar"}
+- Get me list of [American]{"entity": "cuisine", "value": "american"} restro in the city of [amrutsar]{"entity": "place", "value": "amritsar"}
+- [American]{"entity": "cuisine", "value": "american"} options in [Amrutsar]{"entity": "place", "value": "amritsar"}
+- get me [American]{"entity": "cuisine", "value": "american"} options in [Asansol]{"entity": "place", "value": "asansol"}
+- Suggest me [american](cuisine) food, Im from [asansol](place)
+- Recommend [American]{"entity": "cuisine", "value": "american"} spots in the city of [Asnsol]{"entity": "place", "value": "asansol"}
+- Get me list of [American]{"entity": "cuisine", "value": "american"} restro in the city of [asansol](place)
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [Aurangabad]{"entity": "place", "value": "aurangabad"}
+- find [american](cuisine) food in [aurangabad](place)
+- search me some [america]{"entity": "cuisine", "value": "american"} cafe in the city of [aurangbad]{"entity": "place", "value": "aurangabad"}
+- get me [american](cuisine) options in [bareilly](place)
+- Suggest me [American]{"entity": "cuisine", "value": "american"} food, Im from [Bareilly]{"entity": "place", "value": "bareilly"}
+- Recommend [American]{"entity": "cuisine", "value": "american"} spots in the city of [Bareily]{"entity": "place", "value": "bareilly"}
+- Get me list of [American]{"entity": "cuisine", "value": "american"} restro in the city of [bareilli]{"entity": "place", "value": "bareilly"}
+- [amercan]{"entity": "cuisine", "value": "american"} options in [bareilly](place)
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [belgaum](place)
+- find [american](cuisine) food in [Belgaum]{"entity": "place", "value": "belgaum"}
+- search me some [American]{"entity": "cuisine", "value": "american"} cafe in the city of [Belagavi]{"entity": "place", "value": "belgaum"}
+- Recommend [american](cuisine) spots in the city of [bhavnagar](place)
+- Get me list of [American]{"entity": "cuisine", "value": "american"} restro in the city of [bhavnagar](place)
+- [American]{"entity": "cuisine", "value": "american"} options in [bhavnagar](place)
+- search me some [American]{"entity": "cuisine", "value": "american"} cafe in the city of [bhiwandi](place)
+- get me [american](cuisine) options in [Bhiwandi]{"entity": "place", "value": "bhiwandi"}
+- Suggest me [amercan]{"entity": "cuisine", "value": "american"} food, Im from [bhiwandi](place)
+- Recommend [US]{"entity": "cuisine", "value": "american"} spots in the city of [bhivandi]{"entity": "place", "value": "bhiwandi"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [bhopal](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [Bhopal]{"entity": "place", "value": "bhopal"}
+- search me some [american](cuisine) cafe in the city of [bhopal](place)
+- Get me list of [American]{"entity": "cuisine", "value": "american"} restro in the city of [bhopl]{"entity": "place", "value": "bhopal"}
+- [American]{"entity": "cuisine", "value": "american"} options in [Bopal]{"entity": "place", "value": "bhopal"}
+- find [American]{"entity": "cuisine", "value": "american"} food in [Chandigarh]{"entity": "place", "value": "chandigarh"}
+- can you book a table for 4 people in [chandigad]{"entity": "place", "value": "chandigarh"} which serves [American]{"entity": "cuisine", "value": "american"} cuisine?
+- get me [American]{"entity": "cuisine", "value": "american"} options in [chandigard]{"entity": "place", "value": "chandigarh"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [coimbatore](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [coimbator]{"entity": "place", "value": "coimbatore"}
+- search me some [american](cuisine) cafe in the city of [Coimbatore]{"entity": "place", "value": "coimbatore"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [cuttack](place)
+- find [american](cuisine) food in [cuttack](place)
+- search me some [America]{"entity": "cuisine", "value": "american"} cafe in the city of [Cuttack]{"entity": "place", "value": "cuttack"}
+- which [US]{"entity": "cuisine", "value": "american"} buffets are there in [cuttak]{"entity": "place", "value": "cuttack"}?
+- can you book a table for 4 people in [Kattak]{"entity": "place", "value": "cuttack"} which serves [American]{"entity": "cuisine", "value": "american"} cuisine?
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [dehradun](place)
+- find [american](cuisine) food in [Dehradun]{"entity": "place", "value": "dehradun"}
+- search me some [America]{"entity": "cuisine", "value": "american"} cafe in the city of [deradun]{"entity": "place", "value": "dehradun"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [dhanbad](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [dhanbad](place)
+- search me some [American]{"entity": "cuisine", "value": "american"} cafe in the city of [Dhanbad]{"entity": "place", "value": "dhanbad"}
+- which [american](cuisine) buffets are there in [dhanbd]{"entity": "place", "value": "dhanbad"}?
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [bhilai](place)
+- Get me list of [American]{"entity": "cuisine", "value": "american"} restro in the city of [Bilai]{"entity": "place", "value": "bhilai"}
+- [america]{"entity": "cuisine", "value": "american"} options in [Bhilai]{"entity": "place", "value": "bhilai"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [durgapur](place)
+- find [american](cuisine) food in [Durgapur]{"entity": "place", "value": "durgapur"}
+- Get me list of [American]{"entity": "cuisine", "value": "american"} restro in the city of [durgapur](place)
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [erode](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [Erode]{"entity": "place", "value": "erode"}
+- [american](cuisine) options in [Erod]{"entity": "place", "value": "erode"}
+- Suggest me [American]{"entity": "cuisine", "value": "american"} food, Im from [faridabad](place)
+- Recommend [american](cuisine) spots in the city of [Faridabad]{"entity": "place", "value": "faridabad"}
+- Get me list of [American]{"entity": "cuisine", "value": "american"} restro in the city of [faridabd]{"entity": "place", "value": "faridabad"}
+- which [American]{"entity": "cuisine", "value": "american"} buffets are there in [firozabad](place)?
+- can you book a table for 4 people in [Firozabad]{"entity": "place", "value": "firozabad"} which serves [american](cuisine) cuisine?
+- [America]{"entity": "cuisine", "value": "american"} options in [firozabd]{"entity": "place", "value": "firozabad"}
+- Recommend [american](cuisine) spots in the city of [ghaziabad](place)
+- Get me list of [American]{"entity": "cuisine", "value": "american"} restro in the city of [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- [American]{"entity": "cuisine", "value": "american"} options in [Gaziabad]{"entity": "place", "value": "ghaziabad"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [gorakhpur](place)
+- get me [american](cuisine) options in [Gorakhpur]{"entity": "place", "value": "gorakhpur"}
+- Get me list of [American]{"entity": "cuisine", "value": "american"} restro in the city of [gorakpur]{"entity": "place", "value": "gorakhpur"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [gulbarga](place)
+- which [America]{"entity": "cuisine", "value": "american"} buffets are there in [Gulbarga]{"entity": "place", "value": "gulbarga"}?
+- can you book a table for 4 people in [Kalburgi]{"entity": "place", "value": "gulbarga"} which serves [American]{"entity": "cuisine", "value": "american"} cuisine?
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [guntur](place)
+- Get me list of [american](cuisine) restro in the city of [Guntur]{"entity": "place", "value": "guntur"}
+- [American]{"entity": "cuisine", "value": "american"} options in [guntur](place)
+- get me [american](cuisine) options in [Gwalior]{"entity": "place", "value": "gwalior"}
+- Suggest me [American]{"entity": "cuisine", "value": "american"} food, Im from [gwalior](place)
+- Recommend [america]{"entity": "cuisine", "value": "american"} spots in the city of [gvalior]{"entity": "place", "value": "gwalior"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [gurgaon](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [Gurgaon]{"entity": "place", "value": "gurgaon"}
+- search me some [american](cuisine) cafe in the city of [Gurugram]{"entity": "place", "value": "gurgaon"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [guwahati](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [Guwahati]{"entity": "place", "value": "guwahati"}
+- get me [american](cuisine) options in [Gauhati]{"entity": "place", "value": "guwahati"}
+- Recommend [American]{"entity": "cuisine", "value": "american"} spots in the city of [hamirpur](place)
+- Get me list of [american](cuisine) restro in the city of [Hamirpur]{"entity": "place", "value": "hamirpur"}
+- looking for a [american](cuisine) restaurant in [hubli]{"entity": "place", "value": "hubli-dharwad"}
+- find [US]{"entity": "cuisine", "value": "american"} food in [dharwad]{"entity": "place", "value": "hubli-dharwad"}
+- search me some [amercan]{"entity": "cuisine", "value": "american"} cafe in the city of [Hubli]{"entity": "place", "value": "hubli-dharwad"}
+- which [American]{"entity": "cuisine", "value": "american"} buffets are there in [Dharwad]{"entity": "place", "value": "hubli-dharwad"}?
+- [American]{"entity": "cuisine", "value": "american"} options in [hubli-dharwad](place)
+- Recommend [American]{"entity": "cuisine", "value": "american"} spots in the city of [indore](place)
+- Get me list of [american](cuisine) restro in the city of [Indore]{"entity": "place", "value": "indore"}
+- [American]{"entity": "cuisine", "value": "american"} options in [indor]{"entity": "place", "value": "indore"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [jabalpur](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [Jabalpur]{"entity": "place", "value": "jabalpur"}
+- search me some [american](cuisine) cafe in the city of [jablpur]{"entity": "place", "value": "jabalpur"}
+- looking for a [America]{"entity": "cuisine", "value": "american"} restaurant in [jaipur](place)
+- Recommend [American]{"entity": "cuisine", "value": "american"} spots in the city of [Jaipur]{"entity": "place", "value": "jaipur"}
+- Get me list of [american](cuisine) restro in the city of [jaipur](place)
+- [American]{"entity": "cuisine", "value": "american"} options in [jaipur](place)
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [jalandhar](place)
+- find [american](cuisine) food in [Jalandhar]{"entity": "place", "value": "jalandhar"}
+- Get me list of [america]{"entity": "cuisine", "value": "american"} restro in the city of [Jalandar]{"entity": "place", "value": "jalandhar"}
+- looking for a [american](cuisine) restaurant in [jammu](place)
+- Get me list of [American]{"entity": "cuisine", "value": "american"} restro in the city of [Jammu]{"entity": "place", "value": "jammu"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [jamnagar](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [jamnagar](place)
+- search me some [american](cuisine) cafe in the city of [jamnagar](place)
+- which [America]{"entity": "cuisine", "value": "american"} buffets are there in [Jamnagar]{"entity": "place", "value": "jamnagar"}?
+- can you book a table for 4 people in [jamnagar](place) which serves [American]{"entity": "cuisine", "value": "american"} cuisine?
+- which [america]{"entity": "cuisine", "value": "american"} buffets are there in [Cochin]{"entity": "place", "value": "kochi"}?
+- can you book a table for 4 people in [kochin]{"entity": "place", "value": "kochi"} which serves [American]{"entity": "cuisine", "value": "american"} cuisine?
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [kolhapur](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [kolhapur](place)
+- [America]{"entity": "cuisine", "value": "american"} options in [Kolapur]{"entity": "place", "value": "kolhapur"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [kollam](place)
+- find [america]{"entity": "cuisine", "value": "american"} food in [Kollam]{"entity": "place", "value": "kollam"}
+- search me some [American]{"entity": "cuisine", "value": "american"} cafe in the city of [Quilon]{"entity": "place", "value": "kollam"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [kozhikode](place)
+- find [american](cuisine) food in [Kozhikode]{"entity": "place", "value": "kozhikode"}
+- [American]{"entity": "cuisine", "value": "american"} options in [Calicut]{"entity": "place", "value": "kozhikode"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [kurnool](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [Kurnool]{"entity": "place", "value": "kurnool"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [ludhiana](place)
+- find [America]{"entity": "cuisine", "value": "american"} food in [Ludhiana]{"entity": "place", "value": "ludhiana"}
+- search me some [American]{"entity": "cuisine", "value": "american"} cafe in the city of [ludiana]{"entity": "place", "value": "ludhiana"}
+- can you book a table for 4 people in [lucknow](place) which serves [American]{"entity": "cuisine", "value": "american"} cuisine?
+- get me [American]{"entity": "cuisine", "value": "american"} options in [lucknow](place)
+- Suggest me [American]{"entity": "cuisine", "value": "american"} food, Im from [Lucknow]{"entity": "place", "value": "lucknow"}
+- search me some [American]{"entity": "cuisine", "value": "american"} cafe in the city of [Madurai]{"entity": "place", "value": "madurai"}
+- which [american](cuisine) buffets are there in [madurai](place)?
+- Recommend [american](cuisine) spots in the city of [malappuram](place)
+- Get me list of [American]{"entity": "cuisine", "value": "american"} restro in the city of [Malapuram]{"entity": "place", "value": "malappuram"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [mathura](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [Mathura]{"entity": "place", "value": "mathura"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [goa](place)
+- Get me list of [US]{"entity": "cuisine", "value": "american"} restro in the city of [Goa]{"entity": "place", "value": "goa"}
+- [american](cuisine) options in [gova]{"entity": "place", "value": "goa"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [mangalore](place)
+- Suggest me [us]{"entity": "cuisine", "value": "american"} food, Im from [Mangalore]{"entity": "place", "value": "mangalore"}
+- Recommend [American]{"entity": "cuisine", "value": "american"} spots in the city of [Mangalor]{"entity": "place", "value": "mangalore"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [meerut](place)
+- find [Amercan]{"entity": "cuisine", "value": "american"} food in [Meerut]{"entity": "place", "value": "meerut"}
+- search me some [American]{"entity": "cuisine", "value": "american"} cafe in the city of [meerat]{"entity": "place", "value": "meerut"}
+- looking for a [american](cuisine) restaurant in [moradabad](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [Moradabad]{"entity": "place", "value": "moradabad"}
+- search me some [us]{"entity": "cuisine", "value": "american"} cafe in the city of [moradabd]{"entity": "place", "value": "moradabad"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [mysore](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [mysore](place)
+- search me some [american](cuisine) cafe in the city of [Mysoru]{"entity": "place", "value": "mysore"}
+- get me [us]{"entity": "cuisine", "value": "american"} options in [mysore](place)
+- Suggest me [American]{"entity": "cuisine", "value": "american"} food, Im from [mysor]{"entity": "place", "value": "mysore"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [nagpur](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [Nagpur]{"entity": "place", "value": "nagpur"}
+- Get me list of [Amercan]{"entity": "cuisine", "value": "american"} restro in the city of [nagpur](place)
+- Recommend [american](cuisine) spots in the city of [Patna]{"entity": "place", "value": "patna"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [pondicherry](place)
+- find [american](cuisine) food in [Pondicherry]{"entity": "place", "value": "pondicherry"}
+- search me some [america]{"entity": "cuisine", "value": "american"} cafe in the city of [pondi]{"entity": "place", "value": "pondicherry"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [purulia](place)
+- find [amercan]{"entity": "cuisine", "value": "american"} food in [Purulia]{"entity": "place", "value": "purulia"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [prayagraj](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [Prayagraj]{"entity": "place", "value": "prayagraj"}
+- [american](cuisine) options in [prayagraj](place)
+- which [american](cuisine) buffets are there in [raipur](place)?
+- get me [American]{"entity": "cuisine", "value": "american"} options in [Raipur]{"entity": "place", "value": "raipur"}
+- search me some [American]{"entity": "cuisine", "value": "american"} cafe in the city of [rajkot](place)
+- Get me list of [american](cuisine) restro in the city of [Rajkot]{"entity": "place", "value": "rajkot"}
+- looking for a [US]{"entity": "cuisine", "value": "american"} restaurant in [rajahmundry](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [Rajamundry]{"entity": "place", "value": "rajahmundry"}
+- search me some [American]{"entity": "cuisine", "value": "american"} cafe in the city of [Rajahmundry]{"entity": "place", "value": "rajahmundry"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [ranchi](place)
+- Suggest me [US]{"entity": "cuisine", "value": "american"} food, Im from [Shimla]{"entity": "place", "value": "shimla"}
+- Recommend [american](cuisine) spots in the city of [Simla]{"entity": "place", "value": "shimla"}
+- which [american](cuisine) buffets are there in [siliguri](place)?
+- can you book a table for 4 people in [Siliguri]{"entity": "place", "value": "siliguri"} which serves [American]{"entity": "cuisine", "value": "american"} cuisine?
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [solapur](place)
+- can you book a table for 4 people in [solapur](place) which serves [American]{"entity": "cuisine", "value": "american"} cuisine?
+- get me [American]{"entity": "cuisine", "value": "american"} options in [Solapur]{"entity": "place", "value": "solapur"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [srinagar](place)
+- find [America]{"entity": "cuisine", "value": "american"} food in [Srinagar]{"entity": "place", "value": "srinagar"}
+- Recommend [american](cuisine) spots in the city of [srinagar](place)
+- Get me list of [American]{"entity": "cuisine", "value": "american"} restro in the city of [shrinagar]{"entity": "place", "value": "srinagar"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [surat](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [surat](place)
+- search me some [american](cuisine) cafe in the city of [Surat]{"entity": "place", "value": "surat"}
+- which [America]{"entity": "cuisine", "value": "american"} buffets are there in [soorat]{"entity": "place", "value": "surat"}?
+- get me [US]{"entity": "cuisine", "value": "american"} options in [surat](place)
+- Suggest me [American]{"entity": "cuisine", "value": "american"} food, Im from [surat](place)
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [thiruvananthapuram](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"}
+- get me [America]{"entity": "cuisine", "value": "american"} options in [thiruvananthapuram](place)
+- Suggest me [america]{"entity": "cuisine", "value": "american"} food, Im from [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"}
+- looking for a [america]{"entity": "cuisine", "value": "american"} restaurant in [thrissur](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [thrissur](place)
+- search me some [American]{"entity": "cuisine", "value": "american"} cafe in the city of [thrissur](place)
+- which [american](cuisine) buffets are there in [thrissur](place)?
+- can you book a table for 4 people in [Thrissur]{"entity": "place", "value": "thrissur"}  which serves [American]{"entity": "cuisine", "value": "american"} cuisine?
+- get me [America]{"entity": "cuisine", "value": "american"} options in [Trichur]{"entity": "place", "value": "thrissur"}
+- Suggest me [American]{"entity": "cuisine", "value": "american"} food, Im from [Trisur]{"entity": "place", "value": "thrissur"}
+- looking for a [american](cuisine) restaurant in [tiruchirappalli](place)
+- find [american](cuisine) food in [Tiruchirappalli]{"entity": "place", "value": "tiruchirappalli"}
+- Get me list of [American]{"entity": "cuisine", "value": "american"} restro in the city of [Trichi]{"entity": "place", "value": "tiruchirappalli"}
+- [america]{"entity": "cuisine", "value": "american"} options in [trichi]{"entity": "place", "value": "tiruchirappalli"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [tiruppur](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [tiruppur](place)
+- [american](cuisine) options in [Tiruppur]{"entity": "place", "value": "tiruppur"}
+- Get me list of [American]{"entity": "cuisine", "value": "american"} restro in the city of [ujjain](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- search me some [American]{"entity": "cuisine", "value": "american"} cafe in the city of [Virar]{"entity": "place", "value": "Vasai-Virar City"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [vijayawada](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [Vijayawada]{"entity": "place", "value": "vijayawada"}
+- Get me list of [american](cuisine) restro in the city of [vijayawada](place)
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [visakhapatnam](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}
+- search me some [American]{"entity": "cuisine", "value": "american"} cafe in the city of [Vizag]{"entity": "place", "value": "visakhapatnam"}
+- [America]{"entity": "cuisine", "value": "american"} options in [vizag]{"entity": "place", "value": "visakhapatnam"}
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [vellore](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [vellore](place)
+- search me some [American]{"entity": "cuisine", "value": "american"} cafe in the city of [vellore](place)
+- which [American]{"entity": "cuisine", "value": "american"} buffets are there in [Vellore]{"entity": "place", "value": "vellore"}?
+- looking for a [American]{"entity": "cuisine", "value": "american"} restaurant in [warangal](place)
+- find [American]{"entity": "cuisine", "value": "american"} food in [Warangal]{"entity": "place", "value": "warangal"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [ahmedabad](place)
+- find [south indian](cuisine) food in Aahmedabad](place:ahmedabad)
+- search me some [southindian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [Ahamedabad]{"entity": "place", "value": "ahmedabad"}
+- which [South]{"entity": "cuisine", "value": "south indian"} buffets are there in [ahmmedabad]{"entity": "place", "value": "ahmedabad"}?
+- can you book a table for 4 people in [Ahmedabad]{"entity": "place", "value": "ahmedabad"} which serves cuisine [South-Inidan]{"entity": "cuisine", "value": "south indian"}?
+- get me [southindian]{"entity": "cuisine", "value": "south indian"} options in [ahmedabd]{"entity": "place", "value": "ahmedabad"}
+- Suggest me [south indian](cuisine) food, Im from [ahmedabad](place)
+- Recommend [South Indian]{"entity": "cuisine", "value": "south indian"} spots in the city of [ahmedabad](place)
+- Get me list of [south indian](cuisine) restro in the city of [Ahmedabad]{"entity": "place", "value": "ahmedabad"}
+- [South Indian]{"entity": "cuisine", "value": "south indian"} options in [ahmedabad](place)
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [Bangalore]{"entity": "place", "value": "bangalore"}
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [bangalore](place)
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [Bengaluru]{"entity": "place", "value": "bangalore"}
+- which [south-inidan]{"entity": "cuisine", "value": "south indian"} buffets are there in [Banglore]{"entity": "place", "value": "bangalore"}?
+- can you book a table for 4 people in [bangalore](place)  which serves cuisine [South Indian]{"entity": "cuisine", "value": "south indian"}?
+- get me [southindian]{"entity": "cuisine", "value": "south indian"} options in [bangaluru]{"entity": "place", "value": "bangalore"}
+- Suggest me [south indian](cuisine) food, Im from [bangalor]{"entity": "place", "value": "bangalore"}
+- Recommend [South Indian]{"entity": "cuisine", "value": "south indian"} spots in the city of [bangalore](place)
+- Get me list of [South Indian]{"entity": "cuisine", "value": "south indian"} restro in the city of [bangalore](place)
+- [South Indian]{"entity": "cuisine", "value": "south indian"} options in [bangalore](place)
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [chennai](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [Chennai]{"entity": "place", "value": "chennai"}
+- search me some [southindian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [chennai](place)
+- which [South Indian]{"entity": "cuisine", "value": "south indian"} buffets are there in [Madras]{"entity": "place", "value": "chennai"}?
+- can you book a table for 4 people in [Chenai]{"entity": "place", "value": "chennai"} which serves cuisine [south indian](cuisine) ?
+- get me [South Indian]{"entity": "cuisine", "value": "south indian"} options in [chennai](place)
+- Suggest me [South Indian]{"entity": "cuisine", "value": "south indian"} food, Im from [chennai](place)
+- Get me list of [South Indian]{"entity": "cuisine", "value": "south indian"} restro in the city of [delhi](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [hyderabad](place)
+- search me some [south indian](cuisine) cafe in the city of [Hyderabad]{"entity": "place", "value": "hyderabad"}
+- which [southindian]{"entity": "cuisine", "value": "south indian"} buffets are there in [hydrabad]{"entity": "place", "value": "hyderabad"}?
+- Suggest me [South Indian]{"entity": "cuisine", "value": "south indian"} food, Im from [hyderbad]{"entity": "place", "value": "hyderabad"}
+- Recommend [South Indian]{"entity": "cuisine", "value": "south indian"} spots in the city of [Hydrabad]{"entity": "place", "value": "hyderabad"}
+- Get me list of [South Indian]{"entity": "cuisine", "value": "south indian"} restro in the city of [hyderabad](place)
+- [South Indian]{"entity": "cuisine", "value": "south indian"} options in [hyderabad](place)
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [kolkata](place)
+- find [south indian](cuisine) food in [Kolkata]{"entity": "place", "value": "kolkata"}
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [kolkatta]{"entity": "place", "value": "kolkata"}
+- which [South Indian]{"entity": "cuisine", "value": "south indian"} buffets are there in [kolkatha]{"entity": "place", "value": "kolkata"}?
+- Recommend [South Indian]{"entity": "cuisine", "value": "south indian"} spots in the city of [cucutta]{"entity": "place", "value": "kolkata"}
+- Get me list of [south indian](cuisine) restro in the city of [Culcutta]{"entity": "place", "value": "kolkata"}
+- [South Indian]{"entity": "cuisine", "value": "south indian"} options in [kolkata](place)
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [mumbai](place)
+- find [south indian](cuisine) food in [Mumbai]{"entity": "place", "value": "mumbai"}
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [mumbai](place)
+- Get me list of [South Indian]{"entity": "cuisine", "value": "south indian"} restro in the city of [Bombay]{"entity": "place", "value": "mumbai"}
+- [south indian](cuisine) options in [mumbai](place)
+- can you book a table for 4 people in [pune](place) which serves cuisine [South Indian]{"entity": "cuisine", "value": "south indian"} ?
+- get me [south indian](cuisine) options in [Pune]{"entity": "place", "value": "pune"}
+- Suggest me [southindian]{"entity": "cuisine", "value": "south indian"} food, Im from [pune](place)
+- Recommend [South]{"entity": "cuisine", "value": "south indian"} spots in the city of [Puna]{"entity": "place", "value": "pune"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [agra](place)
+- get me [south indian](cuisine) options in [agra](place)
+- Suggest me [South Indian]{"entity": "cuisine", "value": "south indian"} food, Im from [Agra]{"entity": "place", "value": "agra"}
+- [south-inidan]{"entity": "cuisine", "value": "south indian"} options in [Agra]{"entity": "place", "value": "agra"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [ajmer](place)
+- find [south indian](cuisine) food in [Ajmer]{"entity": "place", "value": "ajmer"}
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [ajmer](place)
+- which [Southindian]{"entity": "cuisine", "value": "south indian"} buffets are there in [ajmir]{"entity": "place", "value": "ajmer"}?
+- can you book a table for 4 people in [Ajmir]{"entity": "place", "value": "ajmer"} which serves [South Indian]{"entity": "cuisine", "value": "south indian"} cuisine?
+- get me [South Indian]{"entity": "cuisine", "value": "south indian"} options in [ajmer](place)
+- Suggest me [south indian](cuisine) food, Im from [ajmer](place)
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [aligarh](place)
+- find [south indian](cuisine) food in [Aligarh]{"entity": "place", "value": "aligarh"}
+- can you book a table for 4 people in [aligarh](place) which serves [South Indian]{"entity": "cuisine", "value": "south indian"} cuisine?
+- get me [South Indian]{"entity": "cuisine", "value": "south indian"} options in [aligad]{"entity": "place", "value": "aligarh"}
+- Suggest me [South Indian]{"entity": "cuisine", "value": "south indian"} food, Im from [aligar]{"entity": "place", "value": "aligarh"}
+- Recommend [south indian](cuisine) spots in the city of [aligar]{"entity": "place", "value": "aligarh"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [Amravati]{"entity": "place", "value": "amravati"}
+- which [south indian](cuisine) buffets are there in [amravati](place)?
+- can you book a table for 4 people in [amravati](place) which serves [south-inidan]{"entity": "cuisine", "value": "south indian"} cuisine?
+- get me [South Indian]{"entity": "cuisine", "value": "south indian"} options in [amravati](place)
+- Get me list of [South Indian]{"entity": "cuisine", "value": "south indian"} restro in the city of [Amravati]{"entity": "place", "value": "amravati"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [amritsar](place)
+- find [south indian](cuisine) food in [Amritsar]{"entity": "place", "value": "amritsar"}
+- Get me list of [South Indian]{"entity": "cuisine", "value": "south indian"} restro in the city of [amrutsar]{"entity": "place", "value": "amritsar"}
+- [South Indian]{"entity": "cuisine", "value": "south indian"} options in [Amrutsar]{"entity": "place", "value": "amritsar"}
+- get me [South Indian]{"entity": "cuisine", "value": "south indian"} options in [Asansol]{"entity": "place", "value": "asansol"}
+- Suggest me [south indian](cuisine) food, Im from [asansol](place)
+- Recommend [South Indian]{"entity": "cuisine", "value": "south indian"} spots in the city of [Asnsol]{"entity": "place", "value": "asansol"}
+- Get me list of [South Indian]{"entity": "cuisine", "value": "south indian"} restro in the city of [asansol](place)
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [Aurangabad]{"entity": "place", "value": "aurangabad"}
+- find [south indian](cuisine) food in [aurangabad](place)
+- search me some [South]{"entity": "cuisine", "value": "south indian"} cafe in the city of [aurangbad]{"entity": "place", "value": "aurangabad"}
+- get me [south indian](cuisine) options in [bareilly](place)
+- Suggest me [South Indian]{"entity": "cuisine", "value": "south indian"} food, Im from [Bareilly]{"entity": "place", "value": "bareilly"}
+- Recommend [South Indian]{"entity": "cuisine", "value": "south indian"} spots in the city of [Bareily]{"entity": "place", "value": "bareilly"}
+- Get me list of [South Indian]{"entity": "cuisine", "value": "south indian"} restro in the city of [bareilli]{"entity": "place", "value": "bareilly"}
+- [south indian](cuisine) options in [bareilly](place)
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [belgaum](place)
+- find [south indian](cuisine) food in [Belgaum]{"entity": "place", "value": "belgaum"}
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [Belagavi]{"entity": "place", "value": "belgaum"}
+- Recommend [south indian](cuisine) spots in the city of [bhavnagar](place)
+- Get me list of [South Indian]{"entity": "cuisine", "value": "south indian"} restro in the city of [bhavnagar](place)
+- [South Indian]{"entity": "cuisine", "value": "south indian"} options in [bhavnagar](place)
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [bhiwandi](place)
+- get me [south indian](cuisine) options in [Bhiwandi]{"entity": "place", "value": "bhiwandi"}
+- Suggest me [South indian]{"entity": "cuisine", "value": "south indian"} food, Im from [bhiwandi](place)
+- Recommend [South-Inidan]{"entity": "cuisine", "value": "south indian"} spots in the city of [bhivandi]{"entity": "place", "value": "bhiwandi"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [bhopal](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [Bhopal]{"entity": "place", "value": "bhopal"}
+- search me some [south indian](cuisine) cafe in the city of [bhopal](place)
+- Get me list of [South Indian]{"entity": "cuisine", "value": "south indian"} restro in the city of [bhopl]{"entity": "place", "value": "bhopal"}
+- [South Indian]{"entity": "cuisine", "value": "south indian"} options in [Bopal]{"entity": "place", "value": "bhopal"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [bhubaneswar](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [bhubaneswar](place)
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [bhubaneswar](place)
+- Get me list of [south indian](cuisine) restro in the city of [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"}
+- [South Indian]{"entity": "cuisine", "value": "south indian"} options in [bhuvaneswar]{"entity": "place", "value": "bhubaneswar"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [bikaner](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [bikaner](place)
+- which [south indian](cuisine) buffets are there in [Bikaner]{"entity": "place", "value": "bikaner"}?
+- can you book a table for 4 people in (place:bikaner) which serves [bikanir]{"entity": "place", "value": "bikaner"} [South Indian]{"entity": "cuisine", "value": "south indian"} cuisine?
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [bilaspur](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [bilaspur](place)
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [bilaspur](place)
+- get me [south indian](cuisine) options in [bokaro]{"entity": "place", "value": "bokaro steel city"}
+- Suggest me [South Indian]{"entity": "cuisine", "value": "south indian"} food, Im from [Bokaro]{"entity": "place", "value": "bokaro steel city"}
+- Recommend [South Indian]{"entity": "cuisine", "value": "south indian"} spots in the city of [Bokkaro]{"entity": "place", "value": "bokaro steel city"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [chandigarh](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [Chandigarh]{"entity": "place", "value": "chandigarh"}
+- can you book a table for 4 people in [chandigad]{"entity": "place", "value": "chandigarh"} which serves [South Indian]{"entity": "cuisine", "value": "south indian"} cuisine?
+- get me [South Indian]{"entity": "cuisine", "value": "south indian"} options in [chandigard]{"entity": "place", "value": "chandigarh"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [coimbatore](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [coimbator]{"entity": "place", "value": "coimbatore"}
+- search me some [south indian](cuisine) cafe in the city of [Coimbatore]{"entity": "place", "value": "coimbatore"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [cuttack](place)
+- find [south indian](cuisine) food in [cuttack](place)
+- search me some [south]{"entity": "cuisine", "value": "south indian"} cafe in the city of [Cuttack]{"entity": "place", "value": "cuttack"}
+- which [South-Inidan]{"entity": "cuisine", "value": "south indian"} buffets are there in [cuttak]{"entity": "place", "value": "cuttack"}?
+- can you book a table for 4 people in [Kattak]{"entity": "place", "value": "cuttack"} which serves [South Indian]{"entity": "cuisine", "value": "south indian"} cuisine?
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [dehradun](place)
+- find [south indian](cuisine) food in [Dehradun]{"entity": "place", "value": "dehradun"}
+- search me some [southindian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [deradun]{"entity": "place", "value": "dehradun"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [dhanbad](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [dhanbad](place)
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [Dhanbad]{"entity": "place", "value": "dhanbad"}
+- which [south indian](cuisine) buffets are there in [dhanbd]{"entity": "place", "value": "dhanbad"}?
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [bhilai](place)
+- Get me list of [South Indian]{"entity": "cuisine", "value": "south indian"} restro in the city of [Bilai]{"entity": "place", "value": "bhilai"}
+- [south-inidan]{"entity": "cuisine", "value": "south indian"} options in [Bhilai]{"entity": "place", "value": "bhilai"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [durgapur](place)
+- find [south indian](cuisine) food in [Durgapur]{"entity": "place", "value": "durgapur"}
+- Get me list of [South Indian]{"entity": "cuisine", "value": "south indian"} restro in the city of [durgapur](place)
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [erode](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [Erode]{"entity": "place", "value": "erode"}
+- [south indian](cuisine) options in [Erod]{"entity": "place", "value": "erode"}
+- Suggest me [South Indian]{"entity": "cuisine", "value": "south indian"} food, Im from [faridabad](place)
+- Recommend [south indian](cuisine) spots in the city of [Faridabad]{"entity": "place", "value": "faridabad"}
+- Get me list of [South Indian]{"entity": "cuisine", "value": "south indian"} restro in the city of [faridabd]{"entity": "place", "value": "faridabad"}
+- which [South Indian]{"entity": "cuisine", "value": "south indian"} buffets are there in [firozabad](place)?
+- can you book a table for 4 people in [Firozabad]{"entity": "place", "value": "firozabad"} which serves [south indian](cuisine) cuisine?
+- [southindian]{"entity": "cuisine", "value": "south indian"} options in [firozabd]{"entity": "place", "value": "firozabad"}
+- Recommend [south indian](cuisine) spots in the city of [ghaziabad](place)
+- Get me list of [South Indian]{"entity": "cuisine", "value": "south indian"} restro in the city of [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- [South Indian]{"entity": "cuisine", "value": "south indian"} options in [Gaziabad]{"entity": "place", "value": "ghaziabad"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [gorakhpur](place)
+- get me [south indian](cuisine) options in [Gorakhpur]{"entity": "place", "value": "gorakhpur"}
+- Get me list of [South Indian]{"entity": "cuisine", "value": "south indian"} restro in the city of [gorakpur]{"entity": "place", "value": "gorakhpur"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [gulbarga](place)
+- which [southindian]{"entity": "cuisine", "value": "south indian"} buffets are there in [Gulbarga]{"entity": "place", "value": "gulbarga"}?
+- can you book a table for 4 people in [Kalburgi]{"entity": "place", "value": "gulbarga"} which serves [South Indian]{"entity": "cuisine", "value": "south indian"} cuisine?
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [guntur](place)
+- Get me list of [south indian](cuisine) restro in the city of [Guntur]{"entity": "place", "value": "guntur"}
+- [South Indian]{"entity": "cuisine", "value": "south indian"} options in [guntur](place)
+- get me [south indian](cuisine) options in [Gwalior]{"entity": "place", "value": "gwalior"}
+- Suggest me [South Indian]{"entity": "cuisine", "value": "south indian"} food, Im from [gwalior](place)
+- Recommend [South]{"entity": "cuisine", "value": "south indian"} spots in the city of [gvalior]{"entity": "place", "value": "gwalior"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [gurgaon](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [Gurgaon]{"entity": "place", "value": "gurgaon"}
+- search me some [south indian](cuisine) cafe in the city of [Gurugram]{"entity": "place", "value": "gurgaon"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [guwahati](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [Guwahati]{"entity": "place", "value": "guwahati"}
+- get me [south indian](cuisine) options in [Gauhati]{"entity": "place", "value": "guwahati"}
+- Recommend [South Indian]{"entity": "cuisine", "value": "south indian"} spots in the city of [hamirpur](place)
+- Get me list of [south indian](cuisine) restro in the city of [Hamirpur]{"entity": "place", "value": "hamirpur"}
+- looking for a [south indian](cuisine) restaurant in [hubli]{"entity": "place", "value": "hubli-dharwad"}
+- find [South-Inidan]{"entity": "cuisine", "value": "south indian"} food in [dharwad]{"entity": "place", "value": "hubli-dharwad"}
+- search me some [Southindian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [Hubli]{"entity": "place", "value": "hubli-dharwad"}
+- which [South Indian]{"entity": "cuisine", "value": "south indian"} buffets are there in [Dharwad]{"entity": "place", "value": "hubli-dharwad"}?
+- [South Indian]{"entity": "cuisine", "value": "south indian"} options in [hubli-dharwad](place)
+- Recommend [South Indian]{"entity": "cuisine", "value": "south indian"} spots in the city of [indore](place)
+- Get me list of [south indian](cuisine) restro in the city of [Indore]{"entity": "place", "value": "indore"}
+- [South Indian]{"entity": "cuisine", "value": "south indian"} options in [indor]{"entity": "place", "value": "indore"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [jabalpur](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [Jabalpur]{"entity": "place", "value": "jabalpur"}
+- search me some [south indian](cuisine) cafe in the city of [jablpur]{"entity": "place", "value": "jabalpur"}
+- looking for a [southindian]{"entity": "cuisine", "value": "south indian"} restaurant in [jaipur](place)
+- Recommend [South Indian]{"entity": "cuisine", "value": "south indian"} spots in the city of [Jaipur]{"entity": "place", "value": "jaipur"}
+- looking for a [south indian](cuisine) restaurant in [jodpur]{"entity": "place", "value": "jodhpur"}
+- get me [South Indian]{"entity": "cuisine", "value": "south indian"} options in [jodhpur](place)
+- [South Indian]{"entity": "cuisine", "value": "south indian"} options in [Jodhpur]{"entity": "place", "value": "jodhpur"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [kakkinada]{"entity": "place", "value": "kakinada"}
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [Kakinada]{"entity": "place", "value": "kakinada"}
+- search me some [south indian](cuisine) cafe in the city of [kakinada](place)
+- can you book a table for 4 people in [kannur](place) which serves [South]{"entity": "cuisine", "value": "south indian"} cuisine?
+- get me [South Indian]{"entity": "cuisine", "value": "south indian"} options in [Kannur]{"entity": "place", "value": "kannur"}
+- Suggest me [south indian](cuisine) food, Im from [kannur](place)
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [kanpur](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [kanpur](place)
+- search me some [south-inidan]{"entity": "cuisine", "value": "south indian"} cafe in the city of [kanpur](place)
+- which [South]{"entity": "cuisine", "value": "south indian"} buffets are there in [Kanpur]{"entity": "place", "value": "kanpur"}?
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [kochi](place)
+- find [south indian](cuisine) food in [Kochi]{"entity": "place", "value": "kochi"}
+- search me some [southindian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [Cochi]{"entity": "place", "value": "kochi"}
+- which [south-inidan]{"entity": "cuisine", "value": "south indian"} buffets are there in [Cochin]{"entity": "place", "value": "kochi"}?
+- can you book a table for 4 people in [kochin]{"entity": "place", "value": "kochi"} which serves [South Indian]{"entity": "cuisine", "value": "south indian"} cuisine?
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [kolhapur](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [kolhapur](place)
+- [southindian]{"entity": "cuisine", "value": "south indian"} options in [Kolapur]{"entity": "place", "value": "kolhapur"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [kollam](place)
+- find [SouthIndian]{"entity": "cuisine", "value": "south indian"} food in [Kollam]{"entity": "place", "value": "kollam"}
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [Quilon]{"entity": "place", "value": "kollam"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [kozhikode](place)
+- find [south indian](cuisine) food in [Kozhikode]{"entity": "place", "value": "kozhikode"}
+- [South Indian]{"entity": "cuisine", "value": "south indian"} options in [Calicut]{"entity": "place", "value": "kozhikode"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [kurnool](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [Kurnool]{"entity": "place", "value": "kurnool"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [ludhiana](place)
+- find [southindian]{"entity": "cuisine", "value": "south indian"} food in [Ludhiana]{"entity": "place", "value": "ludhiana"}
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [ludiana]{"entity": "place", "value": "ludhiana"}
+- can you book a table for 4 people in [lucknow](place) which serves [South Indian]{"entity": "cuisine", "value": "south indian"} cuisine?
+- get me [South Indian]{"entity": "cuisine", "value": "south indian"} options in [lucknow](place)
+- Suggest me [South Indian]{"entity": "cuisine", "value": "south indian"} food, Im from [Lucknow]{"entity": "place", "value": "lucknow"}
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [Madurai]{"entity": "place", "value": "madurai"}
+- which [south indian](cuisine) buffets are there in [madurai](place)?
+- Recommend [south indian](cuisine) spots in the city of [malappuram](place)
+- Get me list of [South Indian]{"entity": "cuisine", "value": "south indian"} restro in the city of [Malapuram]{"entity": "place", "value": "malappuram"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [mathura](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [Mathura]{"entity": "place", "value": "mathura"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [goa](place)
+- Get me list of [South-Inidan]{"entity": "cuisine", "value": "south indian"} restro in the city of [Goa]{"entity": "place", "value": "goa"}
+- [south indian](cuisine) options in [gova]{"entity": "place", "value": "goa"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [mangalore](place)
+- find [south indian](cuisine) food in [Nellore]{"entity": "place", "value": "nellore"}
+- search me some [southindian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [nelloru]{"entity": "place", "value": "nellore"}
+- Recommend [south indian](cuisine) spots in the city of [Patna]{"entity": "place", "value": "patna"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [pondicherry](place)
+- find [south indian](cuisine) food in [Pondicherry]{"entity": "place", "value": "pondicherry"}
+- search me some [South]{"entity": "cuisine", "value": "south indian"} cafe in the city of [pondi]{"entity": "place", "value": "pondicherry"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [purulia](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [Purulia]{"entity": "place", "value": "purulia"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [prayagraj](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [Prayagraj]{"entity": "place", "value": "prayagraj"}
+- [south indian](cuisine) options in [prayagraj](place)
+- which [south indian](cuisine) buffets are there in [raipur](place)?
+- get me [South Indian]{"entity": "cuisine", "value": "south indian"} options in [Raipur]{"entity": "place", "value": "raipur"}
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [rajkot](place)
+- Get me list of [south indian](cuisine) restro in the city of [Rajkot]{"entity": "place", "value": "rajkot"}
+- looking for a [South-Inidan]{"entity": "cuisine", "value": "south indian"} restaurant in [rajahmundry](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [Rajamundry]{"entity": "place", "value": "rajahmundry"}
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [Rajahmundry]{"entity": "place", "value": "rajahmundry"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [ranchi](place)
+- find [south indian](cuisine) food in [Ranchi]{"entity": "place", "value": "ranchi"}
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [ranchi](place)
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [Rourkela]{"entity": "place", "value": "rourkela"}
+- find [southindian]{"entity": "cuisine", "value": "south indian"} food in [Rukela]{"entity": "place", "value": "rourkela"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [salem](place)
+- find [south indian](cuisine) food in [selem]{"entity": "place", "value": "salem"}
+- find [southindian]{"entity": "cuisine", "value": "south indian"} food in [selam]{"entity": "place", "value": "salem"}
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [salem](place)
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [shimla](place)
+- Suggest me [South-Inidan]{"entity": "cuisine", "value": "south indian"} food, Im from [Shimla]{"entity": "place", "value": "shimla"}
+- Recommend [south indian](cuisine) spots in the city of [Simla]{"entity": "place", "value": "shimla"}
+- which [south indian](cuisine) buffets are there in [siliguri](place)?
+- Get me list of [South Indian]{"entity": "cuisine", "value": "south indian"} restro in the city of [shrinagar]{"entity": "place", "value": "srinagar"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [surat](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [surat](place)
+- search me some [south indian](cuisine) cafe in the city of [Surat]{"entity": "place", "value": "surat"}
+- which [southindian]{"entity": "cuisine", "value": "south indian"} buffets are there in [soorat]{"entity": "place", "value": "surat"}?
+- get me [Southindian]{"entity": "cuisine", "value": "south indian"} options in [surat](place)
+- Suggest me [South Indian]{"entity": "cuisine", "value": "south indian"} food, Im from [surat](place)
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [thiruvananthapuram](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"}
+- get me [southindian]{"entity": "cuisine", "value": "south indian"} options in [thiruvananthapuram](place)
+- Suggest me [SouthIndian]{"entity": "cuisine", "value": "south indian"} food, Im from [Trivandrum]{"entity": "place", "value": "thiruvananthapuram"}
+- looking for a [south-inidan]{"entity": "cuisine", "value": "south indian"} restaurant in [thrissur](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [thrissur](place)
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [thrissur](place)
+- which [Southindian]{"entity": "cuisine", "value": "south indian"} buffets are there in [thrissur](place)?
+- can you book a table for 4 people in [Thrissur]{"entity": "place", "value": "thrissur"}  which serves [South Indian]{"entity": "cuisine", "value": "south indian"} cuisine?
+- get me [southindian]{"entity": "cuisine", "value": "south indian"} options in [Trichur]{"entity": "place", "value": "thrissur"}
+- Get me list of [South Indian]{"entity": "cuisine", "value": "south indian"} restro in the city of [Trichi]{"entity": "place", "value": "tiruchirappalli"}
+- [South]{"entity": "cuisine", "value": "south indian"} options in [trichi]{"entity": "place", "value": "tiruchirappalli"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [tiruppur](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [tiruppur](place)
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [varanasi](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [Varanasi]{"entity": "place", "value": "varanasi"}
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [banaras]{"entity": "place", "value": "varanasi"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- looking for a [South Indian]{"entity": "cuisine", "value": "south indian"} restaurant in [vellore](place)
+- find [South Indian]{"entity": "cuisine", "value": "south indian"} food in [vellore](place)
+- search me some [South Indian]{"entity": "cuisine", "value": "south indian"} cafe in the city of [vellore](place)
+- which [South Indian]{"entity": "cuisine", "value": "south indian"} buffets are there in [Vellore]{"entity": "place", "value": "vellore"}?
+- [North Indian]{"entity": "cuisine", "value": "north indian"} options in [ahmedabad](place)
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [Bangalore]{"entity": "place", "value": "bangalore"}
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [bangalore](place)
+- search me some [North Indian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [Bengaluru]{"entity": "place", "value": "bangalore"}
+- which [north-inidan]{"entity": "cuisine", "value": "north indian"} buffets are there in [Banglore]{"entity": "place", "value": "bangalore"}?
+- can you book a table for 4 people in [bangalore](place)  which serves cuisine [North Indian]{"entity": "cuisine", "value": "north indian"}?
+- get me [northindian]{"entity": "cuisine", "value": "north indian"} options in [bangaluru]{"entity": "place", "value": "bangalore"}
+- Suggest me [north indian](cuisine) food, Im from [bangalor]{"entity": "place", "value": "bangalore"}
+- Recommend [North Indian]{"entity": "cuisine", "value": "north indian"} spots in the city of [bangalore](place)
+- Get me list of [North Indian]{"entity": "cuisine", "value": "north indian"} restro in the city of [bangalore](place)
+- [North Indian]{"entity": "cuisine", "value": "north indian"} options in [bangalore](place)
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [chennai](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [Chennai]{"entity": "place", "value": "chennai"}
+- search me some [northindian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [chennai](place)
+- which [North Indian]{"entity": "cuisine", "value": "north indian"} buffets are there in [Madras]{"entity": "place", "value": "chennai"}?
+- can you book a table for 4 people in [Chenai]{"entity": "place", "value": "chennai"} which serves cuisine [north indian](cuisine) ?
+- get me [North Indian]{"entity": "cuisine", "value": "north indian"} options in [chennai](place)
+- Suggest me [North Indian]{"entity": "cuisine", "value": "north indian"} food, Im from [chennai](place)
+- [North Indian]{"entity": "cuisine", "value": "north indian"} options in [chennai](place)
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [delhi](place)
+- find [north indian](cuisine) food in [Delhi]{"entity": "place", "value": "delhi"}
+- search me some [North Indian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [New delhi]{"entity": "place", "value": "delhi"}
+- which [North Indian]{"entity": "cuisine", "value": "north indian"} buffets are there in [Dilli]{"entity": "place", "value": "delhi"}?
+- can you book a table for 4 people in [delhi](place) which serves cuisine [North Indian]{"entity": "cuisine", "value": "north indian"} ?
+- get me [North]{"entity": "cuisine", "value": "north indian"} options in [New Delhi]{"entity": "place", "value": "delhi"}
+- [North Indian]{"entity": "cuisine", "value": "north indian"} options in [kolkata](place)
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [mumbai](place)
+- find [north indian](cuisine) food in [Mumbai]{"entity": "place", "value": "mumbai"}
+- search me some [North Indian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [mumbai](place)
+- Get me list of [North Indian]{"entity": "cuisine", "value": "north indian"} restro in the city of [Bombay]{"entity": "place", "value": "mumbai"}
+- [north indian](cuisine) options in [mumbai](place)
+- can you book a table for 4 people in [pune](place) which serves cuisine [North Indian]{"entity": "cuisine", "value": "north indian"} ?
+- get me [north indian](cuisine) options in [Pune]{"entity": "place", "value": "pune"}
+- Suggest me [northindian]{"entity": "cuisine", "value": "north indian"} food, Im from [pune](place)
+- Recommend [North]{"entity": "cuisine", "value": "north indian"} spots in the city of [Puna]{"entity": "place", "value": "pune"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [agra](place)
+- get me [north indian](cuisine) options in [agra](place)
+- Suggest me [North Indian]{"entity": "cuisine", "value": "north indian"} food, Im from [Agra]{"entity": "place", "value": "agra"}
+- [north-inidan]{"entity": "cuisine", "value": "north indian"} options in [Agra]{"entity": "place", "value": "agra"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [ajmer](place)
+- find [north indian](cuisine) food in [Ajmer]{"entity": "place", "value": "ajmer"}
+- search me some [North Indian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [ajmer](place)
+- which [Northindian]{"entity": "cuisine", "value": "north indian"} buffets are there in [ajmir]{"entity": "place", "value": "ajmer"}?
+- can you book a table for 4 people in [Ajmir]{"entity": "place", "value": "ajmer"} which serves [North Indian]{"entity": "cuisine", "value": "north indian"} cuisine?
+- get me [North Indian]{"entity": "cuisine", "value": "north indian"} options in [ajmer](place)
+- Suggest me [north indian](cuisine) food, Im from [ajmer](place)
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [aligarh](place)
+- find [north indian](cuisine) food in [Aligarh]{"entity": "place", "value": "aligarh"}
+- can you book a table for 4 people in [aligarh](place) which serves [North Indian]{"entity": "cuisine", "value": "north indian"} cuisine?
+- get me [North Indian]{"entity": "cuisine", "value": "north indian"} options in [aligad]{"entity": "place", "value": "aligarh"}
+- Suggest me [North Indian]{"entity": "cuisine", "value": "north indian"} food, Im from [aligar]{"entity": "place", "value": "aligarh"}
+- Recommend [north indian](cuisine) spots in the city of [aligar]{"entity": "place", "value": "aligarh"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [Amravati]{"entity": "place", "value": "amravati"}
+- which [north indian](cuisine) buffets are there in [amravati](place)?
+- can you book a table for 4 people in [amravati](place) which serves [north-inidan]{"entity": "cuisine", "value": "north indian"} cuisine?
+- get me [North Indian]{"entity": "cuisine", "value": "north indian"} options in [amravati](place)
+- Get me list of [North Indian]{"entity": "cuisine", "value": "north indian"} restro in the city of [Amravati]{"entity": "place", "value": "amravati"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [amritsar](place)
+- find [north indian](cuisine) food in [Amritsar]{"entity": "place", "value": "amritsar"}
+- Get me list of [North Indian]{"entity": "cuisine", "value": "north indian"} restro in the city of [amrutsar]{"entity": "place", "value": "amritsar"}
+- [North Indian]{"entity": "cuisine", "value": "north indian"} options in [Amrutsar]{"entity": "place", "value": "amritsar"}
+- get me [North Indian]{"entity": "cuisine", "value": "north indian"} options in [Asansol]{"entity": "place", "value": "asansol"}
+- Suggest me [north indian](cuisine) food, Im from [asansol](place)
+- Recommend [North Indian]{"entity": "cuisine", "value": "north indian"} spots in the city of [Asnsol]{"entity": "place", "value": "asansol"}
+- Get me list of [North Indian]{"entity": "cuisine", "value": "north indian"} restro in the city of [asansol](place)
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [Aurangabad]{"entity": "place", "value": "aurangabad"}
+- find [north indian](cuisine) food in [aurangabad](place)
+- search me some [North]{"entity": "cuisine", "value": "north indian"} cafe in the city of [aurangbad]{"entity": "place", "value": "aurangabad"}
+- get me [north indian](cuisine) options in [bareilly](place)
+- Suggest me [North Indian]{"entity": "cuisine", "value": "north indian"} food, Im from [Bareilly]{"entity": "place", "value": "bareilly"}
+- Recommend [North Indian]{"entity": "cuisine", "value": "north indian"} spots in the city of [Bareily]{"entity": "place", "value": "bareilly"}
+- Get me list of [North Indian]{"entity": "cuisine", "value": "north indian"} restro in the city of [bareilli]{"entity": "place", "value": "bareilly"}
+- [north indian](cuisine) options in [bareilly](place)
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [belgaum](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [bhubaneswar](place)
+- search me some [North Indian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [bhubaneswar](place)
+- Get me list of [north indian](cuisine) restro in the city of [Bhubaneswar]{"entity": "place", "value": "bhubaneswar"}
+- [North Indian]{"entity": "cuisine", "value": "north indian"} options in [bhuvaneswar]{"entity": "place", "value": "bhubaneswar"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [bikaner](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [bikaner](place)
+- which [north indian](cuisine) buffets are there in [Bikaner]{"entity": "place", "value": "bikaner"}?
+- can you book a table for 4 people in (place:bikaner) which serves [bikanir]{"entity": "place", "value": "bikaner"} [North Indian]{"entity": "cuisine", "value": "north indian"} cuisine?
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [bilaspur](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [bilaspur](place)
+- search me some [North Indian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [bilaspur](place)
+- get me [north indian](cuisine) options in [bokaro]{"entity": "place", "value": "bokaro steel city"}
+- Suggest me [North Indian]{"entity": "cuisine", "value": "north indian"} food, Im from [Bokaro]{"entity": "place", "value": "bokaro steel city"}
+- Recommend [North Indian]{"entity": "cuisine", "value": "north indian"} spots in the city of [Bokkaro]{"entity": "place", "value": "bokaro steel city"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [chandigarh](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [Chandigarh]{"entity": "place", "value": "chandigarh"}
+- can you book a table for 4 people in [chandigad]{"entity": "place", "value": "chandigarh"} which serves [North Indian]{"entity": "cuisine", "value": "north indian"} cuisine?
+- get me [North Indian]{"entity": "cuisine", "value": "north indian"} options in [chandigard]{"entity": "place", "value": "chandigarh"}
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [dhanbad](place)
+- search me some [North Indian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [Dhanbad]{"entity": "place", "value": "dhanbad"}
+- which [north indian](cuisine) buffets are there in [dhanbd]{"entity": "place", "value": "dhanbad"}?
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [bhilai](place)
+- Get me list of [North Indian]{"entity": "cuisine", "value": "north indian"} restro in the city of [Bilai]{"entity": "place", "value": "bhilai"}
+- [north-inidan]{"entity": "cuisine", "value": "north indian"} options in [Bhilai]{"entity": "place", "value": "bhilai"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [durgapur](place)
+- find [north indian](cuisine) food in [Durgapur]{"entity": "place", "value": "durgapur"}
+- Get me list of [North Indian]{"entity": "cuisine", "value": "north indian"} restro in the city of [durgapur](place)
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [erode](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [Erode]{"entity": "place", "value": "erode"}
+- [north indian](cuisine) options in [Erod]{"entity": "place", "value": "erode"}
+- Suggest me [North Indian]{"entity": "cuisine", "value": "north indian"} food, Im from [faridabad](place)
+- Recommend [north indian](cuisine) spots in the city of [Faridabad]{"entity": "place", "value": "faridabad"}
+- Get me list of [North Indian]{"entity": "cuisine", "value": "north indian"} restro in the city of [faridabd]{"entity": "place", "value": "faridabad"}
+- which [North Indian]{"entity": "cuisine", "value": "north indian"} buffets are there in [firozabad](place)?
+- can you book a table for 4 people in [Firozabad]{"entity": "place", "value": "firozabad"} which serves [north indian](cuisine) cuisine?
+- [northindian]{"entity": "cuisine", "value": "north indian"} options in [firozabd]{"entity": "place", "value": "firozabad"}
+- Recommend [north indian](cuisine) spots in the city of [ghaziabad](place)
+- Get me list of [North Indian]{"entity": "cuisine", "value": "north indian"} restro in the city of [Ghaziabad]{"entity": "place", "value": "ghaziabad"}
+- [North Indian]{"entity": "cuisine", "value": "north indian"} options in [Gaziabad]{"entity": "place", "value": "ghaziabad"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [gorakhpur](place)
+- get me [north indian](cuisine) options in [Gorakhpur]{"entity": "place", "value": "gorakhpur"}
+- Get me list of [North Indian]{"entity": "cuisine", "value": "north indian"} restro in the city of [gorakpur]{"entity": "place", "value": "gorakhpur"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [gulbarga](place)
+- which [northindian]{"entity": "cuisine", "value": "north indian"} buffets are there in [Gulbarga]{"entity": "place", "value": "gulbarga"}?
+- can you book a table for 4 people in [Kalburgi]{"entity": "place", "value": "gulbarga"} which serves [North Indian]{"entity": "cuisine", "value": "north indian"} cuisine?
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [guntur](place)
+- Get me list of [north indian](cuisine) restro in the city of [Guntur]{"entity": "place", "value": "guntur"}
+- [North Indian]{"entity": "cuisine", "value": "north indian"} options in [guntur](place)
+- get me [north indian](cuisine) options in [Gwalior]{"entity": "place", "value": "gwalior"}
+- Suggest me [North Indian]{"entity": "cuisine", "value": "north indian"} food, Im from [gwalior](place)
+- Recommend [North]{"entity": "cuisine", "value": "north indian"} spots in the city of [gvalior]{"entity": "place", "value": "gwalior"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [gurgaon](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [Gurgaon]{"entity": "place", "value": "gurgaon"}
+- search me some [north indian](cuisine) cafe in the city of [Gurugram]{"entity": "place", "value": "gurgaon"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [guwahati](place)
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [jabalpur](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [Jabalpur]{"entity": "place", "value": "jabalpur"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [Jhansi]{"entity": "place", "value": "jhansi"}
+- Get me list of [north indian](cuisine) restro in the city of [jansi]{"entity": "place", "value": "jhansi"}
+- looking for a [north indian](cuisine) restaurant in [jodpur]{"entity": "place", "value": "jodhpur"}
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [Kakinada]{"entity": "place", "value": "kakinada"}
+- search me some [north indian](cuisine) cafe in the city of [kakinada](place)
+- can you book a table for 4 people in [kannur](place) which serves [North]{"entity": "cuisine", "value": "north indian"} cuisine?
+- get me [North Indian]{"entity": "cuisine", "value": "north indian"} options in [Kannur]{"entity": "place", "value": "kannur"}
+- Suggest me [north indian](cuisine) food, Im from [kannur](place)
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [kanpur](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [kanpur](place)
+- search me some [north-inidan]{"entity": "cuisine", "value": "north indian"} cafe in the city of [kanpur](place)
+- search me some [northindian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [Cochi]{"entity": "place", "value": "kochi"}
+- which [north-inidan]{"entity": "cuisine", "value": "north indian"} buffets are there in [Cochin]{"entity": "place", "value": "kochi"}?
+- can you book a table for 4 people in [kochin]{"entity": "place", "value": "kochi"} which serves [North Indian]{"entity": "cuisine", "value": "north indian"} cuisine?
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [kolhapur](place)
+- search me some [north-indian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [moradabd]{"entity": "place", "value": "moradabad"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [mysore](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [mysore](place)
+- search me some [north indian](cuisine) cafe in the city of [Mysoru]{"entity": "place", "value": "mysore"}
+- get me [north-indian]{"entity": "cuisine", "value": "north indian"} options in [mysore](place)
+- Suggest me [North Indian]{"entity": "cuisine", "value": "north indian"} food, Im from [mysor]{"entity": "place", "value": "mysore"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [nagpur](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [Nagpur]{"entity": "place", "value": "nagpur"}
+- Get me list of [North Indian]{"entity": "cuisine", "value": "north indian"} restro in the city of [nagpur](place)
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [nanded](place)
+- find [North]{"entity": "cuisine", "value": "north indian"} food in [Nanded]{"entity": "place", "value": "nanded"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [nashik](place)
+- find [north indian](cuisine) food in [Nashik]{"entity": "place", "value": "nashik"}
+- Get me list of [North Indian]{"entity": "cuisine", "value": "north indian"} restro in the city of [Nasik]{"entity": "place", "value": "nashik"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [nellore](place)
+- find [north indian](cuisine) food in [Nellore]{"entity": "place", "value": "nellore"}
+- search me some [northindian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [nelloru]{"entity": "place", "value": "nellore"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [noida](place)
+- find [North]{"entity": "cuisine", "value": "north indian"} food in [Noida]{"entity": "place", "value": "noida"}
+- search me some [North Indian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [noida](place)
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [patna](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [patna](place)
+- Recommend [north indian](cuisine) spots in the city of [Patna]{"entity": "place", "value": "patna"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [pondicherry](place)
+- find [north indian](cuisine) food in [Pondicherry]{"entity": "place", "value": "pondicherry"}
+- search me some [North]{"entity": "cuisine", "value": "north indian"} cafe in the city of [pondi]{"entity": "place", "value": "pondicherry"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [purulia](place)
+- looking for a [North-Inidan]{"entity": "cuisine", "value": "north indian"} restaurant in [rajahmundry](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [Rajamundry]{"entity": "place", "value": "rajahmundry"}
+- search me some [North Indian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [Rajahmundry]{"entity": "place", "value": "rajahmundry"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [ranchi](place)
+- find [north indian](cuisine) food in [Ranchi]{"entity": "place", "value": "ranchi"}
+- search me some [North Indian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [ranchi](place)
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [Rourkela]{"entity": "place", "value": "rourkela"}
+- find [northindian]{"entity": "cuisine", "value": "north indian"} food in [Rukela]{"entity": "place", "value": "rourkela"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [salem](place)
+- find [north indian](cuisine) food in [selem]{"entity": "place", "value": "salem"}
+- find [northindian]{"entity": "cuisine", "value": "north indian"} food in [selam]{"entity": "place", "value": "salem"}
+- search me some [North Indian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [salem](place)
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [sangli](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [Sangli]{"entity": "place", "value": "sangli"}
+- search me some [North Indian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [shimla](place)
+- Suggest me [North-Inidan]{"entity": "cuisine", "value": "north indian"} food, Im from [Shimla]{"entity": "place", "value": "shimla"}
+- Recommend [north indian](cuisine) spots in the city of [Simla]{"entity": "place", "value": "shimla"}
+- which [north indian](cuisine) buffets are there in [siliguri](place)?
+- can you book a table for 4 people in [Siliguri]{"entity": "place", "value": "siliguri"} which serves [North Indian]{"entity": "cuisine", "value": "north indian"} cuisine?
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [solapur](place)
+- can you book a table for 4 people in [solapur](place) which serves [North Indian]{"entity": "cuisine", "value": "north indian"} cuisine?
+- get me [North Indian]{"entity": "cuisine", "value": "north indian"} options in [Solapur]{"entity": "place", "value": "solapur"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [srinagar](place)
+- find [northindian]{"entity": "cuisine", "value": "north indian"} food in [Srinagar]{"entity": "place", "value": "srinagar"}
+- Recommend [north indian](cuisine) spots in the city of [srinagar](place)
+- Get me list of [North Indian]{"entity": "cuisine", "value": "north indian"} restro in the city of [shrinagar]{"entity": "place", "value": "srinagar"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [surat](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [surat](place)
+- Suggest me [North Indian]{"entity": "cuisine", "value": "north indian"} food, Im from [surat](place)
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [thiruvananthapuram](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [Thiruvananthapuram]{"entity": "place", "value": "thiruvananthapuram"}
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [thrissur](place)
+- search me some [North Indian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [thrissur](place)
+- which [Northindian]{"entity": "cuisine", "value": "north indian"} buffets are there in [thrissur](place)?
+- can you book a table for 4 people in [Thrissur]{"entity": "place", "value": "thrissur"}  which serves [North Indian]{"entity": "cuisine", "value": "north indian"} cuisine?
+- get me [northindian]{"entity": "cuisine", "value": "north indian"} options in [Trichur]{"entity": "place", "value": "thrissur"}
+- Suggest me [North Indian]{"entity": "cuisine", "value": "north indian"} food, Im from [Trisur]{"entity": "place", "value": "thrissur"}
+- Recommend [North]{"entity": "cuisine", "value": "north indian"} spots in the city of [Vadodara]{"entity": "place", "value": "vadodara"}
+- Get me list of [north indian](cuisine) restro in the city of [Baroda]{"entity": "place", "value": "vadodara"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [varanasi](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [Varanasi]{"entity": "place", "value": "varanasi"}
+- search me some [North Indian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [banaras]{"entity": "place", "value": "varanasi"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [Vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [vasai]{"entity": "place", "value": "Vasai-Virar City"}
+- search me some [North Indian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [Virar]{"entity": "place", "value": "Vasai-Virar City"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [vijayawada](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [Vijayawada]{"entity": "place", "value": "vijayawada"}
+- Get me list of [north indian](cuisine) restro in the city of [vijayawada](place)
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [visakhapatnam](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [Visakhapatnam]{"entity": "place", "value": "visakhapatnam"}
+- search me some [North Indian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [Vizag]{"entity": "place", "value": "visakhapatnam"}
+- [northindian]{"entity": "cuisine", "value": "north indian"} options in [vizag]{"entity": "place", "value": "visakhapatnam"}
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [vellore](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [vellore](place)
+- search me some [North Indian]{"entity": "cuisine", "value": "north indian"} cafe in the city of [vellore](place)
+- which [North Indian]{"entity": "cuisine", "value": "north indian"} buffets are there in [Vellore]{"entity": "place", "value": "vellore"}?
+- looking for a [North Indian]{"entity": "cuisine", "value": "north indian"} restaurant in [warangal](place)
+- find [North Indian]{"entity": "cuisine", "value": "north indian"} food in [Warangal]{"entity": "place", "value": "warangal"}
+- Please find me a restro
+- [Bangalore]{"entity": "place", "value": "bangalore"}
+- [Thai](cuisine)
+- [italian](cuisine)
+- [300](minprice) - [700](maxprice) RS
+- find me restro
+- oh in [cochin]{"entity": "place", "value": "kochi"}
+- I'll prefer [Srilankan](cuisine)
+- I'll prefer [american](cuisine)
+- [300](minprice) - [700](maxprice) Rs
+- find me a [Arabian](cuisine) restaurant
+- I'll prefer [Mediterranian](cuisine)
+- I'll prefer [Italian](cuisine)
+- I'll prefer [Korean](cuisine)
+- I'll prefer [Thai](cuisine)
+
+## lookup:cuisine
+data/cuisine.txt
+
+## synonym: alleppey
+- Alleppey
+
+## synonym:Vasai-Virar City
+- Vashai
+- virar
+- Virar
+- Vasai
+- vasai
+- vashai
+
+## synonym:agra
+- Aagra
+- Agra
+- aagra
+
+## synonym:ahmedabad
+- Ahmedabad
+- Ahmedbad
+- Amdabad
+- ahamedabad
+- ahmmedabad
+- ahmedabd
+- ahmdabad
+- Ahamedabad
+- Ahmmedabad
+- Ahmedabd
+- Ahmdabad
+- Ahmedabat
+- ahmedbad
+- ahmedabat
+- amdabad
+
+## synonym:ajmer
+- ajmir
+- Ajmer
+- Ajmir
+
+## synonym:aligarh
+- aligad
+- Aligarh
+- Aligar
+- aligar
+- Aligad
+
+## synonym:american
+- American
+- america
+- Amercan
+- US
+- America
+- amercan
+- us
+
+## synonym:amravati
+- amaravati
+- Amravati
+- Amaravati
+
+## synonym:amritsar
+- Amrutsar
+- Amritsar
+- amrutsar
+
+## synonym:asansol
+- Asansol
+- Asnsol
+- asnsol
+
+## synonym:aurangabad
+- Aurangabad
+- aurangbad
+- Aurangbad
+- Aurangabd
+- aurangabd
+
+## synonym:bangalore
+- Bangalore
+- Banglore
+- banglor
+- Bengaluru
+- bengaluru
+- bengalur
+- bangaluru
+- Bengluru
+- bengluru
+- bangluru
+- bangalor
+- Banglor
+- Bengalur
+- Bangaluru
+- Bangluru
+- banglore
+
+## synonym:bareilly
+- bareili
+- Barelly
+- Bareilly
+- Bareily
+- bareilli
+- bareilly
+- Bareilli
+
+## synonym:belgaum
+- Belgaum
+- Belagavi
+- belgam
+- Belgam
+- belagavi
+
+## synonym:bhavnagar
+- Bhavnagar
+- bhavanagar
+- Bhavanagar
+
+## synonym:bhilai
+- Bhilai
+- bilai
+- Bilai
+
+## synonym:bhiwandi
+- Bhiwandi
+- Bhivandi
+- bhivandi
+
+## synonym:bhopal
+- bopal
+- Bhopal
+- Bhopl
+- bhopl
+- Bopal
+
+## synonym:bhubaneswar
+- Bhubaneswar
+- bhubneswar
+- Bhuvaneswar
+- Bhuvneswar
+- bhuvaneswar
+- Bhubneswar
+- bhuvneswar
+
+## synonym:bijapur
+- Bijapur
+- Bijapoor
+- bijapoor
+- bijjapoor
+
+## synonym:bikaner
+- Bikaner
+- bikner
+- Bikanir
+- bikanir
+- Bikner
+
+## synonym:bilaspur
+- Bilaspur
+
+## synonym:bokaro steel city
+- Bokaro
+- bokaro
+- Bokkaro
+- steel city
+- bokkaro
+- Steel City
+
+## synonym:chandigarh
+- chandigad
+- Chandigar
+- Chandigarh
+- chandigard
+- Chandigad
+- chandigar
+
+## synonym:chennai
+- Chennai
+- Chenai
+- Madras
+- Madiras
+
+## synonym:chinese
+- Chinese
+- chinise
+- Chines
+- chinis
+- china
+- chines
+- Chinis
+- chineese
+- chinnese
+- China
+- Chinse
+- Chinise
+- Chinees
+- Chineese
+- chinees
+
+## synonym:coimbatore
+- coimbatur
+- Coimbatore
+- coimbator
+- Covai
+- covai
+- Coimbatur
+
+## synonym:cuttack
+- Cuttack
+- kattack
+- kattak
+- Cattack
+- cuttak
+- Kattak
+- Cuttak
+- cattack
+- Kattack
+
+## synonym:dehradun
+- Deradun
+- deharadun
+- Dehradun
+- dehradoon
+- deradun
+- Deharadun
+
+## synonym:delhi
+- Delhi
+- Delli
+- dilli
+- New Delhi
+- New Dilli
+- new dilli
+- new-delhi
+- deli
+- Dili
+- New delhi
+- Dilli
+- delli
+- New-Delhi
+- Deli
+- dili
+
+## synonym:dhanbad
+- Dhanbad
+- dhanbd
+- Dhanabad
+- dhanabad
+
+## synonym:durgapur
+- Durgapur
+
+## synonym:erode
+- erod
+- Eerode
+- Erode
+- Erod
+- eerode
+
+## synonym:faridabad
+- faridbad
+- Faridabad
+- faridabd
+- Faridbad
+- Faridabd
+
+## synonym:firozabad
+- Firozbad
+- firozbad
+- Firozabad
+- firozabd
+
+## synonym:ghaziabad
+- Gaziabad
+- Ghaziabad
+- ghasiabad
+- gaziabad
+- Gaziabadh
+- gaziabadh
+- Ghasiabad
+
+## synonym:goa
+- Gova
+- Goa
+- gova
+
+## synonym:gorakhpur
+- Gorakhpur
+- Gorakpur
+- gorakpur
+
+## synonym:gulbarga
+- Gulbarga
+- Kalburgi
+- kalburgi
+
+## synonym:guntur
+- Guntur
+
+## synonym:gurgaon
+- Gurugram
+- Gurgaon
+- gurugram
+
+## synonym:guwahati
+- Guwahati
+- Gauhati
+- gauhati
+
+## synonym:gwalior
+- Gwalior
+- gvalior
+- Gvalior
+
+## synonym:hamirpur
+- Hamirpur
+
+## synonym:hubli-dharwad
+- Dharwad
+- hubbali
+- Hubballi
+- hubli
+- Hubli
+- dharwad
+- Hubli-Dharwad
+- hubballi
+- Hubbali
+
+## synonym:hyderabad
+- Hyderabad
+- hyderbad
+- hydrabad
+- Hydrabed
+- Hydrabad
+- Hyderbad
+- hydrabed
+
+## synonym:indore
+- Indore
+- indor
+- Indor
+
+## synonym:italian
+- Italian
+- italia
+- Italy
+- itlian
+- italy
+- Italia
+- Itlian
+
+## synonym:jabalpur
+- Jabalpur
+- Jablpur
+- jablpur
+
+## synonym:jaipur
+- Jaipur
+
+## synonym:jalandhar
+- Jalandhar
+- Jalandar
+- jalandar
+
+## synonym:jammu
+- Jammu
+- Jamu
+- jamu
+- Jammu-Kashmir
+- jammu-kashmir
+
+## synonym:jamnagar
+- Jamnagar
+
+## synonym:jamshedpur
+- Jamshedpur
+- Jamshadpur
+- jamshadpur
+
+## synonym:jhansi
+- jansi
+- Jhansi
+- Jansi
+
+## synonym:jodhpur
+- Jodpur
+- Jodhpur
+- jodpur
+
+## synonym:kakinada
+- Kakkinada
+- Kakinada
+- kakkinada
+
+## synonym:kannur
+- Cannanore
+- kannoor
+- Kannur
+- Kannoor
+- cannanore
+
+## synonym:kanpur
+- Kanpur
+
+## synonym:kochi
+- Kochi
+- cochin
+- Cochi
+- ernakulam
+- Cochin
+- kochin
+- cochi
+- Ernakulam
+
+## synonym:kolhapur
+- Kolapur
+- Kolhapur
+- kolapur
+
+## synonym:kolkata
+- Kolkata
+- Kolkatha
+- kalkatta
+- kalkatha
+- Calcutta
+- culcutta
+- kolkatta
+- kolkatha
+- cucutta
+- Culcutta
+- Kalkatta
+- Kalkatha
+- Culcatta
+- calcutta
+- culcatta
+
+## synonym:kollam
+- kolam
+- Kollam
+- Quilon
+- Kolam
+- quilon
+
+## synonym:kozhikode
+- Kozhikode
+- Calicut
+- calicut
+
+## synonym:kurnool
+- Kurnool
+- kurnul
+- Kurnul
+
+## synonym:lucknow
+- Luknow
+- Lucknow
+- luknow
+
+## synonym:ludhiana
+- Ludhiana
+- Ludiana
+- ludiana
+
+## synonym:madurai
+- Madurai
+- Madura
+- madura
+
+## synonym:malappuram
+- Malappuram
+- malapuram
+- Malapuram
+
+## synonym:mangalore
+- Mangalore
+- Manglore
+- Mangaluru
+- Mangalor
+- mangaluru
+
+## synonym:mathura
+- Mathura
+- Matura
+- matura
+
+## synonym:meerut
+- Meerat
+- Meerut
+- meerat
+
+## synonym:mexican
+- Mexican
+- meccican
+- Mexicn
+- mexica
+- Mehico
+- mexicn
+- mehico
+- Mexica
+- Meccican
+
+## synonym:moradabad
+- Moradabad
+- moradbad
+- moradabd
+- Moradbad
+
+## synonym:mumbai
+- Mumbai
+- mumbay
+- Bombay
+- bombai
+- Mumbay
+- Bombai
+- bombay
+
+## synonym:mysore
+- Mysore
+- Mysor
+- mysur
+- Mysuru
+- Mysoru
+- mysor
+- Mysur
+- mysore
+- mysuru
+
+## synonym:nagpur
+- Nagpur
+- Nagpoor
+- nagpur
+- nagpoor
+
+## synonym:nanded
+- Nanded
+- Nandigrama
+- nandigrama
+
+## synonym:nashik
+- Nasikh
+- Nashikh
+- Nashik
+- nasikh
+- Nasik
+- nasik
+- nashikh
+
+## synonym:nellore
+- Nellor
+- nelluru
+- Nellore
+- nelloru
+- nellor
+- Nellure
+- nellure
+- nellur
+- Nellur
+
+## synonym:noida
+- Noida
+- noidaa
+- Noidha
+- noidha
+
+## synonym:north indian
+- North Indian
+- NorthIndian
+- North indian
+- Northindian
+- north-indian
+- North
+- north-inidan
+- northindian
+- North-Inidan
+- north indian
+- north
+
+## synonym:patna
+- Patana
+- Patna
+- patana
+- Patnaa
+- patnaa
+
+## synonym:pondicherry
+- Pudhuchery
+- Pondi
+- pudducherry
+- Pondicherry
+- pondi
+- Pudducherry
+- Puddhuchery
+- pudhuchery
+
+## synonym:prayagraj
+- Prayag
+- Prayagraj
+- prayagrajh
+
+## synonym:pune
+- Pune
+- Puna
+- poone
+- poona
+- puna
+
+## synonym:purulia
+- Puruli
+- Purulia
+- purulia
+
+## synonym:raipur
+- Raipur
+- Raipuru
+- Raipoor
+- raipoor
+
+## synonym:rajahmundry
+- Rajahmundry
+- rajamundri
+- Rajahmandry
+- Rajamundry
+- rajahmundri
+- Rajahmundari
+- rajahmundari
+- rajahmandri
+
+## synonym:rajkot
+- Rajkot
+- Rajkoot
+- rajkoot
+
+## synonym:ranchi
+- Raanchi
+- Ranchi
+- raanchi
+
+## synonym:rishikesh
+- Rishikesh
+
+## synonym:rourkela
+- Rourkela
+- Roorkala
+- Rukela
+- Rourkhela
+- rourkhela
+- Rourkhelaa
+- rourkhelaa
+
+## synonym:salem
+- selum
+- Salem
+- Selam
+- selem
+- selam
+- Salum
+- salum
+- Selum
+
+## synonym:sangli
+- Sangli
+- sanghli
+- Sanghli
+- Shanghli
+
+## synonym:shimla
+- Simla
+- Shimlah
+- Shimla
+- shimhla
+- shimlah
+
+## synonym:siliguri
+- shiliguri
+- Siliguri
+- Shiligurui
+- shiligurui
+- silliguri
+- Silliguri
+
+## synonym:solapur
+- sholapur
+- Solapur
+- solapoor
+- Solapoor
+- Sholapoor
+- Sholapur
+- Sholapuri
+- sholapuri
+
+## synonym:south indian
+- South Indian
+- SouthIndian
+- South indian
+- Southindian
+- south-indian
+- south
+- southindian
+- South
+- South-Inidan
+- south-inidan
+- south indian
+
+## synonym:srinagar
+- shrinagar
+- Srinagar
+- Shrinagar
+- Srinagara
+- srinagara
+
+## synonym:surat
+- Soorath
+- surath
+- Surat
+- Soorat
+- soorat
+- Suraj
+- Surath
+- soorath
+
+## synonym:thiruvananthapuram
+- Trivandrum
+- Thiruvananthapuram
+- trivandrum
+- Thrivandrum
+- thrivandrum
+- thiruvananthaporam
+- Thiruvananthaporam
+- thiruvananthapurum
+- Thiruvantapurum
+- thiruvantapurum
+
+## synonym:thrissur
+- trissur
+- Thrichur
+- Thrissur
+- Trichur
+- Trisur
+- Trissur
+- trisshur
+- thrichur
+
+## synonym:tiruchirappalli
+- Trichy
+- trichi
+- Thiruchirapalli
+- thiruchirapali
+- Tiruchirappalli
+- Trichi
+- trichy
+- Thiruchirappalli
+
+## synonym:tiruppur
+- tirupur
+- Tiruppur
+- Thirupur
+- Tirupur
+- Thirupoor
+- Thiruphur
+- Tiruphur
+- tiruphur
+
+## synonym:ujjain
+- Avantikapuri
+- Ujain
+- Ujjain
+- Avantika
+- ujain
+- Avanti
+- avanti
+- avantika
+- avantikapuri
+
+## synonym:vadodara
+- vadhodhara
+- Baroda
+- Vadodhara
+- Vadodara
+- baroda
+
+## synonym:varanasi
+- Bhanarash
+- Varanasi
+- Varanashi
+- banaras
+- bhanarash
+- Bhanaras
+- varhanasi
+
+## synonym:vellore
+- Vellur
+- Vellore
+- vellure
+- Velur
+- velure
+
+## synonym:vijayawada
+- Vijayawada
+- Vijayawadha
+- vijayawadha
+- vijaywada
+- vijhaywada
+- Vijhaywada
+
+## synonym:visakhapatnam
+- Visakhapatnam
+- vizag
+- Vizag
+- vishakapatanam
+- Vishakapatanam
+- visakapatanam
+- Visakapatanam
+
+## synonym:warangal
+- Warangal
+- Varangal
+- varangal
+- Waarangall
+- waarangall
+
+## regex:amravati
+- \b[Aa]mara.*
+- \b[Aa]mra.*
+
+## regex:kolkata
+- \b[Cc]olca.*
+- \b[Cc]ulca.*
+- \b[Kk]alka.*
+- \b[Kk]olka.*
+
+## regex:mumbai
+- \b[Bb]omb.*
+- \b[Mm]umb.*
+
+## regex:north indian
+- \b[Nn]orth[\siI]nd.*
+
+## regex:pune
+- \b[Pp]oon.*
+- \b[Pp]un.*
+
+## regex:south indian
+- \b[Ss]outh[\siI]nd.*
+
+## regex:emailid
+- (^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$)
