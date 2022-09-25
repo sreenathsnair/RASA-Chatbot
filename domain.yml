@@ -1,0 +1,104 @@
+actions:
+- action_search_restaurants
+- action_send_email
+- action_verify_budget
+- action_verify_cuisine
+- action_verify_location
+- utter_ask_budget
+- utter_ask_cuisine
+- utter_ask_email
+- utter_ask_emailid
+- utter_ask_howcanhelp
+- utter_ask_location
+- utter_default
+- utter_goodbye
+- utter_greet
+- utter_restart
+entities:
+- cuisine
+- emailid
+- maxprice
+- minprice
+- place
+intents:
+- deny
+- restaurant_search
+- affirm
+- send_mail
+- greet
+- goodbye
+responses:
+  utter_ask_budget:
+  - buttons:
+    - payload: /restaurant_search{"minprice":"0","maxprice":"300"}
+      title: Less than Rs. 300
+    - payload: /restaurant_search{"minprice":"300","maxprice":"700"}
+      title: Rs. 300 to 700
+    - payload: /restaurant_search{"minprice":"700","maxprice":"5000"}
+      title: More than 700
+    text: What price range are you looking for
+  utter_ask_cuisine:
+  - buttons:
+    - payload: chinese
+      title: Chinese
+    - payload: mexican
+      title: Mexican
+    - payload: italian
+      title: Italian
+    - payload: american
+      title: American
+    - payload: South Indian
+      title: South Indian
+    - payload: North Indian
+      title: North Indian
+    text: what kind of cuisine would you like
+  utter_ask_email:
+  - text: Should I send you details of all the restaurants on email?
+  utter_ask_emailid:
+  - text: To what email id should I send it to?
+  - text: May I know your email id.
+  utter_ask_howcanhelp:
+  - text: how can I help you?
+  utter_ask_location:
+  - text: let me know your location
+  utter_default:
+  - text: Sorry, I cannot understand
+  utter_goodbye:
+  - text: goodbye :(
+  - text: Bye-bye
+  - text: Bon Appetite
+  utter_greet:
+  - text: hey there! How may i help you
+  - text: Hi, How can I help you!
+  - text: Hey, How is it going. How May I help you Today
+  utter_restart:
+  - text: How can I help you!
+session_config:
+  carry_over_slots_to_new_session: true
+  session_expiration_time: 60
+slots:
+  budget_valid:
+    initial_value: false
+    type: bool
+  cuisine:
+    type: text
+  cuisine_valid:
+    initial_value: false
+    type: bool
+  emailid:
+    type: text
+  maxprice:
+    initial_value: 5000.0
+    max_value: 1.0
+    min_value: 0.0
+    type: float
+  minprice:
+    initial_value: 0.0
+    max_value: 1.0
+    min_value: 0.0
+    type: float
+  place:
+    type: text
+  place_valid:
+    initial_value: false
+    type: bool
